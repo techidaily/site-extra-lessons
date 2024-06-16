@@ -1,7 +1,7 @@
 ---
 title: "Essential Insights Into Using Color Grading LUTs with PSCC"
-date: 2024-05-24T09:04:35.889Z
-updated: 2024-05-25T09:04:35.889Z
+date: 2024-06-08T03:51:06.026Z
+updated: 2024-06-09T03:51:06.026Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Essential Insights Into Using Color Grading LUTs with PSCC"
 excerpt: "This Article Describes Essential Insights Into Using Color Grading LUTs with PSCC"
 keywords: "Color Grading Basics,LUT Usage Tips,PSCC Techniques,Improve Poster Color,Editing Film Grade,Cinematography Tools,VFX Color Mastery"
-thumbnail: https://www.lifewire.com/thmb/t_bI7HCvhkb8SqhKHeK7E2E9LWo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1271990303-32f5706e9f8f4bdf940b6eedc13f5e67.jpg
+thumbnail: https://thmb.techidaily.com/4285b91a5eec460b353e6cabe3924d845457ea4dd57027d124c1eda481947485.jpg
 ---
 
 ## Essential Insights Into Using Color Grading LUTs with PSCC

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Photo Color Correction"
-date: 2024-05-24T07:29:24.229Z
-updated: 2024-05-25T07:29:24.229Z
+date: 2024-06-08T03:51:05.861Z
+updated: 2024-06-09T03:51:05.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering the Art of Photo Color Correction"
 excerpt: "This Article Describes Mastering the Art of Photo Color Correction"
 keywords: "Color Correct Photos,Photo Enhancement Tips,Masterful Picture Edits,Professional Photography,Skillful Image Editing,Artistic Photo Correction,Expertise in Photo Correction"
-thumbnail: https://www.lifewire.com/thmb/ek56OZgwopZKdldQLBHcOn0x47o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/15dinradio-592753063df78cbe7e3d333e.jpg
+thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
 ---
 
 ## Mastering the Art of Photo Color Correction

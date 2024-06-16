@@ -1,7 +1,7 @@
 ---
 title: "\"Dissecting a Day in the Life  Hero5 Edition\""
-date: 2024-05-24T06:44:55.379Z
-updated: 2024-05-25T06:44:55.379Z
+date: 2024-06-08T03:51:03.997Z
+updated: 2024-06-09T03:51:03.997Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Dissecting a Day in the Life: Hero5 Edition\""
 excerpt: "\"This Article Describes Dissecting a Day in the Life: Hero5 Edition\""
 keywords: "\"Daily Life Dissected,Hero5 Lifelog,Hero5 Experience Review,Interactive Life Video,HERO5 Day Exploration,Personalized Vlogging,360-Life Capture\""
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## Dissecting a Day in the Life: Hero5 Edition

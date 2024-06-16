@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Podcast Writing with Expert Guidance"
-date: 2024-05-24T07:55:14.583Z
-updated: 2024-05-25T07:55:14.583Z
+date: 2024-06-08T03:51:03.046Z
+updated: 2024-06-09T03:51:03.046Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Master the Art of Podcast Writing with Expert Guidance"
 excerpt: "This Article Describes Master the Art of Podcast Writing with Expert Guidance"
 keywords: "Podcast Writing Mastery,Write Podcast Pro,Podcast Crafting Skills,Learn Podcast Scripts,Expert Podcast Tips,Top Podcast Writing Techniques,Guided Podcast Creation"
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Master the Art of Podcast Writing with Expert Guidance

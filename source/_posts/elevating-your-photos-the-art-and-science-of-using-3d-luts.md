@@ -1,7 +1,7 @@
 ---
 title: "\"Elevating Your Photos  The Art and Science of Using 3D LUTs\""
-date: 2024-05-24T07:29:12.592Z
-updated: 2024-05-25T07:29:12.592Z
+date: 2024-06-08T03:51:07.496Z
+updated: 2024-06-09T03:51:07.496Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Elevating Your Photos: The Art and Science of Using 3D LUTs\""
 excerpt: "\"This Article Describes Elevating Your Photos: The Art and Science of Using 3D LUTs\""
 keywords: "LUTs in Photography,3D LUT Usage,Elevated Images,Photo Artistry Tech,Science of Editing Photos,Advanced Image Processing,Professional Color Grading"
-thumbnail: https://www.lifewire.com/thmb/RGG5Yrj4wygeHF_4EtUcyBLLzK8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-08-11at4.09.52PM-a2b7cc4dc04d49deac45f59296fd703f.jpg
+thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb6190aa0c6171995d867746d.jpg
 ---
 
 ## Elevating Your Photos: The Art and Science of Using 3D LUTs

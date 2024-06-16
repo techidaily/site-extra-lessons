@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Arc Architect Suite"
-date: 2024-05-24T08:46:01.519Z
-updated: 2024-05-25T08:46:01.519Z
+date: 2024-06-08T03:51:07.560Z
+updated: 2024-06-09T03:51:07.560Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Arc Architect Suite"
 excerpt: "This Article Describes [Updated] Arc Architect Suite"
 keywords: "Arc Design Software,Suite Architecting Tools,Arcbond Studio,Digital Construction Suite,Architecture Planning System,Comprehensive Design Tool,Professional ARC Suite"
-thumbnail: https://www.lifewire.com/thmb/DjyPPeH7zK7WJUxT1TQTVE0mc04=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1079012838-18c9de31049847f5bb71da74611f8c94.jpg
+thumbnail: https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf190eb7eb7552fa0f6fd65d9.jpg
 ---
 
 ## Arc Architect Suite

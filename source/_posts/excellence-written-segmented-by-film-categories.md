@@ -1,7 +1,7 @@
 ---
 title: "Excellence Written, Segmented by Film Categories"
-date: 2024-05-24T08:56:38.390Z
-updated: 2024-05-25T08:56:38.390Z
+date: 2024-06-08T03:51:06.170Z
+updated: 2024-06-09T03:51:06.170Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Excellence Written, Segmented by Film Categories"
 excerpt: "This Article Describes Excellence Written, Segmented by Film Categories"
 keywords: "\"Film Category Writing,Excellent Film Reviews,Segmented Movie Analysis,Quality Screenplay Insight,Film Genre Written Works,Top-Rated Film Essays,Categorized Film Content\""
-thumbnail: https://www.lifewire.com/thmb/Qa72eBfCZc6Kch4bXzH3ZVm1XTU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/LifewireClubhousePrimary-6ea7cf41b0884f88b419ec23bc3c35be.jpg
+thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9afb11a07e4133edf1c0ffefb.jpg
 ---
 
 ## Excellence Written, Segmented by Film Categories

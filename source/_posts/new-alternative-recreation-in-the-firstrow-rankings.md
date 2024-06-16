@@ -1,7 +1,7 @@
 ---
 title: "[New] Alternative Recreation in the Firstrow Rankings"
-date: 2024-05-24T07:21:35.920Z
-updated: 2024-05-25T07:21:35.920Z
+date: 2024-06-08T03:51:07.518Z
+updated: 2024-06-09T03:51:07.518Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Alternative Recreation in the Firstrow Rankings"
 excerpt: "This Article Describes [New] Alternative Recreation in the Firstrow Rankings"
 keywords: "\"Alternative Sports Ranks,First Row Leisure Search,Unique Rec Reputation,Alt Rec Ranking Guide,Non-Traditional Sport Spot,Firstrow Activity Score,Innovative Recreation Index\""
-thumbnail: https://www.lifewire.com/thmb/i516RJAOKPq_U36ko3DvWto-Kn4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/TheGoodBrigade_Kidsonlaptopsincar_GettyImages-1297084394_CROPPED2-9566c364cf9344a288febcca577b171f.jpg
+thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab8587601498f32a131493f3f787f8.jpg
 ---
 
 ## Alternative Recreation in the Firstrow Rankings

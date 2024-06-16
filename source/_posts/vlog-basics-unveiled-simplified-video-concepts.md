@@ -1,7 +1,7 @@
 ---
 title: "\"Vlog Basics Unveiled  Simplified Video Concepts\""
-date: 2024-05-24T07:52:27.353Z
-updated: 2024-05-25T07:52:27.353Z
+date: 2024-06-08T03:51:07.117Z
+updated: 2024-06-09T03:51:07.117Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Vlog Basics Unveiled: Simplified Video Concepts\""
 excerpt: "\"This Article Describes Vlog Basics Unveiled: Simplified Video Concepts\""
 keywords: "Vlog Basics Explained,Beginner Vlogs,Simplify Video Creation,Learn Vlogging Techniques,Basic Vlog Concepts,Simple Videography Guide,Uncovering Vlog Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/Wrv6Rby5K8-rR9VDRqGpwRTiO_M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/14511925043_956d7ff9af_k-580112be3df78cbc28cc6e94.jpg
+thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538838ce8ab82c47df34846229.jpg
 ---
 
 ## Vlog Basics Unveiled: Simplified Video Concepts

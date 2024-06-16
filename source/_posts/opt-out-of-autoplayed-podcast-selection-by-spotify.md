@@ -1,7 +1,7 @@
 ---
 title: "\"Opt-Out of Autoplayed Podcast Selection by Spotify\""
-date: 2024-05-24T06:58:28.467Z
-updated: 2024-05-25T06:58:28.467Z
+date: 2024-06-08T03:51:07.353Z
+updated: 2024-06-09T03:51:07.353Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Opt-Out of Autoplayed Podcast Selection by Spotify\""
 excerpt: "\"This Article Describes Opt-Out of Autoplayed Podcast Selection by Spotify\""
 keywords: "\"Stop AutoPlay on Spotify,Opt-Out Spotify Podcasts,Disable Podcast Playback,No Autoplay Podcast Feature,Manual Podcast Selection,Turn Off Autoplay Spotify,Personalize Spotify Listening\""
-thumbnail: https://www.lifewire.com/thmb/eN8bOJTi-MKcuZ5z880v82zI6RM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/FP5-Launch-Blog-Thumbnail-1680x565-35926480a5c74ae78297aec3a38be750.jpg
+thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6b5286ab03fa2d909747fb1b.jpg
 ---
 
 ## Opt-Out of Autoplayed Podcast Selection by Spotify

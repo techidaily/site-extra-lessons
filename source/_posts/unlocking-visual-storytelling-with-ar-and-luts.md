@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Visual Storytelling with AR & LUTs"
-date: 2024-05-24T08:42:19.645Z
-updated: 2024-05-25T08:42:19.645Z
+date: 2024-06-08T03:51:07.331Z
+updated: 2024-06-09T03:51:07.331Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unlocking Visual Storytelling with AR & LUTs"
 excerpt: "This Article Describes Unlocking Visual Storytelling with AR & LUTs"
 keywords: "AR Storytelling Tech,Augmented Reality Insight,VR Narrative Tools,Lighting LUTs in AR,AR Visual Effects,Creative AR Applications,Enhancing Stories with AR"
-thumbnail: https://www.lifewire.com/thmb/MaOu3FH6HAb4dzVe_AN1hXIylb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CK_Headshot-6631970d6f384e74bf6a4e7d19791081.jpg
+thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed9270d940f9ca545069c585fcb0.jpg
 ---
 
 ## Unlocking Visual Storytelling with AR & LUTs

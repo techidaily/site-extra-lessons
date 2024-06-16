@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Spirits  2022'S Short-Track Feat\""
-date: 2024-05-24T07:29:29.010Z
-updated: 2024-05-25T07:29:29.010Z
+date: 2024-06-08T03:51:07.270Z
+updated: 2024-06-09T03:51:07.270Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Olympic Spirits: 2022'S Short-Track Feat\""
 excerpt: "\"This Article Describes Olympic Spirits: 2022'S Short-Track Feat\""
 keywords: "\"Olympic Spirit 2022,Short Track 2022,Olympic Speed Skating,2022 Ice Races,Winter Olympics 2022,Short-Track Champions,Fast Pace Sports 2022\""
-thumbnail: https://www.lifewire.com/thmb/94K5GqwuKdK6K1JaENti-KWnxDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dvd-head-unit-rick-5806a1235f9b5805c2869f14-5bd33997c9e77c002612bbc8.jpg
+thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880f152e3279a23ce2f1e6acd7.jpg
 ---
 
 ## Olympic Spirits: 2022'S Short-Track Feat

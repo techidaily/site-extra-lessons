@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Photo Retouching"
-date: 2024-05-24T07:58:41.439Z
-updated: 2024-05-25T07:58:41.439Z
+date: 2024-06-08T03:51:06.499Z
+updated: 2024-06-09T03:51:06.499Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering the Art of Photo Retouching"
 excerpt: "This Article Describes Mastering the Art of Photo Retouching"
 keywords: "PhotoRetouchingArt,MasterRetouchPhotos,RetouchPhotoTechniques,PhotoEnhancementSkills,AdvancedPhotoCorrection,RetouchMasteryCourses,PerfectPhotoreadjustment"
-thumbnail: https://www.lifewire.com/thmb/hPIEPKv0WCrjrnqnmBCEGl_9xL0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-753288297-5aefb99104d1cf0037f39fe9.jpg
+thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b19782ea8ac6138fc17b8fe856f7.jpg
 ---
 
 ## Mastering the Art of Photo Retouching

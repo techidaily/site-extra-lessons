@@ -1,7 +1,7 @@
 ---
 title: "Continuous Rotation vs 3D Image Construction"
-date: 2024-05-24T07:48:49.588Z
-updated: 2024-05-25T07:48:49.588Z
+date: 2024-06-08T03:51:06.448Z
+updated: 2024-06-09T03:51:06.448Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Continuous Rotation vs 3D Image Construction"
 excerpt: "This Article Describes Continuous Rotation vs 3D Image Construction"
 keywords: "\"Continuous Rotation,3D Imaging,Constant Spinning,Three-Dimensional Art,3D Visualization,Dynamic Image Creation,Spiral Animation Tech\""
-thumbnail: https://www.lifewire.com/thmb/3zMdgx5u-I1b9AlTuItMhiE6wWQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/erik-lucatero-VcOwZMahmCQ-unsplash-7714083297a048f3848156a836a80b13.jpg
+thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36628241992e02c966a06886d.jpg
 ---
 
 ## Continuous Rotation vs 3D Image Construction

@@ -1,7 +1,7 @@
 ---
 title: "\"Aerial Visual Flux  Free LUTTs for DJI Drones, Then Pay Upgrade for 2024\""
-date: 2024-05-24T08:09:22.434Z
-updated: 2024-05-25T08:09:22.434Z
+date: 2024-06-08T03:51:07.531Z
+updated: 2024-06-09T03:51:07.531Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Aerial Visual Flux: Free LUTTs for DJI Drones, Then Pay Upgrade for 2024\""
 excerpt: "\"This Article Describes Aerial Visual Flux: Free LUTTs for DJI Drones, Then Pay Upgrade for 2024\""
 keywords: "PicsArt Masterclass,Art Analysis Guide,Digital Art Tutorial,Creative Techniques Lesson,Yearly App Review,PicsArt 2024 Update,Photo & Video Creation Class"
-thumbnail: https://www.lifewire.com/thmb/wbiCW2fndNE2mzhK9d4Z_drL6z0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e992652aa5e9b27c3e355526ca4c.jpg
 ---
 
 ## Aerial Visual Flux: Free LUTTs for DJI Drones, Then Pay Upgrade

@@ -1,7 +1,7 @@
 ---
 title: "\"Sketch Funny Graphics to Share Giphy-Wide\""
-date: 2024-05-24T07:50:43.888Z
-updated: 2024-05-25T07:50:43.888Z
+date: 2024-06-08T03:51:06.873Z
+updated: 2024-06-09T03:51:06.873Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Sketch Funny Graphics to Share Giphy-Wide\""
 excerpt: "\"This Article Describes Sketch Funny Graphics to Share Giphy-Wide\""
 keywords: "Sketch Funny Gifs,Humorous Graphic Images,Share Giphy Graphics,Giphy Memes Art,Sketched Funny Visuals,Creative Graphics Giphy,Shareable Funny Designs"
-thumbnail: https://www.lifewire.com/thmb/BYBpe_DLCdj-EMAKN8thILa5U3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alanturing-5b85aa874cedfd0025bf4240.png
+thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545b8fd2ecff1c5ec11c0e45ff.png
 ---
 
 ## Sketch Funny Graphics to Share Giphy-Wide

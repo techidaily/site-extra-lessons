@@ -1,7 +1,7 @@
 ---
 title: "In 2024, BETTING BASEMENT BOOKMARKS"
-date: 2024-05-24T08:09:36.117Z
-updated: 2024-05-25T08:09:36.117Z
+date: 2024-06-08T03:51:05.937Z
+updated: 2024-06-09T03:51:05.937Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, BETTING BASEMENT BOOKMARKS"
 excerpt: "This Article Describes In 2024, BETTING BASEMENT BOOKMARKS"
 keywords: "Sunset Cinematics,Darken Pro Scene,Film Pro Nightfall,Cinematic Twilight,Visual Pro Dusk,Cinema Darkening,Pro Dark Symphony"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## BETTING BASEMENT BOOKMARKS

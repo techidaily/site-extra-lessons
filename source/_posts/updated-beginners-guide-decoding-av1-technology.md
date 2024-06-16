@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beginner's Guide  Decoding AV1 Technology\""
-date: 2024-05-24T08:09:32.979Z
-updated: 2024-05-25T08:09:32.979Z
+date: 2024-06-08T03:51:03.152Z
+updated: 2024-06-09T03:51:03.152Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Beginner's Guide: Decoding AV1 Technology\""
 excerpt: "\"This Article Describes [Updated] Beginner's Guide: Decoding AV1 Technology\""
 keywords: "AV1 Basics Explained,Understanding AV1,Intro to AV1 Tech,Deciphering AV1,Learning AV1,Essentials of AV1,AV1 Technology Guide"
-thumbnail: https://www.lifewire.com/thmb/nLpKesmQSuo3IFqmqAKkvYey-vw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1252378476-858b12c063df49e5b63f3514a07a01f7.jpg
+thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9e9fd87736937318bdb673f7.jpg
 ---
 
 ## Beginner's Guide: Decoding AV1 Technology

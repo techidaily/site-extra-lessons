@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Close-Up Cinematography Secrets with Kinemaster\""
-date: 2024-05-24T08:04:43.191Z
-updated: 2024-05-25T08:04:43.191Z
+date: 2024-06-08T03:51:04.401Z
+updated: 2024-06-09T03:51:04.401Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Close-Up Cinematography Secrets with Kinemaster\""
 excerpt: "\"This Article Describes [New] Close-Up Cinematography Secrets with Kinemaster\""
 keywords: "Cinematic Close Ups,Kinemaster Techniques,Professional Cinematography,Close Up Mastery,Cinematic Secret Tips,Exclusive Filming Insights,High Definition Close Shots"
-thumbnail: https://www.lifewire.com/thmb/TTQs-owdidJ3vVxwHNq2QLaJE5k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1124963889-d2e00bd6bec643449b4fe87ca86104d8.jpg
+thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
 ## Close-Up Cinematography Secrets with Kinemaster

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Contrast in Colors  Crafting Cinematic Moods\""
-date: 2024-05-24T08:26:02.964Z
-updated: 2024-05-25T08:26:02.964Z
+date: 2024-06-08T03:51:07.544Z
+updated: 2024-06-09T03:51:07.544Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Contrast in Colors: Crafting Cinematic Moods\""
 excerpt: "\"This Article Describes 2024 Approved: Contrast in Colors: Crafting Cinematic Moods\""
 keywords: "Cinematic Color Contrasts,Mood Lighting Techniques,Visual Storytelling,Film Color Dynamics,Aesthetic Film Designs,Emotional Color Palettes,Cinematography Tones"
-thumbnail: https://www.lifewire.com/thmb/UaLSpJl8QxtWbAcZLNsMKB_EXxg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/a6de986a3fdb94c7142abb7e1738397c8994a30f493de897d20f957481bc1b83.jpg
 ---
 
 ## Contrast in Colors: Crafting Cinematic Moods

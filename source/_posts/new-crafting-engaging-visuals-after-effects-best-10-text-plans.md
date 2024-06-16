@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crafting Engaging Visuals  After Effect's Best 10 Text Plans\""
-date: 2024-05-24T06:53:15.583Z
-updated: 2024-05-25T06:53:15.583Z
+date: 2024-06-08T03:51:07.448Z
+updated: 2024-06-09T03:51:07.448Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Crafting Engaging Visuals: After Effect's Best 10 Text Plans\""
 excerpt: "\"This Article Describes [New] Crafting Engaging Visuals: After Effect's Best 10 Text Plans\""
 keywords: "AETextPlans10,VisualEffects10,EngagingTextUI,CreativeAEPlans,TopTextAnimations,AfterEffectVisuals,TextPlan10Best"
-thumbnail: https://www.lifewire.com/thmb/zS8rM_hJABi8RgxM19O2Zw9Bt7E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Roblox_MeepCity-5978fbc0054ad90010302587.jpg
+thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac6bf71f33265c2968e32a513.jpg
 ---
 
 ## Crafting Engaging Visuals: After Effect's Best 10 Text Plans

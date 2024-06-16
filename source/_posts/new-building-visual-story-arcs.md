@@ -1,7 +1,7 @@
 ---
 title: "[New] Building Visual Story Arcs"
-date: 2024-05-24T09:18:50.537Z
-updated: 2024-05-25T09:18:50.537Z
+date: 2024-06-08T03:51:06.299Z
+updated: 2024-06-09T03:51:06.299Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Building Visual Story Arcs"
 excerpt: "This Article Describes [New] Building Visual Story Arcs"
 keywords: "Story Arc Visuals,Narrative Design,Graphic Storytelling,Plot Construction,Visionary Narratives,Artistic Chronology,Visual Tale Planning"
-thumbnail: https://www.lifewire.com/thmb/cYWko2t9itR_ENyceDuRtljqnZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f2127f27582290858df483758e7.jpg
 ---
 
 ## Building Visual Story Arcs

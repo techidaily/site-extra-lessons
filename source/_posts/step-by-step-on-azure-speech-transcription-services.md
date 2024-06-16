@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step on Azure Speech Transcription Services\""
-date: 2024-05-24T08:43:52.925Z
-updated: 2024-05-25T08:43:52.926Z
+date: 2024-06-08T03:51:05.134Z
+updated: 2024-06-09T03:51:05.134Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-by-Step on Azure Speech Transcription Services\""
 excerpt: "\"This Article Describes Step-by-Step on Azure Speech Transcription Services\""
 keywords: "\"Azure Speech Transcription Guide,Azure Transcription Service Steps,Azure Speech to Text Walkthrough,Using Azure for Audio Transcripts,Azure Speech API Tutorial,Transcribe Audio with Azure,Azure Speech-to-Text Workflow\""
-thumbnail: https://www.lifewire.com/thmb/c-HiQRAVm9nDFof07d8xf1Oxx6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/smartphone_laptop_mouse-5a4d80e37bb2830037db9ce7.jpg
+thumbnail: https://thmb.techidaily.com/d31e8723e03acf63385b6b2673e7168286d60ba0c51b363448b469a8ffe4640d.jpg
 ---
 
 ## Step-by-Step on Azure Speech Transcription Services

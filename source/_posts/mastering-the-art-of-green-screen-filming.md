@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Green Screen Filming"
-date: 2024-05-24T08:00:20.052Z
-updated: 2024-05-25T08:00:20.052Z
+date: 2024-06-08T03:51:05.717Z
+updated: 2024-06-09T03:51:05.717Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering the Art of Green Screen Filming"
 excerpt: "This Article Describes Mastering the Art of Green Screen Filming"
 keywords: "\"Green Screens Basics,Film Techniques: Green Screen,Pro Green Screen Tips,Learning Green Screen,Green Screen Expertise,Screen Filming Mastery,Efficient Green Screen Usage\""
-thumbnail: https://www.lifewire.com/thmb/U37IrzHogUIk4ftVH6ffmfucux0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/findmacaddressiphone-7b7e31c771634ec1a48194ba89054cd0.jpg
+thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg
 ---
 
 ## Mastering the Art of Green Screen Filming

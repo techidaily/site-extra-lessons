@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 10 Must-Try Facial Editors on iPhones and Samsungs\""
-date: 2024-05-24T07:07:00.368Z
-updated: 2024-05-25T07:07:00.368Z
+date: 2024-06-08T03:51:05.505Z
+updated: 2024-06-09T03:51:05.505Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] 10 Must-Try Facial Editors on iPhones and Samsungs\""
 excerpt: "\"This Article Describes [New] 10 Must-Try Facial Editors on iPhones and Samsungs\""
 keywords: "\"IPhone Facial Edits,Samsung Facial Edit,Top iPhone Face Apps,Best Android Facial Tools,Must-Try iPhone Facial,Essential Samsung Editing,Facial Editors iPhones\""
-thumbnail: https://www.lifewire.com/thmb/fL68SytTeJL-sSJ-8TL3jOwaDwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/obi_headshot-14bd66cca0984a39a5b846803a02d1ae.JPG
+thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc33817ba0857c51273b662cd.JPG
 ---
 
 ## 10 Must-Try Facial Editors on iPhones and Samsungs

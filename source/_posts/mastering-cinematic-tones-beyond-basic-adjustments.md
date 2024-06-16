@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Cinematic Tones  Beyond Basic Adjustments\""
-date: 2024-05-24T09:17:54.831Z
-updated: 2024-05-25T09:17:54.831Z
+date: 2024-06-08T03:51:06.987Z
+updated: 2024-06-09T03:51:06.987Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Cinematic Tones: Beyond Basic Adjustments\""
 excerpt: "\"This Article Describes Mastering Cinematic Tones: Beyond Basic Adjustments\""
 keywords: "Cinematic Mastery,Tone Artistry,Film Quality Deep,Bypass Basic Edits,Cinemagraphic Controls,Advanced Tonal Balance,Creative Lighting Techniques"
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Mastering Cinematic Tones: Beyond Basic Adjustments

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Swift Video Streaming on Snapchat"
-date: 2024-05-24T08:36:56.442Z
-updated: 2024-05-25T08:36:56.442Z
+date: 2024-06-08T03:51:05.614Z
+updated: 2024-06-09T03:51:05.614Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Introduction to Swift Video Streaming on Snapchat"
 excerpt: "This Article Describes Introduction to Swift Video Streaming on Snapchat"
 keywords: "Swift Video Streaming Basics,Snapchat Video Integration,Swift Development for Snap,IOS Video Broadcast,Swift App Chat Service,QuickSwift Media Stream,Swift Snapchat Connectivity"
-thumbnail: https://www.lifewire.com/thmb/VOqeUnemz9UvmNDINhfNvaNQfAM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-sky-map-not-working-how-to-fix-the-problem-5202290-1-5f2e45285b254ba790808dfc566e0cca.jpg
+thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb6000047d745afbd7491bdcb.jpg
 ---
 
 ## Introduction to Swift Video Streaming on Snapchat

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Advanced Color Correction  Mastering LUTs in After Effects\""
-date: 2024-05-24T06:41:03.865Z
-updated: 2024-05-25T06:41:03.865Z
+date: 2024-06-08T03:51:06.272Z
+updated: 2024-06-09T03:51:06.272Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Advanced Color Correction: Mastering LUTs in After Effects\""
 excerpt: "\"This Article Describes In 2024, Advanced Color Correction: Mastering LUTs in After Effects\""
 keywords: "LUT Color Control,After Effects Correction,Advanced LUT Editing,Creative Color Grading,AE LUT Techniques,Mastery in Color Adjustment,Professional CC Tools"
-thumbnail: https://www.lifewire.com/thmb/jEvS4hCjQpYChJrL63gqB32mNQ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/185267882-56a0e1e03df78cafdaa603c6.jpg
+thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa778ea2d41cdc52aa7fdbdaa.jpg
 ---
 
 ## Advanced Color Correction: Mastering LUTs in After Effects

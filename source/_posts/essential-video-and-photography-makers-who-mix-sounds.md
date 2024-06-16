@@ -1,7 +1,7 @@
 ---
 title: "Essential Video & Photography Makers Who Mix Sounds"
-date: 2024-05-24T07:55:02.963Z
-updated: 2024-05-25T07:55:02.963Z
+date: 2024-06-08T03:51:07.662Z
+updated: 2024-06-09T03:51:07.662Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Essential Video & Photography Makers Who Mix Sounds"
 excerpt: "This Article Describes Essential Video & Photography Makers Who Mix Sounds"
 keywords: "Sound Maker Photogravs,Photo Vids With Audio,Essential Multimedia Professionals,Combined Media Artists,Visuals & Audio Mixers,Sounds in Video Pros,Creative Sound Makers"
-thumbnail: https://www.lifewire.com/thmb/Rjb93_fGVEdt0fvN4HgWfR_7Wu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/hulu-38a46c69e6734d1aa24cc728c267c1d7.jpg
+thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c2a9dc982549b63b19fe6d70.jpg
 ---
 
 ## Essential Video & Photography Makers Who Mix Sounds

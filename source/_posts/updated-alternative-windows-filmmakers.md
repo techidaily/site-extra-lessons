@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Alternative Windows Filmmakers"
-date: 2024-05-24T06:55:49.532Z
-updated: 2024-05-25T06:55:49.532Z
+date: 2024-06-08T03:51:04.626Z
+updated: 2024-06-09T03:51:04.626Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Alternative Windows Filmmakers"
 excerpt: "This Article Describes [Updated] Alternative Windows Filmmakers"
 keywords: "\"Indie WinFilms,Non-Mainstream Cinema,Independent Film Makers,Unconventional Windows Films,Alternate WinScreen Movies,Diverse Windows Cinematics,Creative Window Filmmakers\""
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## Alternative Windows Filmmakers

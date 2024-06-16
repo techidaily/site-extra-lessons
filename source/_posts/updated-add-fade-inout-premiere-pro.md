@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Add Fade In/Out Premiere Pro"
-date: 2024-05-24T09:08:41.015Z
-updated: 2024-05-25T09:08:41.015Z
+date: 2024-06-08T03:51:05.788Z
+updated: 2024-06-09T03:51:05.788Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Add Fade In/Out Premiere Pro"
 excerpt: "This Article Describes [Updated] Add Fade In/Out Premiere Pro"
 keywords: "Video Transition Pros,Crossfade Techniques,Editing Ease,Premiere Tips,Cutting Edits,Mastery Tools,Edit Flow Control"
-thumbnail: https://www.lifewire.com/thmb/8RNHfmAah48dh1CSY2RDhf-aVEE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1699894123-414688-copy-of-nothing-chats-dektop-4f8c8122680944d99cbd0e0fe31ee03e.jpg
+thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b36010696a635f2d59959383d55084.jpg
 ---
 
 ## How to Add Fade In/Out Premiere Pro

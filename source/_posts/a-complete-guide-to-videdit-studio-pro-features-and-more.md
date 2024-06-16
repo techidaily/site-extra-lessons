@@ -1,7 +1,7 @@
 ---
 title: "A Complete Guide to VidEdit Studio Pro, Features and More"
-date: 2024-05-24T07:09:09.349Z
-updated: 2024-05-25T07:09:09.349Z
+date: 2024-06-08T03:51:07.158Z
+updated: 2024-06-09T03:51:07.158Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Complete Guide to VidEdit Studio Pro, Features and More"
 excerpt: "This Article Describes A Complete Guide to VidEdit Studio Pro, Features and More"
 keywords: "VidEdit Pro Guide,Studio Pro Features,VidEdit Studio Tutorial,Pro Editing Essentials,Studio Pro Overview,Advanced VidEdit Tools,Professional Video Edits"
-thumbnail: https://www.lifewire.com/thmb/hM2M1LxRHZ_MoNKX2FHpkzmfRAQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg
+thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811cafc15697aa0c13fd607a950.jpg
 ---
 
 ## A Complete Guide to VidEdit Studio Pro, Features and More

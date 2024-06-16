@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Reference to Gesture and Movement Capture"
-date: 2024-05-24T07:38:08.658Z
-updated: 2024-05-25T07:38:08.658Z
+date: 2024-06-08T03:51:04.179Z
+updated: 2024-06-09T03:51:04.179Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Reference to Gesture and Movement Capture"
 excerpt: "This Article Describes The Ultimate Reference to Gesture and Movement Capture"
 keywords: "Gesture Tracking Guide,Motion Recording Techniques,Gesture Analysis Basics,Action Capture Systems,Movement Data Collection,Gestural Feedback Tools,Motion Capture Essentials"
-thumbnail: https://www.lifewire.com/thmb/7qDbbPuSLzuZN4zFzJ05A8TCM0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/panos-sakalakis-525108-unsplash-5c76011f46e0fb00019b8cda.jpg
+thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a22bc00e9feef5b8e8bfa78d1.jpg
 ---
 
 ## The Ultimate Reference to Gesture and Movement Capture

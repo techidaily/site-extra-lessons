@@ -1,7 +1,7 @@
 ---
 title: "The GoPro Karma Quest for Altitude Dominance"
-date: 2024-05-24T08:43:57.333Z
-updated: 2024-05-25T08:43:57.333Z
+date: 2024-06-08T03:51:03.517Z
+updated: 2024-06-09T03:51:03.517Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The GoPro Karma Quest for Altitude Dominance"
 excerpt: "This Article Describes The GoPro Karma Quest for Altitude Dominance"
 keywords: "Karma Adventure Altitudes,Altitude Quest GoPro Karma,Karma Hiking Tops Height,GoPro Karma Peak Pursuit,Karma Altitude Expedition,Altitude Chase with GoPro,Karma Climbing Challenge"
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## The GoPro Karma Quest for Altitude Dominance

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Beyond Zoom  The Intricacies of iPhone X's Lens Tech\""
-date: 2024-05-24T06:45:57.631Z
-updated: 2024-05-25T06:45:57.631Z
+date: 2024-06-08T03:51:06.890Z
+updated: 2024-06-09T03:51:06.890Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Beyond Zoom: The Intricacies of iPhone X's Lens Tech\""
 excerpt: "\"This Article Describes In 2024, Beyond Zoom: The Intricacies of iPhone X's Lens Tech\""
 keywords: "IPhone XLensTechInsights,XPhoneLensAdvances,AdvancedXiPhoneLens,ZoomlessXiPhoneCamera,XiPhoneHighResZoom,LensTechXIPhoneUpdate,NextGenXiPhoneCamera"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Beyond Zoom: The Intricacies of iPhone X's Lens Tech

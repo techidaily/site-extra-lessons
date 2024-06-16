@@ -1,7 +1,7 @@
 ---
 title: "Transforming Flat Text Into Sculptable 3D Characters"
-date: 2024-05-24T07:26:24.743Z
-updated: 2024-05-25T07:26:24.743Z
+date: 2024-06-08T03:51:03.388Z
+updated: 2024-06-09T03:51:03.388Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Transforming Flat Text Into Sculptable 3D Characters"
 excerpt: "This Article Describes Transforming Flat Text Into Sculptable 3D Characters"
 keywords: "Tile Symphony Art,Single Shot Gallery,Spectacular Tiles Design,Photo to Pattern Art,Customized Tiled Photography,Image to Mosaic Magic,Tilework Transformation Art"
-thumbnail: https://www.lifewire.com/thmb/W3GWqmvVnsX-u0REEWJqqyOErDA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/dellstudentdiscount-e67f4f7e4b4b46cba7af6aa676fcf535.jpg
+thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947afe8b79e803b03fc556698ce.jpg
 ---
 
 ## Transforming Flat Text Into Sculptable 3D Characters

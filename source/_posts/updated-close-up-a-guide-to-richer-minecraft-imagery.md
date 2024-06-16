@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Close-Up  A Guide to Richer Minecraft Imagery\""
-date: 2024-05-24T07:43:35.878Z
-updated: 2024-05-25T07:43:35.878Z
+date: 2024-06-08T03:51:04.370Z
+updated: 2024-06-09T03:51:04.370Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Close-Up: A Guide to Richer Minecraft Imagery\""
 excerpt: "\"This Article Describes [Updated] Close-Up: A Guide to Richer Minecraft Imagery\""
 keywords: "MiniMinecraftArt,RichMineCreativity,ImaginativeBlocks,DeepDiveMineCraft,MasterfulMineImages,VividMinecraftSculptures,ArtisticMineCraftWorld"
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Close-Up: A Guide to Richer Minecraft Imagery

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Celebrated List  Top 15 Classic Stop-Motion Flicks\""
-date: 2024-05-24T08:59:05.120Z
-updated: 2024-05-25T08:59:05.120Z
+date: 2024-06-08T03:51:02.996Z
+updated: 2024-06-09T03:51:02.996Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Celebrated List: Top 15 Classic Stop-Motion Flicks\""
 excerpt: "\"This Article Describes In 2024, A Celebrated List: Top 15 Classic Stop-Motion Flicks\""
 keywords: "\"Stopsmotion Classics,Animation Film Classics,Stop-Motion Flick List,Timeless Stop-Motion Films,Classic Stop-Motion Titles,Top Stop-Motion Animations,Animation Stopsmotion Hits\""
-thumbnail: https://www.lifewire.com/thmb/bh3H2G7TcfZpiD7WymrulTtYSeU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/facebook_dark_mode_fix_nico_de_pasquale_photography-6f02eb383e884f748870de4aae05d676.jpg
+thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba7355f3daa30e8aeaa265b4225.jpg
 ---
 
 ## A Celebrated List: Top 15 Classic Stop-Motion Flicks

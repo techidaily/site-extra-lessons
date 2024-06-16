@@ -1,7 +1,7 @@
 ---
 title: "10 Secret Tips for Using Canva Photo Editor for 2024"
-date: 2024-05-24T09:24:06.072Z
-updated: 2024-05-25T09:24:06.072Z
+date: 2024-06-08T03:51:03.486Z
+updated: 2024-06-09T03:51:03.486Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 10 Secret Tips for Using Canva Photo Editor for 2024"
 excerpt: "This Article Describes 10 Secret Tips for Using Canva Photo Editor for 2024"
 keywords: "Canva Editing Secrets,Design Tips Canva,Quick Canva Skills,Photoshop Alternative,Creative Canva Guide,Canva Photo Hacks,Efficient Canva Use"
-thumbnail: https://www.lifewire.com/thmb/2XDVyL2caIKeRAo1samzvy7xQM8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/female-traveller-texting-at-airport-check-in-desk-142309131-5a0b352813f1290037c17caf.jpg
+thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daaffc99f79faac8fc9b5eb352.jpg
 ---
 
 ## 10 Secret Tips for Using Canva Photo Editor

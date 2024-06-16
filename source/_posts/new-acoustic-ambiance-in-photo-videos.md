@@ -1,7 +1,7 @@
 ---
 title: "[New] Acoustic Ambiance in Photo Videos"
-date: 2024-05-24T07:00:39.912Z
-updated: 2024-05-25T07:00:39.912Z
+date: 2024-06-08T03:51:06.790Z
+updated: 2024-06-09T03:51:06.790Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Acoustic Ambiance in Photo Videos"
 excerpt: "This Article Describes [New] Acoustic Ambiance in Photo Videos"
 keywords: "Acoustic Ambiance Vids,Photo Video Soundscape,Serene Audio Visuals,Soft Ambient Cinematics,Harmonic Video Tunes,Immersive Sound Scenes,Calm Photovisual Audience"
-thumbnail: https://www.lifewire.com/thmb/SPyegmDXMFzk4L3Y3-2c5z4H3WI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05c97d832955a545581c7804d.jpg
 ---
 
 ## Acoustic Ambiance in Photo Videos

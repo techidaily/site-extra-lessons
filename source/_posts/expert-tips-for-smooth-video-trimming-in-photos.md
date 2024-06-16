@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Smooth Video Trimming in Photos"
-date: 2024-05-24T07:12:34.259Z
-updated: 2024-05-25T07:12:34.259Z
+date: 2024-06-08T03:51:02.936Z
+updated: 2024-06-09T03:51:02.936Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Expert Tips for Smooth Video Trimming in Photos"
 excerpt: "This Article Describes Expert Tips for Smooth Video Trimming in Photos"
 keywords: "Video Trimming Tips,Smooth Video Edits,Pro Photo Editing,Efficient Trim Videos,Editing Smoothly,Expert Cut Strategies,Trim Photos Expertly"
-thumbnail: https://www.lifewire.com/thmb/TVzs3ixN-hpNtu0wQJHwvUAaADg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Telework_AlistairBerg_DigitalVision_Getty-5f753dec7013403c9afb83578a8f4925.jpg
+thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
 ---
 
 ## Expert Tips for Smooth Video Trimming in Photos

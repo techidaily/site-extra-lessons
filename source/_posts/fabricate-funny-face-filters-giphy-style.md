@@ -1,7 +1,7 @@
 ---
 title: "\"Fabricate Funny Face Filters  Giphy Style\""
-date: 2024-05-24T08:46:49.042Z
-updated: 2024-05-25T08:46:49.042Z
+date: 2024-06-08T03:51:04.676Z
+updated: 2024-06-09T03:51:04.676Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Fabricate Funny Face Filters: Giphy Style\""
 excerpt: "\"This Article Describes Fabricate Funny Face Filters: Giphy Style\""
 keywords: "Funny Face GIFs,Giphy Faces,Hilarity Filtering,GIF Masks,Humorous Filters,Online Funny Facemasks,Laughter Photo Editing"
-thumbnail: https://www.lifewire.com/thmb/lbxhd7OB6rqQx-qqETdnPadxxu4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/selfie-with-cute-little-dog-with-eyeglasses-595737544-562674d335a74d94828f7a5d7fe1f6b2.jpg
+thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc52f88c01d78e6b3f6c28c68c.jpg
 ---
 
 ## Fabricate Funny Face Filters: Giphy Style

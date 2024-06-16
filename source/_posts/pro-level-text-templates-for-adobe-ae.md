@@ -1,7 +1,7 @@
 ---
 title: "\"Pro-Level Text Templates for Adobe AE\""
-date: 2024-05-24T09:09:44.159Z
-updated: 2024-05-25T09:09:44.159Z
+date: 2024-06-08T03:51:03.012Z
+updated: 2024-06-09T03:51:03.012Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Pro-Level Text Templates for Adobe AE\""
 excerpt: "\"This Article Describes Pro-Level Text Templates for Adobe AE\""
 keywords: "\"Pro Level Templates Adobe AE,Advanced AE Template Designs,Professional AE Content Crafting,Expert AE Writing Tips,Premium AE Text Layouts,Mastery in AE Document Structures,Top-Tier AE Template Creation\""
-thumbnail: https://www.lifewire.com/thmb/qaOmHImvcRuADldy7C9krbSu52c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/d-link-router-4705a41645354fa29320d679d7f7e819.jpg
+thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3b7699086866b0998ff7b7cb.jpg
 ---
 
 ## Pro-Level Text Templates for Adobe AE

@@ -1,7 +1,7 @@
 ---
 title: "Remove Default Podcasts From Your Spotify Feed"
-date: 2024-05-24T08:47:11.622Z
-updated: 2024-05-25T08:47:11.622Z
+date: 2024-06-08T03:51:05.623Z
+updated: 2024-06-09T03:51:05.623Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Remove Default Podcasts From Your Spotify Feed"
 excerpt: "This Article Describes Remove Default Podcasts From Your Spotify Feed"
 keywords: "Spotify Remove Podcasts,Delete Spotify Defaults,Clean Spotify Playback,Streamline Spotify Feed,Eliminate Spotify Clutter,Optimize Spotify Experience,Clear Spotify Queue"
-thumbnail: https://www.lifewire.com/thmb/wU7bqEJLxd7hKqXXCIIPcKbCflM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-8f711a656ea6497c992a49bd81c31b60.jpeg
+thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8ba02388288320b33c5951f16.jpeg
 ---
 
 ## Remove Default Podcasts From Your Spotify Feed

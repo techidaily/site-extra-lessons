@@ -1,7 +1,7 @@
 ---
 title: "\"Troubleshooting Safari Glitch  Clear Black Screen on FB Video\""
-date: 2024-05-24T07:19:27.491Z
-updated: 2024-05-25T07:19:27.491Z
+date: 2024-06-08T03:51:04.900Z
+updated: 2024-06-09T03:51:04.901Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Troubleshooting Safari Glitch: Clear Black Screen on FB Video\""
 excerpt: "\"This Article Describes Troubleshooting Safari Glitch: Clear Black Screen on FB Video\""
 keywords: "Fix Black Screens Safari Videos,Resolve FB Video Issue,Safari Screen Cleanup Guide,Clear Black Display Browsing,FB Video Glitch Troubleshooting,Remove Black Screens in Safari,Fixing Black Screen on Safari FB"
-thumbnail: https://www.lifewire.com/thmb/jPrdYdSLjslalhW7IaTG5T7eeCw=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1012916614-9c7175b024cf4ef2b9f4a523914c9304.jpg
+thumbnail: https://thmb.techidaily.com/42d888d9431637ab1388aeb276d6888b24b9d1d85a816656ff3b301d8b067e97.jpg
 ---
 
 ## Troubleshooting Safari Glitch: Clear Black Screen on FB Video
