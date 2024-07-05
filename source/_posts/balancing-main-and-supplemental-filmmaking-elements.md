@@ -1,7 +1,7 @@
 ---
 title: "Balancing Main & Supplemental Filmmaking Elements"
-date: 2024-05-24T07:45:30.499Z
-updated: 2024-05-25T07:45:30.499Z
+date: 2024-07-04T21:17:58.557Z
+updated: 2024-07-05T21:17:58.557Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Balancing Main & Supplemental Filmmaking Elements"
 excerpt: "This Article Describes Balancing Main & Supplemental Filmmaking Elements"
 keywords: "Film Balance,Main Fx Essentials,Supplemental Effects,Key FX Principles,Visual Storytelling,Cinematic Elements,Media Filmmaking Tech"
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Balancing Main & Supplemental Filmmaking Elements
@@ -80,11 +80,11 @@ Imagine the A roll as part of the video's story. This could be a documentary fil
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

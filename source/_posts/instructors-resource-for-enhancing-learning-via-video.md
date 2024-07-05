@@ -1,7 +1,7 @@
 ---
 title: "Instructor's Resource for Enhancing Learning via Video"
-date: 2024-05-24T07:55:11.280Z
-updated: 2024-05-25T07:55:11.280Z
+date: 2024-07-04T21:17:57.516Z
+updated: 2024-07-05T21:17:57.516Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Instructor's Resource for Enhancing Learning via Video"
 excerpt: "This Article Describes Instructor's Resource for Enhancing Learning via Video"
 keywords: "\"Learning via Video,Video-Based Instruction,Video Learning Resources,Instructional Video Tools,Educational Video Enhancement,Enhancing eLearning Videos,Teaching with Educational Videos\""
-thumbnail: https://www.lifewire.com/thmb/DjoCtc_PCQcwqqKtzrLBasNfNLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ball-958950_1920-b2d63a2acf5d438cbb65e04cba952c7e.jpg
+thumbnail: https://thmb.techidaily.com/de4f0312e209bc69406fe77be7db4ffab9fd4723c69e6ec9a49854fd1e940559.jpg
 ---
 
 ## Instructor's Resource for Enhancing Learning via Video

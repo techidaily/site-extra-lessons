@@ -1,7 +1,7 @@
 ---
 title: "[New] A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking"
-date: 2024-05-24T09:16:43.397Z
-updated: 2024-05-25T09:16:43.397Z
+date: 2024-07-04T21:18:02.923Z
+updated: 2024-07-05T21:18:02.923Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking"
 excerpt: "This Article Describes [New] A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking"
 keywords: "\"Yi 4K Filmmaking,High-Res Cinema YI,YI 4K Action Shoot,Ultra Definition YI,YI in Premium Filmmaking,4K Video Capability YI,Action Filmmaking with Yi 4K\""
-thumbnail: https://www.lifewire.com/thmb/9Yt_RjRUC9OKjWNte1YSKLjW9fs=/564x250/filters:no_upscale():max_bytes(150000):strip_icc()/ConnectedCarTech_metamorworks_GettyImages-966859036_CROPPED-a9460403602c4b67a7a8c1acd599c9be.jpg
+thumbnail: https://thmb.techidaily.com/5f1d20c9cdc38cb1d77f47c43dee5a5d477e2ff178ada3de9653ceb21ae65a7a.jpg
 ---
 
 ## A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking

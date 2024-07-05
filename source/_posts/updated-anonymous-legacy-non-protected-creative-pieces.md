@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Anonymous Legacy  Non-Protected Creative Pieces\""
-date: 2024-05-24T06:59:04.027Z
-updated: 2024-05-25T06:59:04.027Z
+date: 2024-07-04T21:18:01.012Z
+updated: 2024-07-05T21:18:01.012Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Anonymous Legacy: Non-Protected Creative Pieces\""
 excerpt: "\"This Article Describes [Updated] Anonymous Legacy: Non-Protected Creative Pieces\""
 keywords: "AnonLegacyCreatives,NoProtPieceArt,SecureCopyrights,CreatPieceAnon,LegacyNoProtect,CreativeAnonymous,NonProtectedArt"
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Anonymous Legacy: Non-Protected Creative Pieces
@@ -113,7 +113,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -121,7 +121,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 
@@ -232,7 +232,7 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-### 1\. [Artvee.com](https://artvee.com/)
+### 1\. Artvee.com
 
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
@@ -240,7 +240,7 @@ Artvee.com is a public domain art search engine that specializes in classical ar
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
 
-### 2\. [Museo](https://museo.app/)
+### 2\. Museo
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Storage Capacity  64GB vs 128GB for Video Files\""
-date: 2024-05-24T08:50:24.149Z
-updated: 2024-05-25T08:50:24.149Z
+date: 2024-07-04T21:18:01.757Z
+updated: 2024-07-05T21:18:01.757Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Storage Capacity: 64GB vs 128GB for Video Files\""
 excerpt: "\"This Article Describes Storage Capacity: 64GB vs 128GB for Video Files\""
 keywords: "\"64GB Storage Video Size,128GB Video File Space,Low-Capacity Video Saving,High-Capacity Video Storage,64GB vs 128GB Media Capacity,Large Disk for Video Files,Extended Memory Video Support\""
-thumbnail: https://www.lifewire.com/thmb/nY-xMmJ8eSNy6sVe0OKN-PVjSNM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/subwaysurfers-11a4d59f94d64363ad6a19cd07dfe109.jpeg
+thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0dbe084557e36eab0ab2db64.jpeg
 ---
 
 ## Storage Capacity: 64GB vs 128GB for Video Files

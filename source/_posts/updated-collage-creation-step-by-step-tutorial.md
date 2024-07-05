@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Collage Creation  Step-by-Step Tutorial\""
-date: 2024-05-24T06:59:26.954Z
-updated: 2024-05-25T06:59:26.954Z
+date: 2024-07-04T21:17:56.758Z
+updated: 2024-07-05T21:17:56.758Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Collage Creation: Step-by-Step Tutorial\""
 excerpt: "\"This Article Describes [Updated] Collage Creation: Step-by-Step Tutorial\""
 keywords: "Collage Art Basics,Tutorial for Photo Collage,Learn Collage Techniques,DIY Collage Guide,Stepwise Collage Making,Easy Collage Creation,Collage Design Tips"
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Collage Creation: Step-by-Step Tutorial

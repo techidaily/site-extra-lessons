@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Guide to Color Correction  Implementing LUTs Within AE Projects\""
-date: 2024-05-24T09:22:37.068Z
-updated: 2024-05-25T09:22:37.068Z
+date: 2024-07-04T21:18:02.058Z
+updated: 2024-07-05T21:18:02.058Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Expert Guide to Color Correction: Implementing LUTs Within AE Projects\""
 excerpt: "\"This Article Describes Expert Guide to Color Correction: Implementing LUTs Within AE Projects\""
 keywords: "LUT in AE,Color Correction Guide,AE LUT Application,AE Color Tuning,Professional AE Editing,Implementing LUTs,AE Project Optimization"
-thumbnail: https://www.lifewire.com/thmb/pqu2By75ru8MJlTZ4i-iemNOlJg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ledephoto-820c7f6e8d3747c396c4fae1032ac4b4.jpg
+thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221ab645eab192a9d9f6936accf.jpg
 ---
 
 ## Expert Guide to Color Correction: Implementing LUTs Within AE Projects

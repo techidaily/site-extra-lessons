@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Can You Store High-Quality Videos in 128Gb?\""
-date: 2024-05-24T08:01:20.856Z
-updated: 2024-05-25T08:01:20.856Z
+date: 2024-07-04T21:18:03.531Z
+updated: 2024-07-05T21:18:03.531Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Can You Store High-Quality Videos in 128Gb?\""
 excerpt: "\"This Article Describes [New] Can You Store High-Quality Videos in 128Gb?\""
 keywords: "\"Video Storage Space,HD Video Capacity,Max Video Size,Optimal Video Quality,High-Quality Video Storage,128GB Video Limit,Large Volume Video Files\""
-thumbnail: https://www.lifewire.com/thmb/VTa54zqLTISyl15tDVs4zKfJz0U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-172856695-56fd56205f9b586195c6365c.jpg
+thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35c13c96d34e093f48763187e.jpg
 ---
 
 ## Can You Store High-Quality Videos in 128Gb?

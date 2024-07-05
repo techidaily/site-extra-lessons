@@ -1,7 +1,7 @@
 ---
 title: "Investing Time Wisely on Cover Art Creation"
-date: 2024-05-24T08:00:16.190Z
-updated: 2024-05-25T08:00:16.190Z
+date: 2024-07-04T21:18:00.951Z
+updated: 2024-07-05T21:18:00.951Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Investing Time Wisely on Cover Art Creation"
 excerpt: "This Article Describes Investing Time Wisely on Cover Art Creation"
 keywords: "\"Time-Wise Cover Art Invest,Wise Art Creation Time,Smart Cover Art Making,Efficient Cover Art Design,Prudent Artist Portrait,Effective Cover Crafting,Savvy Illustration Finance\""
-thumbnail: https://www.lifewire.com/thmb/c8e1nttdP23ElJeWx5VVLngvtIM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SafariTwitterSidebar-56a5d5143df78cf7728a0f97.jpg
+thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935f6ec3a823ac568973956aae.jpg
 ---
 
 ## Investing Time Wisely on Cover Art Creation

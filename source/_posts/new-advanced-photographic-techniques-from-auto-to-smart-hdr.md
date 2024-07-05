@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Advanced Photographic Techniques  From Auto to Smart HDR\""
-date: 2024-05-24T08:20:47.526Z
-updated: 2024-05-25T08:20:47.526Z
+date: 2024-07-04T21:18:02.834Z
+updated: 2024-07-05T21:18:02.834Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Advanced Photographic Techniques: From Auto to Smart HDR\""
 excerpt: "\"This Article Describes [New] Advanced Photographic Techniques: From Auto to Smart HDR\""
 keywords: "Advanced PhotoTech,HDR SmartHDR,Autofocus Advance,HighRes Imaging,SmartPhotoTechniques,PhotographyAutoEdge,HDR TechniqueAdvance"
-thumbnail: https://www.lifewire.com/thmb/3u2aU63OORteUZsOKTdAac8tDI0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-usb-2-0-2626037-724c3c1c829c42e3b638e9e0c85238cd.png
+thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed721572402298c4b208ceac1efbbaaf58d4.png
 ---
 
 ## Advanced Photographic Techniques: From Auto to Smart HDR

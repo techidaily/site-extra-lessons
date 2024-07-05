@@ -1,7 +1,7 @@
 ---
 title: "\"FilmCrafters' Compendium  Unpacked Q&A\""
-date: 2024-05-24T08:33:13.588Z
-updated: 2024-05-25T08:33:13.588Z
+date: 2024-07-04T21:17:57.925Z
+updated: 2024-07-05T21:17:57.925Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes FilmCrafters' Compendium: Unpacked Q&A\""
 excerpt: "\"This Article Describes FilmCrafters' Compendium: Unpacked Q&A\""
 keywords: "\"FilmCrafter Guidebook,QA for FilmCrafters,Crafters’ Film Insights,Filming Mastery Book,Behind-the-Scenes FAQs,Professional Crafting Tips,Cinematography Comprehensive\""
-thumbnail: https://www.lifewire.com/thmb/UN0ytYtp24p96KabSrgMJHQZ_yE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088d395c4f6b7d4b1f29dc8396.jpg
 ---
 
 ## FilmCrafters' Compendium: Unpacked Q&A

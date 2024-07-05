@@ -1,7 +1,7 @@
 ---
 title: "\"[New] C-Span's Watchlist for the Curious Netizen\""
-date: 2024-05-24T08:59:32.646Z
-updated: 2024-05-25T08:59:32.646Z
+date: 2024-07-04T21:18:01.585Z
+updated: 2024-07-05T21:18:01.585Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] C-Span's Watchlist for the Curious Netizen\""
 excerpt: "\"This Article Describes [New] C-Span's Watchlist for the Curious Netizen\""
 keywords: "\"C-Span Curiosity List,Watchlist Guide,C-Span Insights,Netizen Knowledge,Political Oversight,C-Span News Update,Informed Citizenship\""
-thumbnail: https://www.lifewire.com/thmb/qnoyo_FzRWzXjLiqwQ7imSon984=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/db6e8bb5b9330de241494205e28fd162607bcee64226c4e5f87f88fc35435d44.jpg
 ---
 
 ## C-Span's Watchlist for the Curious Netizen

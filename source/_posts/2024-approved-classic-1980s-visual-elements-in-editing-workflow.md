@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Classic 1980S Visual Elements in Editing Workflow\""
-date: 2024-05-24T06:43:05.736Z
-updated: 2024-05-25T06:43:05.736Z
+date: 2024-07-04T21:17:57.735Z
+updated: 2024-07-05T21:17:57.735Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Classic 1980S Visual Elements in Editing Workflow\""
 excerpt: "\"This Article Describes 2024 Approved: Classic 1980S Visual Elements in Editing Workflow\""
 keywords: "\"Kinetic Design Basics,Elemental Design Principles,Dynamic Design Methods,Workflow in Design Arts,Kinetic Design Processes,Design Concept Fundamentals,Element-Driven Design Flow\""
-thumbnail: https://www.lifewire.com/thmb/VQxgGoC9v6PZDxcDaOZkNzYORfU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-connect-multiple-bluetooth-speakers-4173788-311e11fa61fd439f9528c27402f47cb9.png
+thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af5b4d099ffd7c19407e1d66e.png
 ---
 
 ## Classic 1980S Visual Elements in Editing Workflow

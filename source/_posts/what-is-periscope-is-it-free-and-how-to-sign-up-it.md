@@ -1,7 +1,7 @@
 ---
 title: "What Is Periscope? Is It Free and How to Sign up It?"
-date: 2024-05-24T08:15:35.868Z
-updated: 2024-05-25T08:15:35.868Z
+date: 2024-07-04T21:17:59.086Z
+updated: 2024-07-05T21:17:59.086Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes What Is Periscope? Is It Free and How to Sign up It?"
 excerpt: "This Article Describes What Is Periscope? Is It Free and How to Sign up It?"
 keywords: "Periscope Basics,Periscope Free Trial,Sign Up Periscope,Use Periscope,Periscope Video,Live Streaming App,How to Access Periscope"
-thumbnail: https://www.lifewire.com/thmb/ET51ABCwWBTletzUuHrK9bZXzl8=/1000x333/filters:no_upscale():max_bytes(150000):strip_icc()/HowTo_Computers-28f36cf9111a4e14aa557ed6c6183653.png
+thumbnail: https://thmb.techidaily.com/d4527039f6a1a287d2df17fa899a5ac8403841092ccbbf441a17ff63d6863be1.png
 ---
 
 ## Getting Started with Periscope: Is It Free? Sign-Up Process

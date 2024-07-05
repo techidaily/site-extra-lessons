@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Creating a Space for Feedback  Talking with Your Viewers\""
-date: 2024-05-24T07:51:37.387Z
-updated: 2024-05-25T07:51:37.387Z
+date: 2024-07-04T21:18:03.352Z
+updated: 2024-07-05T21:18:03.352Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Creating a Space for Feedback: Talking with Your Viewers\""
 excerpt: "\"This Article Describes [Updated] Creating a Space for Feedback: Talking with Your Viewers\""
 keywords: "Viewer Feedback Space,Engage Viewers Talk,Feedback Viewer Chat,Space for Viewer Input,Dialogue with Audience,Viewers Interaction,Audience Engagement Zone"
-thumbnail: https://www.lifewire.com/thmb/Gs5sJSrH44HI93nu2uClFWSimlI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1833719522-ae350c6ed04a449e8fc03206518c02c3.jpg
+thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a5e0550c353e9047546c19d2.jpg
 ---
 
 ## Creating a Space for Feedback: Talking with Your Viewers
