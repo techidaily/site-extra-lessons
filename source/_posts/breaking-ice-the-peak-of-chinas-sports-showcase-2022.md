@@ -104,29 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-viral-solo-podcast-step-by-step-guide/"><u>In 2024, Crafting a Viral Solo Podcast  Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-birdie-ballet-bounce/"><u>In 2024, Birdie Ballet Bounce</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>Discover the Next Big Thing in Design  The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplify-note-capture-with-mematic-app/"><u>Simplify Note Capture with Mematic App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-professionals-way-of-removing-backgrounds/"><u>The Professional's Way of Removing Backgrounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-colorize-your-flight-dji-miniair-drone-visuals-at-no-cost/"><u>[New] Colorize Your Flight – DJI Mini/Air Drone Visuals at No Cost</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-canva-cinematography-perfecting-music-cropping-and-editing/"><u>[New] Canva Cinematography  Perfecting Music Cropping and Editing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/next-level-entertainment-exclusive-windows-10-gaming-and-apps/"><u>Next-Level Entertainment  Exclusive Windows 10 Gaming & Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-role-of-non-verbal-communication-in-interviewing/"><u>The Role of Non-Verbal Communication in Interviewing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-gratis-live-streamers-on-iosandroid-devices/"><u>Top 10 Gratis Live Streamers on iOS/Android Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-recording-is-30fps-or-60fps-superior-for-videos/"><u>[Updated] Optimal Recording  Is 30Fps or 60Fps Superior for Videos?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-introducing-the-apple-m1-max-clip/"><u>[New] 2024 Approved  Introducing the Apple M1 Max Clip</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ultimate-list-best-asmr-on-smartphones/"><u>[Updated] In 2024, Ultimate List  Best ASMR on Smartphones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-advice-incorporating-voiceovers-for-visual-impact/"><u>[Updated] 2024 Approved  Expert Advice  Incorporating Voiceovers for Visual Impact</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-discover-5-best-webcams-featuring-crystal-clear-mics/"><u>[New] In 2024, Discover 5 Best Webcams Featuring Crystal Clear Mics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-hub-of-your-youtube-success/"><u>2024 Approved  Navigating the Hub of Your YouTube Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/discover-and-collect-free-instagram-filters-through-search/"><u>Discover & Collect Free Instagram Filters Through Search</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>[New] In 2024, Easy Technique  Storing Tweet Videos and Images on Cellphone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok/"><u>[New] 2024 Approved  Peaceful Rhythm  The Best Chill Country Music for Relaxing Dance Parties on TikTok</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-screen-recorder-for-everyday-users/"><u>[New] 2024 Approved  Best Screen Recorder for Everyday Users</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

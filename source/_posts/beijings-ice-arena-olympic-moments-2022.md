@@ -104,28 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/enhance-user-interface-controls-modifying-snapchat-video-speed/"><u>Enhance User Interface Controls - Modifying Snapchat Video Speed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-filmmakers-guide-to-quick-and-clear-marine-video-for-2024/"><u>A Filmmaker’s Guide to Quick and Clear Marine Video for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-the-world-in-full-circle-experts-360-cams-review-2023/"><u>In 2024, Capturing the World in Full Circle - Expert's 360 Cams Review, 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audiophiles-choice-selecting-superior-oculus-devices-for-2024/"><u>Audiophiles' Choice  Selecting Superior Oculus Devices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/evaluating-dji-phantom-3-professional-goggles/"><u>Evaluating DJI Phantom 3 Professional Goggles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cultivating-a-supportive-community-on-youtube/"><u>Cultivating a Supportive Community on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/select-your-dreams-best-vr-bike-trails/"><u>Select Your Dreams  Best VR Bike Trails</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-audio-quality-top-visualizers-for-podcasts/"><u>Elevating Audio Quality  Top Visualizers for Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embrace-the-future-now-transforming-your-mobile-device-for-vr/"><u>Embrace the Future Now  Transforming Your Mobile Device for VR</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories-for-2024/"><u>[Updated] Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-insightful-comparison-of-triller-and-tiktoks-content-models-max-156-chars/"><u>[Updated] 2024 Approved  Insightful Comparison of Triller and TikTok's Content Models (Max 156 Chars)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tickletech-design-easy-entertaining-visuals/"><u>TickleTech  Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-utilizing-film-content-a-strategy-for-teachers/"><u>[Updated] Utilizing Film Content  A Strategy for Teachers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>[New] Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-seeing-my-friends-video-and-pics-on-chat-apps/"><u>2024 Approved  Seeing My Friends' Video and Pics on Chat Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-expert-strategies-for-merging-unparalleled-music-into-mp4-cinematics-for-2024/"><u>New Expert Strategies for Merging Unparalleled Music Into MP4 Cinematics for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-how-to-innovate-your-tiktok-auditory-style-the-voice-alteration-method/"><u>2024 Approved  How to Innovate Your TikTok Auditory Style  The Voice Alteration Method</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
