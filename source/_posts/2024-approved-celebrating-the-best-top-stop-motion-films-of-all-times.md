@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Celebrating the Best  Top Stop-Motion Films of All Times\""
-date: 2024-05-24T08:54:30.413Z
-updated: 2024-05-25T08:54:30.413Z
+date: 2024-07-26T21:26:53.230Z
+updated: 2024-07-27T21:26:53.230Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Celebrating the Best: Top Stop-Motion Films of All Times\""
 excerpt: "\"This Article Describes 2024 Approved: Celebrating the Best: Top Stop-Motion Films of All Times\""
 keywords: "\"Stopsmotion Classic Titles,Time's Best Animation Films,Top Animated Stop Motion Gems,Timeless Stop-Motion Hits,Pinnacle Film Stop Motion,Masterpieces in Stop Motion,Golden Stop Motion Classics\""
-thumbnail: https://www.lifewire.com/thmb/fAu6_ORb9M5oeIYjTL2bgG5hxho=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-image-creator-from-microsoft-designer-7fad906276724cac96622cfcf3af3322.jpg
+thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b1b806ed68510f39b79036cf.jpg
 ---
 
 ## Celebrating the Best: Top Stop-Motion Films of All Times
@@ -26,6 +26,9 @@ Let us look at some of the best stop motion films in the industry. So, let us be
 
 Stop motion films are famous in the animated genre of the creative industry. For this very reason, the sub-section shall reflect upon 15 first stop motion films with their famous quotes, names of directors, and the release date. Time to start!
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. [Consuming Spirits](https://www.imdb.com/title/tt2253947/)
 
 Movie Name: Consuming Spirits
@@ -40,6 +43,9 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -52,8 +58,14 @@ Quote: "When you're scared, but you still do it anyway, that's brave."
 
 Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
 
 Movie Name: Fantastic Mr. Fox
@@ -68,6 +80,9 @@ Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into 
 
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
 
 Movie Name: Wallace & Gromit: The Curse of the Were-Rabbit
@@ -94,6 +109,10 @@ Quote: "The age of stone is over. Long live the age of bronze."
 
 Early Man is yet another stop motion film that got considerable fame. The story is about Lord Nooth, who wishes to turn the land into a mine for his selfish gains. Dug and his sidekick has to fight against him.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
@@ -136,8 +155,14 @@ Quote: "I was a bride. My dreams were taken from me. But now I've stolen them fr
 
 Corpse Bride is one of the best stop motion films in the industry. The story is about Victor practicing his wedding vows in the forest where he accidentally marries skeleton-shaped Emily.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 9\. [Chicken Run](https://www.imdb.com/title/tt0120630/)
 
 Movie Name: Chicken Run
@@ -152,6 +177,9 @@ Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They dec
 
 ![chicken run](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### 10\. [Mary and Max](https://www.imdb.com/title/tt0978762/)
 
 Movie Name: Mary and Max
@@ -166,6 +194,9 @@ Mary and Max is a story about two unlikely people who befriended each other in a
 
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -178,8 +209,14 @@ Quote: "You can't stop bullying - it's part of human nature. If you were bigger 
 
 ParaNorman is a film stop motion with a fun supernatural story. Norman had a unique ability to talk to ghosts, and he was expected to save the town from a curse.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![paranorman](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
 
 Movie Name: Missing Link
@@ -208,6 +245,9 @@ The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain
 
 ![the pirates in an adventure with scientists](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 14\. [The Boxtrolls](https://www.imdb.com/title/tt0787474/)
 
 Movie Name: The Boxtrolls
@@ -234,8 +274,14 @@ Quote: "You don't have to be the bad guy. You are the most talented, interesting
 
 The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![the lego](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 The creative industry needs to offer strong animation to bring the audience on the verge of their seats. The objects are often manipulated by the use of film stop motion techniques. You can review around 15 such movies to inspire and bring innovation to the lot.
@@ -264,3 +310,60 @@ The creative industry needs to offer strong animation to bring the audience on t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cured-non-appearance-of-tiny-vid-content/"><u>[New] 2024 Approved  Cured  Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-compelling-spotify-campaigns-a-practical-guide/"><u>[New] Crafting Compelling Spotify Campaigns  A Practical Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>[New] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-methods-for-saving-vimeo-footage-for-2024/"><u>[New] Quick Methods for Saving Vimeo Footage for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-clear-recording-software-for-windows-10-users/"><u>[Updated] 2024 Approved  Clear Recording Software for Windows 10 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-tips-for-instagram-green-screen-shoots/"><u>[Updated] 2024 Approved  Expert Tips for Instagram Green Screen Shoots</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlocking-the-full-potential-of-apple-tv-with-fb-video-streams/"><u>[Updated] 2024 Approved  Unlocking the Full Potential of Apple TV with FB Video Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[Updated] Add Shimmer to Photos  Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-amplify-your-creative-impact-youtube-studio-editing-essentials-for-2024/"><u>[Updated] Amplify Your Creative Impact  YouTube Studio Editing Essentials for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-are-vloggers-compensated-for-product-critiques/"><u>[Updated] Are Vloggers Compensated for Product Critiques?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-choice-best-microphone-for-youtubers/"><u>[Updated] Prime Choice  Best Microphone for YouTubers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplifying-image-editing-with-picsarts-background-tool-for-2024/"><u>[Updated] Simplifying Image Editing with Picsart's Background Tool for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinemas-best-shoot-techniques-the-ultimate-guide-for-24/"><u>2024 Approved  Cinema's Best Shoot Techniques  The Ultimate Guide for '24</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-thorough-examination-of-hero5-video-content-for-2024/"><u>A Thorough Examination of Hero5 Video Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adobe-audition-tutorial-managing-sound-curves/"><u>Adobe Audition Tutorial  Managing Sound Curves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asuss-proart-pa-329q-an-elite-professional-4k-display-examination-for-2024/"><u>Asus's ProArt PA 329Q – An Elite Professional 4K Display Examination for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-tomorrow-today-leading-video-cams-for-2024/"><u>Capturing Tomorrow Today – Leading Video Cams for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chuckle-composer-app/"><u>Chuckle Composer App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-zoom-videos-efficiently-with-top-three-methods/"><u>Enhance Zoom Videos Efficiently with Top Three Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>Experience Unparalleled Reality  Top 10 PC Headsets for In-Depth VR Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertly-manipulating-colors-in-video-edits/"><u>Expertly Manipulating Colors in Video Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-ingenious-ways-to-modify-voices-for-free/"><u>Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/get-a-handful-of-personalized-endings-at-zip/"><u>Get a Handful of Personalized Endings, at Zip</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s/"><u>Guide on Downloading, Processing, and Saving Twitter Vids as MP3s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 With or Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-tecno-pova-5-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Tecno Pova 5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-2-methods-to-add-effects-on-tiktok/"><u>In 2024, 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-look-at-the-newest-updates-of-lg-360-cameras/"><u>In 2024, A Comprehensive Look at the Newest Updates of LG 360 Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>In 2024, A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-archive-top-resources-for-free-skype-music-files/"><u>In 2024, Auditory Archive  Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-webcams-for-zoom/"><u>In 2024, Best Webcams for Zoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>In 2024, Best-Kept Secrets  Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>In 2024, Creating an Auditory Ambiance  Choosing Background Music for Trailers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-se-2022-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone SE (2022) Smoothly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-secrets-of-successful-podcast-covers-revealed/"><u>In 2024, Secrets of Successful Podcast Covers Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-viral-meme-creation-techniques/"><u>Mastering Viral Meme Creation Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-home-cinema-picks-for-best-3d-blu-ray-systems/"><u>Premium Home Cinema  Picks for Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/remedy-for-warped-gopro-imagery-a-comprehensive-tutorial/"><u>Remedy for Warped GoPro Imagery  A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scouring-deals-low-priced-gopro-cameras/"><u>Scouring Deals  Low-Priced GoPro Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/script-zip-up-creating-srt-from-video-archives-fastly/"><u>Script Zip-Up  Creating SRT From Video Archives Fastly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sierra-users-meet-the-future-of-video-editing-tools/"><u>Sierra Users, Meet the Future of Video Editing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-guide-to-implementing-speech-transcription-in-powerpoint/"><u>Simplified Guide to Implementing Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>Sony's Masterpiece in Motion Graphics  Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strengthening-community-wellness-with-targeted-ads/"><u>Strengthening Community Wellness with Targeted Ads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/syncing-social-statuses-seamless-insertion-of-linktree-into-tiktok-profiles/"><u>Syncing Social Statuses  Seamless Insertion of Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>The Art of Optimizing Windows Media Player's Audio Operations  From Cds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-pathway-to-visual-storytelling-on-youtube/"><u>The Ultimate Pathway to Visual Storytelling on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement-for-2024/"><u>The Ultimate Playbook  Skyrocket Your YouTube Shorts Traffic and Engagement for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-20-auto-surveillance-cams-reviews/"><u>Top 20 Auto Surveillance Cams Reviews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transcribe-speaking-to-writing-free-of-charge/"><u>Transcribe Speaking to Writing  Free of Charge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-premium-gopro-case-selection/"><u>Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-magic-grading-through-hue-manipulation/"><u>Visual Magic  Grading Through Hue Manipulation</u></a></li>
+</ul></div>

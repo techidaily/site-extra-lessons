@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Crafting Realistic 3D Text Designs in Photoshop"
-date: 2024-05-24T08:32:54.718Z
-updated: 2024-05-25T08:32:54.718Z
+date: 2024-07-26T20:48:53.144Z
+updated: 2024-07-27T20:48:53.144Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Crafting Realistic 3D Text Designs in Photoshop"
 excerpt: "This Article Describes In 2024, Crafting Realistic 3D Text Designs in Photoshop"
 keywords: "PhotoSecrecyTechniques,ImageSteganography,HiddenImageComposition,StealthPhotoshopTricks,CovertPhotoEditing,ClandestinePicHiding,DiscreetPhotoshopArt"
-thumbnail: https://www.lifewire.com/thmb/AnSQt4WBf9mCAfe0DlWWjxsoA2w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/android-phone-9eea685d77174a2fbab326fc95cdd2c0.jpg
+thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875eec12a8f86b696a3d6ea101.jpg
 ---
 
 ## Crafting Realistic 3D Text Designs in Photoshop
@@ -22,12 +22,22 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
@@ -36,10 +46,17 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
@@ -50,10 +67,18 @@ Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, fro
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
@@ -66,6 +91,9 @@ Step10 Finally, from the upper-right corner drop-down button, select **Essential
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## An Easier Way to Create a 3D Text Effect or Animation
 
 As we mentioned, Photoshop may get challenging to use, especially for complete beginners. What if there was an easier tool you can use and still get the same high-quality and professional-grade results?
@@ -78,6 +106,9 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -88,6 +119,10 @@ Step1 First, you should download Filmora and install the program on your compute
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -122,10 +157,17 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
@@ -158,3 +200,54 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[New] A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-becoming-a-true-connoisseur-of-srt-text-creation/"><u>[New] Becoming a True Connoisseur of SRT Text Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-brilliance-with-the-q500-drone/"><u>[New] Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>[New] In 2024, Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-inferno-captures-best-slow-motion-cameras-for-2024/"><u>[New] Inferno Captures  Best Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-flow-streamlining-sound-segments/"><u>[Updated] Audio Flow  Streamlining Sound Segments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-no-fee-online-and-app-photo-refining-software/"><u>[Updated] Best No-Fee, Online & App Photo Refining Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-photo-and-video-display-apps-for-iphone-series-78/"><u>[Updated] Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-big-sur-breakdown-understanding-the-latest-macos-update/"><u>[Updated] Big Sur Breakdown  Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-combine-and-rotate-the-ultimate-guide-to-multimedia-editing-android/"><u>[Updated] Combine & Rotate  The Ultimate Guide to Multimedia Editing (Android)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-captivating-gopro-time-lapse-footage-hacks/"><u>[Updated] Craft Captivating GoPro Time-Lapse Footage Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-following-fades-track-losses-on-insta-for-2024/"><u>[Updated] Following Fades  Track Losses on Insta for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10plus-video-presentation-ideas-to-delight-your-audience-for-2024/"><u>10+ Video Presentation Ideas to Delight Your Audience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audience-allure-identifying-the-top-6-video-types/"><u>2024 Approved  Audience Allure  Identifying the Top 6 Video Types</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-consumer-reactions-vllo-edition/"><u>2024 Approved  Consumer Reactions  VLLO Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elite-10-survival-skirmishes/"><u>2024 Approved  Elite 10 Survival Skirmishes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-banner-templates-and-makers-for-youtube/"><u>2024 Approved  Free Banner Templates & Makers for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-unseen-windows-11-techniques/"><u>2024 Approved  The Unseen Windows 11 Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-interface-innovations-for-optimal-podcasting-for-2024/"><u>Audio Interface Innovations for Optimal Podcasting for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-tips-using-emudeck-on-steam-deck/"><u>Beginner's Tips: Using EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/disable-snippet-view-in-youtube-for-full-content/"><u>Disable Snippet View in YouTube for Full Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-the-leading-cloud-storage-providers-of-2024/"><u>Discovering the Leading Cloud Storage Providers of 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-top-30-steadicam-models-for-premium-dslr-cinematography/"><u>Discovering Top 30 Steadicam Models for Premium DSLR Cinematography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-range-mastery-using-luts-effectively/"><u>Dynamic Range Mastery  Using LUTs Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-brand-voice-with-influential-linguistic-tools/"><u>Elevate Your Brand Voice with Influential Linguistic Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-faster-imagery-screen-reader/"><u>Elite Faster Imagery Screen Reader</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-presentation-speed-with-smooth-videos/"><u>Enhancing Presentation Speed with Smooth Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-selection-top-5-free-tools-for-extracting-pin-videos/"><u>Expert Selection  Top 5 Free Tools for Extracting Pin Videos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-t2x-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo T2x 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-with-iphones-dual-function-capability/"><u>In 2024, Capturing Life with iPhone’s Dual-Function Capability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-the-right-medium-audio-vs-video-based-platforms/"><u>In 2024, Choosing the Right Medium  Audio vs Video-Based Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-instruction-manual-for-telegram-desktop/"><u>In 2024, Complete Instruction Manual for Telegram Desktop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-direct-download-of-video-to-mp3-from-vimeo/"><u>In 2024, Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-mix-fold-3-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Mix Fold 3 Phone that is Locked?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/macs-premier-6-video-cutting-tools-big-sur/"><u>Mac's Premier 6 Video Cutting Tools (Big Sur)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-3d-design-best-animation-software-selection/"><u>Masterful 3D Design  Best Animation Software Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-close-up-techniques-with-videoleap/"><u>Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-craft-of-macro-video-production-techniques/"><u>Mastering the Craft of Macro Video Production Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-sound-to-text-converters/"><u>Premium Sound to Text Converters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-photo-insertion-into-instagram-feed/"><u>Seamless Photo Insertion Into Instagram Feed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snapchat-spotlight-explained-how-it-works/"><u>Snapchat Spotlight Explained  How It Works</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spotlight-on-popular-tiktok-cover-art/"><u>Spotlight on Popular TikTok Cover Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-15-youtube-originals-premium-unboxing-sessions/"><u>Top 15 YouTube Originals  Premium Unboxing Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-music-choices-for-captivating-video-experiences/"><u>Top Music Choices for Captivating Video Experiences</u></a></li>
+</ul></div>

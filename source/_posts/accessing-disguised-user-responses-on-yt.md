@@ -1,7 +1,7 @@
 ---
 title: "Accessing Disguised User Responses on YT"
-date: 2024-05-24T08:21:27.194Z
-updated: 2024-05-25T08:21:27.194Z
+date: 2024-07-26T20:29:01.483Z
+updated: 2024-07-27T20:29:01.483Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Accessing Disguised User Responses on YT"
 excerpt: "This Article Describes Accessing Disguised User Responses on YT"
 keywords: "Hidden User Feedback YouTube,Covert Comment Access Online,Stealthy Response Retrieval YT,Concealed Viewers' Reactions Tube,Encrypted Viewer Responses YT,Secret Audience Answers Youtube,Masked Users' Input YouTube"
-thumbnail: https://www.lifewire.com/thmb/lIGwtP-2kwYsesVXxH2xgRujv8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-590171899-57ebf1035f9b586c355d2b27.jpg
+thumbnail: https://thmb.techidaily.com/946eb20cab96390f79aadddebd59f08cdd8697ebfd4d415c6dfeb99e2e1d4fd0.jpg
 ---
 
 ## Accessing Disguised User Responses on YT
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -65,6 +68,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -85,10 +91,20 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -99,6 +115,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -111,6 +130,9 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -163,8 +185,14 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -181,6 +209,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -199,6 +230,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -207,6 +241,9 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -215,6 +252,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -285,3 +325,40 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-analyzing-yuneecs-typhoon-h-drone-features/"><u>[New] Analyzing Yuneec’s Typhoon H Drone Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-are-apples-new-processors-revolutionizing-editing-tech/"><u>[New] Are Apple's New Processors Revolutionizing Editing Tech?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhancing-slideshow-impact-with-webcam-integration/"><u>[New] Enhancing Slideshow Impact with Webcam Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-loop-youtube-videos-on-tv/"><u>[New] How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-recording-application-chromebook-focus/"><u>[New] Premium Recording Application  Chromebook Focus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-surge-in-youtubers-popularity/"><u>[New] The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-6-clearcut-android-recorder-options-no-ads/"><u>[New] Top 6 Clearcut Android Recorder Options (No Ads)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>[Updated] 2024 Approved  Unveiling Clearer Imagery  Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-audio-alliance-for-podcasters/"><u>[Updated] Advanced Audio Alliance for Podcasters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>[Updated] Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>[Updated] Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-photographic-tool-dynamic-wallpaper-editor-for-2024/"><u>[Updated] Essential Photographic Tool  Dynamic Wallpaper Editor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-of-the-best-10-timeless-family-vacation-films/"><u>2024 Approved  Best of the Best  10 Timeless Family Vacation Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-captivating-clips-select-5-brightening-apps/"><u>2024 Approved  Captivating Clips  Select 5 Brightening Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-collaborative-branding-strategies-in-digital-media/"><u>2024 Approved  Collaborative Branding Strategies in Digital Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advancing-training-with-vr-systems-for-2024/"><u>Advancing Training with VR Systems for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakdown-average-monthly-earning-for-podcasters/"><u>Breakdown  Average Monthly Earning for Podcasters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-words-to-visuals-the-scriptwriters-craft-for-2024/"><u>Bridging Words to Visuals  The Scriptwriter's Craft for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/halting-windows-flickering-on-monitor/"><u>Halting Windows Flickering on Monitor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-add-transitions-on-inshot-app/"><u>How to Add Transitions on Inshot App?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-best-mobile-writing-tools-for-iosandroid-images/"><u>In 2024, 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-at-the-forefront-elite-vr-creators/"><u>In 2024, At The Forefront  Elite VR Creators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-morph-your-mug-the-top-face-swap-apps-for-ios-and-android/"><u>In 2024, Morph Your Mug The Top Face Swap Apps for iOS and Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-motion-evaluation-2023/"><u>In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peak-performance-win-tunes/"><u>Peak Performance WIN Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-android-photography-hacks-and-applications/"><u>Pro Android Photography  Hacks and Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-efficient-google-podcast-postings/"><u>Unlocking Efficient Google Podcast Postings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-success-in-the-world-of-digital-marketing/"><u>Unlocking Success in the World of Digital Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/voice-message-capture-and-storage-iphone-x2/"><u>Voice Message Capture & Storage iPhone X2</u></a></li>
+</ul></div>

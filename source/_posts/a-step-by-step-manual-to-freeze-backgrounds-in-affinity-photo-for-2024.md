@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo for 2024\""
-date: 2024-05-24T07:26:38.025Z
-updated: 2024-05-25T07:26:38.025Z
+date: 2024-07-26T18:52:37.089Z
+updated: 2024-07-27T18:52:37.089Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo for 2024\""
 excerpt: "\"This Article Describes A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo for 2024\""
 keywords: "\"Premiere Soundtracking Guide,Pro Editor Music Techniques,Audio Tracking in Premiere,Stepwise Premiere Music Editing,Premiere Pro Cinematic Scoring,Timeline-Based Premiere Syncing,Professional Premiere Sound Design\""
-thumbnail: https://www.lifewire.com/thmb/Yem3HIULZftUxBFec7M2Dhovrnw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/googlemeet-a87010251a134a7194b0767e843d5694.jpg
+thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg
 ---
 
 ## A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,10 +40,16 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -81,6 +93,9 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -109,6 +124,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -125,6 +143,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -177,3 +198,57 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-choreographing-the-finale-for-your-tiktok-story/"><u>[New] 2024 Approved  Choreographing the Finale for Your TikTok Story</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-interface-innovations-for-optimal-podcasting/"><u>[New] Audio Interface Innovations for Optimal Podcasting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-battle-royale-queens-top-10-female-youtubers-for-2024/"><u>[New] Battle Royale Queens  Top 10 Female YouTubers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-applications-for-transforming-photo-content-into-video/"><u>[New] Best Applications for Transforming Photo Content Into Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-cameras-offering-uninterrupted-capture/"><u>[New] Best Cameras Offering Uninterrupted Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clear-and-clean-photos-top-6-online-tools-to-remove-signatures/"><u>[New] Clear & Clean Photos – Top 6 Online Tools to Remove Signatures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-colorize-your-flight-dji-miniair-drone-visuals-at-no-cost/"><u>[New] Colorize Your Flight – DJI Mini/Air Drone Visuals at No Cost</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-streamers-to-millionaires-the-monetization-blueprint-for-2024/"><u>[New] From Streamers to Millionaires  The Monetization Blueprint for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-influencers-secrets-top-10-video-editing-apps-for-ig-success/"><u>[New] Influencers' Secrets  Top 10 Video Editing Apps for IG Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-iphones-mp3-fix-6-free-tools-to-convert-youtube-audio/"><u>[New] Your iPhone's MP3 Fix  6 Free Tools to Convert YouTube Audio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-meme-text-generators-to-use/"><u>[Updated] Best Meme Text Generators to Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>[Updated] Best Quick Fixes  Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-imovie-tips-creating-engaging-youtube-video-intros/"><u>[Updated] IMovie Tips  Creating Engaging YouTube Video Intros</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-ranked-cloud-stores-analysis-and-pricing-insights/"><u>[Updated] Top-Ranked Cloud Stores  Analysis & Pricing Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-free-photo-collage-apps-for-iphone/"><u>2024 Approved  10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-safest-and-most-enjoyable-quadcopters-for-kids/"><u>2024 Approved  5 Safest and Most Enjoyable Quadcopters for Kids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-pa32u-in-detail-excellence-in-color-and-contrast/"><u>2024 Approved  Asus PA32U in Detail  Excellence in Color and Contrast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-computational-time-for-a-20mb-media-piece/"><u>2024 Approved  Computational Time for a 20Mb Media Piece</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-elongated-images-through-iphone-writings/"><u>2024 Approved  The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-streamlined-approach-simplifying-film-projects-with-movie-maker-for-2024/"><u>A Streamlined Approach  Simplifying Film Projects with Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-harmony-selecting-ideal-aspect-ratios/"><u>Achieving Harmony  Selecting Ideal Aspect Ratios</u></a></li>
+<li><a href="https://fox-http.techidaily.com/assessing-the-video-capacity-of-64gb-drives/"><u>Assessing the Video Capacity of 64Gb Drives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-conjuring-apples-artistic-blend/"><u>Audiovisual Conjuring  Apple's Artistic Blend</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-undersea-gopro-enhancements-for-2024/"><u>Best Undersea Gopro Enhancements for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-fluidity-in-iphone-photography-for-2024/"><u>Capturing Fluidity in iPhone Photography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-stunning-photography-mastering-hdr-merging-in-lightroom-for-2024/"><u>Crafting Stunning Photography  Mastering HDR Merging in Lightroom for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-movement-analysis-a-complete-examination/"><u>Dynamic Movement Analysis  A Complete Examination</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/finns-fortune-flux-earnings-examination/"><u>Finn's Fortune Flux  Earnings Examination</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/freedom-from-filmage-tiktok-videos-without-stickers/"><u>Freedom From Filmage  TikTok Videos Without Stickers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/groundwork-for-av1-mastery/"><u>Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi 13C? </u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-assessing-different-versions-available-for-windows-movie-maker/"><u>In 2024, Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beginners-basics-of-video-clarity-and-sharpness/"><u>In 2024, Beginner's Basics of Video Clarity and Sharpness</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-the-secrets-behind-iconic-mukbang-videos/"><u>In 2024, Decoding the Secrets Behind Iconic Mukbang Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-to-mp4-conversion-made-simple/"><u>In 2024, Vimeo to MP4 Conversion Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infuse-photo-radiance-distortion-in-adobe-cs-for-2024/"><u>Infuse Photo Radiance Distortion in Adobe CS for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-mobile-tools-to-enhance-dji-drone-imagery/"><u>Prime Mobile Tools to Enhance DJi Drone Imagery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 Plus Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selecting-the-perfect-day-for-podcast-drops/"><u>Selecting the Perfect Day for Podcast Drops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snickerslide-social-media-memes-made-simple/"><u>SnickerSlide  Social Media Memes Made Simple</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-transition-the-ultimate-subcap-guide/"><u>SRT Transition  The Ultimate SUBCAP Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-color-grading-tools-adobes-best-lut-compilation/"><u>The Essential Guide to Color Grading Tools – Adobe's Best LUT Compilation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ironclad-guide-to-bio-and-profile-url-association-in-tiktok/"><u>The Ironclad Guide to Bio and Profile URL Association in TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-perfect-blueprint-recording-google-voice-calls-for-2024/"><u>The Perfect Blueprint  Recording Google Voice Calls for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-quick-fixers-guide-essential-methods-for-color-enhancement/"><u>The Quick Fixer's Guide  Essential Methods for Color Enhancement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools/"><u>Ultimate Guide  Optimal Sub to Srt Conversion with Top 8 Tools</u></a></li>
+</ul></div>

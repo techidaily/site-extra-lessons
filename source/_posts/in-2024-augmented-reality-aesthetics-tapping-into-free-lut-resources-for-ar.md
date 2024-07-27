@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Augmented Reality Aesthetics  Tapping Into Free LUT Resources for AR\""
-date: 2024-05-24T07:41:39.244Z
-updated: 2024-05-25T07:41:39.244Z
+date: 2024-07-26T19:19:31.729Z
+updated: 2024-07-27T19:19:31.729Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes In 2024, Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR\""
 excerpt: "\"This Article Describes In 2024, Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR\""
 keywords: "AR Aesthetic Tools,Free LUTs AR,AugReality Design,AR Art Resource,LUT Access AR,FREE LUT AR App,AR Design Basics"
-thumbnail: https://www.lifewire.com/thmb/FS5Gk68xWgkA8f3C7mSUdhpjCms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/wwdc-2024-d4e7a013ffd94036a6c5e0f8a23eb2a0.png
+thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61c9d02d5a4f78ba177103c47.png
 ---
 
 ## Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -28,6 +31,9 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -60,6 +66,9 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
@@ -70,6 +79,9 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Fur
 
 Here are the key building principles.
@@ -87,24 +99,39 @@ Here are the key building principles.
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -141,3 +168,42 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-your-virtual-identity-essential-tech-you-need-top-7/"><u>[New] Crafting Your Virtual Identity - Essential Tech You Need (Top 7)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-professional-portals-15-youtube-economic-insights/"><u>[New] In 2024, Professional Portals  15 YouTube Economic Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pro-convertors-guide-top-10-online-free-transformers-listed/"><u>[New] Pro Convertors Guide  Top 10 Online, Free Transformers Listed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultra-fast-picture-reader-for-windows-11/"><u>[New] Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-compilation-of-top-sky-hd-sites/"><u>[Updated] 2024 Approved  The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-big-sur-tech-requirements-a-quick-reference-guide/"><u>[Updated] Big Sur Tech Requirements  A Quick Reference Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-accessible-file-transformation-facebook-videos-to-hdmp4-at-no-cost/"><u>2024 Approved  Accessible File Transformation  Facebook Videos to HD/MP4 at No Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ace-picks-top-ranked-gaming-screens-in-4k/"><u>2024 Approved  Ace Picks  Top-Ranked Gaming Screens in 4K</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-voice-commands-utilize-without-cost/"><u>2024 Approved  Voice Commands, Utilize Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-inclusive-list-of-prime-no-money-streaming-applications-and-software-for-2024/"><u>All-Inclusive List of Prime No-Money Streaming Applications & Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-in-depth-look-at-huawei-p10s-audio-experience/"><u>An In-Depth Look at Huawei P10's Audio Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-allure-finding-perfect-background-sounds-for-2024/"><u>Auditory Allure  Finding Perfect Background Sounds for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-analysis-strategy-for-music-video-creation/"><u>Cost Analysis Strategy for Music Video Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crucial-steps-for-altering-songs-playback-rate-in-spotify/"><u>Crucial Steps for Altering Songs' Playback Rate in Spotify</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/direct-data-delivery-fast-file-pathways-to-desktop/"><u>Direct Data Delivery  Fast File Pathways to Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/front-seat-escapades-beyond-athletic-viewing/"><u>Front Seat Escapades Beyond Athletic Viewing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/googleplus-photo-frame-settings-for-2024/"><u>Google+ Photo Frame Settings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hook-listeners-first-introductory-podcast-lines/"><u>Hook Listeners First  Introductory Podcast Lines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerated-scanning-process-for-windows/"><u>In 2024, Accelerated Scanning Process for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-professional-tiktoks-mastery-of-numerical-changes/"><u>In 2024, Craft Professional TikToks  Mastery of Numerical Changes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-v30-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V30 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>In 2024, Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-the-jaunt-vr-experience/"><u>Inside the Jaunt VR Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-manifestation-station/"><u>Meme Manifestation Station</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-streaming-solutions-for-the-solo-broadcayer/"><u>Simplified Streaming Solutions for the Solo Broadcayer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-creating-your-own-chat-signal-ios-and-android-edition/"><u>Step-by-Step  Creating Your Own Chat Signal - iOS & Android Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-snagging-stunning-pexels-pictures/"><u>Step-by-Step  Snagging Stunning Pexels Pictures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>The Art of Shots  Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>Unlock the Potential of Your Phone  Individual Ringtone Creation on Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples/"><u>Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+</ul></div>

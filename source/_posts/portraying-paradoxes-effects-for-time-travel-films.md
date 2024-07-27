@@ -1,7 +1,7 @@
 ---
 title: "\"Portraying Paradoxes  Effects for Time Travel Films\""
-date: 2024-05-24T07:11:15.584Z
-updated: 2024-05-25T07:11:15.584Z
+date: 2024-07-26T18:25:01.344Z
+updated: 2024-07-27T18:25:01.344Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Portraying Paradoxes: Effects for Time Travel Films\""
 excerpt: "\"This Article Describes Portraying Paradoxes: Effects for Time Travel Films\""
 keywords: "\"B-Roll Usage,Film Technique,Editing Footage,Media Strategy,Video Enhancement,Creative Editing,Content Optimization\""
-thumbnail: https://www.lifewire.com/thmb/ek56OZgwopZKdldQLBHcOn0x47o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/15dinradio-592753063df78cbe7e3d333e.jpg
+thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
 ---
 
 ## Portraying Paradoxes: Effects for Time Travel Films
 
 Always been curious about using time travel devices but have found no solution? This article lets you know the whole process of how you can activate a time travelling teleportation device using clever filming and editing in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Before filming and editing a video, get to know about the time-travel teleportation device.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1\. What Is a Time Travel Teleportation Device?
 
 Teleportation is usually estimated as the travelling between two points which carries unlimited time to complete. It's always considered impossible to make time travel devices and use them in real life.
@@ -30,10 +33,16 @@ However, in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Filming Prerequisites for Time Travelling Effects
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### #1 daylight lighting setup
 
 In this round, you have to create a daytime action, implying that you need daylight. As well as, you don't need professional filming skills because it is going to be so simple.
@@ -64,6 +73,9 @@ After setting the lights, now it's time to check the camera!
 
 It is a very important step that you don't have to change the camera position during filming. Because if the camera angle will not be same, it's difficult to show in the same alignment during editing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![camera alignment](https://images.wondershare.com/filmora/article-images/2023/04/camera-alignment.gif)
 
 After setting all equipment, now it's time to allow the character to perform in front of the camera.
@@ -104,16 +116,25 @@ You can also create a marking by using anything in yours. We are using the midli
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![marking for the cross line of transitions](https://images.wondershare.com/filmora/article-images/2023/04/marking-for-the-cross-line-of-transitions.jpg)
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Edit Teleportation Effects in Filmora
 
 Now, we'll take an all-in-one video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), as our editor to show you the way toward teleportation effects. Due to its up to date UI and ready-to-use resources, it saves your a lot of time from tedious work. Follow the steps below to quickly achieve the time travelling effect on your own.
@@ -133,6 +154,9 @@ Find the best clips you have shotted for each dimension. Then follow the below s
 * After launching, import the dimension clips into Filmora.
 * Then, drag and drop the daytime clip on the bottom video track of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![daytime clip on the bottom video track](https://images.wondershare.com/filmora/article-images/2023/04/daytime-clip-on-the-bottom-video-track.jpg)
 
 After importing the daytime clip to the timeline, now it's time to add marks for better editing.
@@ -146,6 +170,9 @@ The marking of the clips will give better trimming points. For this, mark the ex
 * Next, find the spot where the subject steps over to another dimension from right to left in the daytime clip.
 * Select the clip, and mark it as marker two by pressing on the letter **'M.'**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
 
 ##### Step4Drag the nighttime clip
@@ -172,6 +199,9 @@ To make sure that the video will play smoothly, you ensure the correct alignment
 
 For better alignment of the clips, trim the nighttime clip where marker one is pointed. It is the point where the subject presses the button from the remote.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim the nighttime clip at marker 1](https://images.wondershare.com/filmora/article-images/2023/04/trim-the-nighttime-clip-at-marker-1.jpg)
 
 After alignment and trimming points, the timeline is finalized, then add the mask effects for a fascinating look.
@@ -196,6 +226,10 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If your video actions are not aligning with each other, then adjust again according to the requirements.
@@ -208,12 +242,22 @@ To show the energy pack between two time-travel clips, you have to add the effec
 * Then search the **Elemental Energy Pack** in the search tab of the elements.
 * Find out the **"Elemental Energy 21 Frequency"** and apply this at the start of the nighttime clip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![elemental effects](https://images.wondershare.com/filmora/article-images/2023/04/elemental-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![after adding the elemental energy effect](https://images.wondershare.com/filmora/article-images/2023/04/after-adding-the-elemental-energy-effect.jpg)
 
 * Resize the effect according to the clip for a better look.
@@ -228,6 +272,9 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![chromatic aberration effect from distortion](https://images.wondershare.com/filmora/article-images/2023/04/chromatic-aberration-effect-from-distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -254,6 +301,9 @@ Congratulations! You have all done with the time travel teleportation effects an
 
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Making time travel videos is always fun as to watch them. You can quickly assemble these videos instantly by [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). There is no need to worry if you have thousands of effects on one platform.
@@ -288,6 +338,9 @@ Professional videographers create these effects using high-end lighting. But you
 
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
@@ -316,6 +369,9 @@ In the second round, you have to create a nighttime action indicating that you n
 
 To film a night mode, you need a warmer light, which is used to make shots for the second round. You can also use a light that is under 2700-3000 kelvins because it indicates warm light.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![night time warmer light](https://images.wondershare.com/filmora/article-images/2023/04/night-time-warmer-light.jpg)
 
 You don't need to worry if you don't have enough budget to get this setup. Because plastic binders will make your way easy, and you can create your own at home, as told earlier.
@@ -326,6 +382,9 @@ For the second round, the subject has to change the costume according to nightti
 
 In this round, the subject should start from the right to left and perform stepping over to the nighttime dimension. This action should remain on the left side of the crossline.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
@@ -340,12 +399,22 @@ You can also create a marking by using anything in yours. We are using the midli
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![marking for the cross line of transitions](https://images.wondershare.com/filmora/article-images/2023/04/marking-for-the-cross-line-of-transitions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Ensure to match the **"stepping over"** of the character for better results in the transition video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
@@ -369,6 +438,9 @@ Find the best clips you have shotted for each dimension. Then follow the below s
 * After launching, import the dimension clips into Filmora.
 * Then, drag and drop the daytime clip on the bottom video track of the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![daytime clip on the bottom video track](https://images.wondershare.com/filmora/article-images/2023/04/daytime-clip-on-the-bottom-video-track.jpg)
 
 After importing the daytime clip to the timeline, now it's time to add marks for better editing.
@@ -382,6 +454,9 @@ The marking of the clips will give better trimming points. For this, mark the ex
 * Next, find the spot where the subject steps over to another dimension from right to left in the daytime clip.
 * Select the clip, and mark it as marker two by pressing on the letter **'M.'**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![marker 2 on the daytime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-2-on-the-daytime-clip.jpg)
 
 ##### Step4Drag the nighttime clip
@@ -428,6 +503,18 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Go to the Video Effects section and change the shape mask settings.
 * Tweak the mask settings until the nighttime clip appears on the left and the daytime clip with the character on the right.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change the shape mask settings](https://images.wondershare.com/filmora/article-images/2023/04/change-the-shape-mask-settings.jpg)
 
 Play the video again and check out the smoothness of the actions. As we have already marked the points, that's why the actions match with each other and give an equivalent look!
@@ -444,12 +531,22 @@ To show the energy pack between two time-travel clips, you have to add the effec
 * Then search the **Elemental Energy Pack** in the search tab of the elements.
 * Find out the **"Elemental Energy 21 Frequency"** and apply this at the start of the nighttime clip.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![elemental effects](https://images.wondershare.com/filmora/article-images/2023/04/elemental-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** After dropping the effect, ensure that it starts simultaneously when the nighttime clip appears on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![after adding the elemental energy effect](https://images.wondershare.com/filmora/article-images/2023/04/after-adding-the-elemental-energy-effect.jpg)
 
 * Resize the effect according to the clip for a better look.
@@ -464,6 +561,9 @@ To apply the chromatic effect after the power pack effect, follow the below step
 
 ![chromatic aberration effect from distortion](https://images.wondershare.com/filmora/article-images/2023/04/chromatic-aberration-effect-from-distortion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Change the settings of the effects as needed from the top left setting panel on filmora.
@@ -482,6 +582,9 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Final Results
 
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
@@ -524,3 +627,71 @@ Create for you and add different effects and experiment with new features. You w
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-comprehensive-directory-of-inexpensive-stock-images/"><u>[New] 2024 Approved  Comprehensive Directory of Inexpensive Stock Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-soft-endings-on-soundscapes-with-audacity/"><u>[New] Crafting Soft Endings on Soundscapes with Audacity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-understanding-and-controlling-safaris-pip-feature/"><u>[New] In 2024, Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-mov-file-management-on-modern-windows-10-for-2024/"><u>[New] Mastering .mov File Management on Modern Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transforming-your-fb-audience-with-effective-cover-videos-for-2024/"><u>[New] Transforming Your FB Audience with Effective Cover Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-thors-quest-legends-of-the-ragnarok/"><u>[Updated] 2024 Approved  Thor's Quest  Legends of the Ragnarök</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[Updated] 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-vr-cycling-experiences-awaiting-you/"><u>[Updated] Best VR Cycling Experiences Awaiting You</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>[Updated] Blurry Looks  Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-combining-visual-and-auditory-elements-in-the-windows-photos-app/"><u>[Updated] Combining Visual and Auditory Elements in the Windows Photos App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-expert-edits-for-an-uncluttered-tiktok-archive/"><u>[Updated] In 2024, Expert Edits for an Uncluttered TikTok Archive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-grid-software-to-elevate-your-photography/"><u>[Updated] Top Grid Software to Elevate Your Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-valhallas-last-stand-gods-at-war/"><u>[Updated] Valhalla's Last Stand  Gods at War</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerate-engagement-quick-instagram-likes-and-videos-strategy/"><u>2024 Approved  Accelerate Engagement  Quick Instagram Likes and Videos Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-a-captivating-story-integrating-images-on-instagram/"><u>2024 Approved  Craft a Captivating Story  Integrating Images on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-xs-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone XS Max without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10-for-2024/"><u>A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androidiphones-finest-top-10-cost-effective-image-enhancers-ranked/"><u>Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-media-throughput-in-microsoft-presentations-for-2024/"><u>Boosting Media Throughput in Microsoft Presentations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-beats-integrating-music-in-inshot-editor-for-2024/"><u>Bringing Beats  Integrating Music in InShot Editor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-displays-for-expert-image-processors-2024-guide/"><u>Captivating Displays for Expert Image Processors, 2024 Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/cutting-edge-online-no-cost-converters-for-tiktok-to-mp3s-for-2024/"><u>Cutting-Edge Online, No Cost Converters for TikTok to MP3s for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-guide-to-mastering-recordings-with-audacity/"><u>Detailed Guide to Mastering Recordings with Audacity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-14-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from 14 Pro.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-photo-backup-networks/"><u>Elite Photo Backup Networks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-iphone-slideshow-software-selection-xs-to-xr/"><u>Essential iPhone Slideshow Software Selection (XS to XR)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-sites-for-youtube-content-surge/"><u>Exclusive Sites For YouTube Content Surge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/experts-choice-7-premium-videos-on-mac/"><u>Expert's Choice  7 Premium Videos on Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fine-tune-your-videos-mood-with-custom-sound-design/"><u>Fine-Tune Your Video's Mood with Custom Sound Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-licensed-soundtracks-for-gamers-a-complete-list/"><u>Free, Licensed Soundtracks for Gamers - A Complete List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-edit-360-degree-video-in-premiere-pro/"><u>How to Edit 360 Degree Video in Premiere Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/humor-unleashed-easymeme-tutorial-without-cost/"><u>Humor Unleashed  EasyMeme Tutorial Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-essential-movie-snippets-for-editing/"><u>In 2024, 10 Essential Movie Snippets for Editing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy XCover 7 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-closer-look-at-the-vegaspro-19-makeover/"><u>In 2024, A Closer Look at the VegasPro '19 Makeover</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-look-at-slug-line-practices/"><u>In 2024, A Comprehensive Look at Slug Line Practices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-beginner-drones-kids-edition-top-10-list/"><u>In 2024, Best Beginner Drones - Kids' Edition Top 10 List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cinema-coloring-mastery-through-central-luts-application/"><u>In 2024, Cinema Coloring Mastery Through Central Luts Application</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-control-over-your-youtube-viewing-experience/"><u>In 2024, Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-free-guide-to-premium-mp4-screen-recorders/"><u>In 2024, Free Guide to Premium MP4 Screen Recorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy A15 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini with a Mask On</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g04-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G04 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-introducing-effortless-group-image-assembling-via-picshot/"><u>In 2024, Introducing Effortless Group Image Assembling via Picshot</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-narzo-60-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Narzo 60 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-pioneering-1980s-techniques-in-film-making/"><u>Prime Pioneering 1980S Techniques in Film Making</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-m54-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy M54 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/saturation-savvy-3-effective-methods-for-photocolor-evolution/"><u>Saturation Savvy  3 Effective Methods for PhotoColor Evolution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamlessly-transitioning-sounds-with-audacity-tips/"><u>Seamlessly Transitioning Sounds with Audacity Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectacular-scrutiny-and-different-directions/"><u>Spectacular Scrutiny & Different Directions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spotlight-synthesis-blending-lights-for-video-excellence/"><u>Spotlight Synthesis  Blending Lights for Video Excellence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-video-content-delivery-a-curated-list-of-players/"><u>Streamline Video Content Delivery  A Curated List of Players</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/synchronized-screenshots-pc-or-cloud-perfection/"><u>Synchronized Screenshots  PC or Cloud Perfection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essence-of-shareable-humorous-content/"><u>The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-fundamentals-of-assembling-photos-into-art/"><u>The Fundamentals of Assembling Photos Into Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tints-and-tonality-applying-theoretical-insight/"><u>Tints & Tonality  Applying Theoretical Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-trends-in-effective-podcast-naming/"><u>Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-unrestricted-data-saver-solutions/"><u>Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-30-new-dimensions-in-metaverse-memes/"><u>Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/webclipper-facebook-videos/"><u>WebClipper - Facebook Videos</u></a></li>
+</ul></div>

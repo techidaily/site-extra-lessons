@@ -1,7 +1,7 @@
 ---
 title: "Speedy PC File Examination Guide"
-date: 2024-05-24T07:01:51.349Z
-updated: 2024-05-25T07:01:51.349Z
+date: 2024-07-26T18:08:18.326Z
+updated: 2024-07-27T18:08:18.326Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
@@ -40,6 +43,9 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -48,10 +54,17 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -62,6 +75,9 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -70,6 +86,9 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -118,3 +137,44 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-commanding-stage-confidence-with-powerpoint-voiceover-skills/"><u>[New] 2024 Approved  Commanding Stage Confidence with PowerPoint Voiceover Skills</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[New] Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-digital-solutions-for-converting-images-to-film/"><u>[New] Best Digital Solutions for Converting Images to Film</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-tips-ifunny-meme-download-and-use/"><u>[New] Comprehensive Tips  IFunny Meme Download & Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-amusing-aesthetics-leading-free-onlineiosandroid-photo-editing/"><u>[Updated] 2024 Approved  Amusing Aesthetics  Leading Free Online/iOS/Android Photo Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-an-intro-to-macs-5-leading-snipping-software-choices/"><u>[Updated] An Intro to Mac's 5 Leading Snipping Software Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-animators-choice-full-review-2024-edition/"><u>[Updated] Animator's Choice Full Review - 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-online-hubs-sky-high-dynamic-range-photography/"><u>[Updated] Best Online Hubs  Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unveiling-vimeo-subscription-perks-for-every-user-type/"><u>[Updated] In 2024, Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>2024 Approved  Action Sequence Mastery  Selecting GoPro's Best Cinematic LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-candids-canvas-transforming-photos-with-editing-tips/"><u>2024 Approved  Candid's Canvas  Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-premium-game-screens-in-high-definition/"><u>2024 Approved  Top 5 Premium Game Screens in High Definition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools-for-2024/"><u>Audience Engagement On Demand  Top 5 Mac Streaming Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-to-the-chase-how-to-zoom-effectively-in-minecraft/"><u>Cut to the Chase  How to Zoom Effectively in Minecraft</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dipping-into-the-dynamics-of-digital-image-dimensions/"><u>Dipping Into the Dynamics of Digital Image Dimensions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2013-file-stellar-by-stellar-guide/"><u>How Do I Restore Excel 2013 File ? | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Xiaomi Redmi Note 12T Pro ?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-pova-5-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Tecno Pova 5 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-shoot-a-time-lapse-video-with-gopro-hero5-black/"><u>How to Shoot a Time-Lapse Video with GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/htc-vive-redefining-virtual-playtime-with-unmatched-immersion/"><u>HTC Vive  Redefining Virtual Playtime with Unmatched Immersion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>In 2024, Accessing Facebook Videos via Apple TV  Essential Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boxing-vs-streaming-ultimate-showdown/"><u>In 2024, Boxing vs Streaming  Ultimate Showdown</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-tv-saves-win-friendly-options-available-for-2024/"><u>Mastering TV Saves  Win-Friendly Options Available for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-nuances-of-premieres-fullscreen-mode/"><u>Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-online-livestream-in-vlc/"><u>Navigating the World of Online Livestream in VLC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-upgrades-safely-with-tpm-and-secure-boot-enablement/"><u>Navigating Upgrades Safely with TPM and Secure Boot Enablement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/preeminent-6-social-channels-for-commercial-expansion-for-2024/"><u>Preeminent 6 Social Channels for Commercial Expansion for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quelling-video-quirks-in-photobooths/"><u>Quelling Video Quirks in Photobooths</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>Seamless Content Consumption  Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tailoring-your-netflix-viewing-experience/"><u>Tailoring Your Netflix Viewing Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-digital-deck-changes-predicting-the-future-of-fb-ads/"><u>The Digital Deck Changes  Predicting the Future of FB Ads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-key-to-unlocking-the-best-video-production-talents/"><u>The Key to Unlocking the Best Video Production Talents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-tools-for-3d-animators-creation/"><u>Top 7 Tools for 3D Animator's Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-precision-machines-best-of-the-series/"><u>Ultimate Precision Machines - Best of the Series</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-graphics-support-in-windows/"><u>Update Graphics Support in Windows</u></a></li>
+</ul></div>

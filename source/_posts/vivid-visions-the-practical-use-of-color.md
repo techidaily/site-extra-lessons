@@ -1,7 +1,7 @@
 ---
 title: "\"Vivid Visions  The Practical Use of Color\""
-date: 2024-05-24T08:15:35.317Z
-updated: 2024-05-25T08:15:35.318Z
+date: 2024-07-26T20:18:41.797Z
+updated: 2024-07-27T20:18:41.797Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Vivid Visions: The Practical Use of Color\""
 excerpt: "\"This Article Describes Vivid Visions: The Practical Use of Color\""
 keywords: "Color Psychology Basics,Art & Design Color Tips,Vibrant Palette Utilization,Hue Harmony Techniques,Chromatic Effects in Design,Practical Color Application,Creative Use of Colors"
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Vivid Visions: The Practical Use of Color
@@ -32,10 +32,21 @@ There are many color wheels out there and all require understanding and research
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -50,20 +61,32 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +121,38 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-calculating-the-sequence-length-of-a-20mb-file/"><u>[New] Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-glimpses-identifying-who-sees-your-pics/"><u>[New] Instagram Glimpses  Identifying Who Sees Your Pics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>[New] Master Image Editing with These Top 8 Tablets  Beyond Filmora's Reach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-strategies-for-changing-user-numbers-in-tiktok/"><u>[Updated] Advanced Strategies for Changing User Numbers in TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-command-center-at-your-fingertips-powerdirector-2024-guide/"><u>[Updated] Command Center at Your Fingertips  PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-computers-at-your-fingertips/"><u>2024 Approved  Advanced Computers at Your Fingertips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blueprint-for-big-screens-the-art-of-filmmaking/"><u>2024 Approved  Blueprint for Big Screens  The Art of Filmmaking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-transformation-software-spectrashift-series/"><u>2024 Approved  Leading Transformation Software  SpectraShift Series</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-framework-for-employing-videos-in-educational-settings/"><u>A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-athletes-snowspeedcross-22-recaps-for-2024/"><u>Apex Athletes  Snowspeedcross '22 Recaps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakneck-video-progress-on-facebook-must-have-extension-solutions/"><u>Breakneck Video Progress on Facebook - Must-Have Extension Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-selective-blur-for-dynamic-image-editing/"><u>Discover Selective Blur for Dynamic Image Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>Dissecting the Livestream Battlefield  Twitch vs YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-huawei-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Huawei</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eager-ears-entertainment-where-to-download-laughable-rings/"><u>Eager-Ears Entertainment  Where to Download Laughable Rings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-video-engagement-pinnacle-techniques-in-zoom-editing/"><u>Enhance Video Engagement  Pinnacle Techniques in Zoom Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-digital-gallery-mastering-online-crop-functions/"><u>Enhance Your Digital Gallery  Mastering Online Crop Functions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-solo-creators-path-to-dynamic-animation-art/"><u>In 2024, The Solo Creator’s Path to Dynamic Animation Art</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-watermark-removal-made-easy-top-online-tools/"><u>New 2024 Approved TikTok Watermark Removal Made Easy Top Online Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-fading-audio-tracks-through-audacitys-tools/"><u>Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-cut-film-highlights/"><u>Prime Cut Film Highlights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/protouch-4k-uniscreen-hub-systems/"><u>ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/settling-dispute-geforce-and-nforce-with-windows-10/"><u>Settling Dispute - GeForce and nForce with Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-mobile-face-enhancers-compared-iosandroid/"><u>Top Mobile Face-Enhancers Compared (iOS/Android)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-how-to-download-podcasts-on-iphone/"><u>Ultimate Guide How to Download Podcasts on iPhone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/standing-your-youtube-revenue-adsense-rates-per-1k-viewer/"><u>Understanding Your YouTube Revenue  AdSense Rates Per 1K Viewer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wave-seekers-guide-to-action-cams-of-2023/"><u>Wave Seekers’ Guide to Action Cams of 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wit-worthy-pictures-mememakers/"><u>Wit Worthy Pictures  MemeMakers</u></a></li>
+</ul></div>

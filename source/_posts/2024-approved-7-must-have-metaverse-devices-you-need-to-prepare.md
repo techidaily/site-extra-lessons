@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  7 Must-Have Metaverse Devices You Need to Prepare\""
-date: 2024-05-24T09:24:23.695Z
-updated: 2024-05-25T09:24:23.695Z
+date: 2024-07-26T22:19:04.464Z
+updated: 2024-07-27T22:19:04.464Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: 7 Must-Have Metaverse Devices You Need to Prepare\""
 excerpt: "\"This Article Describes 2024 Approved: 7 Must-Have Metaverse Devices You Need to Prepare\""
 keywords: "\"Metaverse Dev Gear,Metaverse Tech Essentials,Virtual World Equipment,VR Devices for Metaverse,Must-Prepare Metaverse Tools,Key Metaverse Technologies,Prepare Metaverse Hardware\""
-thumbnail: https://www.lifewire.com/thmb/5SN5dRiuZtacam6VZ9o8vqSqyG8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-556936833-5c621b84c9e77c0001d9315f.jpg
+thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc49ac8140b1c1038ab7e89004.jpg
 ---
 
 ## Top 7 Must-Have Metaverse Devices You Need to Prepare
@@ -30,6 +30,9 @@ Detailed tutorials provided by the official channel
 
 Buzzwords are nothing new. What is new about the past couple of years’ experience regarding buzzwords in their profusion? That is thanks to the COVID 19 pandemic which rather contrary to common-sense expectations acted as a catalyst to processes that were either yet to be hatched or were lying dormant. The world of tech has been at the forefront of such unfolding and hence words like Artificial Intelligence, Distributed Cloud, Hyper Automation, Metaverse, Everything as a service (XaaS), Quantum Computing, Cybersecurity Mesh, and many, many more have gained wide currency rather quickly. So let us begin at the beginning by understanding what it is that we talk about when we are talking about Metaverse nowadays.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Metaverse Device](https://images.wondershare.com/filmora/article-images/2021/metaverse-device.jpg)
 
 Source: thenextweb.com
@@ -50,12 +53,259 @@ So yes, Metaverse is quite literally a digital universe that is given body by th
 
 To get a fairer idea, one can head straight to a number of social media platforms and game universes that are offering today entry into such hyper-real virtual spaces. Some of these platforms are:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Meta
 
 Apart from the acquisition of Oculus, a company that manufactures Virtual Reality (VR) headsets, in 2014, the tech mammoth Facebook has made public its immense interest in virtual reality by rebranding itself as Meta this year. Mark Zuckerberg, CEO of Meta, voiced his support for the Metaverse when, while declaring the rebranding, he said, “The next platform and medium will be a much more immersive and embodied internet where you’re in the experience, not just looking at it, and we call this the metaverse.” Meta has delivered on this by unveiling the Horizon Workrooms beta, a virtual meeting area designed for co-workers to hold their meetings using a metaverse device.
 
 ![metaverse device meta](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-meta.jpg)
 
+### 2\. Microsoft
+
+It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Epic Games
+
+Epic Games is a video game company that has made headlines by virtue of its extraordinary contributions in this regard. “It’s no secret that Epic is invested in building the metaverse”, said Tim Sweeney, CEO of Epic Games. Epic Games has made it further immersive by holding music concerts by artists like Arianna Grande, Travis Scott, unveiling movie trailers and music debuts in the metaverse. A splendid remaking of Martin Luther King Jr’s famed “I Have a Dream” speech earned it further credentials. Epic Games is reportedly emphasizing its MetaHuman Creator, a technology that helps users customize better their digital avatars.
+
+## Part 2: Must-Have Metaverse Devices You Should Know
+
+It is entering the metaverse that necessitates that one first has one’s props ready. Below are discussed metaverse devices that are crucial for such transportation.
+
+### 1\. Computer (PC)
+
+Laying your hands on a perfectly functioning computer device is one of the first necessities. Intel grabbed worldwide attention a few days ago when it said that for metaverse to work properly, one will need devices with 1000x more computing power than what the technology offers today. But since metaverse is still in its embryo, the configuration we have already functioned just fine.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Smartphone
+
+Smartphones are the next important metaverse device with chipmakers like Qualcomm, Samsung already sharing their dedication to the mobile metaverse segment. Smartphones with the hardware they already come with are useful though for enjoying some of the games and platforms that use augmented reality.
+
+### 3.5G Mobile Networks
+
+For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
+
+![Metaverse Device 5G Network](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-5g-network.jpg)
+
+Source: firstpoint-mg.com
+
+### 4\. AR Glasses
+
+Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss out on. These are smart wearables and help in embodied experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### 5\. VR Headset
+
+Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
+
+![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
+
+Source: theverge.com
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 6\. VR Gloves
+
+Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
+
+![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
+
+Source: wired.com
+
+### 7\. Wrist-Based Bands
+
+Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
+
+![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Eye on the Future: Where Will Metaverse Go?
+
+Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Conclusion
+
+The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Buzzwords are nothing new. What is new about the past couple of years’ experience regarding buzzwords in their profusion? That is thanks to the COVID 19 pandemic which rather contrary to common-sense expectations acted as a catalyst to processes that were either yet to be hatched or were lying dormant. The world of tech has been at the forefront of such unfolding and hence words like Artificial Intelligence, Distributed Cloud, Hyper Automation, Metaverse, Everything as a service (XaaS), Quantum Computing, Cybersecurity Mesh, and many, many more have gained wide currency rather quickly. So let us begin at the beginning by understanding what it is that we talk about when we are talking about Metaverse nowadays.
+
+![Metaverse Device](https://images.wondershare.com/filmora/article-images/2021/metaverse-device.jpg)
+
+Source: thenextweb.com
+
+#### In this article
+
+01 [What Is Metaverse Technology?](#part1)
+
+02 [Must-Have Metaverse Devices You Should Know](#part2)
+
+03 [Eye on the Future: Where Will Metaverse Go?](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: What Is Metaverse Technology?
+
+The word Metaverse might be a hot topic today but it has been around for quite a significant amount of time now. In his 1992 sci-fi novel “Snow Crash”, author Neal Stephenson coined the term first. The word referred to the author’s projection of a world that is a 3D simulation per excellence populated by lifelike virtual avatars. The world has moved on since 1992 and so the idea of Metaverse has undergone further developments as well. Tech milestones like augmented reality, virtual reality, 3D holographic avatars, and advanced communication techniques, all forayed into the arena.
+
+So yes, Metaverse is quite literally a digital universe that is given body by the joint efforts made by the above-noted technologies. Here users, or more precisely, their digital avatars, can live in the truest sense of the word. As of now, using an assortment of metaverse devices, users can work, play, socialize in this virtual realm. They can even visit concerts, join conferences or take virtual trips around the Metaverse using this technology. If you want to know more details about Metaverse, this article will be helpful: [Everything you wanted to know about the metaverse](https://tools.techidaily.com/wondershare/filmora/download/).
+
+To get a fairer idea, one can head straight to a number of social media platforms and game universes that are offering today entry into such hyper-real virtual spaces. Some of these platforms are:
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+### 1\. Meta
+
+Apart from the acquisition of Oculus, a company that manufactures Virtual Reality (VR) headsets, in 2014, the tech mammoth Facebook has made public its immense interest in virtual reality by rebranding itself as Meta this year. Mark Zuckerberg, CEO of Meta, voiced his support for the Metaverse when, while declaring the rebranding, he said, “The next platform and medium will be a much more immersive and embodied internet where you’re in the experience, not just looking at it, and we call this the metaverse.” Meta has delivered on this by unveiling the Horizon Workrooms beta, a virtual meeting area designed for co-workers to hold their meetings using a metaverse device.
+
+![metaverse device meta](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-meta.jpg)
+
+### 2\. Microsoft
+
+It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
+
+### 3\. Epic Games
+
+Epic Games is a video game company that has made headlines by virtue of its extraordinary contributions in this regard. “It’s no secret that Epic is invested in building the metaverse”, said Tim Sweeney, CEO of Epic Games. Epic Games has made it further immersive by holding music concerts by artists like Arianna Grande, Travis Scott, unveiling movie trailers and music debuts in the metaverse. A splendid remaking of Martin Luther King Jr’s famed “I Have a Dream” speech earned it further credentials. Epic Games is reportedly emphasizing its MetaHuman Creator, a technology that helps users customize better their digital avatars.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: Must-Have Metaverse Devices You Should Know
+
+It is entering the metaverse that necessitates that one first has one’s props ready. Below are discussed metaverse devices that are crucial for such transportation.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+### 1\. Computer (PC)
+
+Laying your hands on a perfectly functioning computer device is one of the first necessities. Intel grabbed worldwide attention a few days ago when it said that for metaverse to work properly, one will need devices with 1000x more computing power than what the technology offers today. But since metaverse is still in its embryo, the configuration we have already functioned just fine.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+### 2\. Smartphone
+
+Smartphones are the next important metaverse device with chipmakers like Qualcomm, Samsung already sharing their dedication to the mobile metaverse segment. Smartphones with the hardware they already come with are useful though for enjoying some of the games and platforms that use augmented reality.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3.5G Mobile Networks
+
+For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Metaverse Device 5G Network](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-5g-network.jpg)
+
+Source: firstpoint-mg.com
+
+### 4\. AR Glasses
+
+Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss out on. These are smart wearables and help in embodied experiences.
+
+### 5\. VR Headset
+
+Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
+
+Source: theverge.com
+
+### 6\. VR Gloves
+
+Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
+
+Source: wired.com
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+### 7\. Wrist-Based Bands
+
+Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
+
+![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
+
+## Part 3: Eye on the Future: Where Will Metaverse Go?
+
+Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Conclusion
+
+The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Buzzwords are nothing new. What is new about the past couple of years’ experience regarding buzzwords in their profusion? That is thanks to the COVID 19 pandemic which rather contrary to common-sense expectations acted as a catalyst to processes that were either yet to be hatched or were lying dormant. The world of tech has been at the forefront of such unfolding and hence words like Artificial Intelligence, Distributed Cloud, Hyper Automation, Metaverse, Everything as a service (XaaS), Quantum Computing, Cybersecurity Mesh, and many, many more have gained wide currency rather quickly. So let us begin at the beginning by understanding what it is that we talk about when we are talking about Metaverse nowadays.
+
+![Metaverse Device](https://images.wondershare.com/filmora/article-images/2021/metaverse-device.jpg)
+
+Source: thenextweb.com
+
+#### In this article
+
+01 [What Is Metaverse Technology?](#part1)
+
+02 [Must-Have Metaverse Devices You Should Know](#part2)
+
+03 [Eye on the Future: Where Will Metaverse Go?](#part3)
+
+## Part 1: What Is Metaverse Technology?
+
+The word Metaverse might be a hot topic today but it has been around for quite a significant amount of time now. In his 1992 sci-fi novel “Snow Crash”, author Neal Stephenson coined the term first. The word referred to the author’s projection of a world that is a 3D simulation per excellence populated by lifelike virtual avatars. The world has moved on since 1992 and so the idea of Metaverse has undergone further developments as well. Tech milestones like augmented reality, virtual reality, 3D holographic avatars, and advanced communication techniques, all forayed into the arena.
+
+So yes, Metaverse is quite literally a digital universe that is given body by the joint efforts made by the above-noted technologies. Here users, or more precisely, their digital avatars, can live in the truest sense of the word. As of now, using an assortment of metaverse devices, users can work, play, socialize in this virtual realm. They can even visit concerts, join conferences or take virtual trips around the Metaverse using this technology. If you want to know more details about Metaverse, this article will be helpful: [Everything you wanted to know about the metaverse](https://tools.techidaily.com/wondershare/filmora/download/).
+
+To get a fairer idea, one can head straight to a number of social media platforms and game universes that are offering today entry into such hyper-real virtual spaces. Some of these platforms are:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Meta
+
+Apart from the acquisition of Oculus, a company that manufactures Virtual Reality (VR) headsets, in 2014, the tech mammoth Facebook has made public its immense interest in virtual reality by rebranding itself as Meta this year. Mark Zuckerberg, CEO of Meta, voiced his support for the Metaverse when, while declaring the rebranding, he said, “The next platform and medium will be a much more immersive and embodied internet where you’re in the experience, not just looking at it, and we call this the metaverse.” Meta has delivered on this by unveiling the Horizon Workrooms beta, a virtual meeting area designed for co-workers to hold their meetings using a metaverse device.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![metaverse device meta](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-meta.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Microsoft
 
 It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
@@ -80,6 +330,9 @@ Smartphones are the next important metaverse device with chipmakers like Qualcom
 
 For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Metaverse Device 5G Network](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-5g-network.jpg)
 
 Source: firstpoint-mg.com
@@ -88,10 +341,16 @@ Source: firstpoint-mg.com
 
 Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss out on. These are smart wearables and help in embodied experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 5\. VR Headset
 
 Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
 
 Source: theverge.com
@@ -100,6 +359,9 @@ Source: theverge.com
 
 Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
 
 Source: wired.com
@@ -108,12 +370,23 @@ Source: wired.com
 
 Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
 
 ## Part 3: Eye on the Future: Where Will Metaverse Go?
 
 Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
@@ -152,10 +425,16 @@ Apart from the acquisition of Oculus, a company that manufactures Virtual Realit
 
 It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### 3\. Epic Games
 
 Epic Games is a video game company that has made headlines by virtue of its extraordinary contributions in this regard. “It’s no secret that Epic is invested in building the metaverse”, said Tim Sweeney, CEO of Epic Games. Epic Games has made it further immersive by holding music concerts by artists like Arianna Grande, Travis Scott, unveiling movie trailers and music debuts in the metaverse. A splendid remaking of Martin Luther King Jr’s famed “I Have a Dream” speech earned it further credentials. Epic Games is reportedly emphasizing its MetaHuman Creator, a technology that helps users customize better their digital avatars.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Must-Have Metaverse Devices You Should Know
 
 It is entering the metaverse that necessitates that one first has one’s props ready. Below are discussed metaverse devices that are crucial for such transportation.
@@ -168,6 +447,9 @@ Laying your hands on a perfectly functioning computer device is one of the first
 
 Smartphones are the next important metaverse device with chipmakers like Qualcomm, Samsung already sharing their dedication to the mobile metaverse segment. Smartphones with the hardware they already come with are useful though for enjoying some of the games and platforms that use augmented reality.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.5G Mobile Networks
 
 For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
@@ -184,6 +466,9 @@ Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss
 
 Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
 
 Source: theverge.com
@@ -192,204 +477,53 @@ Source: theverge.com
 
 Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
 
 Source: wired.com
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Wrist-Based Bands
 
 Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Eye on the Future: Where Will Metaverse Go?
 
 Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
 
-### Conclusion
-
-The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Buzzwords are nothing new. What is new about the past couple of years’ experience regarding buzzwords in their profusion? That is thanks to the COVID 19 pandemic which rather contrary to common-sense expectations acted as a catalyst to processes that were either yet to be hatched or were lying dormant. The world of tech has been at the forefront of such unfolding and hence words like Artificial Intelligence, Distributed Cloud, Hyper Automation, Metaverse, Everything as a service (XaaS), Quantum Computing, Cybersecurity Mesh, and many, many more have gained wide currency rather quickly. So let us begin at the beginning by understanding what it is that we talk about when we are talking about Metaverse nowadays.
-
-![Metaverse Device](https://images.wondershare.com/filmora/article-images/2021/metaverse-device.jpg)
-
-Source: thenextweb.com
-
-#### In this article
-
-01 [What Is Metaverse Technology?](#part1)
-
-02 [Must-Have Metaverse Devices You Should Know](#part2)
-
-03 [Eye on the Future: Where Will Metaverse Go?](#part3)
-
-## Part 1: What Is Metaverse Technology?
-
-The word Metaverse might be a hot topic today but it has been around for quite a significant amount of time now. In his 1992 sci-fi novel “Snow Crash”, author Neal Stephenson coined the term first. The word referred to the author’s projection of a world that is a 3D simulation per excellence populated by lifelike virtual avatars. The world has moved on since 1992 and so the idea of Metaverse has undergone further developments as well. Tech milestones like augmented reality, virtual reality, 3D holographic avatars, and advanced communication techniques, all forayed into the arena.
-
-So yes, Metaverse is quite literally a digital universe that is given body by the joint efforts made by the above-noted technologies. Here users, or more precisely, their digital avatars, can live in the truest sense of the word. As of now, using an assortment of metaverse devices, users can work, play, socialize in this virtual realm. They can even visit concerts, join conferences or take virtual trips around the Metaverse using this technology. If you want to know more details about Metaverse, this article will be helpful: [Everything you wanted to know about the metaverse](https://tools.techidaily.com/wondershare/filmora/download/).
-
-To get a fairer idea, one can head straight to a number of social media platforms and game universes that are offering today entry into such hyper-real virtual spaces. Some of these platforms are:
-
-### 1\. Meta
-
-Apart from the acquisition of Oculus, a company that manufactures Virtual Reality (VR) headsets, in 2014, the tech mammoth Facebook has made public its immense interest in virtual reality by rebranding itself as Meta this year. Mark Zuckerberg, CEO of Meta, voiced his support for the Metaverse when, while declaring the rebranding, he said, “The next platform and medium will be a much more immersive and embodied internet where you’re in the experience, not just looking at it, and we call this the metaverse.” Meta has delivered on this by unveiling the Horizon Workrooms beta, a virtual meeting area designed for co-workers to hold their meetings using a metaverse device.
-
-![metaverse device meta](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-meta.jpg)
-
-### 2\. Microsoft
-
-It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
-
-### 3\. Epic Games
-
-Epic Games is a video game company that has made headlines by virtue of its extraordinary contributions in this regard. “It’s no secret that Epic is invested in building the metaverse”, said Tim Sweeney, CEO of Epic Games. Epic Games has made it further immersive by holding music concerts by artists like Arianna Grande, Travis Scott, unveiling movie trailers and music debuts in the metaverse. A splendid remaking of Martin Luther King Jr’s famed “I Have a Dream” speech earned it further credentials. Epic Games is reportedly emphasizing its MetaHuman Creator, a technology that helps users customize better their digital avatars.
-
-## Part 2: Must-Have Metaverse Devices You Should Know
-
-It is entering the metaverse that necessitates that one first has one’s props ready. Below are discussed metaverse devices that are crucial for such transportation.
-
-### 1\. Computer (PC)
-
-Laying your hands on a perfectly functioning computer device is one of the first necessities. Intel grabbed worldwide attention a few days ago when it said that for metaverse to work properly, one will need devices with 1000x more computing power than what the technology offers today. But since metaverse is still in its embryo, the configuration we have already functioned just fine.
-
-### 2\. Smartphone
-
-Smartphones are the next important metaverse device with chipmakers like Qualcomm, Samsung already sharing their dedication to the mobile metaverse segment. Smartphones with the hardware they already come with are useful though for enjoying some of the games and platforms that use augmented reality.
-
-### 3.5G Mobile Networks
-
-For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
-
-![Metaverse Device 5G Network](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-5g-network.jpg)
-
-Source: firstpoint-mg.com
-
-### 4\. AR Glasses
-
-Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss out on. These are smart wearables and help in embodied experiences.
-
-### 5\. VR Headset
-
-Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
-
-![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
-
-Source: theverge.com
-
-### 6\. VR Gloves
-
-Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
-
-![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
-
-Source: wired.com
-
-### 7\. Wrist-Based Bands
-
-Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
-
-![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
-
-## Part 3: Eye on the Future: Where Will Metaverse Go?
-
-Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
-
-### Conclusion
-
-The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Buzzwords are nothing new. What is new about the past couple of years’ experience regarding buzzwords in their profusion? That is thanks to the COVID 19 pandemic which rather contrary to common-sense expectations acted as a catalyst to processes that were either yet to be hatched or were lying dormant. The world of tech has been at the forefront of such unfolding and hence words like Artificial Intelligence, Distributed Cloud, Hyper Automation, Metaverse, Everything as a service (XaaS), Quantum Computing, Cybersecurity Mesh, and many, many more have gained wide currency rather quickly. So let us begin at the beginning by understanding what it is that we talk about when we are talking about Metaverse nowadays.
-
-![Metaverse Device](https://images.wondershare.com/filmora/article-images/2021/metaverse-device.jpg)
-
-Source: thenextweb.com
-
-#### In this article
-
-01 [What Is Metaverse Technology?](#part1)
-
-02 [Must-Have Metaverse Devices You Should Know](#part2)
-
-03 [Eye on the Future: Where Will Metaverse Go?](#part3)
-
-## Part 1: What Is Metaverse Technology?
-
-The word Metaverse might be a hot topic today but it has been around for quite a significant amount of time now. In his 1992 sci-fi novel “Snow Crash”, author Neal Stephenson coined the term first. The word referred to the author’s projection of a world that is a 3D simulation per excellence populated by lifelike virtual avatars. The world has moved on since 1992 and so the idea of Metaverse has undergone further developments as well. Tech milestones like augmented reality, virtual reality, 3D holographic avatars, and advanced communication techniques, all forayed into the arena.
-
-So yes, Metaverse is quite literally a digital universe that is given body by the joint efforts made by the above-noted technologies. Here users, or more precisely, their digital avatars, can live in the truest sense of the word. As of now, using an assortment of metaverse devices, users can work, play, socialize in this virtual realm. They can even visit concerts, join conferences or take virtual trips around the Metaverse using this technology. If you want to know more details about Metaverse, this article will be helpful: [Everything you wanted to know about the metaverse](https://tools.techidaily.com/wondershare/filmora/download/).
-
-To get a fairer idea, one can head straight to a number of social media platforms and game universes that are offering today entry into such hyper-real virtual spaces. Some of these platforms are:
-
-### 1\. Meta
-
-Apart from the acquisition of Oculus, a company that manufactures Virtual Reality (VR) headsets, in 2014, the tech mammoth Facebook has made public its immense interest in virtual reality by rebranding itself as Meta this year. Mark Zuckerberg, CEO of Meta, voiced his support for the Metaverse when, while declaring the rebranding, he said, “The next platform and medium will be a much more immersive and embodied internet where you’re in the experience, not just looking at it, and we call this the metaverse.” Meta has delivered on this by unveiling the Horizon Workrooms beta, a virtual meeting area designed for co-workers to hold their meetings using a metaverse device.
-
-![metaverse device meta](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-meta.jpg)
-
-### 2\. Microsoft
-
-It is another tech giant that has advanced considerably in this direction when it revealed its very own hologram technology back in 2019\. Microsoft holograms can change someone into a digital speaker of an alien language. The Microsoft Mesh platform has since then been busy developing mixed and extended reality applications. Microsoft has also made known its intention of developing Microsoft Teams along these lines in 2022\. Collaboration with the U.S. army is also underway aimed at designing an augmented reality Hololens 2 hardware that will help soldiers train better. Microsoft’s Xbox Live must be accounted for here as well as it establishes connections between millions of video gamers from around the globe. The company would also start working on the development of 3D hyper-real spaces for the world of retail and general workplaces.
-
-### 3\. Epic Games
-
-Epic Games is a video game company that has made headlines by virtue of its extraordinary contributions in this regard. “It’s no secret that Epic is invested in building the metaverse”, said Tim Sweeney, CEO of Epic Games. Epic Games has made it further immersive by holding music concerts by artists like Arianna Grande, Travis Scott, unveiling movie trailers and music debuts in the metaverse. A splendid remaking of Martin Luther King Jr’s famed “I Have a Dream” speech earned it further credentials. Epic Games is reportedly emphasizing its MetaHuman Creator, a technology that helps users customize better their digital avatars.
-
-## Part 2: Must-Have Metaverse Devices You Should Know
-
-It is entering the metaverse that necessitates that one first has one’s props ready. Below are discussed metaverse devices that are crucial for such transportation.
-
-### 1\. Computer (PC)
-
-Laying your hands on a perfectly functioning computer device is one of the first necessities. Intel grabbed worldwide attention a few days ago when it said that for metaverse to work properly, one will need devices with 1000x more computing power than what the technology offers today. But since metaverse is still in its embryo, the configuration we have already functioned just fine.
-
-### 2\. Smartphone
-
-Smartphones are the next important metaverse device with chipmakers like Qualcomm, Samsung already sharing their dedication to the mobile metaverse segment. Smartphones with the hardware they already come with are useful though for enjoying some of the games and platforms that use augmented reality.
-
-### 3.5G Mobile Networks
-
-For metaverse to really get under one’s skin, one needs a powerful and lightning-fast network that 5G technology promises. Extensive penetration of 5G mobile networks is therefore extremely important.
-
-![Metaverse Device 5G Network](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-5g-network.jpg)
-
-Source: firstpoint-mg.com
-
-### 4\. AR Glasses
-
-Augmented Reality (AR) glasses are metaverse devices that one simply cannot miss out on. These are smart wearables and help in embodied experiences.
-
-### 5\. VR Headset
-
-Virtual Reality (VR) headsets make use of technologies such as gyroscopes, accelerometers, magnetometers, etc along with a stereoscopic head-mounted display that provides separate images for each eye. Among metaverse devices, these are steadily gaining popularity.
-
-![Metaverse VR Headset](https://images.wondershare.com/filmora/article-images/2021/metaverse-glasses-hololens.jpg)
-
-Source: theverge.com
-
-### 6\. VR Gloves
-
-Using VR gloves, alternatively meta-haptic gloves, one can feel Virtual Reality (VR) objects as if they were real. Sounds insane but companies like HaptX have already offered their line-ups of such hyper-real interfaces.
-
-![Metaverse Device VR Gloves](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-vr-gloves.jpg)
-
-Source: wired.com
-
-### 7\. Wrist-Based Bands
-
-Meta is a forerunner in offering this new AR device that can read motor movements and can help interact with the virtual world more effortlessly.
-
-![Metaverse Device Wrist-Based Bands](https://images.wondershare.com/filmora/article-images/2021/metaverse-device-bands.jpg)
-
-## Part 3: Eye on the Future: Where Will Metaverse Go?
-
-Growing digitization is a fact of 21st-century humanity. As long as the ethical underpinnings of such a development get predominant over the technology part, we must welcome such efforts. As some reports on the prevailing sexist atmospheres in some metaverse spaces have underlined, the realm needs regulations. The impact on the environment, data privacy are some other issues that we must come to terms with. Beyond these, the possibilities that metaverse technology has already pointed at herald a future that is every bit worth experiencing.
-
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 The concept of metaverse needs not be demonized at this early stage. In fact, the very fact that the idea is still inchoate makes us agents of deciding whether we want to create a bubble universe that keeps out the digital proletariat or a universe that can get past the constraints of time and space to give a new lease of human creativity. But whatever the path that the technology takes, it is beyond dispute that the metaverse is here to stay. And this makes it mandatory that one gets acquainted with the gears that are needed to undertake this journey. With a flurry of brands offering good products, the only thing one needs to get right is the basics of such devices.
@@ -418,3 +552,74 @@ The concept of metaverse needs not be demonized at this early stage. In fact, th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-make-a-3d-text-effect-in-photoshop/"><u>[New] 2024 Approved  How to Make a 3D Text Effect in Photoshop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-techniques-for-using-live-photos-in-mobile-devices/"><u>[New] Advanced Techniques for Using Live Photos in Mobile Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-list-of-no-download-online-gif-to-video-converters/"><u>[New] Comprehensive List of No-Download Online GIF to Video Converters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-steps-to-save-youtube-videos-for-2024/"><u>[New] Easy Steps to Save YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-how-to-add-the-date-to-photo/"><u>[New] How to Add the Date to Photo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-with-customized-youtube-audiences/"><u>[New] Maximizing Impact with Customized Youtube Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-most-advanced-drone-technology-aligned-with-gopros/"><u>[New] Most Advanced Drone Technology Aligned with GoPros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-best-online-destinations-for-accessible-images/"><u>[Updated] 10 Best Online Destinations for Accessible Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>[Updated] Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chorus-chronicles-storytelling-with-musical-themes/"><u>[Updated] Chorus Chronicles  Storytelling with Musical Themes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-click-to-chatter-turning-titles-into-talk-on-fb-for-2024/"><u>[Updated] From Click to Chatter  Turning Titles Into Talk on FB for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[Updated] In 2024, Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[Updated] Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/11-tricks-for-facebook-video-marketing-to-drive-more-traffic/"><u>11 Tricks for Facebook Video Marketing to Drive More Traffic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beat-zoom-audio-disruptions-strategic-solutions/"><u>2024 Approved  Beat Zoom Audio Disruptions  Strategic Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-command-prompt-wizardry-opening-srt-in-winosx/"><u>2024 Approved  Command Prompt Wizardry  Opening SRT in Win/OSX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-harnessing-webcams-a-2023-guide-to-slidecast-perfection/"><u>2024 Approved  Harnessing Webcams  A 2023 Guide to Slidecast Perfection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guides-to-3d-type-exploration/"><u>2024 Approved  Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>2024 Approved  Visualizing Sim Life  Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-list-selecting-best-free-srt-translators/"><u>A Comprehensive List  Selecting Best FREE SRT Translators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-deep-dive-into-metaverse-vs-multi-meva-key-differences-explored-for-2024/"><u>A Deep Dive Into Metaverse Vs. Multi-Meva  Key Differences Explored for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/action-cam-buyers-guide-affordable-high-definition-for-2024/"><u>Action Cam Buyer’s Guide - Affordable, High Definition for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-youtube-music-to-video-for-2024/"><u>Adding YouTube Music To Video for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-subtitle-editing-unlocking-potential-with-macos-for-2024/"><u>Advanced Subtitle Editing  Unlocking Potential with MacOS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-nord-n30-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Nord N30 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-where-to-download-text-overlays/"><u>Best Practices  Where to Download Text Overlays</u></a></li>
+<li><a href="https://facebook.techidaily.com/can-metamorphosis-be-beneficial-meta-ai-meets-social-networks/"><u>Can Metamorphosis Be Beneficial: Meta AI Meets Social Networks?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capturing-stories-the-best-cinematographic-techniques-for-2024/"><u>Capturing Stories  The Best Cinematographic Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix/"><u>Enhance Your Viewing with Ease  Utilizing the PIP Mode on Netflix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-virtual-journey-with-kinemaster-expertise-and-best-opponent-platforms/"><u>Enhance Your Virtual Journey with KineMaster Expertise & Best Opponent Platforms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-add-filters-and-music-on-windows-10-photos-app-for-2024/"><u>How to Add Filters and Music on Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-quickly-modify-your-voice-for-gameplay-advantage/"><u>How to Quickly Modify Your Voice for Gameplay Advantage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-2022-ice-dancing-showcase-review/"><u>In 2024, 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-25-groundbreaking-metaverse-initiatives-for-comprehension/"><u>In 2024, 25 Groundbreaking Metaverse Initiatives for Comprehension</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-64128gb-data-puzzle-solving-video-limits/"><u>In 2024, 64/128GB Data Puzzle  Solving Video Limits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aerial-vehicles-deciphered-how-they-fly-and-communicate/"><u>In 2024, Aerial Vehicles Deciphered  How They Fly & Communicate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-ffmpegs-compatibility-with-original-soundscape/"><u>In 2024, Analyzing FFmpeg's Compatibility with Original Soundscape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>In 2024, Beyond Basic Editing  Innovative Use of LUTs for Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>In 2024, Cold Climate Conquests  Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-15-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 15 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conveniently-altering-resolution-on-ios-devices/"><u>In 2024, Conveniently Altering Resolution on iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>In 2024, Masterclass Guide  Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pair-off-in-perfection-7-stunning-wedding-films-from-youtube-plus-vimeo/"><u>In 2024, Pair Off in Perfection  7 Stunning Wedding Films From Youtube + Vimeo</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-first-steps-in-video-content-creation/"><u>In 2024, Your First Steps in Video Content Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-edge-in-online-gif-conversion-to-video-best-5/"><u>Leading Edge in Online GIF Conversion to Video (Best 5)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-your-creative-vision-with-digital-cropting-skills/"><u>Master Your Creative Vision with Digital Cropting Skills</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-vlc-top-10-hidden-player-powers/"><u>Pro-VLC  Top 10 Hidden Player Powers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/more-viewers-to-your-channel-with-easy-tricks-2-for-2024/"><u>Push More Viewers to Your Channel with Easy Tricks (2) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quirky-creations-your-guide-to-no-cost-memes/"><u>Quirky Creations – Your Guide to No-Cost Memes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/redefine-your-tiktok-story-creative-strategies-for-background-enhancement/"><u>Redefine Your TikTok Story  Creative Strategies for Background Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-display-order-easy-windows-method/"><u>Reversing Display Order: Easy Windows Method</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/seamless-social-media-execution-with-the-top-8-iphone-and-android-apps-for-2024/"><u>Seamless Social Media Execution with The Top 8 iPhone & Android Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-mastery-uploading-subtitles-to-gain-visibility-in-online-communities/"><u>Step-by-Step Mastery  Uploading Subtitles to Gain Visibility in Online Communities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-to-save-your-tweet-videos-in-a-compressed-mp3-file-form/"><u>Steps to Save Your Tweet Videos in a Compressed MP3 File Form</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-picshot-advantage-flawless-collage-construction/"><u>The Picshot Advantage  Flawless Collage Construction</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite-for-2024/"><u>The Ultimate Guide for Implementing Look-Up Tables in Creative Suite for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-selecting-optimal-drones-motors/"><u>The Ultimate Guide to Selecting Optimal Drones Motors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-methods-for-capturing-sound-in-windows-11/"><u>Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-imagery-with-quantum-hdr/"><u>Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-the-dynamics-of-spotify-advertising/"><u>Understanding the Dynamics of Spotify Advertising</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-income-insights-a-triple-step-technique-for-tracking-youtube-revenue-for-2024/"><u>Unveiling Income Insights  A Triple Step Technique for Tracking YouTube Revenue for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-pristine-sources-for-high-quality-tamil-ringtone-files/"><u>Unveiling Pristine Sources for High-Quality Tamil Ringtone Files</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>Updated 2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/which-is-the-better-gopro-for-pro-video-max-or-hero-11/"><u>Which Is The Better GoPro for Pro Video? Max or Hero 11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-video-perfection-repairing-cameras-of-today-and-tomorrow/"><u>Zoom Video Perfection: Repairing Cameras of Today & Tomorrow</u></a></li>
+</ul></div>

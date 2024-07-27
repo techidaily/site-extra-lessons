@@ -1,7 +1,7 @@
 ---
 title: "Exploring Innovative Sequencing with GoPro's Burst Feature"
-date: 2024-05-24T07:34:17.407Z
-updated: 2024-05-25T07:34:17.407Z
+date: 2024-07-26T19:06:26.532Z
+updated: 2024-07-27T19:06:26.532Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring Innovative Sequencing with GoPro's Burst Feature"
 excerpt: "This Article Describes Exploring Innovative Sequencing with GoPro's Burst Feature"
 keywords: "\"GoPro Burst Explained,Innovate Sequencing Pro,Burst Tech in Action,Capturing Dynamics Quickly,High-Speed Video Sequence,Creative Filming with GoPro,Advanced Camera Bursting\""
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Exploring Innovative Sequencing with GoPro's Burst Feature
@@ -32,6 +32,57 @@ thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/fi
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Turning the burst mode on your GoPro on
+
+1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
+2. Now you need to hit the 'mode' button twice to go to Burst mode
+3. Finally just click on 'rate' to choose the burst rate
+
+ The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
+
+4. Click the FOV to choose field of view
+5. Click the 'mode' button again to choose the metering preference – full frame or spot
+
+ Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
+
+ Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
+
+6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
+
+## The Burst Mode in your GoPro is all ready to use
+
+ Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Turning the burst mode on your GoPro on
 
 1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
@@ -71,6 +122,9 @@ Follow @Max Wales
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Turning the burst mode on your GoPro on
 
 1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
@@ -88,6 +142,9 @@ Follow @Max Wales
 
 6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Burst Mode in your GoPro is all ready to use
 
  Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
@@ -127,49 +184,16 @@ Follow @Max Wales
 
 6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Burst Mode in your GoPro is all ready to use
 
  Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The burst mode in GoPro cameras can be used for shooting a number of images in a go. This would allow you to select the image which has been most perfectly captured. Burst Mode is nothing but a sequence of still photos which have been captured just like a video footage.The Hero5 Black cameras are capable of recording videos up to 240 fps which means it can take about 240 images per second. In this article we are going to discuss everything you need to know about the GoPro Burst Mode.
-
-![文字](https://images.wondershare.com/filmora/article-images/gopro-hero5-black-1.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
-
-## Turning the burst mode on your GoPro on
-
-1. First you have to switch on your camera and press the 'mode' to see the shooting mode menu
-2. Now you need to hit the 'mode' button twice to go to Burst mode
-3. Finally just click on 'rate' to choose the burst rate
-
- The GoPro Hero5 Black models can capture between 30 frame per second to 3 frame per second. Use the touch screen to select your frame rate. Once the burst rate has been selected you need to attend to a few more settings-
-
-4. Click the FOV to choose field of view
-5. Click the 'mode' button again to choose the metering preference – full frame or spot
-
- Regular full frame metering: Metering or light metering needs to be selected so as to adjust the level of brightness of the image. Your GoPro cam would automatically adjust the brightness level according to the subject in the frame.
-
- Spot Metering: This option supersedes the regular metering style. Here the whole picture is metered on the basis of a hypothetical spot in the middle of the picture. This can come in handy while capturing a specific object like people in crowd or an animal from a distance.
-
-6. The 'mode' button has to be clicked once more to turn on/off the ProTune You don't have to bother about ProTune unless you are considering creating a video out of the images. If you just want to view your clips then there is no reason to turn on ProTune. ProTune is known to affect some of the factors linked with the captured images such as colour, FOV, sharpness etc. It allows the professional editors to play with a number of editing options for adjusting the footage.
-
-## The Burst Mode in your GoPro is all ready to use
-
- Now that you have learned everything about using the Burst Mode on your GoPro, you just need to select the 'exit' button or click on the 'setting tag' button (which is just to the left of the 'mode' button) for saving the present settings and then exit. The GoPro Burst Mode is now all set up in your camera. All you need to do is select your resolution, speed and the metering before you hit the shutter. Now that you know everything about the Burst Mode on your action camera all you have to do is hit the road and keep shooting.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -202,3 +226,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-clearer-anonymity-discreet-faces-deletion/"><u>[New] Clearer Anonymity  Discreet Faces Deletion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023s-leading-applications-for-downloading-facebook-lite-videos-for-2024/"><u>[Updated] 2023'S Leading Applications for Downloading Facebook Lite Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-demystifying-vimeo-top-choice-for-filmmakers/"><u>[Updated] 2024 Approved  Demystifying Vimeo  Top Choice for Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-mastery-techniques-for-windows-users/"><u>[Updated] Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-ways-to-prevent-oculus-rift-vr-motion-sickness/"><u>2024 Approved  10 Ways to Prevent Oculus Rift VR Motion Sickness</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-review-best-dynamic-capture-devices/"><u>2024 Approved  Essential Review  Best Dynamic Capture Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-fascinating-topic-titling-system/"><u>2024 Approved  Fascinating Topic Titling System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/acknowledgement-pack-free-and-paid-otus-ready-for-2024/"><u>Acknowledgement Pack  Free & Paid OTUs Ready for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/arctic-acrobatics-2022s-olympians/"><u>Arctic Acrobatics  2022'S Olympians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/are-opinions-on-goods-compensated-in-videos/"><u>Are Opinions on Goods Compensated in Videos?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-aficionados-quandary-pick-between-podcast-and-youtube-for-2024/"><u>Audio Aficionados' Quandary  Pick Between Podcast and YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/authenticity-through-customer-produced-videos/"><u>Authenticity Through Customer-Produced Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-examination-for-straightforward-hdr-for-2024/"><u>Comprehensive Examination for Straightforward HDR for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-podcast-imagery-fundamental-tips-for-2024/"><u>Crafting Compelling Podcast Imagery  Fundamental Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/critical-5-changes-in-apple-phone-photoshoot-settings/"><u>Critical 5 Changes in Apple Phone Photoshoot Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-productivity-zoom-features-for-windows-users-win10/"><u>Enhancing Productivity  Zoom Features for Windows Users (Win10)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-netflixs-innovative-multi-stream-feature/"><u>Exploring Netflix's Innovative Multi-Stream Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/facial-forgetting-strategies-for-image-anonymity/"><u>Facial Forgetting  Strategies for Image Anonymity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/frugal-cloud-loft-economical-space-for-huge-file-stashes/"><u>Frugal Cloud Loft  Economical Space for Huge File Stashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/humor-synthesizer-zombified-appliances/"><u>Humor Synthesizer  Zombified Appliances</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehending-the-basics-of-whatsapp-calls/"><u>In 2024, Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi 14 Phone Without Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soft-soundscapes-low-profile-alterations-in-garageband/"><u>In 2024, Soft Soundscapes  Low-Profile Alterations in Garageband</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-fundamentals-of-navigating-youtube-regulations/"><u>In 2024, The Fundamentals of Navigating YouTube Regulations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reactivate-and-enhance-photo-viewing-with-ease-win-11/"><u>Reactivate and Enhance Photo Viewing with Ease (Win 11)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-the-mystery-of-c1900101-during-windows-11-upgrade/"><u>Solving the Mystery of C1900101 During Windows 11 Upgrade</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srgb-adoption-over-traditional-rgb-techniques/"><u>Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-for-initiating-a-social-media-charity-drive/"><u>Steps for Initiating a Social Media Charity Drive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-reality-the-new-frontier-in-games-and-play/"><u>Virtual Reality  The New Frontier in Games & Play</u></a></li>
+</ul></div>

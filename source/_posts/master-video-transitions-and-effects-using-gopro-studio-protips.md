@@ -1,7 +1,7 @@
 ---
 title: "Master Video Transitions and Effects Using GoPro Studio ProTips"
-date: 2024-05-24T08:50:09.781Z
-updated: 2024-05-25T08:50:09.781Z
+date: 2024-07-26T21:19:14.025Z
+updated: 2024-07-27T21:19:14.025Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Master Video Transitions and Effects Using GoPro Studio ProTips"
 excerpt: "This Article Describes Master Video Transitions and Effects Using GoPro Studio ProTips"
 keywords: "GoPro Studio Pro Tips,Master Transition Effects,ProVideo Editing Techniques,GoPro Video Enhancements,Advanced Video Editing,Creative Video Edits,Professional Video Tricks"
-thumbnail: https://www.lifewire.com/thmb/lx45d5znCjBzyeBL8vl_6s2kjOI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/motorola-razr-40-ultra-Lifestyle-6-c1e1e14eeedd4b9da726d158e4d4633b.jpeg
+thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a5548956162285f37bc39ffc3e.jpeg
 ---
 
 ## Master Video Transitions and Effects Using GoPro Studio ProTips
@@ -36,6 +36,9 @@ thumbnail: https://www.lifewire.com/thmb/lx45d5znCjBzyeBL8vl_6s2kjOI=/400x300/fi
 
  GoPro Studio is a very basic video editing for your action camera clips, if you want a video editing software more advanced, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which allows you to merge and cut your action camera videos within clicks without quality loss.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -47,12 +50,18 @@ thumbnail: https://www.lifewire.com/thmb/lx45d5znCjBzyeBL8vl_6s2kjOI=/400x300/fi
 * [**Part1: How to Edit GoPro Videos with GoPro Studio**](#part1)
 * [**Part2: 3 Alternatives to GoPro Video Editor**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Edit GoPro Videos with GoPro Studio
 
 #### 1\. **Importing videos**
 
  First step for editing is importing the video files from the GoPro. Open the GoPro Studio and then, you will find a blue colour button on the top left corner of the window labelled as "Import New Files". Click on that button and select the files that you want to include.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Import videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-1.jpg)
 
 #### 2\. **Trimming**
@@ -66,22 +75,35 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  If you want to change any setting like frames per second, size of the video, change format, increasing speed or any other setting; you can go to advanced settings and make the changes. Don't forget to click on "remember setting" button after you have made the settings otherwise it will not save the settings that you would have made.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Change video settings in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-3.jpg)
 
 #### 4\. **Adding files to convert list**
 
  Now, you need to add the roughly trimmed files to the conversion list so that you can start with the editing. For that select the clip and then, go to "Add Clip To Conversion List". In this way, add all the clips one by one to the list and they will appear on the right column of the GoPro window when added. In this step, you are also enabled to add the new videos, trim them at the moment and rotate them. Once you have added all the clips to conversion list, convert them by clicking on "Convert All" button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hwo to use gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-4.jpg)
 
  On the completion of conversion, a pop up message labelled as "Proceed to Step 2" will appear on the screen and you need to click on that for proceeding to editing mode.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit gopro videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-5.jpg)
 
 #### 5\. **Adding Title**
 
  Now, GoPro Studio will offer you two options; creating a totally new video or using the templates in the software. In the case you choose the second option, you need to do only one thing which is replacing the videos with the selected files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create new videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-6.jpg)
 
  For creating the new video, click on "Blank" button and then on "create". Now, click on the "Title" button and type the title name that you want. You can also change the font size, colour and some other features of the title. After finalising the title, drag it to the "Drag videos here" option and if you want it to appear in the video, then you can drag it to "Drag title here".
@@ -110,6 +132,10 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 ## Part 2: 3 Alternatives to GoPro Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### 1. [Lightworks](https://www.lwks.com/)
 
  Are you thinking how to edit GoPro videos? Try out Lightworks that is one of the best tools to edit GoPro video and the most trusted one since 25yrs. It has been used to edit some of the finest films in the history of cinema like the LA Confidential, Wolf of Wall Street, etc. Whether a 4K film project or a YouTube video or a video for social media, Lightsworks definitely is one of the best of all with a simple user interface and easy trimming and editing timeline.
@@ -125,6 +151,14 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 93 M
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lightwork](https://images.wondershare.com/filmora/article-images/lightwork-editor.JPG)
 
 ### 2. [Splice](http://www.spliceapp.com/)
@@ -142,8 +176,14 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 123.1 M
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![splice](https://images.wondershare.com/filmora/article-images/splice.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3. [Adobe Premiere](https://www.adobe.com/products/premiere.html)
 
  Often how to edit GoPro videos becomes a reason for concern. But, you need not worry as the Adobe Premiere Pro tool helps you to turn the raw video clips into flawless production in a matter of no few seconds. Refining audio or adjusting color or any other transitional effect is very simple whenever you wish to edit GoPro videos with the Adobe Premiere tool.
@@ -161,12 +201,18 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 ![premiere](https://images.wondershare.com/filmora/article-images/premiere-pro-cc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  If editing video clips in GoPro  is not what you want, you can use some [best video editing software for GoPro videos](https://tools.techidaily.com/wondershare/filmora/download/). Here we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Apart from the basic video editing features, you can also perform some advanced features in Filmora, such as [stabilize the shaky GoPro videos](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video below to check what Filmora can do for you.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -213,6 +259,9 @@ Follow @Ollie Mattison
  After you have imported the videos, cut the unnecessary portion of the videos that you are not interested to include, this trimming or cutting should be done before you start the actual editing.  
 For that, click on the thumbnails of the videos and then on "play". This will result into playing the video. There are two trimming buttons on the left of the window that you can use for marking the beginning and ending of the clip which you want to include. In this way, you can select the number of videos clips that you want to include in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Trimming videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-2.jpg)
 
 #### 3\. **Changing video settings**
@@ -225,16 +274,25 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  Now, you need to add the roughly trimmed files to the conversion list so that you can start with the editing. For that select the clip and then, go to "Add Clip To Conversion List". In this way, add all the clips one by one to the list and they will appear on the right column of the GoPro window when added. In this step, you are also enabled to add the new videos, trim them at the moment and rotate them. Once you have added all the clips to conversion list, convert them by clicking on "Convert All" button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![hwo to use gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-4.jpg)
 
  On the completion of conversion, a pop up message labelled as "Proceed to Step 2" will appear on the screen and you need to click on that for proceeding to editing mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit gopro videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-5.jpg)
 
 #### 5\. **Adding Title**
 
  Now, GoPro Studio will offer you two options; creating a totally new video or using the templates in the software. In the case you choose the second option, you need to do only one thing which is replacing the videos with the selected files.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Create new videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-6.jpg)
 
  For creating the new video, click on "Blank" button and then on "create". Now, click on the "Title" button and type the title name that you want. You can also change the font size, colour and some other features of the title. After finalising the title, drag it to the "Drag videos here" option and if you want it to appear in the video, then you can drag it to "Drag title here".
@@ -280,6 +338,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 ![lightwork](https://images.wondershare.com/filmora/article-images/lightwork-editor.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2. [Splice](http://www.spliceapp.com/)
 
  Creating professional videos is easy with Splice. If you wish to edit GoPro videos on your iPad or iPhone, Splice is one of the best editing tools that you may try. From speed control to animations, and various transitions and addition of music, Splice offers customized video in no time.
@@ -295,6 +356,10 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 123.1 M
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![splice](https://images.wondershare.com/filmora/article-images/splice.JPG)
 
 ### 3. [Adobe Premiere](https://www.adobe.com/products/premiere.html)
@@ -312,6 +377,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 1.01 G
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![premiere](https://images.wondershare.com/filmora/article-images/premiere-pro-cc.jpg)
 
 ## Conclusion
@@ -320,6 +388,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -359,6 +430,10 @@ Follow @Ollie Mattison
 
  First step for editing is importing the video files from the GoPro. Open the GoPro Studio and then, you will find a blue colour button on the top left corner of the window labelled as "Import New Files". Click on that button and select the files that you want to include.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Import videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-1.jpg)
 
 #### 2\. **Trimming**
@@ -366,12 +441,19 @@ Follow @Ollie Mattison
  After you have imported the videos, cut the unnecessary portion of the videos that you are not interested to include, this trimming or cutting should be done before you start the actual editing.  
 For that, click on the thumbnails of the videos and then on "play". This will result into playing the video. There are two trimming buttons on the left of the window that you can use for marking the beginning and ending of the clip which you want to include. In this way, you can select the number of videos clips that you want to include in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Trimming videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-2.jpg)
 
 #### 3\. **Changing video settings**
 
  If you want to change any setting like frames per second, size of the video, change format, increasing speed or any other setting; you can go to advanced settings and make the changes. Don't forget to click on "remember setting" button after you have made the settings otherwise it will not save the settings that you would have made.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Change video settings in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-3.jpg)
 
 #### 4\. **Adding files to convert list**
@@ -388,6 +470,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  Now, GoPro Studio will offer you two options; creating a totally new video or using the templates in the software. In the case you choose the second option, you need to do only one thing which is replacing the videos with the selected files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Create new videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-6.jpg)
 
  For creating the new video, click on "Blank" button and then on "create". Now, click on the "Title" button and type the title name that you want. You can also change the font size, colour and some other features of the title. After finalising the title, drag it to the "Drag videos here" option and if you want it to appear in the video, then you can drag it to "Drag title here".
@@ -398,6 +483,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  Now, choose the video and add it by dragging and dropping to the timeline. After including the video, you can adjust the speed, fade time, brightness, volume level and many other features. You can also add the night vision feel to the video. As you have done in the importing; you can also adjust the duration of every clip that you are going to add in the video. Selecting the "Razor blade" symbol will divide the clip in two parts and if you click on "+"symbol, it will create the the fade effects in the video. The fade out effects are added so that the video will not end suddenly. So, when done with adding the clips then, add the fade out effect to the video. Click on the "Video Controls" and increase the limit on the fade out line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Edit gopro video](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-8.jpg)
 
 #### 7\. **Adding music**
@@ -433,6 +521,10 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 ![lightwork](https://images.wondershare.com/filmora/article-images/lightwork-editor.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 2. [Splice](http://www.spliceapp.com/)
 
  Creating professional videos is easy with Splice. If you wish to edit GoPro videos on your iPad or iPhone, Splice is one of the best editing tools that you may try. From speed control to animations, and various transitions and addition of music, Splice offers customized video in no time.
@@ -448,6 +540,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 123.1 M
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![splice](https://images.wondershare.com/filmora/article-images/splice.JPG)
 
 ### 3. [Adobe Premiere](https://www.adobe.com/products/premiere.html)
@@ -465,6 +560,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 1.01 G
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![premiere](https://images.wondershare.com/filmora/article-images/premiere-pro-cc.jpg)
 
 ## Conclusion
@@ -473,6 +571,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -506,12 +607,22 @@ Follow @Ollie Mattison
 * [**Part1: How to Edit GoPro Videos with GoPro Studio**](#part1)
 * [**Part2: 3 Alternatives to GoPro Video Editor**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Part 1: How to Edit GoPro Videos with GoPro Studio
 
 #### 1\. **Importing videos**
 
  First step for editing is importing the video files from the GoPro. Open the GoPro Studio and then, you will find a blue colour button on the top left corner of the window labelled as "Import New Files". Click on that button and select the files that you want to include.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-1.jpg)
 
 #### 2\. **Trimming**
@@ -519,12 +630,19 @@ Follow @Ollie Mattison
  After you have imported the videos, cut the unnecessary portion of the videos that you are not interested to include, this trimming or cutting should be done before you start the actual editing.  
 For that, click on the thumbnails of the videos and then on "play". This will result into playing the video. There are two trimming buttons on the left of the window that you can use for marking the beginning and ending of the clip which you want to include. In this way, you can select the number of videos clips that you want to include in your video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Trimming videos in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-2.jpg)
 
 #### 3\. **Changing video settings**
 
  If you want to change any setting like frames per second, size of the video, change format, increasing speed or any other setting; you can go to advanced settings and make the changes. Don't forget to click on "remember setting" button after you have made the settings otherwise it will not save the settings that you would have made.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change video settings in gopro studio](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-3.jpg)
 
 #### 4\. **Adding files to convert list**
@@ -551,12 +669,18 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  Now, choose the video and add it by dragging and dropping to the timeline. After including the video, you can adjust the speed, fade time, brightness, volume level and many other features. You can also add the night vision feel to the video. As you have done in the importing; you can also adjust the duration of every clip that you are going to add in the video. Selecting the "Razor blade" symbol will divide the clip in two parts and if you click on "+"symbol, it will create the the fade effects in the video. The fade out effects are added so that the video will not end suddenly. So, when done with adding the clips then, add the fade out effect to the video. Click on the "Video Controls" and increase the limit on the fade out line.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Edit gopro video](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-8.jpg)
 
 #### 7\. **Adding music**
 
  Adding music is like adding the other features, just click on "Media" and select the audio file that you want to add. You can also recordings in your own voice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Adding Music into gopro videos](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-9.jpg)
 
 #### 8\. **Exporting the video**
@@ -567,8 +691,14 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  Now, video editing is over and you can watch it on your smartphone, PC and even can show to your friends and family.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: 3 Alternatives to GoPro Video Editor
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1. [Lightworks](https://www.lwks.com/)
 
  Are you thinking how to edit GoPro videos? Try out Lightworks that is one of the best tools to edit GoPro video and the most trusted one since 25yrs. It has been used to edit some of the finest films in the history of cinema like the LA Confidential, Wolf of Wall Street, etc. Whether a 4K film project or a YouTube video or a video for social media, Lightsworks definitely is one of the best of all with a simple user interface and easy trimming and editing timeline.
@@ -584,6 +714,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 **Size:** 93 M
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lightwork](https://images.wondershare.com/filmora/article-images/lightwork-editor.JPG)
 
 ### 2. [Splice](http://www.spliceapp.com/)
@@ -603,6 +736,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
 ![splice](https://images.wondershare.com/filmora/article-images/splice.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3. [Adobe Premiere](https://www.adobe.com/products/premiere.html)
 
  Often how to edit GoPro videos becomes a reason for concern. But, you need not worry as the Adobe Premiere Pro tool helps you to turn the raw video clips into flawless production in a matter of no few seconds. Refining audio or adjusting color or any other transitional effect is very simple whenever you wish to edit GoPro videos with the Adobe Premiere tool.
@@ -624,6 +760,9 @@ For that, click on the thumbnails of the videos and then on "play". This will re
 
  If editing video clips in GoPro  is not what you want, you can use some [best video editing software for GoPro videos](https://tools.techidaily.com/wondershare/filmora/download/). Here we recommend you to try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Apart from the basic video editing features, you can also perform some advanced features in Filmora, such as [stabilize the shaky GoPro videos](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video below to check what Filmora can do for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -658,3 +797,49 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[New] 2024 Approved  Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-anonymization-techniques-to-blur-faces/"><u>[New] Advanced Anonymization  Techniques to Blur Faces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-core-elements-in-storytelling-skills/"><u>[New] Core Elements in Storytelling Skills</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-path-to-facebooks-exclusive-verified-marker/"><u>[New] Navigating the Path to Facebook's Exclusive Verified Marker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-epicurean-escapades-crafting-kitchen-films/"><u>[Updated] 2024 Approved  Epicurean Escapades  Crafting Kitchen Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-feathery-symphony-bebop-parrot-2-dissected/"><u>[Updated] A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boom-in-the-loop-crafting-addictive-ig-videos-for-2024/"><u>[Updated] Boom in the Loop  Crafting Addictive IG Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-15plus-best-iphoneipad-video-editing-tools-in-free-market/"><u>[Updated] In 2024, 15+ Best iPhone/iPad Video Editing Tools in Free Market</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>[Updated] In 2024, Boost Your FB Campaigns  The Critical 3-Part Writing Strategy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/"><u>[Updated] Navigating YouTube and Instagram  Sharing Video Content without Limits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-2022s-golden-age-for-ice-dancing-showcases/"><u>2024 Approved  2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerating-video-success-on-youtube-for-100kplus-views/"><u>2024 Approved  Accelerating Video Success on YouTube for 100K+ Views</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-inclusive-breakdown-deciphering-google-podcasts/"><u>2024 Approved  All-Inclusive Breakdown  Deciphering Google Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-androidiphone-the-top-10-unlimited-image-overlay-apps/"><u>2024 Approved  Android/iPhone  The Top 10 Unlimited Image Overlay Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid/"><u>2024 Approved  Caption Kings and Queens  Top 10 Mobile Writing Aids (iOS/Android)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-immersive-gameplay-capture-roblox-and-macos-synergy/"><u>2024 Approved  Immersive Gameplay Capture  Roblox & macOS Synergy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-finest-frames-iphone-plus-android-edition/"><u>2024 Approved  Instagram's Finest Frames  IPhone + Android Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-14-plus-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensible-guide-to-authoritative-testimonial-films/"><u>A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/anticipating-virtual-realities-top-5-new-playstation-vr-games/"><u>Anticipating Virtual Realities  Top 5 New PlayStation VR Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-cloud-options-get-unlimited-storage-1tbplus/"><u>Best Free Cloud Options  Get Unlimited Storage (1TB+)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/charting-the-top-8-online-photo-hybrid-creator-for-2024/"><u>Charting the Top 8 Online Photo Hybrid Creator for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dazzle-your-shots-iphone-lighting-advice/"><u>Dazzle Your Shots  IPhone Lighting Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-images-from-static-pixels-from-photos-to-video/"><u>Dynamic Images From Static Pixels  From Photos to Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-guide-enhance-tiktok-profile-with-links/"><u>Essential Guide  Enhance TikTok Profile with Links</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-imagery-stories-a-peek-inside/"><u>Iconic Imagery Stories  A Peek Inside</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-blended-media-experience-with-tunes/"><u>In 2024, Crafting a Blended Media Experience with Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-presentations-by-adding-tunes/"><u>In 2024, Crafting Captivating Presentations by Adding Tunes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From Apple iPhone XS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-revisiting-youtubes-archive-two-proven-watch-strategies/"><u>In 2024, Revisiting Youtube's Archive  Two Proven Watch Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spark-interest-on-instagram-with-top-unboxing-video-techniques/"><u>In 2024, Spark Interest on Instagram with Top Unboxing Video Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-art-in-a-flash-quick-draw-on-windows-10-images/"><u>Masterful Art in a Flash  Quick Draw on Windows 10 Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-audio-with-apods/"><u>Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>New 2024 Approved Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/portraying-paradoxes-effects-for-time-travel-films/"><u>Portraying Paradoxes  Effects for Time Travel Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-collage-techniques-handbook/"><u>Pro Collage Techniques Handbook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ess-transitions-for-youtube-videos-in-adobe-premiere-for-2024/"><u>Seamless Transitions for YouTube Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-virtual-quest-a-jaunt-vr-exploration/"><u>The Virtual Quest  A Jaunt VR Exploration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-cds-a-wmp-masterclass/"><u>Unlocking the Potential of Cds  A WMP Masterclass</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bringing Dimensionality to Text  A Photo Editing Masterclass\""
-date: 2024-06-24T16:31:09.584Z
-updated: 2024-06-25T16:31:09.584Z
+date: 2024-07-26T19:31:22.488Z
+updated: 2024-07-27T19:31:22.488Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ Photoshop is not the easiest image editing software to use. It can get really co
 
 Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document settings like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
@@ -50,10 +54,16 @@ Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, fro
 
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![render three d text](https://images.wondershare.com/filmora/article-images/render-adobe-photoshop.png)
 
 Step9 We're almost done. The next step is to go back to the **Layers** tab → right-click on the **Background** layer → click on **"Convert to Smart Object".**
@@ -62,10 +72,16 @@ Step9 We're almost done. The next step is to go back to the **Layers** tab → r
 
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## An Easier Way to Create a 3D Text Effect or Animation
 
 As we mentioned, Photoshop may get challenging to use, especially for complete beginners. What if there was an easier tool you can use and still get the same high-quality and professional-grade results?
@@ -84,6 +100,9 @@ The steps are extremely simple. Just follow each exactly as you see it here and 
 
 Step1 First, you should download Filmora and install the program on your computer. Then, launch it and click on **New Project**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
@@ -92,6 +111,9 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
@@ -100,6 +122,9 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -108,6 +133,9 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -118,6 +146,9 @@ Step1 First, you should download Filmora and install the program on your compute
 
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -130,6 +161,9 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating 3D text with Photoshop is a good idea if you already know how to use the tool. If not, it's always smarter to use a simpler alternative that's much easier to use. As long as you get the same professional results, there's no reason not to use Filmora. In fact, there are many more benefits than drawbacks.
@@ -158,3 +192,44 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[New] 2024 Approved  Ensemble Dynamics  Crafting Collaborative Content for Musicians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-assessment-report-toolwiz-app-for-imaging-aficionados/"><u>[New] Assessment Report  Toolwiz App for Imaging Aficionados</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginning-your-first-fb-giveaway-announcement/"><u>[New] Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-gopro-power-endurance-tips-and-tricks/"><u>[New] Boosting GoPro Power Endurance  Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-unique-audio-selections-for-video-conclusions/"><u>[New] Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prime-steps-for-capturing-phone-operations-for-2024/"><u>[New] Prime Steps for Capturing Phone Operations for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-instagram-video-and-photo-downloads-guide/"><u>[Updated] 2024 Approved  Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[Updated] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>[Updated] Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-down-anonymous-instagram-streaming-techniques/"><u>[Updated] Breaking Down Anonymous Instagram Streaming Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chinas-bargain-bin-of-virtual-reality-gear/"><u>[Updated] China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-photo-carousel-magic-for-2024/"><u>[Updated] Insta-Photo Carousel Magic for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adjusting-sound-settings-gently-in-windowsmacos/"><u>2024 Approved  Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aesthetic-ambiance-cool-pc-walls-to-download/"><u>2024 Approved  Aesthetic Ambiance  Cool PC Walls to Download</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-peak-performance-zooms-6-webcam-picks-for-2024/"><u>Achieve Peak Performance  Zoom's #6 Webcam Picks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/architectural-marvels-for-vr-display/"><u>Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-camcorder-for-deer-hunting-excellence-for-2024/"><u>Best Camcorder for Deer Hunting Excellence for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists-for-2024/"><u>Breaking Down  Why Syma X5C Is Top-Notch for New Dronists for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clickbait-curator-supreme-for-2024/"><u>Clickbait Curator Supreme for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion/"><u>Conquering Subreddit  Mastering the Art of Public Discussion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-drone-buyers-checklist-top-factors-to-ponder/"><u>Essential Drone Buyer's Checklist  Top Factors to Ponder</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-tips-for-successful-youtube-broadcasts-for-2024/"><u>Essential Tips for Successful YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-to-enhanced-gopro-experience/"><u>First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/formulate-light-hearted-images-for-social-media-giphy/"><u>Formulate Light-Hearted Images for Social Media Giphy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/grandest-directors-reveals/"><u>Grandest Directors' Reveals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-choose-a-live-streaming-platform-with-10-tips/"><u>How to Choose a Live Streaming Platform with 10 Tips?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube/"><u>In 2024, A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-12-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 12 Pro Max or iPad?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokejuggernaut-top-humor-tool/"><u>JokeJuggernaut - Top Humor Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-6-plus-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 6 Plus and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>Step-by-Step  Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-evolution-of-cinematic-experience-virtual-reality/"><u>The Evolution of Cinematic Experience  Virtual Reality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-shot-highest-rated-devices-for-steady-clear-videos/"><u>The Ultimate Shot  Highest Rated Devices for Steady, Clear Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-notch-graphic-retouches/"><u>Top-Notch Graphic Retouches</u></a></li>
+</ul></div>

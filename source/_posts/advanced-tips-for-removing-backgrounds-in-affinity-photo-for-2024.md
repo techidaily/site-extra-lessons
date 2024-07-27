@@ -1,7 +1,7 @@
 ---
 title: "Advanced Tips for Removing Backgrounds in Affinity Photo for 2024"
-date: 2024-05-24T07:57:27.923Z
-updated: 2024-05-25T07:57:27.923Z
+date: 2024-07-26T19:47:10.898Z
+updated: 2024-07-27T19:47:10.898Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Advanced Tips for Removing Backgrounds in Affinity Photo for 2024"
 excerpt: "This Article Describes Advanced Tips for Removing Backgrounds in Affinity Photo for 2024"
 keywords: "ClearPhotoBackdrop,CleanImageBackground,DeclutterPhotos,RemoveBackgroundNoise,SimplifyImages,FocusFotoBg,SharpImageFocus"
-thumbnail: https://www.lifewire.com/thmb/_4viXU74NMGmsK3mNHNeZ1JWOGk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Android-Auto-vs-Apple-Carplay-392b0e27330d42f4be8ac186a3257459.jpg
+thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a950d0a63433c57fd863da90.jpg
 ---
 
 ## Advanced Tips for Removing Backgrounds in Affinity Photo
@@ -42,6 +42,9 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +59,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,16 +87,26 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -119,6 +135,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -143,6 +162,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -177,3 +199,55 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-30-must-try-mp4-gadgets-unveiled/"><u>[New] 30 Must-Try MP4 Gadgets Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-sites-with-public-domain-game-soundtracks/"><u>[New] Best Sites with Public Domain Game Soundtracks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brilliance-in-display-top-5-for-grading-professionals/"><u>[New] Brilliance in Display  TOP 5 for Grading Professionals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[New] In 2024, Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>[New] In-Game Magic  Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mac-excellence-unleashed-screenflows-influence-on-development-for-2024/"><u>[New] Mac Excellence Unleashed  ScreenFlow’s Influence on Development for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-5-traps-for-newbies-in-online-advertising-how-to-evade-them/"><u>[Updated] 5 Traps for Newbies in Online Advertising – How to Evade Them</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-footage-from-above-drone-filming-tips/"><u>[Updated] Capturing Footage From Above  Drone Filming Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>[Updated] Crafting a Superior FPV Drone Setup  Choosing Right Propellers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-visual-time-indicators-to-your-youtube-links/"><u>[Updated] In 2024, Adding Visual Time Indicators to Your YouTube Links</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-skyrocket-your-e-commerce-with-these-15-facebook-analytics-for-2024/"><u>[Updated] Skyrocket Your E-Commerce with These 15 Facebook Analytics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>2024 Approved  A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmented-reality-how-android-enhances-viewing-experience/"><u>2024 Approved  Augmented Reality  How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-capitalization-clues-starting-your-podcast-path/"><u>2024 Approved  Comprehensive Capitalization Clues  Starting Your Podcast Path</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/6-ways-to-record-mov-files-on-windows-10-for-2024/"><u>6 Ways to Record .mov Files on Windows 10 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y36-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y36 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-tutorial-on-powerpoint-voice-to-text-conversion-for-2024/"><u>A Comprehensive Tutorial on PowerPoint Voice to Text Conversion for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/action-cam-reimagined-an-extensive-review-of-the-sj-cam-s6/"><u>Action Cam Reimagined  An Extensive Review of the SJ-CAM S6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comedy-crafters-codex-free-to-unleash-humor/"><u>Comedy Crafters' Codex  Free to Unleash Humor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-breakdown-inside-google-podcasts-application/"><u>Complete Breakdown  Inside Google Podcasts Application</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-obtaining-visual-assets/"><u>Comprehensive Guide to Obtaining Visual Assets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-editing-excellence-a-comprehensive-guide-to-powerdirector-app-2024/"><u>Dive Into Editing Excellence  A Comprehensive Guide to PowerDirector App 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enlightened-efforts-applewatch-unlocks-macgizmo/"><u>Enlightened Efforts  AppleWatch Unlocks MacGizmo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-macos-apps-for-watching-mkv-files/"><u>Essential macOS Apps for Watching MKV Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-review-of-top-mp4-players/"><u>Exclusive Review of Top MP4 Players</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gently-reducing-sound-levels-in-operating-systems/"><u>Gently Reducing Sound Levels in Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android/"><u>In 2024, A Detailed Guidance  How To Add Custom Ringtones And Sounds To Your Android?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-captivating-clips-select-5-brightening-apps/"><u>In 2024, Captivating Clips  Select 5 Brightening Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>In 2024, Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-150-2023-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia 150 (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-god-of-thunder-returns-epic-dawn/"><u>In 2024, God of Thunder Returns  Epic Dawn</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-find-x6-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Find X6 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-the-studio-world-xvideo-studio-breakdown/"><u>Inside the Studio World  XVideo Studio Breakdown</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-filter-application-guide-tips-and-tricks-for-2024/"><u>Instagram Filter Application Guide - Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-video-subtitling-a-compreenhensive-review-of-key-online-tools/"><u>Mastering Video Subtitling  A Compreenhensive Review of Key Online Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proactive-zoom-meeting-strategies-for-improved-skype-interactions/"><u>Proactive Zoom Meeting Strategies for Improved Skype Interactions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-video-chats-on-xbox-one-with-zoom-for-2024/"><u>Seamless Video Chats on Xbox One with Zoom for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spotlight-on-blurbs-captivating-podcast-intros/"><u>Spotlight on Blurbs  Captivating Podcast Intros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-utilizing-video-resources-in-learning/"><u>Strategies for Utilizing Video Resources in Learning</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-m1-pro-vs-the-m1-max-showdown-what-sets-them-apart/"><u>The M1 Pro Vs. The M1 Max Showdown - What Sets Them Apart?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocked-treasures-art-without-intellectual-property-restrictions/"><u>Unlocked Treasures  Art Without Intellectual Property Restrictions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>Unlocking the Magic  Advanced Techniques for TikTok Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-poco-m6-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Poco M6 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>

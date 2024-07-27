@@ -1,7 +1,7 @@
 ---
 title: "Quick Steps to Find YouTube Comment Feed"
-date: 2024-05-24T08:53:46.263Z
-updated: 2024-05-25T08:53:46.263Z
+date: 2024-07-26T21:25:33.906Z
+updated: 2024-07-27T21:25:33.906Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Quick Steps to Find YouTube Comment Feed"
 excerpt: "This Article Describes Quick Steps to Find YouTube Comment Feed"
 keywords: "YouTube Comment Finder,Commenting in YouTube,YouTube Feed Guide,Access YouTube Comments,Viewing YouTube Reactions,Interact with YouTube Users,YouTube Comment Analysis"
-thumbnail: https://www.lifewire.com/thmb/3FSIQQsZT1W2uIvVnnyFBht_Oac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/cute-girl-and-mother-using-laptop-at-home-621830380-5b84905d4cedfd00258fa836.jpg
+thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c61f1ffd4157c0d0a51c0306.jpg
 ---
 
 ## Quick Steps to Find YouTube Comment Feed
@@ -72,22 +72,35 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,8 +125,14 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +169,44 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-27-significant-metaverse-demonstrations-unveiled/"><u>[New] 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematic-narratives-mastering-screenplays/"><u>[New] Cinematic Narratives  Mastering Screenplays</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-circlesmiths-arsenal/"><u>[New] Circlesmith's Arsenal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[Updated] Ace Your Project  Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bigger-captures-intact-detail-quality/"><u>[Updated] Bigger Captures, Intact Detail Quality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hue-harmonization-handbook-for-experts/"><u>[Updated] Hue Harmonization Handbook for Experts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quietude-creation-garageband-volume-control-methods/"><u>[Updated] Quietude Creation  Garageband Volume Control Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-8-key-metaverse-ventures-unveiling-core-concepts/"><u>2024 Approved  8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>2024 Approved  A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-practices-for-documenting-youtube-live-videos/"><u>2024 Approved  Best Practices for Documenting Youtube LIVE Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-brightness-on-android-devices/"><u>2024 Approved  Boosting Brightness on Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-essential-guide-to-timeless-stop-motion-classics/"><u>2024 Approved  The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/all-the-best-ways-to-say-thank-you-in-greek/"><u>All the Best Ways to Say Thank You in Greek</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-procuring-stock-visuals-for-projects/"><u>Best Practices  Procuring Stock Visuals for Projects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-captivating-reels-the-role-of-background-music/"><u>Creating Captivating Reels  The Role of Background Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-examination-of-djis-latest-uav-inspire-1/"><u>Detailed Examination of DJI's Latest UAV, Inspire 1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-digital-voice-alteration-for-vtubers/"><u>Efficient Digital Voice Alteration for VTubers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-guide-selecting-high-quality-ringtone-downloads/"><u>Elite Guide  Selecting High-Quality Ringtone Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evolving-narratives-in-virtual-cinema-landscapes/"><u>Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-animated-selfies-snapchats-fun-face-filters-explained/"><u>Exploring Animated Selfies  Snapchat's Fun Face Filters Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-x-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone X Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-8-best-free-websites-for-3d-text-psd-files/"><u>In 2024, 8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advancing-audible-experience-safely-on-spotify-platforms/"><u>In 2024, Advancing Audible Experience Safely on Spotify Platforms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-become-a-tiktok-trendsetter-perfecting-reactions-with-filmoras-advanced-techniques/"><u>In 2024, Become a TikTok Trendsetter  Perfecting Reactions with Filmora’s Advanced Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>In 2024, Breaking Boundaries  Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-happiness-awaits-selecting-prime-anime-content-on-youtube/"><u>In 2024, Happiness Awaits  Selecting Prime Anime Content on Youtube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-s23-tactical-edition-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy S23 Tactical Edition Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-class-video-production-smooth-editing-skills/"><u>In-Class Video Production  Smooth Editing Skills</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers/"><u>Optimize Your Windows 11 Photo Viewing  Include Audio Files and Artistic Layers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smart-solutions-for-gathering-visual-assets/"><u>Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spiritual-soundtracks-where-to-find-christian-tunes/"><u>Spiritual Soundtracks  Where to Find Christian Tunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-to-excellence-the-ultimate-powerdirectors-user-manual/"><u>Step-by-Step to Excellence  The Ultimate PowerDirector's User Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-subtle-sound-dimming-in-productions/"><u>The Art of Subtle Sound Dimming in Productions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-fundamentals-of-quantum-hdr-efficiency/"><u>The Fundamentals of Quantum HDR Efficiency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pc-speeds-choosing-the-right-extension-software/"><u>Top PC Speeds  Choosing the Right Extension Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>Twilight Crusaders  The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-cam-gurus-top-picks/"><u>Video Cam Gurus  Top Picks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Live Photos  IPhone Usage Tips\""
-date: 2024-06-15T22:46:50.843Z
-updated: 2024-06-16T22:46:50.843Z
+date: 2024-07-26T17:53:48.586Z
+updated: 2024-07-27T17:53:48.586Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
 # Live Photo Complete Guide: How to Use it on iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -52,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 * A yellow color circle appears in the top middle, beside the HDR camera control
 * A viewfinder appears in yellow color which is creating the iPhone live photo
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to take live photo](https://images.wondershare.com/filmora/take-live.jpeg)
 
  Image comes from iMore
@@ -62,8 +68,135 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## Part3: How to Turn off Live Photos?
+
+ Keeping the iPhone Live photos on every moment can be quite space consuming. It creates 2 files- .mov and .jpeg. Each of the files is filled up with a lot of megabyte of space. Although the videos captured are of lesser resolution than the images, still it is double size of the images. To turn off the live photos, tap on the yellow concentric circles’ icon at the top middle beside the HDR. Tapping on it disables the live photos for the time.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![how to turn off live photo](https://images.wondershare.com/filmora/turn-live-photos-off.jpg)
+
+ Image comes from OSXDaily
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part4: How to Change Your Key Photo for Live Photos?
+
+ Changing a key image for live pictures is nothing difficult. You just need to make the iPhone camera live, tap the Edit option and move the slider for changing the frame. Once done, release your finger and click on the make key photo option and then tap. You may toggle the live Photo effects off and on when required.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+![how to change key photo](https://images.wondershare.com/filmora/change-key-photo.JPG)
+
+ Image comes from Apple
+
+## Part5: How to Add Live Photo to Lock Screen?
+
+ Do you wish to enhance your iPhone lock screen by adding a live photo? You may set and activate the iPhone live photo as wallpaper using the 3D touch at any point of time. It’s like adding wallpaper to any other phone but with few added steps. Select a wallpaper from the iPhone live photos list, opening the setting app. Next, create a live photo, tapping “all photos”. Now, choose the live photo you wish to use as the lock screen and select “set as lock screen”. You may make your lock screen dynamic or static as per your wish.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+![how to add lock screen](https://images.wondershare.com/filmora/set-lock.jpg)
+
+ Image comes from Cult of Mac
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## Part6: Information Unlimited
+
+ Before using the iPhone live photo app or going iPhone camera live, here are some essential information to keep in note of-
+
+ The app captures only 1.5 seconds prior to tapping the shutter and not the entire video recorded once you open the app. Therefore, the storage remains stable and it is not filled up to make your iPhone functioning slow.
+
+ It takes a total of 3 seconds to record a video for 1.5 seconds and followed by capture image 1.5 seconds. As it is recording live pictures iPhone device already captures the 1.5 seconds leading to the shutter button press, and saves it along with the rest 1.5 seconds for image capture.
+
+ Sharing the photos is an interesting part and if you think you will be unable to share the iPhone live photos, then you are mistaken. You can share live photo to devices runing iOS 9 or above. The OS X El Capitan also supports sharing the Live photos.
+
+ Remember one thing that while you open the iPhone live photos app, the audio option is always switched on. So, whatever you speak, shout, or discuss will be clearly recorded in the video. Keep in mind that shouting at the top of your voice and asking a person to move so that you can click a great view or moving pictures on iPhone can spoil your live photos. So, beware.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Conclusion
+
+ The digital photography gets a completely new dimension through the iPhone live photos. Press the shutter button of your iOS devices and capture live pictures on iPhone. The Live photo is so much fun. You can try it right away and get creative. Although there are few drawbacks like editing full file or switching off the audio option not yet available, still the live photos truly help in capturing the images with its essence intact.
+
+ Images come from the Internet
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Are you aware of the term **live photos**? An exciting moving pictures iPhone camera settings, iPhone live photo creates moving images and brings the photos to life. The live photos allow you to capture both audios and videos for 1.5 seconds before and after the tap on the shutter button. So, basically, you get 3 seconds high quality live pictures on iPhone.
+
+ Live photos are specific functions of the Apple products, introduced first on the 6s and 6s Plus devices, and later on, the iOS live photos became available on iOS devices as well.
+
+ A still photo can just capture your moment but, the live photos can capture images along with sound and movement. You may also add bounce or loop video effects, to convert your iPhone live photo into spectacular long image exposure. This tutorial is a complete guide to learn the uses of live photos for creating the live memories with iPhone.
+
+* [Part1: How do You Take iPhone Live Photos?](#part1)
+* [Part2: How to Edit Live Photos?](#part2)
+* [Part3: How to Turn off Live Photos?](#part3)
+* [Part4: How to Change Your Key Photo for Live Photos?](#part4)
+* [Part5: How to Add Live Photo to Lock Screen?](#part5)
+* [Part6: Information Unlimited](#part6)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part1: How do You Take iPhone Live Photos?
+
+ Taking the iPhone camera live is very easy and simple. No sooner does the iPhone native camera application is opened, it starts recording the video. Live photos are already enabled on iPhone that helps to record the video with the opening of the application and when you tap the shutter button on, 1.5 seconds of the live pictures iPhone is already captured till you start the shutter button and saved, including the 1.5 seconds before starting the shutter button along with the image captured.
+
+ Steps-
+
+* Aim at the subject you wish to click and open the camera app
+* Ensure that the shooting option is set to Photo
+* When you click on the app, you can see a yellow color live button
+* If the button is white, click on it and turn it on
+* A yellow color circle appears in the top middle, beside the HDR camera control
+* A viewfinder appears in yellow color which is creating the iPhone live photo
+
+![how to take live photo](https://images.wondershare.com/filmora/take-live.jpeg)
+
+ Image comes from iMore
+
+ It records only 1.5 seconds of the video prior to the starting the shutter button, rest of the videos recorded earlier after opening the app is discarded, without creating storage issues.
+
+## Part2: How to Edit Live Photos?
+
+ Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part3: How to Turn off Live Photos?
 
  Keeping the iPhone Live photos on every moment can be quite space consuming. It creates 2 files- .mov and .jpeg. Each of the files is filled up with a lot of megabyte of space. Although the videos captured are of lesser resolution than the images, still it is double size of the images. To turn off the live photos, tap on the yellow concentric circles’ icon at the top middle beside the HDR. Tapping on it disables the live photos for the time.
@@ -76,6 +209,9 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  Changing a key image for live pictures is nothing difficult. You just need to make the iPhone camera live, tap the Edit option and move the slider for changing the frame. Once done, release your finger and click on the make key photo option and then tap. You may toggle the live Photo effects off and on when required.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![how to change key photo](https://images.wondershare.com/filmora/change-key-photo.JPG)
 
  Image comes from Apple
@@ -88,6 +224,14 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 
  Image comes from Cult of Mac
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part6: Information Unlimited
 
  Before using the iPhone live photo app or going iPhone camera live, here are some essential information to keep in note of-
@@ -144,6 +288,9 @@ Follow @Ollie Mattison
 * A yellow color circle appears in the top middle, beside the HDR camera control
 * A viewfinder appears in yellow color which is creating the iPhone live photo
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to take live photo](https://images.wondershare.com/filmora/take-live.jpeg)
 
  Image comes from iMore
@@ -154,12 +301,18 @@ Follow @Ollie Mattison
 
  Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
 
 ## Part3: How to Turn off Live Photos?
 
  Keeping the iPhone Live photos on every moment can be quite space consuming. It creates 2 files- .mov and .jpeg. Each of the files is filled up with a lot of megabyte of space. Although the videos captured are of lesser resolution than the images, still it is double size of the images. To turn off the live photos, tap on the yellow concentric circles’ icon at the top middle beside the HDR. Tapping on it disables the live photos for the time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to turn off live photo](https://images.wondershare.com/filmora/turn-live-photos-off.jpg)
 
  Image comes from OSXDaily
@@ -172,6 +325,9 @@ Follow @Ollie Mattison
 
  Image comes from Apple
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: How to Add Live Photo to Lock Screen?
 
  Do you wish to enhance your iPhone lock screen by adding a live photo? You may set and activate the iPhone live photo as wallpaper using the 3D touch at any point of time. It’s like adding wallpaper to any other phone but with few added steps. Select a wallpaper from the iPhone live photos list, opening the setting app. Next, create a live photo, tapping “all photos”. Now, choose the live photo you wish to use as the lock screen and select “set as lock screen”. You may make your lock screen dynamic or static as per your wish.
@@ -192,6 +348,9 @@ Follow @Ollie Mattison
 
  Remember one thing that while you open the iPhone live photos app, the audio option is always switched on. So, whatever you speak, shout, or discuss will be clearly recorded in the video. Keep in mind that shouting at the top of your voice and asking a person to move so that you can click a great view or moving pictures on iPhone can spoil your live photos. So, beware.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  The digital photography gets a completely new dimension through the iPhone live photos. Press the shutter button of your iOS devices and capture live pictures on iPhone. The Live photo is so much fun. You can try it right away and get creative. Although there are few drawbacks like editing full file or switching off the audio option not yet available, still the live photos truly help in capturing the images with its essence intact.
@@ -242,10 +401,16 @@ Follow @Ollie Mattison
 
  It records only 1.5 seconds of the video prior to the starting the shutter button, rest of the videos recorded earlier after opening the app is discarded, without creating storage issues.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: How to Edit Live Photos?
 
  Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
 
 ## Part3: How to Turn off Live Photos?
@@ -272,6 +437,9 @@ Follow @Ollie Mattison
 
  Image comes from Cult of Mac
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part6: Information Unlimited
 
  Before using the iPhone live photo app or going iPhone camera live, here are some essential information to keep in note of-
@@ -290,98 +458,9 @@ Follow @Ollie Mattison
 
  Images come from the Internet
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Are you aware of the term **live photos**? An exciting moving pictures iPhone camera settings, iPhone live photo creates moving images and brings the photos to life. The live photos allow you to capture both audios and videos for 1.5 seconds before and after the tap on the shutter button. So, basically, you get 3 seconds high quality live pictures on iPhone.
-
- Live photos are specific functions of the Apple products, introduced first on the 6s and 6s Plus devices, and later on, the iOS live photos became available on iOS devices as well.
-
- A still photo can just capture your moment but, the live photos can capture images along with sound and movement. You may also add bounce or loop video effects, to convert your iPhone live photo into spectacular long image exposure. This tutorial is a complete guide to learn the uses of live photos for creating the live memories with iPhone.
-
-* [Part1: How do You Take iPhone Live Photos?](#part1)
-* [Part2: How to Edit Live Photos?](#part2)
-* [Part3: How to Turn off Live Photos?](#part3)
-* [Part4: How to Change Your Key Photo for Live Photos?](#part4)
-* [Part5: How to Add Live Photo to Lock Screen?](#part5)
-* [Part6: Information Unlimited](#part6)
-
-## Part1: How do You Take iPhone Live Photos?
-
- Taking the iPhone camera live is very easy and simple. No sooner does the iPhone native camera application is opened, it starts recording the video. Live photos are already enabled on iPhone that helps to record the video with the opening of the application and when you tap the shutter button on, 1.5 seconds of the live pictures iPhone is already captured till you start the shutter button and saved, including the 1.5 seconds before starting the shutter button along with the image captured.
-
- Steps-
-
-* Aim at the subject you wish to click and open the camera app
-* Ensure that the shooting option is set to Photo
-* When you click on the app, you can see a yellow color live button
-* If the button is white, click on it and turn it on
-* A yellow color circle appears in the top middle, beside the HDR camera control
-* A viewfinder appears in yellow color which is creating the iPhone live photo
-
-![how to take live photo](https://images.wondershare.com/filmora/take-live.jpeg)
-
- Image comes from iMore
-
- It records only 1.5 seconds of the video prior to the starting the shutter button, rest of the videos recorded earlier after opening the app is discarded, without creating storage issues.
-
-## Part2: How to Edit Live Photos?
-
- Editing is always fun. Post recording the moving picture iPhone device allows you to add effects to it as well. You may click on the right side corner edit option at the top, after entering the photos app. When the editing tool appears. You may crop, rotate, add color or make lighting adjustments. With iOS live photos, your photo can be more creative, unique, expressive, and super fun. In order to edit the live photos, open the app at first, swipe up till you see the effects, select the long exposure, create a video loop, or make it bounce and play back and forth, or create a magical blur or night sky in long exposure. Only the official photo editing option in iPhone can be used in order to get the dynamic effects.
-
-![how to edit live photo](https://images.wondershare.com/filmora/Live-Photos-Editing.jpg)
-
-## Part3: How to Turn off Live Photos?
-
- Keeping the iPhone Live photos on every moment can be quite space consuming. It creates 2 files- .mov and .jpeg. Each of the files is filled up with a lot of megabyte of space. Although the videos captured are of lesser resolution than the images, still it is double size of the images. To turn off the live photos, tap on the yellow concentric circles’ icon at the top middle beside the HDR. Tapping on it disables the live photos for the time.
-
-![how to turn off live photo](https://images.wondershare.com/filmora/turn-live-photos-off.jpg)
-
- Image comes from OSXDaily
-
-## Part4: How to Change Your Key Photo for Live Photos?
-
- Changing a key image for live pictures is nothing difficult. You just need to make the iPhone camera live, tap the Edit option and move the slider for changing the frame. Once done, release your finger and click on the make key photo option and then tap. You may toggle the live Photo effects off and on when required.
-
-![how to change key photo](https://images.wondershare.com/filmora/change-key-photo.JPG)
-
- Image comes from Apple
-
-## Part5: How to Add Live Photo to Lock Screen?
-
- Do you wish to enhance your iPhone lock screen by adding a live photo? You may set and activate the iPhone live photo as wallpaper using the 3D touch at any point of time. It’s like adding wallpaper to any other phone but with few added steps. Select a wallpaper from the iPhone live photos list, opening the setting app. Next, create a live photo, tapping “all photos”. Now, choose the live photo you wish to use as the lock screen and select “set as lock screen”. You may make your lock screen dynamic or static as per your wish.
-
-![how to add lock screen](https://images.wondershare.com/filmora/set-lock.jpg)
-
- Image comes from Cult of Mac
-
-## Part6: Information Unlimited
-
- Before using the iPhone live photo app or going iPhone camera live, here are some essential information to keep in note of-
-
- The app captures only 1.5 seconds prior to tapping the shutter and not the entire video recorded once you open the app. Therefore, the storage remains stable and it is not filled up to make your iPhone functioning slow.
-
- It takes a total of 3 seconds to record a video for 1.5 seconds and followed by capture image 1.5 seconds. As it is recording live pictures iPhone device already captures the 1.5 seconds leading to the shutter button press, and saves it along with the rest 1.5 seconds for image capture.
-
- Sharing the photos is an interesting part and if you think you will be unable to share the iPhone live photos, then you are mistaken. You can share live photo to devices runing iOS 9 or above. The OS X El Capitan also supports sharing the Live photos.
-
- Remember one thing that while you open the iPhone live photos app, the audio option is always switched on. So, whatever you speak, shout, or discuss will be clearly recorded in the video. Keep in mind that shouting at the top of your voice and asking a person to move so that you can click a great view or moving pictures on iPhone can spoil your live photos. So, beware.
-
-## Conclusion
-
- The digital photography gets a completely new dimension through the iPhone live photos. Press the shutter button of your iOS devices and capture live pictures on iPhone. The Live photo is so much fun. You can try it right away and get creative. Although there are few drawbacks like editing full file or switching off the audio option not yet available, still the live photos truly help in capturing the images with its essence intact.
-
- Images come from the Internet
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -414,3 +493,48 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-benq-bl2711u-the-artisans-choice-for-high-end-4k-display-enthusiasts/"><u>[New] BenQ BL2711U - The Artisan's Choice for High-End 4K Display Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-building-a-compelling-cinematic-snippet/"><u>[New] Building a Compelling Cinematic Snippet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-controlling-video-flow-on-your-screens-window-netflix/"><u>[New] Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-flawless-frame-capturer-kit/"><u>[New] In 2024, Flawless Frame Capturer Kit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-learn-to-prevent-persistent-commercials-in-digital-platforms-for-2024/"><u>[New] Learn to Prevent Persistent Commercials in Digital Platforms for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-text-animation-strategies-webreal-world/"><u>[Updated] Affordable Text Animation Strategies  Web/Real World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>[Updated] Asus PA32U Explored  Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cast-distribution-license-for-screen-viewing/"><u>[Updated] Cast Distribution License for Screen Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>[Updated] In 2024, Explore Your Watching Tendencies  The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-secure-mp4-conversion-at-your-fingertits-fb-only/"><u>[Updated] Secure MP4 Conversion at Your Fingertits – FB Only</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-commandments-of-eye-catching-podcast-album-imagery/"><u>10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-meme-genius-with-kinemaster-skills/"><u>2024 Approved  Become a Meme Genius with KineMaster Skills</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-scenes-with-vlc-player-features/"><u>2024 Approved  Behind the Scenes with VLC Player Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fortified-process-for-adding-tiktok-profile-hyperlinks/"><u>2024 Approved  Fortified Process for Adding TikTok Profile Hyperlinks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freshflicks-app-overview-and-score/"><u>2024 Approved  FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-affordable-360-degree-cameras/"><u>2024 Approved  Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/50-years-echoing-europes-language-babel-revealed/"><u>50 Years Echoing - Europe's Language Babel Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/begin-a-new-era-of-editing-with-xps-video-suite/"><u>Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bellylaugh-blast-websites-with-the-best-comical-ringtones-for-2024/"><u>BellyLaugh Blast  Websites with the Best Comical Ringtones for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cloud-savings-guide-comparing-costs-and-top-deals-for-2024/"><u>Cloud Savings Guide  Comparing Costs & Top Deals for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combatting-video-pauses-in-photobooth-apps-for-2024/"><u>Combatting Video Pauses in Photobooth Apps for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/criptografando-um-conhecimento-em-portugues-greves-gerais/"><u>Criptografando Um Conhecimento Em Português - Greves Gerais</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-numbers-an-introduction-to-facebook-insight-for-2024/"><u>Deciphering Numbers  An Introduction to Facebook Insight for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-the-art-of-iphones-and-podcasts-downloading/"><u>Decoding the Art of iPhones and Podcasts Downloading</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-auditory-experience-iphone-and-the-world-of-podcasting/"><u>Elevate Your Auditory Experience - iPhone and the World of Podcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-intova-x-changes-action-camera-game/"><u>How Intova X Changes Action Camera Game</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-11-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 11 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/idealized-panzoid-blueprints-collection/"><u>Idealized Panzoid Blueprints Collection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-handheld-cameras-for-uninterrupted-shots/"><u>In 2024, Best Handheld Cameras for Uninterrupted Shots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cinematic-illumination-a-filmmakers-path-to-stunning-colors/"><u>In 2024, Cinematic Illumination  A Filmmaker's Path to Stunning Colors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exclusive-win-audio-experience/"><u>In 2024, Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-pedagogy-through-film-in-the-classroom/"><u>Pioneering Pedagogy Through Film in the Classroom</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-no-sound-issue-with-usb-headset-on-windows-10/"><u>Solving No Sound Issue with USB Headset on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stellar-stories-celebrating-youtubes-best-narratives/"><u>Stellar Stories  Celebrating YouTube's Best Narratives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-video-upgrade-with-enhancer-22/"><u>The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tranquil-tracks-easy-volume-diminution-via-garageband/"><u>Tranquil Tracks  Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-ios-photography-apps-x-8/"><u>Ultimate Guide to iOS Photography Apps (X, 8)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-building-a-memorable-podcast-logo/"><u>Unleash Creativity  Building a Memorable Podcast Logo</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results-for-2024/"><u>Updated Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results for 2024</u></a></li>
+</ul></div>

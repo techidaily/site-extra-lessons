@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Convert Flawlessly  Leading Software for High-Res Videos\""
-date: 2024-05-24T09:05:57.374Z
-updated: 2024-05-25T09:05:57.374Z
+date: 2024-07-26T21:46:54.697Z
+updated: 2024-07-27T21:46:54.697Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Convert Flawlessly: Leading Software for High-Res Videos\""
 excerpt: "\"This Article Describes [New] Convert Flawlessly: Leading Software for High-Res Videos\""
 keywords: "\"Video Conversion High Res,Software High-Quality Vid,Flawless Video Enhancement,Premium Video Editors,Ultra HD Video Tools,Resolution Upgraded Videos,Professional Video Converters\""
-thumbnail: https://www.lifewire.com/thmb/rkiS0gItVB_lCMmc-zDrWXPfg-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yellowstone-ff7a6608623f4010a075db8a853c3eaa.jpg
+thumbnail: https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e42aa2cadb4595040f5c4520.jpg
 ---
 
 ## Convert Flawlessly: Leading Software for High-Res Videos
@@ -22,12 +22,19 @@ Though YouTube allows uploading 4K videos, the files being high in quality and l
 
 In order to overcome all these issues and others related to 4K uploading, the best solution is to downscale the video to the highest quality. To get this conversion done, you would need a good PC or an online tool. For your convenience, we have shortlisted the best tools for downscaling 4K YouTube videos and they are discussed in the following parts of the topic.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: Is a 4K video necessary for YouTube?
 
 Though 4K video is supported by YouTube, these are not at all necessary for YouTube. In fact, uploading a 4K video is more of a hassle as it not only takes a lot of time but needs to adhere to the set file parameters. Moreover, these 4K videos are cumbersome to edit and also, and they are not supported by a wide range of media players and devices. The large size of the 4K videos also prevents them from being shared over email and other platforms.
 
 Considering all these factors, downscaling 4K videos to 1080p/HD is the best solution as this will not hamper the video quality and will also make the uploading, editing, and playback easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Part 2\. Top 5 Software to Downscale 4K to 1080p/HD without Losing Quality for YouTube
 
 For ensuring that your HD YouTube videos are downscaled and converted to 1080HD quality effortlessly, good software is needed. In the following part, we have shortlisted the top 5 YouTube convert 4K tools for your reference.
@@ -63,6 +70,9 @@ Supported OS: Windows and Mac
 
 For all types of video editing requirements, Wondershare Filmora works as an excellent tool, and the software also facilitates converting 4K YouTube videos to 1080p quality making it compatible with all types of players and devices.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/6-most-used-4k-youtube-converter-to-downscale-at-highest-quality-pc-offline-3.jpg)
 
 **Key features:**
@@ -85,6 +95,9 @@ Cons
 
 Supported OS: Windows and Mac
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Handbrake
 
 This free and open-source video transcoder tool allows you to convert 4K videos to 1080p in high quality.
@@ -113,6 +126,9 @@ Cons
 
 Supported OS: Windows, Mac, and Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. WinX HD Video Converter Deluxe
 
 To convert your 4K YouTube videos to 1080p and other lower resolutions, WinX HD Video Converter Deluxe works as an excellent tool that is compatible working with your Windows as well as Mac systems.
@@ -166,6 +182,9 @@ Cons
 
 Supported OS: Windows, Mac, Linux, Unix, iOS, and Android
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: Hot FAQs on YouTube 4k Converters
 
 Below discussed are the commonly asked questions and their answers related to YouTube 4K converters.
@@ -174,6 +193,9 @@ Below discussed are the commonly asked questions and their answers related to Yo
 
 YouTube supports a wide range of formats for video upload in different file resolutions. Some of the most commonly used formats include MOV, MPEG-1, MPEG-2, MPEG-4, MP4, AVI, WMV, FLV, 3GP, and more. The entire list can be checked[here](https://support.google.com/youtube/troubleshooter/2888402?hl=en).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Is 1080p upscaled to 4K really better?
 
 A 4K video is undoubtedly high in quality and can be used only when some specific content is needed. But on the flip side, there are many issues related to the 4Kresolution like slow video upload speed, high storage, incompatibility with the majority of the device, and similar others.
@@ -220,6 +242,18 @@ Supported OS: Windows and Mac
 
 This free and open-source video transcoder tool allows you to convert 4K videos to 1080p in high quality.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![handbrake](https://images.wondershare.com/filmora/article-images/2022/07/6-most-used-4k-youtube-converter-to-downscale-at-highest-quality-pc-offline-4.jpg)
 
 **Key features:**
@@ -244,6 +278,9 @@ Cons
 
 Supported OS: Windows, Mac, and Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. WinX HD Video Converter Deluxe
 
 To convert your 4K YouTube videos to 1080p and other lower resolutions, WinX HD Video Converter Deluxe works as an excellent tool that is compatible working with your Windows as well as Mac systems.
@@ -270,6 +307,9 @@ Cons
 
 Supported OS: Windows and Mac
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. VLC Media Player
 
 Though VLC is one of the most widely used cross-platform media players, a wide range of additional features are also supported by the tool including 4K to 1080p conversion.
@@ -301,16 +341,25 @@ Supported OS: Windows, Mac, Linux, Unix, iOS, and Android
 
 Below discussed are the commonly asked questions and their answers related to YouTube 4K converters.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 1\. What are the supported formats of the video on YouTube?
 
 YouTube supports a wide range of formats for video upload in different file resolutions. Some of the most commonly used formats include MOV, MPEG-1, MPEG-2, MPEG-4, MP4, AVI, WMV, FLV, 3GP, and more. The entire list can be checked[here](https://support.google.com/youtube/troubleshooter/2888402?hl=en).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### 2\. Is 1080p upscaled to 4K really better?
 
 A 4K video is undoubtedly high in quality and can be used only when some specific content is needed. But on the flip side, there are many issues related to the 4Kresolution like slow video upload speed, high storage, incompatibility with the majority of the device, and similar others.
 
 Thus, considering these in mind, we can say that 1080p is quite a good resolution for your YouTube and other videos, and thus upscaling it to 4K is not a good or a better choice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## **Final Words**
 
 So, if you are facing trouble uploading 4K videos on YouTube, downscaling and converting them to 1080p is the best solution without compromising on the file quality. Any one of the above-listed offline or online YouTube video converter can be considered for this task. Among the above-listed ones, we would recommend using Wondershare Filmora as it works as a complete video editing toolbox that will help you with several other video editing and customization tasks.
@@ -343,3 +392,58 @@ So, if you are facing trouble uploading 4K videos on YouTube, downscaling and co
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-architects-crafting-fantasy-realms-for-marvel/"><u>[New] 2024 Approved  Architects Crafting Fantasy Realms for Marvel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-26-metaverse-milestones-a-journey-into-virtual-realms/"><u>[New] 26 Metaverse Milestones  A Journey Into Virtual Realms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-audiovisual-debut-breakdown/"><u>[New] Audiovisual Debut Breakdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-awesome-top-5-ios-podcast-platforms/"><u>[New] Awesome Top 5 iOS Podcast Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-converting-live-images-to-continuous-recordings/"><u>[New] Converting Live Images to Continuous Recordings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-profit-from-youtube-monetize-youtube-shorts-and-boost-your-income/"><u>[New] Profit From YouTube  Monetize YouTube Shorts and Boost Your Income</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-less-loved-aspects-of-virtual-worlds/"><u>[New] The Less-Loved Aspects of Virtual Worlds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>[New] Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-blended-vocalists-one-platform-at-a-time/"><u>[Updated] 2024 Approved  Blended Vocalists, One Platform at a Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-canvas-of-colors-advanced-theory-and-use/"><u>[Updated] A Canvas of Colors  Advanced Theory & Use</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-ace-the-art-of-digital-photography-with-lunapic/"><u>[Updated] Ace the Art of Digital Photography with LunaPic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beyond-replication-innovating-virtual-reality-experiences/"><u>[Updated] Beyond Replication  Innovating Virtual Reality Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bikers-ultimate-camera-companion-list-update/"><u>[Updated] Biker's Ultimate Camera Companion List Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>[Updated] Breaking the Barrier  Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>[Updated] In 2024, Gourmet Gurus  Who You Should Subscribe To</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-presence-mastery-of-title-and-tag-use-on-youtube/"><u>[Updated] Perfecting Your Presence  Mastery of Title and Tag Use on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-race-through-the-olympics-top-sections-2022/"><u>[Updated] Race Through the Olympics  Top Sections, 2022</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-masterpiece-scenes-to-perfect-your-edits/"><u>10 Masterpiece Scenes to Perfect Your Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-30-pathways-to-unique-metaverse-meme-production/"><u>2024 Approved  30 Pathways to Unique Metaverse Meme Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>2024 Approved  Comparing the Crème De La Crème  GoPro Hero5 Black to Hero4 Silver</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quickly-crafting-a-facebook-collage-a-step-by-step-guide/"><u>2024 Approved  Quickly Crafting a Facebook Collage  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-professional-grade-motion-blur-using-photoshop-tools-for-2024/"><u>Achieving Professional-Grade Motion Blur Using Photoshop Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-and-paid-drawing-apps-for-windows/"><u>Best Free and Paid Drawing Apps for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-shooting-gear-top-10-cameras-without-jitters/"><u>Best Shooting Gear  Top 10 Cameras Without Jitters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-decor-10-chic-computer-walls/"><u>Digital Decor  10 Chic Computer Walls</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-s21-fe-5g-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy S21 FE 5G (2023) in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-and-swift-update-process-for-acer-in-windows-10/"><u>Effortless & Swift Update Process for Acer in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/forge-funny-frameworks/"><u>Forge Funny Frameworks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-artificial-intelligence-for-insights-and-predictions/"><u>Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-create-a-youtube-music-playlist-for-2024/"><u>How to Create a YouTube Music Playlist for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>In 2024, A Comprehensive Look  Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-a78-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo A78 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours/"><u>In 2024, Best-in-Class Subtitle Converters Revealed  Transform SUB Into SRTR in Minutes, Not Hours</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-captivating-colors-in-photos-a-ps-masterclass/"><u>In 2024, Captivating Colors in Photos  A PS Masterclass</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/loop-mechanics-collection/"><u>Loop Mechanics Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-net-restoration-on-your-machine-max-156/"><u>Mastering .NET Restoration on Your Machine (Max 156)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-photo-transformation-apps/"><u>Mastering the Art of Photo Transformation Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-video-editing-with-vita-an-in-depth-review-and-tutorial/"><u>Mastering Video Editing with Vita  An In-Depth Review & Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-screen-magnification-in-ms-teams/"><u>Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revitalized-interview-selections-for-podcasters-for-2024/"><u>Revitalized Interview Selections for Podcasters for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steady-path-adding-your-bio-to-tiktok-unhackable-way/"><u>Steady Path  Adding Your Bio to TikTok Unhackable Way</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-garageband-tutorial-for-podcast-creation/"><u>Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-future-in-your-pocket-review-of-lgs-portable-4k-display/"><u>The Future in Your Pocket  Review of LG's Portable 4K Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-2024-blueprint-for-optimizing-video-edits-with-vivacut/"><u>The Ultimate 2024 Blueprint for Optimizing Video Edits with VivaCut</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>Unlimited Chuckles Craftsmanship  No Monetary Requirement</u></a></li>
+</ul></div>

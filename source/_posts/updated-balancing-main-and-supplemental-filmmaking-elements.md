@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Balancing Main & Supplemental Filmmaking Elements"
-date: 2024-05-24T07:21:45.393Z
-updated: 2024-05-25T07:21:45.393Z
+date: 2024-07-26T18:43:53.081Z
+updated: 2024-07-27T18:43:53.081Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Balancing Main & Supplemental Filmmaking Elements"
 excerpt: "This Article Describes [Updated] Balancing Main & Supplemental Filmmaking Elements"
 keywords: "Film Balance,Main Fx Essentials,Supplemental Effects,Key FX Principles,Visual Storytelling,Cinematic Elements,Media Filmmaking Tech"
-thumbnail: https://www.lifewire.com/thmb/Xfsodnkjdz4fAd73146-24x06ZE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-windows-10-notification-center-what-it-is-and-how-to-use-it-4150756-2691e67d378e45f4875c059230b007d7.png
+thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57539d3344fb75e1f209995c6.png
 ---
 
 ## Balancing Main & Supplemental Filmmaking Elements
@@ -32,6 +32,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -44,6 +47,9 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -60,22 +66,34 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +128,62 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-complete-playbook-to-conquer-spotify-advertising/"><u>[New] 2024 Approved  The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-7-proven-techniques-to-skyrocket-your-instagram-profile/"><u>[New] 7 Proven Techniques to Skyrocket Your Instagram Profile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-obs-not-recording-audio-solved/"><u>[New] In 2024, OBS Not Recording Audio [Solved]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-multiperspective-media-expert-guide-to-instagram-video-rotations/"><u>[Updated] 2024 Approved  Mastering Multiperspective Media  Expert Guide to Instagram Video Rotations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>[Updated] A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-love-odds-expert-tips-for-compelling-tinder-profiles/"><u>[Updated] Boost Love Odds  Expert Tips for Compelling Tinder Profiles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-box-bonanza-top-10-sites-to-snag-mystery-boxes-on-deals/"><u>[Updated] Box Bonanza  Top 10 Sites to Snag Mystery Boxes on Deals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cost-free-match-mastery-how-to-stream-and-slice/"><u>[Updated] Cost-Free Match Mastery  How to Stream and Slice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-serenity-in-animated-worlds-top-youtube-picks-for-2024/"><u>[Updated] Finding Serenity in Animated Worlds  Top YouTube Picks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boosting-engagement-tactics-for-great-instagram-reels/"><u>[Updated] In 2024, Boosting Engagement  Tactics for Great Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-propel-your-online-presence-via-creator-studio/"><u>[Updated] Propel Your Online Presence via Creator Studio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-media-exchange-transferring-facebook-content-to-whatsapp-for-2024/"><u>[Updated] Seamless Media Exchange  Transferring Facebook Content to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>2024 Approved  Achieve Peak Performance  Prime Methods for Zoom Conversion Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing/"><u>2024 Approved  Asus ProArt PA 329Q  The Pinnacle in High-Definition Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-text-plugins-for-after-effects/"><u>2024 Approved  Best Text Plugins For After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-chaos-in-high-definition-the-polaroid-xs-review/"><u>2024 Approved  Capturing Chaos in High Definition - The Polaroid XS Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expressiveness-in-yt-adopting-emojis/"><u>2024 Approved  Expressiveness in YT  Adopting Emojis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-synergy-integrating-linktree-into-your-tiktok-profile-for-2024/"><u>Achieving Synergy  Integrating Linktree Into Your TikTok Profile for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-speed-and-stability-new-dell-pc-driver-update/"><u>Boost Speed & Stability: New Dell PC Driver Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brighten-and-sharpen-expert-tips-for-v22-video-enhancement/"><u>Brighten and Sharpen  Expert Tips for V2.2 Video Enhancement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-audible-magic-cropping-and-edits-in-canva-videos-for-2024/"><u>Crafting Audible Magic  Cropping and Edits in Canva Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/disguising-faces-online-an-expedient-selection-of-apps/"><u>Disguising Faces Online  An Expedient Selection of Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-and-engage-the-ultimate-seo-playbook-for-podcasters/"><u>Elevate and Engage  The Ultimate SEO Playbook for Podcasters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-ae-design-best-free-templates-for-professionals/"><u>Essential AE Design  Best Free Templates for Professionals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .doc file</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v27e-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V27e Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-x9a-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor X9a</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-premier-cloud-platforms-revolutionizing-storage/"><u>In 2024, 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-simple-cuts-deep-insights-into-vidas-editing-power/"><u>In 2024, Beyond Simple Cuts  Deep Insights Into Vida’s Editing Power</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-budding-filmmakers-check-out-these-gopro-upgrades/"><u>In 2024, Budding Filmmakers, Check Out These GoPro Upgrades</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-m1-powered-laptops-to-videographers-needs/"><u>In 2024, Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c51-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco C51 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-alternative-footage-in-filmmaking/"><u>Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/love-and-light-nine-essential-filmora-elements-for-2024/"><u>Love and Light  Nine Essential Filmora Elements for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-c67-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme C67 4G Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-quantitative-vs-qualitative-analysis-a-guide-for-professionals/"><u>Mastering the Art of Quantitative vs Qualitative Analysis  A Guide for Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peering-into-the-digital-universe-what-is-vr/"><u>Peering Into the Digital Universe  What Is VR?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pictopeekles-easy-memes-with-a-twist/"><u>PictoPeekles  Easy Memes with a Twist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pivotal-moments-in-figure-skating-22-highlights/"><u>Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pushing-boundaries-hps-z32x-4k-revelation/"><u>Pushing Boundaries  HP’s Z32X 4K Revelation</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel Causes & Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>Starting Up in Periscope  Tips to Launch Your Wealth Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-to-minimize-motion-blur-from-drones/"><u>Techniques to Minimize Motion Blur From Drones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-frontier-of-film-diving-into-lgs-digital-cinema-31mu97-b/"><u>The Frontier of Film  Diving Into LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-magic-behind-luts-crafting-captivating-photos/"><u>The Magic Behind LUTs  Crafting Captivating Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-most-popular-vr-game-experiences-on-oculus/"><u>The Most Popular VR Game Experiences on Oculus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-meme-playbook-no-10-essentials/"><u>The Ultimate Meme Playbook  No. 10 Essentials</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-meizu-21-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Meizu 21 Pro Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-integrating-visuals-into-windows-10-with-finesse/"><u>Ultimate Guide  Integrating Visuals Into Windows 10 with Finesse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-creativity-with-mobile-melodies-on-iphone/"><u>Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-color-mastery-11-tutorials/"><u>Unveiling the Secrets of Color Mastery (11 Tutorials)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Tips for Professionally Changing Image Hues"
-date: 2024-05-24T08:36:35.973Z
-updated: 2024-05-25T08:36:35.973Z
+date: 2024-07-26T20:55:23.484Z
+updated: 2024-07-27T20:55:23.484Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Advanced Tips for Professionally Changing Image Hues"
 excerpt: "This Article Describes Advanced Tips for Professionally Changing Image Hues"
 keywords: "\"Hue Adjustment Pro,Color Correction Expertise,Professional Imagery Editing,Advanced Image Alteration,Professionals Changing Hue,High-End Photo Transformations,Skilled Hue Modification\""
-thumbnail: https://www.lifewire.com/thmb/yRFJMQWiePYCmkBaR8_rxYN5o54=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-112228848-5825fd543df78c6f6ac39b7b.jpg
+thumbnail: https://thmb.techidaily.com/b6c1c170b3fb34192b1990649e9c8685733790cb7484ba703ce124bf47249cb0.jpg
 ---
 
 ## Advanced Tips for Professionally Changing Image Hues
@@ -36,6 +36,9 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
 ### 2\. Tips 2: Use Black and White Colors
@@ -46,22 +49,38 @@ The reason for using different adjustment layers is that it can produce natural 
 
 Now do the tuning by navigating to the layer mask and also select the layers. After that, Tap on "CTRL+E" to merge all the settings and layers, and you will get your desired color.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
@@ -70,18 +89,27 @@ Do you want to change the color of a specific part of the image? You can do this
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
@@ -104,6 +132,9 @@ To increase or decrease the intensity of your color, use the “Tolerance” opt
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -132,3 +163,42 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-capturing-panoramic-views-fisheye-techniques/"><u>[New] 2024 Approved  Capturing Panoramic Views  Fisheye Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-mastering-cinematic-techniques-in-24/"><u>[New] Behind the Scenes  Mastering Cinematic Techniques in '24</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-laughing-on-tiktok-current-hits-and-personalities/"><u>[New] Laughing on TikTok  Current Hits & Personalities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-benefits-with-creative-commons-licenses/"><u>[Updated] 2024 Approved  Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-low-cost-high-impact-spherical-videography-devices/"><u>[Updated] In 2024, Low Cost, High Impact Spherical Videography Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-the-best-cloud-storage-for-your-photos-free-and-paid-included/"><u>[Updated] The Best Cloud Storage for Your Photos  Free and Paid Included</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/15plus-destinations-for-cost-free-imagery-harvesting/"><u>15+ Destinations for Cost-Free Imagery Harvesting</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-all-about-virtual-idols-and-their-rise/"><u>2024 Approved  All About Virtual Idols and Their Rise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beijings-frost-touched-games-highlights-from-2022/"><u>2024 Approved  Beijing's Frost-Touched Games, Highlights From 2022</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-channel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>2024 Approved  Channel Upgrade  How Reaching 500 Viewers Propelts Monetization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>2024 Approved  Comparing Core Titles  Oculus, HTC Vive & PS VR in Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-glimpse-into-virtual-frontiers-with-jaunt-vr-for-2024/"><u>A Glimpse Into Virtual Frontiers with Jaunt VR for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor-for-2024/"><u>A New Dimension  Understanding the Innovations in HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-clean-canvases-the-picart-backdrop-removal-art/"><u>Achieve Clean Canvases  The PicArt Backdrop Removal Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/core-elements-in-virtual-narrative-design/"><u>Core Elements in Virtual Narrative Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-efficient-filmmaking-action-cams-under-100-guide/"><u>Cost-Efficient Filmmaking ACTION Cams Under $100 Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-relaxation-no-license-sounds/"><u>Easy Relaxation No-License Sounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-reverse-video-method-for-android-users/"><u>Easy Reverse Video Method for Android Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-itel-a05s-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Itel A05s in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ending-previews-on-youtube-a-comprehensive-tutorial/"><u>Ending Previews on YouTube - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-free-intro-templates-for-videos-for-2024/"><u>Exclusive Free Intro Templates for Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-drone-applications-now-and-beyond/"><u>Exploring Drone Applications Now & Beyond</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-m34-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy M34 5G Without PUK Codes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-transform-your-video-presentation-with-updated-covers/"><u>In 2024, Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-titans-social-networks-10-most-shared-posts/"><u>In 2024, Tweet Titans  Social Network’s 10 Most Shared Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luminous-designs-examination-pinnacle-studio-audit/"><u>Luminous Designs Examination  Pinnacle Studio Audit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide/"><u>Metaverse Vs. MultiMetverse  What Are the Differences [Ultimate Guide]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skys-canvas-transforming-drones-into-dynamic-videos-for-2024/"><u>Sky's Canvas  Transforming Drones Into Dynamic Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/storyboard-pro-for-win8/"><u>StoryBoard Pro for Win8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-your-podcasts-for-apple-podcasts/"><u>Streamline Your Podcasts for Apple Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-peculiar-plight-dissecting-goofy-chronicles/"><u>The Peculiar Plight  Dissecting 'Goofy Chronicles'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>The Ultimate Guide to Video Cuts  Windows Edition, Made Simple</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-video-sculpting-stylish-deformed-words/"><u>Visionary Video  Sculpting Stylish, Deformed Words</u></a></li>
+</ul></div>

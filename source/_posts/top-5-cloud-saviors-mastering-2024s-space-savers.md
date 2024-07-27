@@ -1,7 +1,7 @@
 ---
 title: "\"Top 5 Cloud Saviors  Mastering 2024'S Space Savers\""
-date: 2024-05-24T08:23:41.426Z
-updated: 2024-05-25T08:23:41.426Z
+date: 2024-07-26T20:32:55.070Z
+updated: 2024-07-27T20:32:55.070Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Top 5 Cloud Saviors: Mastering 2024'S Space Savers\""
 excerpt: "\"This Article Describes Top 5 Cloud Saviors: Mastering 2024'S Space Savers\""
 keywords: "Top Cloud Masters 2024,Future Cloud Tech,Space Saving Hacks,Optimal Cloud Use,Cloud Efficiency Tips,Advanced Space Savers,Mastering Cloud Services"
-thumbnail: https://www.lifewire.com/thmb/GYiqe6p1ML8iMsOVu1sELyODoQ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-WWCD23-Vision-Pro-with-battery-230605-153f3de9d33b4b80b640d1e9955db287.jpg
+thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12a2b526e9a90435fad802df2.jpg
 ---
 
 ## Top 5 Cloud Saviors: Mastering 2024'S Space Savers
@@ -22,6 +22,9 @@ We will steer you on the correct path by describing **cloud storage**, how cloud
 
 However, if you are just interested in the best providers, we have evaluated them according to various criteria, including capacity, security, and simplicity of use. We have mainly concentrated on providing great paid solutions for individuals and small organizations. So, let us begin our journey to the **best cloud storage for personal use**.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![beat cloud storage](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-1.jpg)
 
 1. [iCloud (iPhone & Mac)](#part1-1)
@@ -41,6 +44,9 @@ However, if you are just interested in the best providers, we have evaluated the
 
 ## Part 1: The Overall Best Cloud Storage Service
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### No.1 iCloud (iPhone & Mac)
 
 Compared to other **cloud storage services**, Apple's iCloud operates a little differently because of its effective integration into both macOS and iOS. You can access it through Windows PCs, but honestly, the only scenario in which it makes sense to use it is if you typically work with Apple gear. In addition to the files, images, and videos kept on your iPhone or iPad, iCloud also stores your messages, calendars, contacts, and a variety of other data.
@@ -61,12 +67,18 @@ You may even collaborate on papers while protecting them with a password. Two-fa
 
 It allows for excellent communication with both close friends and relatives. With iOS 16, the iCloud Shared Photo Library is now accessible on iPhones and other Apple products. This function, which allows family members in the library to share images on iCloud as they are taken, may be switched on or off with a flip of the switch inside the camera app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### No.2 Google Drive
 
 If you already have a Google account, you are automatically entitled to 15 GB of free storage space in Google Drive. You may use this to create backups of important files, such as documents, images, movies, and anything else you want to keep secure.
 
 The user interface of Drive is uncluttered, straightforward, and only takes about a minute to get used to. It offers helpful capabilities such as sharing URLs to folders (while selecting the amount of control the receiver has), viewing a file even if opened on another device, plus applications for PC, Mac, iOS, and Android. However, this does not mean that Drive **cloud storage** is simple.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![google drive](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-3.jpg)
 
 **Reason1: easy to get**
@@ -105,6 +117,9 @@ If you think that 1,000 images won't be enough, you have the option to subscribe
 
 Flickr provides a sharing link for images and albums and the ability to manage the groups of people who may see your photos. Additionally, Flickr allows other users who have access to your photos to comment on them, "star" them and follow you to get updates on your photo uploads. You can get more out of your Flickr account by connecting it to third-party applications and sharing your photographs on social networking sites like Facebook, Twitter, and Tumbler. You can examine how many views your images have received and determine their credit rights.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Part 3: The Best Cloud Storage Service for Videos
 
 ### Wondershare Drive
@@ -113,6 +128,10 @@ The Wondershare Drive is the **best cloud storage** platform that caters to thos
 
 You also can upload files using this page. In addition, you can do fundamental administration tasks inside the drive, such as relocating, renaming, erasing, and downloading data. Even you can highlight the crucial files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![wondershare drive](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-5.jpg)
 
 ## Part 4: The Cloud Storage Service with Best Price
@@ -137,6 +156,9 @@ Get up to 90% off on 10 terabytes of storage space based on your region. You can
 
 ![idrive](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Do you wish to make a backup of your most cherished memories on the cloud? Do you want to save your prized images and videos on the cloud where you can access them easily? Using this guidance, you can locate the most suitable **personal cloud storage** for your films and photographs.
@@ -156,6 +178,9 @@ The times when the family would get together to go at old picture albums and chu
 
 1. [IDRIVE](#part4-1)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: The Overall Best Cloud Storage Service
 
 ### No.1 iCloud (iPhone & Mac)
@@ -164,6 +189,9 @@ Compared to other **cloud storage services**, Apple's iCloud operates a little d
 
 Once the service is active, you won't need to make any adjustments since most of what is occurring are behind the scenes, which is one of the benefits of this. In addition, when the time comes for you to upgrade to a new Apple device, you will be able to instantly sync all of the information from your previous device within a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![icloud](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-2.jpg)
 
 **Reason1: Reasonable price**
@@ -178,6 +206,9 @@ You may even collaborate on papers while protecting them with a password. Two-fa
 
 It allows for excellent communication with both close friends and relatives. With iOS 16, the iCloud Shared Photo Library is now accessible on iPhones and other Apple products. This function, which allows family members in the library to share images on iCloud as they are taken, may be switched on or off with a flip of the switch inside the camera app.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### No.2 Google Drive
 
 If you already have a Google account, you are automatically entitled to 15 GB of free storage space in Google Drive. You may use this to create backups of important files, such as documents, images, movies, and anything else you want to keep secure.
@@ -198,6 +229,9 @@ The free plan offers an industry-leading 15 GB of **cloud storage service**. Use
 
 Regarding the fundamentals of **personal cloud storage**, Google Drive delivers features such as simple access to data from applications and your browser, the option to recover older versions of files, and offline access when not connected to the Internet. But there is some bad news as well. The syncing process is not as straightforward as it is with some of the company's rivals, and there is no end-to-end encryption. This means that Google could, in principle, see your data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 2: The Best Cloud Storage Service for Pictures
 
 Saving your best images and shots is a must. After all, you never know when you will need that school get-together pictures for an event.
@@ -208,6 +242,9 @@ Thus, here is the **best cloud storage for personal use**.
 
 Flickr **cloud storage** has been around for a long time and was once considered one of the most outstanding internet services for uploading images and videos. Several companies have owned it, and SmugMug has been the current owner s ince April 20, 2018\. You don't need to sign up to see images and videos on Flickr, but if you want to post anything to the website, you will need to sign up for an account first. A user may add another Flickr user as a contact after making an account with the website. This allows the user to construct a profile page that displays photographs and videos that the user has posted to the website. Flickr provides mobile users with official mobile applications for iOS and Android, in addition to a mobile site optimized for usage on mobile devices.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![flickr](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-4.jpg)
 
 **Free 1000-picture storage**
@@ -230,8 +267,14 @@ The Wondershare Drive is the **best cloud storage** platform that caters to thos
 
 You also can upload files using this page. In addition, you can do fundamental administration tasks inside the drive, such as relocating, renaming, erasing, and downloading data. Even you can highlight the crucial files.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drive](https://images.wondershare.com/filmora/article-images/2022/11/best-cloud-storage-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: The Cloud Storage Service with Best Price
 
 ### IDRIVE
@@ -288,3 +331,51 @@ The times when the family would get together to go at old picture albums and chu
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[New] 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-bite-sized-content-on-youtube/"><u>[New] 2024 Approved  Bite-Sized Content on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-building-visual-story-arcs/"><u>[New] Building Visual Story Arcs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-optimizing-engagement-on-igtv-through-thoughtful-dimension-tweaks/"><u>[New] In 2024, Optimizing Engagement on IGTV Through Thoughtful Dimension Tweaks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-zero-price-techniques-for-online-educational-recordings/"><u>[New] In 2024, Zero Price  Techniques for Online Educational Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-viral-video-vibes-essential-quotable-phrases-for-your-tiktok-journey-for-2024/"><u>[New] Viral Video Vibes  Essential Quotable Phrases for Your TikTok Journey for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adventure-essentials-ultimate-guide-to-1-10-gopro-protectors/"><u>[Updated] Adventure Essentials - Ultimate Guide to #1-10 GoPro Protectors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-capture-mastery-in-windows-10/"><u>[Updated] Audio Capture Mastery in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-4k-tvs-top-ten-selection/"><u>[Updated] Best 4K TVs  Top Ten Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-barriers-top-picks-of-virtual-reality-walkers/"><u>[Updated] Breaking Barriers  Top Picks of Virtual Reality Walkers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-celebrated-scripts-spanning-eight-movie-segments/"><u>[Updated] Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-must-have-features-for-optimal-free-srt-tools-for-2024/"><u>10 Must-Have Features for Optimal Free SRT Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-average-earnings-in-the-world-of-podcasting/"><u>2024 Approved  Average Earnings in the World of Podcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-online-photo-tools-ranked-15/"><u>2024 Approved  Best Free Online Photo Tools Ranked #15</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-create-unique-instagram-ringtone-at-home/"><u>2024 Approved  Create Unique Instagram Ringtone at Home</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-transferring-media-between-two-iphones/"><u>2024 Approved  Techniques for Transferring Media Between Two iPhones</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y56-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y56 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-speed-adjustment-arsenal-list-for-2024/"><u>Audiovisual Speed Adjustment Arsenal List for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-jest-in-layout-and-edit-suite-for-2024/"><u>Best Jest in Layout & Edit Suite for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>Best of Both Worlds  Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-high-quality-visuals-with-benqs-27-inch-ultra-hd-display/"><u>Dissecting High-Quality Visuals with BenQ's 27 Inch Ultra HD Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/five-tips-for-writing-dialogue-and-narrative-scripts/"><u>Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-14-by-drfone-android/"><u>How to Bypass FRP from Xiaomi 14?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-s23plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel S23+ Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y02t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y02T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensible-guide-to-adding-images-on-instagram/"><u>In 2024, A Comprehensible Guide to Adding Images on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-tips-for-maximum-digital-storage/"><u>In 2024, Advanced Tips for Maximum Digital Storage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-choices-twitter-video-conversion-software/"><u>In 2024, Best Choices  Twitter Video Conversion Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-down-crossfade-audio-dynamics-in-production/"><u>In 2024, Breaking Down Crossfade Audio Dynamics in Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-images-and-words-step-by-step-text-integration-guide/"><u>In 2024, Bridging Images & Words  Step-by-Step Text Integration Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-clear-video-soundtracks-free-vs-licensed-software-guide/"><u>In 2024, Clear Video Soundtracks  Free Vs. Licensed Software Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-your-first-impactful-facebook-phenomenon-giveaway/"><u>In 2024, Craft Your First Impactful Facebook Phenomenon Giveaway</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-f14-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy F14 5G Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10c-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>Inside Virtual Worlds  Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/misting-mistake-gopro-clarity-tips/"><u>Misting Mistake? GoPro Clarity Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-speed-settings-for-snapchat-content/"><u>Navigating Speed Settings for Snapchat Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photo-flips-and-twists-essential-guide-to-ph-warping/"><u>Photo Flips & Twists  Essential Guide to PH Warping</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ring-induced-voice-memo-iphone-24/"><u>Ring-Induced Voice Memo - iPhone '24</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-paradigms-non-youtube-video-hosts/"><u>Shifting Paradigms  Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576803456-watching-dark-get-smart-about-german-instead/"><u>Watching Dark? Get Smart About German Instead!</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass in Monochrome Magic  A Professional's Guide\""
-date: 2024-05-24T08:33:27.376Z
-updated: 2024-05-25T08:33:27.376Z
+date: 2024-07-26T20:49:49.030Z
+updated: 2024-07-27T20:49:49.030Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Masterclass in Monochrome Magic: A Professional's Guide\""
 excerpt: "\"This Article Describes Masterclass in Monochrome Magic: A Professional's Guide\""
 keywords: "Monochrome Mastery,Art Magic Tips,Pro Photography,Black & White Basics,Darkroom Skills,Photo Enhancement,Chromatic Expertise"
-thumbnail: https://www.lifewire.com/thmb/0rHOaQ6SpQrTZLMn7poOqvm28Xs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/rotate-video-getty-5ae80a9ca18d9e0037b96028.jpg
+thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815dae1954866b21ab967027c21.jpg
 ---
 
 ## Masterclass in Monochrome Magic: A Professional's Guide
@@ -38,6 +38,14 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -48,28 +56,64 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
@@ -90,8 +134,28 @@ This method only hides color based on their luminance values; however, this load
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -132,3 +196,48 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-androids-fastest-video-speed-adjusters/"><u>[New] Android's Fastest Video Speed Adjusters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-free-high-quality-streaming-tools-for-webm-video-files/"><u>[New] Best Free, High-Quality Streaming Tools for WebM Video Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cartooncanvas-comprehensive-review-and-guidebook-24/"><u>[New] CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>[New] In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-tips-for-effective-game-playback-on-microsoft-os/"><u>[New] In 2024, Tips for Effective Game Playback on Microsoft OS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-2024s-smart-storage-prices-exposed/"><u>[Updated] 2024'S Smart Storage Prices Exposed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>[Updated] Achieve Unmatched Visuals  The Ultimate Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-into-design-your-strategy-for-career-success/"><u>[Updated] Breaking Into Design  Your Strategy for Career Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckle-factory-spooky-androids/"><u>[Updated] Chuckle Factory  Spooky Androids</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-guide-to-elevating-your-obs-video-projects/"><u>[Updated] In 2024, A Guide to Elevating Your OBS Video Projects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-compelling-choices-macs-excellent-snipping-tools/"><u>[Updated] In 2024, Compelling Choices  Mac's Excellent Snipping Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-secrets-to-successful-and-memorable-titles/"><u>2024 Approved  5 Secrets to Successful and Memorable Titles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-tips-and-tricks-for-speech-transcription-with-gdoc/"><u>2024 Approved  Advanced Tips and Tricks for Speech Transcription with GDoc</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-scale-funds-assessment-kickstarting-your-podcast-dream/"><u>2024 Approved  Full-Scale Funds Assessment  Kickstarting Your Podcast Dream</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>2024 Approved  The Art of Fast-Forwarding  Safely Expedite Your Spotify Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-about-dji-inspire-1-in-depth-analysis-for-2024/"><u>All About  DJI Inspire 1 in Depth Analysis for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-exploration-the-comprehensible-review-of-pazera-for-2024/"><u>Audio Exploration  The Comprehensible Review of Pazera for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-alchemy-for-imovie-masterpieces-for-2024/"><u>Auditory Alchemy for iMovie Masterpieces for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>Authority List  Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bebop-unleashed-the-parrots-aerial-showcase-review/"><u>Bebop Unleashed  The Parrot's Aerial Showcase Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-look-at-podcaster-income-for-2024/"><u>Behind-the-Scenes Look at Podcaster Income for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-pro-stream-vmix-vs-wirecast-battle/"><u>Choosing Pro Stream  VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/circulation-craft-expert/"><u>Circulation Craft Expert</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-analysis-updated-s3700-bd-player/"><u>Comprehensive Analysis  Updated S3700 BD Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-a-perfect-photomontage-like-a-pro-for-2024/"><u>Crafting a Perfect PhotoMontage Like a Pro for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-advice-perfected-media-import-techniques-for-windows-10/"><u>Expert Advice  Perfected Media Import Techniques for Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-picks-7-premium-mac-videos-for-2024/"><u>Expert Picks  7 Premium Mac Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-for-effortless-google-podcast-upload/"><u>Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 8? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-infinix-hot-30-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Infinix Hot 30 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-9-leading-live-gaming-services/"><u>In 2024, 9 Leading Live Gaming Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerated-sound-adjustment-apps-overview/"><u>In 2024, Accelerated Sound Adjustment Apps Overview</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-3d-tools-optimized-for-animation-workflows/"><u>Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-4k-videography-with-prime-optics/"><u>Mastering the Art of 4K Videography with Prime Optics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sales-surge-strategy-techniques/"><u>Sales Surge Strategy Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scrutinizing-googles-ar-embellishments-and-others/"><u>Scrutinizing Google's AR Embellishments & Others</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/slug-line-creation-techniques-for-online-copy/"><u>Slug Line Creation Techniques for Online Copy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-into-3d-designing-layered-textured-texts-psx/"><u>Step Into 3D  Designing Layered, Textured Texts PSX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/1716357133893-top-iphone-ios-vr-games-you-should-try/"><u>Top Iphone IOS VR Games You Should Try</u></a></li>
+</ul></div>

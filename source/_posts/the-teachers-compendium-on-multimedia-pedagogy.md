@@ -1,7 +1,7 @@
 ---
 title: "The Teacher's Compendium on Multimedia Pedagogy"
-date: 2024-05-24T06:52:28.811Z
-updated: 2024-05-25T06:52:28.811Z
+date: 2024-07-26T17:51:35.169Z
+updated: 2024-07-27T17:51:35.169Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,17 @@ categories:
 description: "This Article Describes The Teacher's Compendium on Multimedia Pedagogy"
 excerpt: "This Article Describes The Teacher's Compendium on Multimedia Pedagogy"
 keywords: "EdTech Innovations,Media Learning Guide,Multimedia Teaching Aids,Educational Visuals Strategies,Interactive Classroom Tools,Engaging Digital Lessons,Pedagogy in Media Education"
-thumbnail: https://www.lifewire.com/thmb/RVHYcHxZK80TLaMk4bNfK1rMPWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/getty_images_Morsa_Images-166b38a9c3184b1aa5d051f113d51828.jpg
+thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a61227ca3ca092b735291d94d.jpg
 ---
 
 ## The Teacher's Compendium on Multimedia Pedagogy
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -37,16 +41,26 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -101,3 +115,43 @@ More and more research supporting the advantages of blended learning will suppor
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-10-must-have-drone-accessories-and-parts/"><u>[New] 10 Must Have Drone Accessories and Parts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-low-light-iphone-video-quality/"><u>[New] Boosting Low-Light iPhone Video Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-the-gap-audio-to-text-in-powerpoint-slides/"><u>[New] Bridging the Gap  Audio to Text in PowerPoint Slides</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>[New] Compreran List  Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-your-own-visual-story-iphones-top-10-image-design-techniques/"><u>[New] Craft Your Own Visual Story  IPhone's Top 10 Image Design Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>[New] Crafting Cinematic Stories in Extended Seconds  A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sound-symphony-music-within-whatsapp-statuses/"><u>[Updated] 2024 Approved  Sound Symphony  Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-images-to-instagram-made-simple/"><u>[Updated] Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-android-brightening-essentials-stepwise-demystification/"><u>[Updated] Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chronicles-unveiled-the-best-narrative-channels-on-youtube-this-year/"><u>[Updated] Chronicles Unveiled  The Best Narrative Channels on YouTube This Year</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-share-the-moment-effortlessly-push-photos-to-social-networks-for-2024/"><u>[Updated] Share the Moment  Effortlessly Push Photos to Social Networks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-camera-induced-image-disruption/"><u>2024 Approved  Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-auto-tracking-mount-for-cameras-and-phones/"><u>2024 Approved  Best Auto Tracking Mount for Cameras and Phones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages/"><u>2024 Approved  Chuckling and Crying on the Same IG Feed  Top Memetic Pages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-memes-for-maximum-shareability/"><u>2024 Approved  Crafting Memes for Maximum Shareability</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-streamlining-song-selection-for-youtube-playlist-curation/"><u>2024 Approved  Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-visionary-software-solutions-for-virtual-meetings/"><u>2024 Approved  Visionary Software Solutions for Virtual Meetings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-professional-looking-motion-blur-with-just-a-few-steps-in-photoshop/"><u>Achieve Professional-Looking Motion Blur with Just a Few Steps in Photoshop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/affordable-gopro-purchase-guide-tips-and-tricks-for-2024/"><u>Affordable GoPro Purchase Guide  Tips & Tricks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-of-eco-friendly-visual-tricks-in-media/"><u>Behind the Scenes of Eco-Friendly Visual Tricks in Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-techniques-for-enhanced-visuals-in-videoleap/"><u>Cutting-Edge Techniques for Enhanced Visuals in Videoleap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-messaging-keywords-that-drive-marketing/"><u>Enhance Your Messaging  Keywords that Drive Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos/"><u>Expert Tips for Smooth Video Trimming in Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy M14 5G.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100i-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-education-with-virtual-immersion/"><u>Innovating Education with Virtual Immersion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-online-broadcasts-expertise-in-onestream-use/"><u>Navigating Online Broadcasts  Expertise in OneStream Use</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-13-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>The Ultimate Guide to iPhone/Desktop Video Change  Top 8 Recommendations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ranked-camera-stabilizers-reviewed-1-10-iphoneandroiddslr-compare/"><u>Top-Ranked Camera Stabilizers Reviewed  #1-#10 iPhone/Android/DSLR Compare</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-inner-animator-with-these-14-text-wonders/"><u>Unleash Your Inner Animator with These 14 Text Wonders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unrivaled-streaming-experience-ranking-the-leaders/"><u>Unrivaled Streaming Experience  Ranking the Leaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>Unveiling Yuneec’s Typhoon H  An Aerial Powerhouse Review</u></a></li>
+</ul></div>

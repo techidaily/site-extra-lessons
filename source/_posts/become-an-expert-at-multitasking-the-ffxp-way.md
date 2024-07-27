@@ -1,7 +1,7 @@
 ---
 title: "\"Become an Expert at Multitasking  The FFXP Way\""
-date: 2024-06-15T22:47:14.564Z
-updated: 2024-06-16T22:47:14.564Z
+date: 2024-07-26T22:26:04.651Z
+updated: 2024-07-27T22:26:04.651Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,14 @@ Using your PC to watch films while working on something else has recently been p
 
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How Picture-in-Picture Mode Works
 
 Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.
@@ -34,6 +40,9 @@ When your video is in picture-in-picture mode, the video placeholder also displa
 
 Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to activate Picture-in-Picture (PiP) in Firefox
 
 Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.
@@ -57,6 +66,10 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
@@ -75,10 +88,16 @@ You can load only a single video using the above guideline. Suppose you want to 
 
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Disable the Picture-in-Picture Mode
 
 Sometimes, the PiP mode can disturb necessary research or task that needs your full concentration. In this scenario, disabling the Picture-in-Picture mode is a way to get your task done with the optimum attention. If you want to turn off Picture-in-Picture mode and return to the video tab, hover over the video, then click the following icon **“X”**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
 
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
@@ -87,6 +106,9 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
@@ -95,6 +117,9 @@ It is also possible to enable and disable the picture-in-picture mode using keyb
 
 ## Part 5\. FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How do I keep the picture-in-picture window always on top?
 
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
@@ -103,6 +128,9 @@ After opening the tab, drag the application up, then scroll down to the bottom r
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
@@ -140,3 +168,43 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-musical-guide-to-enhancing-slides-with-tunes/"><u>[New] A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobe-lightroom-essentials-review/"><u>[New] Adobe Lightroom Essentials Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-becoming-an-illustration-maestro-best-mac-free-tools/"><u>[New] Becoming an Illustration Maestro - Best Mac Free Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-quick-fire-photos-with-iphone-burst-feature/"><u>[Updated] 2024 Approved  Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-sounding-off-on-channel-titling-tips-from-experienced-filmmakers/"><u>[Updated] 2024 Approved  Sounding Off on Channel Titling  Tips From Experienced Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-5-fastest-indie-film-tips-for-at-home-creators/"><u>[Updated] 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-accessories-for-immersive-gaming-worlds/"><u>[Updated] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-aligning-podcast-drop-dates-with-listener-patterns/"><u>[Updated] Aligning Podcast Drop Dates with Listener Patterns</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-artistic-zoomers-handbook-a-filters-journey/"><u>2024 Approved  The Artistic Zoomer's Handbook  A Filters Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8-key-metaverse-ventures-unveiling-core-concepts/"><u>8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-srt-mods-ultimate-upgrades-for-macwindows/"><u>Best SRT Mods  Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-thrill-choosing-superior-cam-accessories-for-2024/"><u>Capture the Thrill  Choosing Superior Cam Accessories for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-audio-crystal-clear-view-premium-webcams-for-podcasts-for-2024/"><u>Clear Audio, Crystal-Clear View  Premium Webcams for Podcasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-multimedia-software-vlcs-stand-against-mx-for-2024/"><u>Comparing Multimedia Software  VLC's Stand Against MX for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-every-shot-with-smart-camera-accessories/"><u>Enhance Every Shot with Smart Camera Accessories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>Expert Tips  Transforming Mundane Into Masterpieces with Canva</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finalcut-pro-101-crafting-professional-youtube-edits/"><u>FinalCut Pro 101  Crafting Professional YouTube Edits</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-ambiance-within-visual-mediums/"><u>In 2024, Auditory Ambiance Within Visual Mediums</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y55s-5g-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y55s 5G (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-charting-your-path-strategies-that-lead-to-1m-audience/"><u>In 2024, Charting Your Path  Strategies That Lead to 1M Audience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-the-best-footage-editor-hero-vs-polaroid-edition/"><u>In 2024, Choosing the Best Footage Editor  Hero Vs. Polaroid Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craftsmanship-at-fingertips-discovering-apples-8-excellent-drawing-apps/"><u>In 2024, Craftsmanship at Fingertips  Discovering Apple's 8 Excellent Drawing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfectly-blending-iphones-multimedia/"><u>In 2024, Perfectly Blending iPhones' Multimedia</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-media-music-grabber/"><u>In 2024, Social Media Music Grabber</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>Integrating Zoom and Skype  The Ultimate Guide to Efficient Video Calls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/logo-innovations-branding-your-podcast-visually/"><u>Logo Innovations  Branding Your Podcast Visually</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-the-sea-of-stunning-pexels-imagery-with-ease/"><u>Navigate the Sea of Stunning Pexels Imagery with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>Sky-High Speeds  Key Moments in the Short Tracks, Olympics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-approach-a-guide-to-using-google-photos/"><u>Streamlined Approach  A Guide to Using Google Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-spots-for-free-downloadable-got-ringtones/"><u>The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-fisheye-camera-capabilities/"><u>The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-eight-destinations-for-3d-typography/"><u>Top Eight Destinations for 3D Typography</u></a></li>
+</ul></div>

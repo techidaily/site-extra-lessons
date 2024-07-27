@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio\""
-date: 2024-05-24T06:49:29.957Z
-updated: 2024-05-25T06:49:29.957Z
+date: 2024-07-26T17:46:22.787Z
+updated: 2024-07-27T17:46:22.787Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio\""
 excerpt: "\"This Article Describes 2024 Approved: Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio\""
 keywords: "GoPro Timelapse Essentials,Timelapse with GoPro Studio,Creating Effective Timelapses,Basics of Timelapse in GoPro,GoPro Studio Timelapse Tips,Simple Timelapse Techniques,GoPro Studio for Timelapse"
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio
 
 # How to Make Time Lapse Videos With GoPro Studio
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -44,6 +47,9 @@ The first thing you have to do is import your images. This can be done by clicki
 
 [Learn How to shoot a time-lapse video with GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![GoPro Studio Import](https://images.wondershare.com/filmora/article-images/import-gopro-studio.jpg)
 
 #### **2. Select the Clips**
@@ -56,6 +62,23 @@ The reference video would be imported by GoPro Studio. Go to Import New Files an
 
 The clip is automatically queued at the conversion list. While adding more than one clip just repeat the process to add them to your conversion list panel. Now you just need to click the convert button, and all the sequences would be converted into a ready-to-edit video file. It might take some time depending on how many clips you have. You will see a preview in a tiny thumbnail while it's processing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![GoPro Studio Conversion](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-4.jpg)
 
 #### **4. Edit**
@@ -126,6 +149,9 @@ The reference video would be imported by GoPro Studio. Go to Import New Files an
 
 The clip is automatically queued at the conversion list. While adding more than one clip just repeat the process to add them to your conversion list panel. Now you just need to click the convert button, and all the sequences would be converted into a ready-to-edit video file. It might take some time depending on how many clips you have. You will see a preview in a tiny thumbnail while it's processing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GoPro Studio Conversion](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-4.jpg)
 
 #### **4. Edit**
@@ -140,6 +166,9 @@ If you are trying to find the easiest way to export a basic time-lapse footage t
 
 [Learn more in Complete Guide to Edit a Video with GoPro Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Create GoPro timelapse video from Video Clips
 
 You can also choose to make a time-lapse video with the help of the video clips shot on your action camera.
@@ -148,12 +177,18 @@ After importing and converting your videos, go to the Edit section and drag the 
 
 However, importing your video clips to GoPro Studio is a rather time taking process which is going to test your patience. So, we recommend you the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software. With Filmora, you will be able to import a video as large as 8GB in just 2 minutes, and the trim and merge feature would allow you to use certain specific frames without any loss in quality. The Filmora editing software would also allow you to speed up the video clips, so that you can speed up the trimmed no quality loss clips to make a wonderful time lapse video.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Speed up interface](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 Check this video to know more about what can Filmora do with your GoPro footages
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -190,12 +225,19 @@ The first thing you have to do is import your images. This can be done by clicki
 
 The reference video would be imported by GoPro Studio. Go to Import New Files and click the video to add it to the central window. When you click the Play button, you can watch the time-lapse played at approximately 30 fps. In the left hand corner of the bottom you can see the Advanced Setting button. By adjusting these settings you will be able to select your desired frame rate. There are also other options like Quality setting, Motion Blur and the Speedup option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![GoPro Studio Advanced Settings](https://images.wondershare.com/filmora/article-images/advanced-settings-gopro-studio.jpg)
 
 #### **3. Convert**
 
 The clip is automatically queued at the conversion list. While adding more than one clip just repeat the process to add them to your conversion list panel. Now you just need to click the convert button, and all the sequences would be converted into a ready-to-edit video file. It might take some time depending on how many clips you have. You will see a preview in a tiny thumbnail while it's processing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![GoPro Studio Conversion](https://images.wondershare.com/filmora/article-images/edit-video-with-gopro-studio-4.jpg)
 
 #### **4. Edit**
@@ -222,8 +264,14 @@ However, importing your video clips to GoPro Studio is a rather time taking proc
 
 Check this video to know more about what can Filmora do with your GoPro footages
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -246,6 +294,9 @@ The in-camera version, also known as the time lapse video mode, is present only 
 * [Create Timelapse videos from Videos](#part1)
 * [Create Timelapse videos from Images](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Create GoPro Studio Time Lapse Videos from Images
 
 #### **1. Import Images**
@@ -254,12 +305,18 @@ The first thing you have to do is import your images. This can be done by clicki
 
 [Learn How to shoot a time-lapse video with GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoPro Studio Import](https://images.wondershare.com/filmora/article-images/import-gopro-studio.jpg)
 
 #### **2. Select the Clips**
 
 The reference video would be imported by GoPro Studio. Go to Import New Files and click the video to add it to the central window. When you click the Play button, you can watch the time-lapse played at approximately 30 fps. In the left hand corner of the bottom you can see the Advanced Setting button. By adjusting these settings you will be able to select your desired frame rate. There are also other options like Quality setting, Motion Blur and the Speedup option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GoPro Studio Advanced Settings](https://images.wondershare.com/filmora/article-images/advanced-settings-gopro-studio.jpg)
 
 #### **3. Convert**
@@ -288,12 +345,21 @@ After importing and converting your videos, go to the Edit section and drag the 
 
 However, importing your video clips to GoPro Studio is a rather time taking process which is going to test your patience. So, we recommend you the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software. With Filmora, you will be able to import a video as large as 8GB in just 2 minutes, and the trim and merge feature would allow you to use certain specific frames without any loss in quality. The Filmora editing software would also allow you to speed up the video clips, so that you can speed up the trimmed no quality loss clips to make a wonderful time lapse video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Speed up interface](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 Check this video to know more about what can Filmora do with your GoPro footages
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -326,3 +392,40 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-acclaimed-top-5-compact-cameras-for-filming/"><u>[New] Acclaimed Top 5 Compact Cameras for Filming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ace-your-films-with-these-top-15-gopro-video-luts/"><u>[New] Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breaking-down-the-best-starter-drone-a-syma-x5c-review/"><u>[New] Breaking Down the Best Starter Drone – A Syma X5C Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-closer-look-easy-methods-to-zoom-in-minecraft/"><u>[New] Closer Look  Easy Methods to Zoom in Minecraft</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>[New] Comparing Core Titles  Oculus, HTC Vive & PS VR in Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares-for-2024/"><u>[New] Spreading Smiles  Crafting Visual Jokes for FB/Instagram Shares for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-laughter-unleashed-a-stepwise-strategy-for-making-impactful-gifs/"><u>[Updated] 2024 Approved  Laughter Unleashed  A Stepwise Strategy for Making Impactful GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chuckling-chambers-humor-for-special-days/"><u>[Updated] Chuckling Chambers  Humor for Special Days</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-zoom-maestro-host-with-ease/"><u>2024 Approved  Become a Zoom Maestro  Host with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sound-choices-essential-downloads-guide/"><u>2024 Approved  Best Sound Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>2024 Approved  Bridging Language Barriers  Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-impressive-pixelated-photo-combinations/"><u>2024 Approved  Building Impressive Pixelated Photo Combinations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-guide-to-the-best-auto-tracking-cameras/"><u>2024 Approved  Guide to the Best Auto Tracking Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audacity-workshop-eloquent-silent-transitions/"><u>Audacity Workshop  Eloquent Silent Transitions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-gt-5-240w-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme GT 5 (240W) FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-way-to-insert-a-hyperlink-in-your-tiktok-bio/"><u>Efficient Way to Insert a Hyperlink in Your TikTok Bio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-effective-voice-to-text-in-google-docs/"><u>Essential Tips for Effective Voice-to-Text in Google Docs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explaining-the-gopro-burst-mode/"><u>Explaining the GoPro Burst Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/filmforge-editors-review-complete-overview/"><u>FilmForge Editor's Review – Complete Overview</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immediate-countermeasures-for-the-w10-photos-crash-dilemnas/"><u>Immediate Countermeasures for the W10 Photos Crash Dilemnas</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-b-roll-impact-in-your-edits/"><u>Maximizing B-Roll Impact in Your Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metavision-uncovered-analyzing-6-compelling-metaverse-cases/"><u>Metavision Uncovered  Analyzing 6 Compelling Metaverse Cases</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-collective-windows-11-folder-making/"><u>Revolutionize File Management with Collective Windows 11 Folder Making</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/share-your-picture-posting-to-youtube-basics/"><u>Share Your Picture  Posting to YouTube Basics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/switching-from-snippet-to-live-play-in-yt-for-2024/"><u>Switching From Snippet to Live Play in YT for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/totan-banerjee-on-stellar-pathways-to-digital-redemption/"><u>Totan Banerjee on Stellar Pathways to Digital Redemption</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-social-media-sounds-into-practical-mobile-alerts/"><u>Transforming Social Media Sounds Into Practical Mobile Alerts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-spending-in-online-advertising/"><u>Understanding Spending in Online Advertising</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT\""
-date: 2024-05-24T06:57:55.013Z
-updated: 2024-05-25T06:57:55.013Z
+date: 2024-07-26T18:01:20.126Z
+updated: 2024-07-27T18:01:20.126Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT\""
 excerpt: "\"This Article Describes 2024 Approved: Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT\""
 keywords: "XML to SRT Conversion,SSA to SRT Transformation,XML SRT Conversion Guide,TTML to SRT Processing,Effective XML to SRT Tools,Convert SSA Files to SRT,TTML to SRT Mapping Techniques"
-thumbnail: https://www.lifewire.com/thmb/kvEgYAA7g4inR0HblHngp2oE6to=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KhangVuong-d90c802b819741a297291d835e7762e4.jpeg
+thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
 ## Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT
@@ -45,14 +45,23 @@ But before diving into how to convert different subtitle formats to SRT, let’s
 
 1. [Wondershare Filmora](#part8-1)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What does SRT, SSA, XML, etc., look like?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### 1\. SRT
 
 First, there’s a section for subtitle number, which is followed by the time at which the subtitle appears and ends. Then comes the subtitle that will appear.
 
 ![subRip subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. SSA
 
 It is a plain text file that is composed of three sections, Script Info, Styles, and Events.
@@ -71,12 +80,18 @@ This is an XML-based format that has a somewhat complicated look with <> appeari
 
 ![convert ttml to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. STL
 
 This format of subtitles lacks a timing section like in SRT.
 
 ![stl subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 6\. VOB
 
 It’s a container for audio, video, or subtitles that looks like this.
@@ -110,6 +125,9 @@ Step1 Visit [VEED.IO Subtitle Editor](https://www.veed.io/subtitle-tools/edit) a
 
 Step2 Now select the “.srt” as the output format from the top left corner of the screen
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-7.jpg)
 
 Step3 After that; you just have to click the “Download” button on the bottom left corner of the screen to convert your subtitle format.
@@ -150,6 +168,9 @@ Step2 Now, click on the “browse” option to open a TTML subtitle from your de
 
 Step3 Once the file has been uploaded, hit the “Convert” option to convert the TTML subtitle to SRT format.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ssa subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-2.jpg)
 
 After TTML, it’s time to convert STL subtitles to SRT format.
@@ -176,6 +197,9 @@ Step4 Now you have to wait patiently until the process completes and then you ca
 
 The last subtitle format we’ll be converting into SRT is the VOB format. Let’s see how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Convert VOB to SRT
 
 A .vob file extension is a DVD Video Object file that contains video, audio, or even subtitles contents. Most media players can't sort out these types of subtitle files so you must convert them into an SRT file before use.
@@ -186,6 +210,9 @@ Here is a stepwise guide on how to convert VOB to SRT.
 
 Step1 First of all, [sign up for the SONIX](https://sonix.ai/accounts/sign%5Fup) for getting free 30 min transcription(charges will be applied after that.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drag the video file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-23.jpg)
 
 Step2 Now, you have to upload your VOB file by dragging it to the interface or by choosing it from your device, Dropbox or Google Drive.
@@ -194,6 +221,9 @@ Step2 Now, you have to upload your VOB file by dragging it to the interface or b
 
 Step3 After selecting the language of the VOB file, hit “Start Transcribing Now” to start your transcription.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![click on the import media](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-22.jpg)
 
 Step4 Once done, the audio in the VOB file will be automatically converted to SRT format within a few minutes.
@@ -206,6 +236,9 @@ Step5 After that, hit the “Export” button and a dropdown will appear.
 
 Step6 Now select the “SubRip Subtitle file(.srt)” from there and click “Export.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload vob file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-15.jpg)
 
 Finally, the SRT version of your VOB file will be saved.
@@ -220,6 +253,9 @@ Many users ask questions like “How do I open the SRT file with a video player 
 
 If that is your case then here's a bonus tip for you.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips: The Best Way to Edit the Styling of SRT Subtitles for Videos
 
 Adding the SRT subtitle file to the video is not a problem if you are using the right tool.
@@ -230,6 +266,9 @@ But what may be the best software for it? Of course, it's [Wondershare Filmora](
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from Wondershare is an all-in-one video editor for Windows and macOS computers that can also handle subtitle files effortlessly. You can easily import SRT files and add them to your movies. Moreover, converting your voice to a subtitle or adding a manual subtitle to the video is also possible.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![video tract](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-24.jpg)
 
 And that's not all.
@@ -250,14 +289,23 @@ Step1 Download and install the latest version of Wondershare Filmora from the of
 
 Step2 Now launch the software and click on the "New Project."
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![download converted subtitles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-13.jpg)
 
 Step3 After that, click on the "Import Media" or drag and drop the video as well as the SRT subtitle file here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert stl to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-12.jpg)
 
 nce done, first drag the video file to the video tract below and then the SRT subtitle file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![select the type](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-28.jpg)
 
 "<https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-26.jpg>" alt="drag and drop" />
@@ -280,10 +328,25 @@ Step3 Now hit the "Import Media" to upload your video file. You can also add it 
 
 Step4 Now drag and drop the imported video file on the video track below.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![converted to srt format](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-17.jpg)
 
 Step5 Go to the "Titles" from the top toolbar and then click on the "Subtitles."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start transcribing now](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-16.jpg)
 
 ect the type you want by clicking on the "+" sign or by drag-n-drop on the bottom video track.
@@ -296,6 +359,9 @@ Step7 Now, type the text you want to add as a subtitle, and change other setting
 
 Step8 Finally, when you are done, just hit the "Export" button to burn the subtitles on your video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 That’s all folks. Now you must be a pro in converting different subtitle formats into SRT formats like SSA to SRT, XML to SRT, and others. But if you are having trouble adding your subtitle file to the video or you are stuck in a case where subtitles are lagging behind the scenes or are appearing ahead of time, then use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which can solve your problems within seconds if not minutes.
@@ -304,12 +370,18 @@ If you still have questions in your mind, leave them in the comment section belo
 
 * [Wondershare Filmora](#part8-1)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What does SRT, SSA, XML, etc., look like?
 
 ### 1\. SRT
 
 First, there’s a section for subtitle number, which is followed by the time at which the subtitle appears and ends. Then comes the subtitle that will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![subRip subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-19.jpg)
 
 ### 2\. SSA
@@ -324,26 +396,49 @@ This subtitle format contains encoding, duration, and content of subtitles like 
 
 ![ttml subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 4\. TTML
 
 This is an XML-based format that has a somewhat complicated look with <> appearing in many places.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![convert ttml to srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 5\. STL
 
 This format of subtitles lacks a timing section like in SRT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stl subtitle file appearance](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-5.jpg)
 
 ### 6\. VOB
 
 It’s a container for audio, video, or subtitles that looks like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![sign up for the sonix](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-14.jpg)
 
 After seeing how these formats look, we’ve arranged other features of these subtitle formats into a comparison table. So let’s have a look at it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## The Comparison Table for Different Subtitle Formats
 
 | **Features/Subtitle Formats**  | **SRT**                                                       | **SSA**                                | **XML**                                     | **TTML**                                  | **STL**                                                       | **VOB**                                       |
@@ -359,16 +454,31 @@ Now that you know have seen a comparison between different subtitle formats, you
 
 Therefore, it’s time to see how we can convert these subtitle formats into SRT without much trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Convert SSA to SRT
 
 If you are having trouble importing an SSA file on your media player, then just convert it into SRT, and the best free and online software to convert SSA to SRT is [VEED.IO](https://www.veed.io/subtitle-tools/edit). Let’s see how to do it in a stepwise manner.
 
 Step1 Visit [VEED.IO Subtitle Editor](https://www.veed.io/subtitle-tools/edit) and click on the “Upload Your Subtitle File” to choose the SSA format subtitle from your device or drag and drop the subtitle here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select the srt](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-8.jpg)
 
 Step2 Now select the “.srt” as the output format from the top left corner of the screen
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![upload your subtitle file](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-7.jpg)
 
 Step3 After that; you just have to click the “Download” button on the bottom left corner of the screen to convert your subtitle format.
@@ -377,6 +487,9 @@ Step3 After that; you just have to click the “Download” button on the bottom
 
 Now that we know how to convert SSA subtitle format to SRT format, let’s convert XML format into SRT this time.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Convert XML to SRT
 
 As XML subtitle format is used in marker language, so many video players don't support this type of format. While most of the video players easily support SRT files that are specialized for videos and movies.
@@ -395,6 +508,9 @@ Step4 Once done, hit the “Convert” option from the right box to convert your
 
 Now onto converting TTML into SRT format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to Convert TTML to SRT
 
 TTML is a complex caption format that also shows errors with many video players. So it's recommended to convert it into SRT before inserting it in a video.
@@ -431,10 +547,16 @@ Step3 After that, press the “Start Conversion” to convert your subtitles.
 
 Step4 Now you have to wait patiently until the process completes and then you can download your converted subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the new project](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-21.jpg)
 
 The last subtitle format we’ll be converting into SRT is the VOB format. Let’s see how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Convert VOB to SRT
 
 A .vob file extension is a DVD Video Object file that contains video, audio, or even subtitles contents. Most media players can't sort out these types of subtitle files so you must convert them into an SRT file before use.
@@ -453,6 +575,9 @@ Step2 Now, you have to upload your VOB file by dragging it to the interface or b
 
 Step3 After selecting the language of the VOB file, hit “Start Transcribing Now” to start your transcription.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![click on the import media](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-22.jpg)
 
 Step4 Once done, the audio in the VOB file will be automatically converted to SRT format within a few minutes.
@@ -509,6 +634,9 @@ Step1 Download and install the latest version of Wondershare Filmora from the of
 
 Step2 Now launch the software and click on the "New Project."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download converted subtitles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-13.jpg)
 
 Step3 After that, click on the "Import Media" or drag and drop the video as well as the SRT subtitle file here.
@@ -517,12 +645,18 @@ Step3 After that, click on the "Import Media" or drag and drop the video as well
 
 nce done, first drag the video file to the video tract below and then the SRT subtitle file.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select the type](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-28.jpg)
 
 "<https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-26.jpg>" alt="drag and drop" />
 
 Step5 Lastly, hit the "Export" button to save the video having subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go to the titles](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-27.jpg)
 
 Now on adding manual subtitles to your video.
@@ -547,6 +681,9 @@ Step5 Go to the "Titles" from the top toolbar and then click on the "Subtitles."
 
 ect the type you want by clicking on the "+" sign or by drag-n-drop on the bottom video track.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![type the text](https://images.wondershare.com/filmora/article-images/2022/09/convert-xml-to-srt-29.jpg)
 
 Step7 Now, type the text you want to add as a subtitle, and change other settings like color or text style as you want. You can also go to the advanced settings for more control over your subtitle.
@@ -555,6 +692,9 @@ Step7 Now, type the text you want to add as a subtitle, and change other setting
 
 Step8 Finally, when you are done, just hit the "Export" button to burn the subtitles on your video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 That’s all folks. Now you must be a pro in converting different subtitle formats into SRT formats like SSA to SRT, XML to SRT, and others. But if you are having trouble adding your subtitle file to the video or you are stuck in a case where subtitles are lagging behind the scenes or are appearing ahead of time, then use [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) which can solve your problems within seconds if not minutes.
@@ -585,3 +725,57 @@ If you still have questions in your mind, leave them in the comment section belo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-alives-sound-reduction-secrets-revealed/"><u>[New] Alive's Sound Reduction Secrets Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-tiktok-engagement-using-zoom-features/"><u>[New] Boosting TikTok Engagement Using Zoom Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-exploration-of-morphvox-technology-for-voice-transformation/"><u>[New] Complete Exploration of MorphVOX Technology for Voice Transformation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-overview-simple-hdr-excellence/"><u>[New] Comprehensive Overview  Simple HDR Excellence</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-joining-friends-showtime-on-tiktok-with-ease/"><u>[New] In 2024, Joining Friends’ Showtime on TikTok with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-crafting-memorable-tweets-video-integration/"><u>[Updated] 2024 Approved  Crafting Memorable Tweets  Video Integration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-stabilized-camera-gimbals-for-iphone-android-and-dslr/"><u>[Updated] Best Stabilized Camera Gimbals for iPhone, Android, and DSLR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-memes-for-maximum-shareability/"><u>[Updated] Crafting Memes for Maximum Shareability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-pacing-your-videos-on-snapchat/"><u>[Updated] In 2024, The Ultimate Guide to Pacing Your Videos on Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-comprehensive-guide-to-slowing-video-on-iphone/"><u>[Updated] The Comprehensive Guide to Slowing Video on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-stunning-image-artistry-mosaics/"><u>2024 Approved  A Step-By-Step Guide to Stunning Image Artistry Mosaics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-steps-for-securing-stock-photo-borders/"><u>2024 Approved  Advanced Steps for Securing Stock Photo Borders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ae-text-styles-the-ultimate-selection/"><u>2024 Approved  AE Text Styles  The Ultimate Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-canvas-mastery-top-10-editing-strategies-unveiled/"><u>2024 Approved  Canvas Mastery  Top 10 Editing Strategies Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-13t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi 13T by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed-for-2024/"><u>Artistic Auto-Trims  Best 6 Mac OS Big Sur Video Editors Reviewed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-visuals-with-photoshops-motion-blur-effect-tutorial/"><u>Boosting Visuals with Photoshop's Motion Blur Effect Tutorial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-2020-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE (2020)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-blackout-premiere-pro-guide/"><u>Cinematic Blackout - Premiere Pro Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/composition-and-tints-mastering-color-usage-for-2024/"><u>Composition and Tints  Mastering Color Usage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/continuous-rotation-vs-3d-image-construction/"><u>Continuous Rotation vs 3D Image Construction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/customizing-your-ringtones-with-a-religious-twist/"><u>Customizing Your Ringtones with a Religious Twist</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-the-ai-revolutions-new-frontier/"><u>Cutting-Edge Windows: The AI Revolution's New Frontier</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/distilling-essential-versions-from-microsofts-movie-maker/"><u>Distilling Essential Versions From Microsoft's Movie Maker</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gigglegraphs-designing-delightful-memes/"><u>GiggleGraphs  Designing Delightful Memes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-note-12r-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi Note 12R For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-lenovo-thinkphone-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Lenovo ThinkPhone to Protect Your Individual Information</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-xs-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone XS?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-silence-the-expiring-windows-license-message/"><u>How To Silence the Expiring Window's License Message</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-path-to-4k-top-budget-cameras-(1k/"><u>In 2024, Affordable Path to 4K  Top Budget Cameras (<$1K)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-ambiance-for-visionaries-incorporating-youtube-music-wisely/"><u>In 2024, Audio Ambiance for Visionaries  Incorporating YouTube Music Wisely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-wearable-camera-innovations/"><u>In 2024, Best Wearable Camera Innovations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>In 2024, Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-smart-8-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Smart 8 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants/"><u>Insta-TikTik Mastery  Uniting Two Social Giants</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-waves-with-top-surf-cams/"><u>Mastering Waves with Top Surf Cams</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-highlight-settings-in-windows-11/"><u>Navigating Highlight Settings in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reducing-noise-amplitude-gently-using-lumafusion/"><u>Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolution-at-your-desk-windows-10-updates-reviewed/"><u>Revolution at Your Desk  Windows 10 Updates Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snapshot-to-sequence-capturing-life-in-motion/"><u>Snapshot to Sequence  Capturing Life in Motion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/solving-isolated-sound-issue/"><u>Solving Isolated Sound Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-to-procure-perfect-photographic-archives/"><u>Strategies to Procure Perfect Photographic Archives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-iphone-ringtone-alterations/"><u>The Ultimate Guide to iPhone Ringtone Alterations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleashing-potential-a-step-by-step-approach-to-youtube-links/"><u>Unleashing Potential  A Step-by-Step Approach to YouTube Links</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-ultimate-editor-sets-for-macos-sierra-users-for-2024/"><u>Unveiling the Ultimate Editor Sets for macOS Sierra Users for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>Updated In 2024, Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+</ul></div>

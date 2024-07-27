@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Quality SD Card for Sony Alpha 7S II"
-date: 2024-05-24T08:54:12.825Z
-updated: 2024-05-25T08:54:12.825Z
+date: 2024-07-26T21:26:21.960Z
+updated: 2024-07-27T21:26:21.960Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Top Quality SD Card for Sony Alpha 7S II"
 excerpt: "This Article Describes In 2024, Top Quality SD Card for Sony Alpha 7S II"
 keywords: "\"Sony A7S SD Card,Top SD Card A7II,High-Quality SD Card,Superior Alpha 7S SD,A7 II Best SD,Premium Sony SD Card,Elite Alpha 7S Memory\""
-thumbnail: https://www.lifewire.com/thmb/5-m_1GYRxGAFct79OSVOEiWVtWM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/new-apple-tv-4k-console-device-against-yellow-background-1140205622-2a35a59f75d34f95b8395268d53950b0.jpg
+thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec74141e34200890076f60dc1f.jpg
 ---
 
 ## Top Quality SD Card for Sony Alpha 7S II
@@ -158,6 +158,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -196,6 +199,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -212,6 +218,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -303,6 +312,10 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -340,6 +353,14 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -378,6 +399,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -410,3 +434,48 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-examining-the-economic-impact-of-mr-beast/"><u>[New] 2024 Approved  Examining the Economic Impact of Mr. Beast</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-5-best-bandicam-mac-alternatives-for-2024/"><u>[New] 5 Best Bandicam Mac Alternatives for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-focus-modifier-app/"><u>[New] Advanced Focus Modifier App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-webcams-for-podcast/"><u>[New] Best Webcams for Podcast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choreographed-insta-videos-with-a-musical-backdrop/"><u>[New] Choreographed Insta-Videos with a Musical Backdrop</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[New] Eye on the Screen  YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhance-video-transmission-success-in-messenger-apps-for-iphone-android/"><u>[New] In 2024, Enhance Video Transmission Success in Messenger Apps for iPhone, Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-techniques-for-documenting-youtube-videos-for-2024/"><u>[New] Quick Techniques for Documenting YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-screen-logger-suite-for-2024/"><u>[New] Ultimate Screen Logger Suite for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-economical-aerial-aviators-affordable-drones-guide-(500/"><u>[Updated] 2024 Approved  Economical Aerial Aviators  Affordable Drones Guide <$500</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beginners-guide-decoding-av1-technology/"><u>[Updated] Beginner's Guide  Decoding AV1 Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conveniently-altering-resolution-on-ios-devices/"><u>[Updated] Conveniently Altering Resolution on iOS Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-your-vision-leading-tablet-art-tools/"><u>2024 Approved  Capture Your Vision  Leading Tablet Art Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-memes-via-adobe-software/"><u>2024 Approved  Crafting Memes via Adobe Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-guide-to-launching-your-own-product-critique-network-for-2024/"><u>A Step-by-Step Guide to Launching Your Own Product Critique Network for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-teachers-journey-through-multimedia-educational-practices-for-2024/"><u>A Teacher’s Journey Through Multimedia Educational Practices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-techniques-in-3d-lut-making/"><u>Cutting-Edge Techniques in 3D LUT Making</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/detailed-vimeo-video-overview-featuring-aspect-ratio/"><u>Detailed Vimeo Video Overview Featuring Aspect Ratio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/echoes-of-connection-amplifying-discussions-on-youtube/"><u>Echoes of Connection  Amplifying Discussions on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-content-on-instagram-master-the-art-of-animation-in-stories/"><u>Elevate Content on Instagram  Master the Art of Animation in Stories</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-c65-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco C65? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-the-art-of-shooting-on-a-green-screen/"><u>In 2024, Ace the Art of Shooting on a Green Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-asus-proart-pa32u-review-4k-hdr-professional-monitor-review/"><u>In 2024, ASUS ProArt PA32U Review 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-value-in-the-marketplace-for-quality-cost-effective-microphones/"><u>In 2024, Best Value in the Marketplace for Quality, Cost-Effective Microphones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-clarity-the-elite-list-of-online-gridding-services/"><u>In 2024, Capturing Clarity  The Elite List of Online Gridding Services</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-vision-essential-windows-10-tips-for-future-directors/"><u>In 2024, Craft Your Vision  Essential Windows 10 Tips for Future Directors</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xripad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XR/iPad? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sketchsquad-full-scrutiny-and-step-by-step-guidebook-24/"><u>In 2024, SketchSquad Full Scrutiny & Step-by-Step Guidebook '24</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-viewing-at-a-glance-quick-minigame-tips/"><u>Precision Viewing at a Glance  Quick Minigame Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-streamers-ultimate-concert-selection/"><u>Premier Streamers  Ultimate Concert Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/select-top-6-slide-show-making-tools-on-latest-iphones/"><u>Select Top 6 Slide Show Making Tools on Latest iPhones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-tools-for-road-tripping-films/"><u>The Best Tools for Road Tripping Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-editors-approach-to-declining-audio-tracks-gradually/"><u>The Editor's Approach to Declining Audio Tracks Gradually</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-future-with-q500-typhoon/"><u>Unveiling the Future with Q500 Typhoon</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-hands-in-vrar/"><u>Unveiling the Secrets of Hands in VR/AR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>Virtual Frontier  Top PC VR Headset Innovations of the Year</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"A Hands-On Manual to Easily Navigate Trending YouTube Comments\""
-date: 2024-05-24T07:18:49.959Z
-updated: 2024-05-25T07:18:49.959Z
+date: 2024-07-26T18:38:19.514Z
+updated: 2024-07-27T18:38:19.514Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Hands-On Manual to Easily Navigate Trending YouTube Comments\""
 excerpt: "\"This Article Describes A Hands-On Manual to Easily Navigate Trending YouTube Comments\""
 keywords: "YouTube Comment Guide,Top Trends in Comments,Comment Navigation Tips,Engaging with YouTube Comments,Manual for Commenting on YouTube,Trending Comment Analysis,Efficient YouTube Commenting Techniques"
-thumbnail: https://www.lifewire.com/thmb/ek56OZgwopZKdldQLBHcOn0x47o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/15dinradio-592753063df78cbe7e3d333e.jpg
+thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
 ---
 
 ## A Hands-On Manual to Easily Navigate Trending YouTube Comments
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +69,10 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -81,6 +91,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -93,12 +106,18 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -163,8 +182,14 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -185,10 +210,16 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -199,6 +230,9 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -207,6 +241,9 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -285,3 +322,48 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-are-product-assessments-online-content-sold/"><u>[New] Are Product Assessments Online Content Sold?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-create-dramatic-effects-top-strategies-for-epic-gopro-videos/"><u>[New] Create Dramatic Effects  Top Strategies for Epic GoPro Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-visual-storytelling-on-facebook-crafting-compelling-slideshows/"><u>[New] In 2024, Visual Storytelling on Facebook  Crafting Compelling Slideshows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-youtube-success-increasing-followers-quickly/"><u>[Updated] Achieving YouTube Success  Increasing Followers Quickly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-android-centric-top-downloads-for-youtube-videos-explored-for-2024/"><u>[Updated] Android-Centric  Top Downloads for YouTube Videos Explored for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparative-review-dji-phantom-3-vs-competitors/"><u>[Updated] Comparative Review  DJI Phantom 3 vs Competitors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-pathways-to-promoting-in-vr-lands/"><u>[Updated] Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-seamlessly-preserve-your-ppt-video-recording-tips-for-2024/"><u>[Updated] Seamlessly Preserve Your PPT  Video Recording Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023-update-sony-bdp-s3700-in-depth-analysis-for-2024/"><u>2023 Update  Sony BDP-S3700 in Depth Analysis for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-beginners-guide-to-zoom-room-preparation/"><u>2024 Approved  A Beginner's Guide to Zoom Room Preparation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-action-cam-editing-picks/"><u>2024 Approved  Ultimate Action Cam Editing Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-visuals-in-powerpoint-engagement/"><u>Accelerating Visuals in PowerPoint Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assessing-lighter-browsing-options-best-in-class-for-ram-consumption/"><u>Assessing Lighter Browsing Options: Best in Class for RAM Consumption</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chime-chronicles-mastering-the-art-of-tamil-ringtones-for-2024/"><u>Chime Chronicles  Mastering the Art of Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format-for-2024/"><u>Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-humor-for-giphy-network/"><u>Craft Humor for Giphy Network</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-periscope-pricing-benefits-and-signup-information/"><u>Decoding Periscope  Pricing, Benefits & Signup Information</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-premiere-pros-full-screen-mode/"><u>Essential Tips for Premiere Pro's Full Screen Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-6-social-sites-for-corporate-relationships/"><u>Foremost 6 Social Sites for Corporate Relationships</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y55s-5g-2023-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y55s 5G (2023) 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-dpi-settings-issue-overcome-in-latest-windows-update/"><u>High-DPI Settings Issue Overcome in Latest Windows Update</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y36i-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y36i Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-5-apple-podcast-services-for-ios-users/"><u>In 2024, Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a15-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A15 5G Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-secondary-shots-tips-and-tricks/"><u>Integrating Secondary Shots  Tips and Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-free-livestream-technology-a-comprehensive-review-for-all-systems/"><u>Leading Free Livestream Technology  A Comprehensive Review for All Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-crafting-undead-androids/"><u>Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/parrot-mambo-complete-review/"><u>Parrot Mambo Complete Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-windows-11-wallpaper-transitions/"><u>Perfect Windows 11 Wallpaper Transitions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ranch-raiders-best-friendly-farmers-game-roster-for-2024/"><u>Ranch Raiders  Best Friendly Farmer's Game Roster for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-to-prevent-windows-11-photos-app-failures/"><u>Steps to Prevent Windows 11 Photos App Failures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/synthesize-silliness-in-visual-gifs-with-giphy/"><u>Synthesize Silliness in Visual Gifs with Giphy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-straightening-aerial-video-stability/"><u>Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ten-mobile-sticker-adornment-apps-for-photos/"><u>Top Ten Mobile Sticker Adornment Apps for Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/twitch-vs-youtube-a-complete-comparison/"><u>Twitch Vs. Youtube – A Complete Comparison</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-11-the-11-best-tricks-revealed/"><u>Windows 11  The 11 Best Tricks Revealed</u></a></li>
+</ul></div>

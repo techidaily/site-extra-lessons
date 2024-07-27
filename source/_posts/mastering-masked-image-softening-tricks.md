@@ -1,7 +1,7 @@
 ---
 title: "Mastering Masked Image Softening Tricks"
-date: 2024-05-24T07:00:05.699Z
-updated: 2024-05-25T07:00:05.699Z
+date: 2024-07-26T18:05:11.150Z
+updated: 2024-07-27T18:05:11.150Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Masked Image Softening Tricks"
 excerpt: "This Article Describes Mastering Masked Image Softening Tricks"
 keywords: "Image Soft Trick Skills,Master Mask Technique,Image Hide Smoothing,Learn Disguise Images,Advanced Coverup Art,Soften Camouflaged Photos,Expert Face Masking Tips"
-thumbnail: https://www.lifewire.com/thmb/rg6M4Q7Oa_3NTNWoHlMyVHD_ibw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-05-11at11.47.30AM-9172bd4627dc455493a4099398f1cf2c.png
+thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3fa4aac3ca09a237127556c70.png
 ---
 
 ## Mastering Masked Image Softening Tricks
@@ -55,11 +55,18 @@ Want to learn how to blur out something in a photo on your PC using Photoshop? F
 1. Now, find the file you want to edit and double-click it.
 2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
 
 1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
 2. Head to the menu bar and select the Filter option. Find Blur in the list and click on it. Now, choose the Gaussian Blur under Blur, and the Gaussian Blur menu will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-3.png)
 
 1. Reduce the Radius until the area is blurred. The higher the radius, the less visible the selected part of the image you are blurring will be.
@@ -72,11 +79,17 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 1. Launch Powerpoint and navigate to File, then click Insert to put your Picture on a slide. Alternatively, you could drag and drop the image onto the slide.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
 
 1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
 2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
 
 1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
@@ -94,6 +107,193 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
 
+### 3\. Use Built-in Paint Tool
+
+Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
+
+1. From the Start menu, launch MS paint.
+2. Click on File, then select the Open option. Browse to find the image you want to add blur and click it. Click the Open button to import the image to Microsoft Paint.
+3. Under Shapes, click the rectangle tool and single-click on the area you want to blur. Now, Drag the rectangle around that area.
+
+![blur image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-9.png)
+
+1. Choose your color of choice for the blur. Navigate to the Color 2 tab and choose the color you prefer from the Colors menu.
+2. Next, click the Fill button next to the box that has the shapes. Select either of these options for the blur effect: Watercolor, Natural pencil, Oil, marker, or Crayon.
+
+![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-10.png)
+
+1. Click Save to save the blur effect on your image.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
+
+## How to Blur a Part of Picture on Mobile
+
+Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Use App
+
+You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
+
+1. Download the YouCam Perfect app on Google Play or the Apple App Store and install it on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-12.png)
+
+1. Launch the app on your mobile device. Since you are using this application for the first time, click the Skip button in the upper right corner.
+2. After transferring the interface, click the arrow icon at the upper left corner.
+3. If you want to edit an image in your photo gallery, click the OK button to continue.
+
+![blur a part of image on mobile using Yourcam](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-13.png)
+
+1. Select the Allow option to allow the app to access your photo gallery.
+2. Swipe the screen and choose the photo you would like to blur.
+3. Open the Edit tab and navigate to Tools. Next, click on the Blur option.
+4. In the Blur effect, select the shape of the outline you want to use when shaping the blur effect. The Ellipse gives you a long oval shape, making it ideal for selfies or full-length images.
+
+![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-14.png)
+
+1. Once you have chosen the shape, you will see the effect in action. Everything within the center of that shape will stay untouched and in sharp focus. Anything beyond the internal shape will subtly start to fade into a blur.
+2. To reshape the outer edges' size of the effect, drag the outer shape outline.
+3. When you make the outer shape larger, you'll retain more of your image in focus while reducing the harshness of the blur. You can adjust the outer edges and rotate the outline with your two fingers.
+
+The app also has additional effect shapes for more customization options. You can edit the shape of the effect, from heart, star, circle, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Use Built-in Photo Edit
+
+You can blur parts of a picture on your Android phone without installing a third-party app. Android mobile devices come with multiple ways to use their in-built app to blur parts of a picture or background. Let's look at how to blur part of an image on your Samsung phone.
+
+1. Use the gallery app to open your image and press the pencil icon.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+![blur a part of image on mobile using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-16.png)
+
+1. Choose the decoration icon.
+2. Go to the covers option with the blur feature.
+
+![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
+
+1. Using your finger, draw a box over the part of the image you need to blur.
+2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
+3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+● You can use the above method to blur part of picture on your PC or mobile device. You can blur certain areas of your image to enhance the entire scenery or hide something that you do not want your viewers to see.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Would you like to hide someone's face or other details on your picture for the sake of censorship? Or do you want to apply a soft artistic effect to your photo to highlight the main object? The easiest solution in these two cases is to add a photo blur. This guide will explain how to blur certain parts of a picture on your PC and mobile device.
+
+#### In this article
+
+01 [How to Blur a Part of a Picture on PC](#part1)
+
+02 [How to Blur a Part of Picture on Mobile](#part2)
+
+## How to Blur a Part of a Picture on PC
+
+There are several different methods to blur part of a picture on your PC. They include:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Blur a Part of Picture Using Photoshop
+
+Developed and published by Adobe Inc, Photoshop is compatible with computers running on macOS and Windows. This photo editing tool allows you to blur certain parts of images with just a few clicks.
+
+Want to learn how to blur out something in a photo on your PC using Photoshop? Follow the steps below.
+
+1. Download and install Photoshop on your PC.
+2. Locate the program on your desktop and launch it.
+3. Import the picture you would like to edit into Photoshop. You can drag the photo from your desktop or the Explorer onto the Photoshop user interface. Alternatively, you could click the File menu and then select Open.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to blur a part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-1.png)
+
+1. Now, find the file you want to edit and double-click it.
+2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
+
+![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
+
+1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
+2. Head to the menu bar and select the Filter option. Find Blur in the list and click on it. Now, choose the Gaussian Blur under Blur, and the Gaussian Blur menu will appear.
+
+![blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-3.png)
+
+1. Reduce the Radius until the area is blurred. The higher the radius, the less visible the selected part of the image you are blurring will be.
+2. Click OK to apply the blur effect.
+3. Select File, then Save As. You'll see a dialog box. Here, you can type in the desired file name and choose the location you would like to save the edited image.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Blur a Part of Picture Using Powerpoint
+
+PowerPoint is a great tool that allows you to create presentations for personal and professional purposes. This tool also has a feature that you can use to blur a part of a photo. Follow these steps to learn how to blur part of an image using Microsoft Powerpoint.
+
+1. Launch Powerpoint and navigate to File, then click Insert to put your Picture on a slide. Alternatively, you could drag and drop the image onto the slide.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
+
+1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
+2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
+
+![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
+
+1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
+
+1. Click anywhere on the slide to pick a color of your choice.
+2. Click Shape Effects under the Format tab and select the Soft Edges option. Put your mouse cursor on one of the options you see in the Soft Edges, and Powerpoint will display a preview of the blurred shape.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+![how to blur part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-7.png)
+
+1. Press and hold the Ctrl key on your keyboard, then select the image and the blurred shape. Navigate to Format, then click on Group and select the Group option.
+
+![how to blur part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-8.png)
+
+1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Use Built-in Paint Tool
 
 Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
@@ -129,6 +329,9 @@ You can use a mobile app to blur specific areas in your images. YouCam Perfect i
 2. After transferring the interface, click the arrow icon at the upper left corner.
 3. If you want to edit an image in your photo gallery, click the OK button to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur a part of image on mobile using Yourcam](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-13.png)
 
 1. Select the Allow option to allow the app to access your photo gallery.
@@ -144,6 +347,192 @@ You can use a mobile app to blur specific areas in your images. YouCam Perfect i
 
 The app also has additional effect shapes for more customization options. You can edit the shape of the effect, from heart, star, circle, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Use Built-in Photo Edit
+
+You can blur parts of a picture on your Android phone without installing a third-party app. Android mobile devices come with multiple ways to use their in-built app to blur parts of a picture or background. Let's look at how to blur part of an image on your Samsung phone.
+
+1. Use the gallery app to open your image and press the pencil icon.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![blur a part of image on mobile using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-16.png)
+
+1. Choose the decoration icon.
+2. Go to the covers option with the blur feature.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
+
+1. Using your finger, draw a box over the part of the image you need to blur.
+2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
+3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
+
+## Conclusion
+
+● You can use the above method to blur part of picture on your PC or mobile device. You can blur certain areas of your image to enhance the entire scenery or hide something that you do not want your viewers to see.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Would you like to hide someone's face or other details on your picture for the sake of censorship? Or do you want to apply a soft artistic effect to your photo to highlight the main object? The easiest solution in these two cases is to add a photo blur. This guide will explain how to blur certain parts of a picture on your PC and mobile device.
+
+#### In this article
+
+01 [How to Blur a Part of a Picture on PC](#part1)
+
+02 [How to Blur a Part of Picture on Mobile](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## How to Blur a Part of a Picture on PC
+
+There are several different methods to blur part of a picture on your PC. They include:
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+### 1\. Blur a Part of Picture Using Photoshop
+
+Developed and published by Adobe Inc, Photoshop is compatible with computers running on macOS and Windows. This photo editing tool allows you to blur certain parts of images with just a few clicks.
+
+Want to learn how to blur out something in a photo on your PC using Photoshop? Follow the steps below.
+
+1. Download and install Photoshop on your PC.
+2. Locate the program on your desktop and launch it.
+3. Import the picture you would like to edit into Photoshop. You can drag the photo from your desktop or the Explorer onto the Photoshop user interface. Alternatively, you could click the File menu and then select Open.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to blur a part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-1.png)
+
+1. Now, find the file you want to edit and double-click it.
+2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
+
+![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
+
+1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
+2. Head to the menu bar and select the Filter option. Find Blur in the list and click on it. Now, choose the Gaussian Blur under Blur, and the Gaussian Blur menu will appear.
+
+![blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-3.png)
+
+1. Reduce the Radius until the area is blurred. The higher the radius, the less visible the selected part of the image you are blurring will be.
+2. Click OK to apply the blur effect.
+3. Select File, then Save As. You'll see a dialog box. Here, you can type in the desired file name and choose the location you would like to save the edited image.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+### 2\. Blur a Part of Picture Using Powerpoint
+
+PowerPoint is a great tool that allows you to create presentations for personal and professional purposes. This tool also has a feature that you can use to blur a part of a photo. Follow these steps to learn how to blur part of an image using Microsoft Powerpoint.
+
+1. Launch Powerpoint and navigate to File, then click Insert to put your Picture on a slide. Alternatively, you could drag and drop the image onto the slide.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
+
+1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
+2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
+
+![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
+
+1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
+
+1. Click anywhere on the slide to pick a color of your choice.
+2. Click Shape Effects under the Format tab and select the Soft Edges option. Put your mouse cursor on one of the options you see in the Soft Edges, and Powerpoint will display a preview of the blurred shape.
+
+![how to blur part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-7.png)
+
+1. Press and hold the Ctrl key on your keyboard, then select the image and the blurred shape. Navigate to Format, then click on Group and select the Group option.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![how to blur part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-8.png)
+
+1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
+
+### 3\. Use Built-in Paint Tool
+
+Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
+
+1. From the Start menu, launch MS paint.
+2. Click on File, then select the Open option. Browse to find the image you want to add blur and click it. Click the Open button to import the image to Microsoft Paint.
+3. Under Shapes, click the rectangle tool and single-click on the area you want to blur. Now, Drag the rectangle around that area.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-9.png)
+
+1. Choose your color of choice for the blur. Navigate to the Color 2 tab and choose the color you prefer from the Colors menu.
+2. Next, click the Fill button next to the box that has the shapes. Select either of these options for the blur effect: Watercolor, Natural pencil, Oil, marker, or Crayon.
+
+![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-10.png)
+
+1. Click Save to save the blur effect on your image.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
+
+## How to Blur a Part of Picture on Mobile
+
+Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
+
+### 1\. Use App
+
+You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
+
+1. Download the YouCam Perfect app on Google Play or the Apple App Store and install it on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-12.png)
+
+1. Launch the app on your mobile device. Since you are using this application for the first time, click the Skip button in the upper right corner.
+2. After transferring the interface, click the arrow icon at the upper left corner.
+3. If you want to edit an image in your photo gallery, click the OK button to continue.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+![blur a part of image on mobile using Yourcam](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-13.png)
+
+1. Select the Allow option to allow the app to access your photo gallery.
+2. Swipe the screen and choose the photo you would like to blur.
+3. Open the Edit tab and navigate to Tools. Next, click on the Blur option.
+4. In the Blur effect, select the shape of the outline you want to use when shaping the blur effect. The Ellipse gives you a long oval shape, making it ideal for selfies or full-length images.
+
+![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-14.png)
+
+1. Once you have chosen the shape, you will see the effect in action. Everything within the center of that shape will stay untouched and in sharp focus. Anything beyond the internal shape will subtly start to fade into a blur.
+2. To reshape the outer edges' size of the effect, drag the outer shape outline.
+3. When you make the outer shape larger, you'll retain more of your image in focus while reducing the harshness of the blur. You can adjust the outer edges and rotate the outline with your two fingers.
+
+The app also has additional effect shapes for more customization options. You can edit the shape of the effect, from heart, star, circle, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use Built-in Photo Edit
 
 You can blur parts of a picture on your Android phone without installing a third-party app. Android mobile devices come with multiple ways to use their in-built app to blur parts of a picture or background. Let's look at how to blur part of an image on your Samsung phone.
@@ -155,6 +544,9 @@ You can blur parts of a picture on your Android phone without installing a third
 1. Choose the decoration icon.
 2. Go to the covers option with the blur feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
 
 1. Using your finger, draw a box over the part of the image you need to blur.
@@ -189,11 +581,17 @@ Want to learn how to blur out something in a photo on your PC using Photoshop? F
 2. Locate the program on your desktop and launch it.
 3. Import the picture you would like to edit into Photoshop. You can drag the photo from your desktop or the Explorer onto the Photoshop user interface. Alternatively, you could click the File menu and then select Open.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to blur a part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-1.png)
 
 1. Now, find the file you want to edit and double-click it.
 2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
 
 1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
@@ -220,11 +618,17 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
 
 1. Click anywhere on the slide to pick a color of your choice.
 2. Click Shape Effects under the Format tab and select the Soft Edges option. Put your mouse cursor on one of the options you see in the Soft Edges, and Powerpoint will display a preview of the blurred shape.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![how to blur part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-7.png)
 
 1. Press and hold the Ctrl key on your keyboard, then select the image and the blurred shape. Navigate to Format, then click on Group and select the Group option.
@@ -233,6 +637,9 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Use Built-in Paint Tool
 
 Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
@@ -250,12 +657,18 @@ Microsoft Paint is a raster graphics editor included in all the available versio
 
 1. Click Save to save the blur effect on your image.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
 
 ## How to Blur a Part of Picture on Mobile
 
 Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Use App
 
 You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
@@ -275,6 +688,9 @@ You can use a mobile app to blur specific areas in your images. YouCam Perfect i
 3. Open the Edit tab and navigate to Tools. Next, click on the Blur option.
 4. In the Blur effect, select the shape of the outline you want to use when shaping the blur effect. The Ellipse gives you a long oval shape, making it ideal for selfies or full-length images.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-14.png)
 
 1. Once you have chosen the shape, you will see the effect in action. Everything within the center of that shape will stay untouched and in sharp focus. Anything beyond the internal shape will subtly start to fade into a blur.
@@ -294,290 +710,18 @@ You can blur parts of a picture on your Android phone without installing a third
 1. Choose the decoration icon.
 2. Go to the covers option with the blur feature.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
 
 1. Using your finger, draw a box over the part of the image you need to blur.
 2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
 3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
 
-## Conclusion
-
-● You can use the above method to blur part of picture on your PC or mobile device. You can blur certain areas of your image to enhance the entire scenery or hide something that you do not want your viewers to see.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Would you like to hide someone's face or other details on your picture for the sake of censorship? Or do you want to apply a soft artistic effect to your photo to highlight the main object? The easiest solution in these two cases is to add a photo blur. This guide will explain how to blur certain parts of a picture on your PC and mobile device.
-
-#### In this article
-
-01 [How to Blur a Part of a Picture on PC](#part1)
-
-02 [How to Blur a Part of Picture on Mobile](#part2)
-
-## How to Blur a Part of a Picture on PC
-
-There are several different methods to blur part of a picture on your PC. They include:
-
-### 1\. Blur a Part of Picture Using Photoshop
-
-Developed and published by Adobe Inc, Photoshop is compatible with computers running on macOS and Windows. This photo editing tool allows you to blur certain parts of images with just a few clicks.
-
-Want to learn how to blur out something in a photo on your PC using Photoshop? Follow the steps below.
-
-1. Download and install Photoshop on your PC.
-2. Locate the program on your desktop and launch it.
-3. Import the picture you would like to edit into Photoshop. You can drag the photo from your desktop or the Explorer onto the Photoshop user interface. Alternatively, you could click the File menu and then select Open.
-
-![how to blur a part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-1.png)
-
-1. Now, find the file you want to edit and double-click it.
-2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
-
-![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
-
-1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
-2. Head to the menu bar and select the Filter option. Find Blur in the list and click on it. Now, choose the Gaussian Blur under Blur, and the Gaussian Blur menu will appear.
-
-![blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-3.png)
-
-1. Reduce the Radius until the area is blurred. The higher the radius, the less visible the selected part of the image you are blurring will be.
-2. Click OK to apply the blur effect.
-3. Select File, then Save As. You'll see a dialog box. Here, you can type in the desired file name and choose the location you would like to save the edited image.
-
-### 2\. Blur a Part of Picture Using Powerpoint
-
-PowerPoint is a great tool that allows you to create presentations for personal and professional purposes. This tool also has a feature that you can use to blur a part of a photo. Follow these steps to learn how to blur part of an image using Microsoft Powerpoint.
-
-1. Launch Powerpoint and navigate to File, then click Insert to put your Picture on a slide. Alternatively, you could drag and drop the image onto the slide.
-
-![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
-
-1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
-2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
-
-![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
-
-1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
-
-![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
-
-1. Click anywhere on the slide to pick a color of your choice.
-2. Click Shape Effects under the Format tab and select the Soft Edges option. Put your mouse cursor on one of the options you see in the Soft Edges, and Powerpoint will display a preview of the blurred shape.
-
-![how to blur part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-7.png)
-
-1. Press and hold the Ctrl key on your keyboard, then select the image and the blurred shape. Navigate to Format, then click on Group and select the Group option.
-
-![how to blur part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-8.png)
-
-1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
-
-### 3\. Use Built-in Paint Tool
-
-Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
-
-1. From the Start menu, launch MS paint.
-2. Click on File, then select the Open option. Browse to find the image you want to add blur and click it. Click the Open button to import the image to Microsoft Paint.
-3. Under Shapes, click the rectangle tool and single-click on the area you want to blur. Now, Drag the rectangle around that area.
-
-![blur image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-9.png)
-
-1. Choose your color of choice for the blur. Navigate to the Color 2 tab and choose the color you prefer from the Colors menu.
-2. Next, click the Fill button next to the box that has the shapes. Select either of these options for the blur effect: Watercolor, Natural pencil, Oil, marker, or Crayon.
-
-![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-10.png)
-
-1. Click Save to save the blur effect on your image.
-
-![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
-
-## How to Blur a Part of Picture on Mobile
-
-Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
-
-### 1\. Use App
-
-You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
-
-1. Download the YouCam Perfect app on Google Play or the Apple App Store and install it on your device.
-
-![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-12.png)
-
-1. Launch the app on your mobile device. Since you are using this application for the first time, click the Skip button in the upper right corner.
-2. After transferring the interface, click the arrow icon at the upper left corner.
-3. If you want to edit an image in your photo gallery, click the OK button to continue.
-
-![blur a part of image on mobile using Yourcam](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-13.png)
-
-1. Select the Allow option to allow the app to access your photo gallery.
-2. Swipe the screen and choose the photo you would like to blur.
-3. Open the Edit tab and navigate to Tools. Next, click on the Blur option.
-4. In the Blur effect, select the shape of the outline you want to use when shaping the blur effect. The Ellipse gives you a long oval shape, making it ideal for selfies or full-length images.
-
-![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-14.png)
-
-1. Once you have chosen the shape, you will see the effect in action. Everything within the center of that shape will stay untouched and in sharp focus. Anything beyond the internal shape will subtly start to fade into a blur.
-2. To reshape the outer edges' size of the effect, drag the outer shape outline.
-3. When you make the outer shape larger, you'll retain more of your image in focus while reducing the harshness of the blur. You can adjust the outer edges and rotate the outline with your two fingers.
-
-The app also has additional effect shapes for more customization options. You can edit the shape of the effect, from heart, star, circle, and more.
-
-### 2\. Use Built-in Photo Edit
-
-You can blur parts of a picture on your Android phone without installing a third-party app. Android mobile devices come with multiple ways to use their in-built app to blur parts of a picture or background. Let's look at how to blur part of an image on your Samsung phone.
-
-1. Use the gallery app to open your image and press the pencil icon.
-
-![blur a part of image on mobile using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-16.png)
-
-1. Choose the decoration icon.
-2. Go to the covers option with the blur feature.
-
-![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
-
-1. Using your finger, draw a box over the part of the image you need to blur.
-2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
-3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
-
-## Conclusion
-
-● You can use the above method to blur part of picture on your PC or mobile device. You can blur certain areas of your image to enhance the entire scenery or hide something that you do not want your viewers to see.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Would you like to hide someone's face or other details on your picture for the sake of censorship? Or do you want to apply a soft artistic effect to your photo to highlight the main object? The easiest solution in these two cases is to add a photo blur. This guide will explain how to blur certain parts of a picture on your PC and mobile device.
-
-#### In this article
-
-01 [How to Blur a Part of a Picture on PC](#part1)
-
-02 [How to Blur a Part of Picture on Mobile](#part2)
-
-## How to Blur a Part of a Picture on PC
-
-There are several different methods to blur part of a picture on your PC. They include:
-
-### 1\. Blur a Part of Picture Using Photoshop
-
-Developed and published by Adobe Inc, Photoshop is compatible with computers running on macOS and Windows. This photo editing tool allows you to blur certain parts of images with just a few clicks.
-
-Want to learn how to blur out something in a photo on your PC using Photoshop? Follow the steps below.
-
-1. Download and install Photoshop on your PC.
-2. Locate the program on your desktop and launch it.
-3. Import the picture you would like to edit into Photoshop. You can drag the photo from your desktop or the Explorer onto the Photoshop user interface. Alternatively, you could click the File menu and then select Open.
-
-![how to blur a part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-1.png)
-
-1. Now, find the file you want to edit and double-click it.
-2. Choose the Marquee tool, which allows you to select a Photoshop layer in several shapes, including circle, square, horizontal line, rectangle, and much more. By default, this tool makes a rectangular selection.
-
-![how to blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-2.png)
-
-1. Using the Marquee tool, draw a selection where you want to apply the blur effect.
-2. Head to the menu bar and select the Filter option. Find Blur in the list and click on it. Now, choose the Gaussian Blur under Blur, and the Gaussian Blur menu will appear.
-
-![blur a part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-3.png)
-
-1. Reduce the Radius until the area is blurred. The higher the radius, the less visible the selected part of the image you are blurring will be.
-2. Click OK to apply the blur effect.
-3. Select File, then Save As. You'll see a dialog box. Here, you can type in the desired file name and choose the location you would like to save the edited image.
-
-### 2\. Blur a Part of Picture Using Powerpoint
-
-PowerPoint is a great tool that allows you to create presentations for personal and professional purposes. This tool also has a feature that you can use to blur a part of a photo. Follow these steps to learn how to blur part of an image using Microsoft Powerpoint.
-
-1. Launch Powerpoint and navigate to File, then click Insert to put your Picture on a slide. Alternatively, you could drag and drop the image onto the slide.
-
-![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
-
-1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
-2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
-
-![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
-
-1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
-
-![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
-
-1. Click anywhere on the slide to pick a color of your choice.
-2. Click Shape Effects under the Format tab and select the Soft Edges option. Put your mouse cursor on one of the options you see in the Soft Edges, and Powerpoint will display a preview of the blurred shape.
-
-![how to blur part of image](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-7.png)
-
-1. Press and hold the Ctrl key on your keyboard, then select the image and the blurred shape. Navigate to Format, then click on Group and select the Group option.
-
-![how to blur part of image using photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-8.png)
-
-1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
-
-### 3\. Use Built-in Paint Tool
-
-Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
-
-1. From the Start menu, launch MS paint.
-2. Click on File, then select the Open option. Browse to find the image you want to add blur and click it. Click the Open button to import the image to Microsoft Paint.
-3. Under Shapes, click the rectangle tool and single-click on the area you want to blur. Now, Drag the rectangle around that area.
-
-![blur image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-9.png)
-
-1. Choose your color of choice for the blur. Navigate to the Color 2 tab and choose the color you prefer from the Colors menu.
-2. Next, click the Fill button next to the box that has the shapes. Select either of these options for the blur effect: Watercolor, Natural pencil, Oil, marker, or Crayon.
-
-![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-10.png)
-
-1. Click Save to save the blur effect on your image.
-
-![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
-
-## How to Blur a Part of Picture on Mobile
-
-Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
-
-### 1\. Use App
-
-You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
-
-1. Download the YouCam Perfect app on Google Play or the Apple App Store and install it on your device.
-
-![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-12.png)
-
-1. Launch the app on your mobile device. Since you are using this application for the first time, click the Skip button in the upper right corner.
-2. After transferring the interface, click the arrow icon at the upper left corner.
-3. If you want to edit an image in your photo gallery, click the OK button to continue.
-
-![blur a part of image on mobile using Yourcam](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-13.png)
-
-1. Select the Allow option to allow the app to access your photo gallery.
-2. Swipe the screen and choose the photo you would like to blur.
-3. Open the Edit tab and navigate to Tools. Next, click on the Blur option.
-4. In the Blur effect, select the shape of the outline you want to use when shaping the blur effect. The Ellipse gives you a long oval shape, making it ideal for selfies or full-length images.
-
-![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-14.png)
-
-1. Once you have chosen the shape, you will see the effect in action. Everything within the center of that shape will stay untouched and in sharp focus. Anything beyond the internal shape will subtly start to fade into a blur.
-2. To reshape the outer edges' size of the effect, drag the outer shape outline.
-3. When you make the outer shape larger, you'll retain more of your image in focus while reducing the harshness of the blur. You can adjust the outer edges and rotate the outline with your two fingers.
-
-The app also has additional effect shapes for more customization options. You can edit the shape of the effect, from heart, star, circle, and more.
-
-### 2\. Use Built-in Photo Edit
-
-You can blur parts of a picture on your Android phone without installing a third-party app. Android mobile devices come with multiple ways to use their in-built app to blur parts of a picture or background. Let's look at how to blur part of an image on your Samsung phone.
-
-1. Use the gallery app to open your image and press the pencil icon.
-
-![blur a part of image on mobile using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-16.png)
-
-1. Choose the decoration icon.
-2. Go to the covers option with the blur feature.
-
-![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
-
-1. Using your finger, draw a box over the part of the image you need to blur.
-2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
-3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
-
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● You can use the above method to blur part of picture on your PC or mobile device. You can blur certain areas of your image to enhance the entire scenery or hide something that you do not want your viewers to see.
@@ -606,3 +750,43 @@ You can blur parts of a picture on your Android phone without installing a third
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-8-must-have-methods-for-crafting-memorable-gifs/"><u>[New] 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-transitions-techniques-for-audios/"><u>[New] Advanced Transitions Techniques for Audios</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] Chorus Climaxes  Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-silent-spectator-of-social-media-snippets/"><u>[New] Silent Spectator of Social Media Snippets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-11-must-know-hues-for-professional-grading/"><u>[Updated] 11 Must-Know Hues for Professional Grading</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-embrace-digital-preservation-keeping-your-snaps-fresh-on-devices/"><u>[Updated] 2024 Approved  Embrace Digital Preservation  Keeping Your Snaps Fresh on Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-apex-in-mobile-videography-select-the-10-best-phones/"><u>[Updated] Apex in Mobile Videography - Select the 10 Best Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>[Updated] Best Box-Personalizing Online Spots  Unique, Heartfelt Gestures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-movie-trailer-showcase/"><u>[Updated] Exquisite Movie Trailer Showcase</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>2024 Approved  10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-critical-look-at-ustream-with-similar-sites/"><u>2024 Approved  A Critical Look at Ustream with Similar Sites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-apex-broadcast-tools-and-platforms/"><u>2024 Approved  Apex Broadcast Tools & Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-buddies-games-top-metagame-escapades/"><u>2024 Approved  Best Buddies Games  Top Metagame Escapades</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cerebral-showcase-gk-video-challenge-network/"><u>2024 Approved  Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-broadcast-tools-go-with-wirecast-or-obs/"><u>2024 Approved  Comparing Broadcast Tools  Go With Wirecast or OBS?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerate-your-fb-video-game-the-top-apps-and-plugins-guide/"><u>Accelerate Your FB Video Game  The Top Apps & Plugins Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/alternatives-to-vlc-revealed-in-detailed-review-for-2024/"><u>Alternatives to VLC Revealed in Detailed Review for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-a58-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo A58 4G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-iphone-x-animoji-the-complete-users-edition/"><u>Dive Into iPhone X Animoji  The Complete User's Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-s23plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel S23+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>GIF Design Essentials  Top 9 Tools to Elevate Your Creativity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hero-5-in-action-an-in-depth-analysis/"><u>Hero 5 in Action  An In-Depth Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-prevent-youtube-from-starting-video-before-you-watch/"><u>How to Prevent YouTube From Starting Video Before You Watch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/humor-hacks-simplifying-the-process-of-meme-creation/"><u>Humor Hacks  Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-adventures-with-gopro-tips/"><u>In 2024, Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mambo-measuring-macaws/"><u>Mambo Measuring Macaws</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-iphones-with-ease-download-podcasts-made-simple/"><u>Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quickened-cinema-of-corporate-presentations/"><u>Quickened Cinema of Corporate Presentations</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-13c-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 13C Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-speed-control-the-editors-essential-handbook/"><u>Seamless Speed Control  The Editor's Essential Handbook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison/"><u>Streamlining Your Viewing  VLC Versus MX Comparison</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-v29-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo V29 Pro</u></a></li>
+</ul></div>

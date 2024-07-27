@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Augmented Reality Aesthetics  Tapping Into Free LUT Resources for AR\""
-date: 2024-05-24T07:36:49.414Z
-updated: 2024-05-25T07:36:49.414Z
+date: 2024-07-26T19:10:58.758Z
+updated: 2024-07-27T19:10:58.758Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR\""
 excerpt: "\"This Article Describes [Updated] Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR\""
 keywords: "AR Aesthetic Tools,Free LUTs AR,AugReality Design,AR Art Resource,LUT Access AR,FREE LUT AR App,AR Design Basics"
-thumbnail: https://www.lifewire.com/thmb/Oia8CqbKqxrch0uWLwf-HHHpia4=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/TravelTech_GettyImages-1410662282_CROPPED_d3sign-03c2cdf5be314894b99757426813be51.jpg
+thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d4bbb61a362d901e0200289d.jpg
 ---
 
 ## Augmented Reality Aesthetics: Tapping Into Free LUT Resources for AR
@@ -28,6 +28,13 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -46,6 +53,9 @@ When you import a color LUT, compression is always set to None, and filtering is
 
 A patch graph is automatically set that applies a color LUT to the entire scene.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 **The color LUT patch graph**
@@ -60,6 +70,9 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
@@ -70,6 +83,9 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Fur
 
 Here are the key building principles.
@@ -81,12 +97,18 @@ Here are the key building principles.
 * Height is generated from a single grayscale channel.
 * No fur is generated in the black areas of the height texture.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 ### 4\. Transition Curves
@@ -99,12 +121,21 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 ### Closing Thoughts
@@ -141,3 +172,56 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-assessment-report-toolwiz-app-for-imaging-aficionados/"><u>[New] Assessment Report  Toolwiz App for Imaging Aficionados</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-augmenting-learning-with-vr/"><u>[New] Augmenting Learning with VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginning-your-first-fb-giveaway-announcement/"><u>[New] Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-gopro-power-endurance-tips-and-tricks/"><u>[New] Boosting GoPro Power Endurance  Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chromatic-magic-transform-your-video-with-color-knowledge/"><u>[New] Chromatic Magic  Transform Your Video with Color Knowledge</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[New] In 2024, Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[Updated] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>[Updated] Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-down-anonymous-instagram-streaming-techniques/"><u>[Updated] Breaking Down Anonymous Instagram Streaming Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chinas-bargain-bin-of-virtual-reality-gear/"><u>[Updated] China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boost-your-igtv-views-top-5-tactics-for-increased-engagement/"><u>[Updated] In 2024, Boost Your IGTV Views  Top 5 Tactics for Increased Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>[Updated] In 2024, The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adjusting-sound-settings-gently-in-windowsmacos/"><u>2024 Approved  Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aesthetic-ambiance-cool-pc-walls-to-download/"><u>2024 Approved  Aesthetic Ambiance  Cool PC Walls to Download</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-appreciation-showcase-easy-access-to-otus/"><u>2024 Approved  Appreciation Showcase  Easy Access to OTUs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-compreayer-study-of-magix-image-suite-for-2024/"><u>A Compreayer Study of MAGIX Image Suite for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android-for-2024/"><u>A Detailed Guidance  How To Add Custom Ringtones And Sounds To Your Android for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-peak-performance-zooms-6-webcam-picks-for-2024/"><u>Achieve Peak Performance  Zoom's #6 Webcam Picks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-camcorder-for-deer-hunting-excellence-for-2024/"><u>Best Camcorder for Deer Hunting Excellence for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-channels-discovering-gpodc-gold-for-2024/"><u>Best Channels  Discovering GPodC Gold for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-down-why-syma-x5c-is-top-notch-for-new-dronists-for-2024/"><u>Breaking Down  Why Syma X5C Is Top-Notch for New Dronists for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clickbait-curator-supreme-for-2024/"><u>Clickbait Curator Supreme for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-digital-dimensions-metaverse-and-multiverse-for-2024/"><u>Comparing Digital Dimensions  Metaverse & Multiverse for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquering-subreddit-mastering-the-art-of-public-discussion/"><u>Conquering Subreddit  Mastering the Art of Public Discussion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/contrast-and-composition-theory-in-design-for-2024/"><u>Contrast and Composition  Theory in Design for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-unique-endings-anytime-its-free-my-friends/"><u>Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-visual-communication-top-10-tools-for-vector-artists/"><u>Elevating Visual Communication  Top 10 Tools for Vector Artists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-drone-buyers-checklist-top-factors-to-ponder/"><u>Essential Drone Buyer's Checklist  Top Factors to Ponder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-to-enhanced-gopro-experience/"><u>First Steps to Enhanced GoPro Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/formulate-light-hearted-images-for-social-media-giphy/"><u>Formulate Light-Hearted Images for Social Media Giphy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/grandest-directors-reveals/"><u>Grandest Directors' Reveals</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-choose-a-live-streaming-platform-with-10-tips/"><u>How to Choose a Live Streaming Platform with 10 Tips?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50iplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube/"><u>In 2024, A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-15-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 15 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-playtracker-insight/"><u>In 2024, Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokejuggernaut-top-humor-tool/"><u>JokeJuggernaut - Top Humor Tool</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-driver-back-online-after-hiccup/"><u>Nvidia Driver: Back Online After Hiccup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/present-day-vr-tech-diary/"><u>Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates/"><u>Smirk Stash  Ultimate Guide to FREE Meme Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>Step-by-Step  Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-evolution-of-cinematic-experience-virtual-reality/"><u>The Evolution of Cinematic Experience  Virtual Reality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-shot-highest-rated-devices-for-steady-clear-videos/"><u>The Ultimate Shot  Highest Rated Devices for Steady, Clear Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-notch-graphic-retouches/"><u>Top-Notch Graphic Retouches</u></a></li>
+</ul></div>

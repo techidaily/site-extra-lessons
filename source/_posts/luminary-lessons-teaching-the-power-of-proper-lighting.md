@@ -1,7 +1,7 @@
 ---
 title: "\"Luminary Lessons  Teaching the Power of Proper Lighting\""
-date: 2024-05-24T06:50:20.986Z
-updated: 2024-05-25T06:50:20.986Z
+date: 2024-07-26T17:47:51.971Z
+updated: 2024-07-27T17:47:51.971Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Luminary Lessons: Teaching the Power of Proper Lighting\""
 excerpt: "\"This Article Describes Luminary Lessons: Teaching the Power of Proper Lighting\""
 keywords: "Light & Learning,Proper Lighting Tips,Illuminate Education,Bright Ideas in Ed,Luminary Lesson Strategies,Educational Lighting Guide,Teach with Light Efficacy"
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## Luminary Lessons: Teaching the Power of Proper Lighting
@@ -46,18 +46,27 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -66,6 +75,9 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -84,12 +96,18 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 ## Summary
@@ -126,3 +144,48 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-achieve-professionally-styled-images-top-10-luts-in-lightroom/"><u>[New] Achieve Professionally Styled Images  Top 10 LUTs in LightRoom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-compre-written-guide-to-the-latest-videoshow-version/"><u>[New] Compre Written Guide to the Latest VideoShow Version</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-characters-animation-basics-in-wmm/"><u>[New] Crafting Characters  Animation Basics in WMM</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-impact-of-authenticity-in-insta-self-portraits-for-2024/"><u>[New] The Impact of Authenticity in Insta Self-Portraits for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-chaptering-organizing-video-sections/"><u>[Updated] 2024 Approved  Vimeo Chaptering  Organizing Video Sections</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-7-must-have-metaverse-devices-you-need-to-prepare/"><u>[Updated] 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-multiplayer-metaverse-games-to-share-with-pals/"><u>[Updated] Best Multiplayer Metaverse Games to Share With Pals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-a-chic-google-collage-in-minutes-not-hours/"><u>[Updated] Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-historys-heaviest-battles-rts-review-of-7-epic-games/"><u>[Updated] History's Heaviest Battles  RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-your-first-dive-into-the-world-of-zoom-webinar-hosting/"><u>[Updated] In 2024, Your First Dive Into the World of Zoom Webinar Hosting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/20-great-free-options-for-web-based-photo-tinkering-for-2024/"><u>20 Great Free Options for Web-Based Photo Tinkering for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ae-user-guide-adding-flavor-with-typefaces/"><u>2024 Approved  AE User Guide  Adding Flavor with Typefaces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>2024 Approved  Blizzard of Champions  Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-creative-use-of-supplementary-footage-b-roll-for-2024/"><u>A Guide to Creative Use of Supplementary Footage (B-Roll) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/appreciation-roundup-premiumfree-outro-templates/"><u>Appreciation Roundup  Premium/Free Outro Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-excellence-through-narrative-enrichment-for-2024/"><u>Audiovisual Excellence Through Narrative Enrichment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s-for-2024/"><u>Battle of the Titans  GoPro Hero4 Black Versus Drift Ghost-S for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-storage-deals-cloud-pricing-of-future-year/"><u>Best Storage Deals  Cloud Pricing of Future Year</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-code-seeing-covert-user-reactions-for-2024/"><u>Breaking Code  Seeing Covert User Reactions for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultivating-curiosity-and-understanding-through-language/"><u>Cultivating Curiosity and Understanding Through Language</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-android-3d-viewer-tech/"><u>Cutting-Edge Android 3D Viewer Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/editors-choice-17-software-pick-to-perfect-picture-backgrounds/"><u>Editor's Choice  17 Software Pick to Perfect Picture Backgrounds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g23-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G23? Try These Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-capture-to-clarity-the-complete-guide-for-garageband-editors/"><u>From Capture to Clarity  The Complete Guide for GarageBand Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gigglegrid-create-social-media-laughs-in-seconds/"><u>GiggleGrid  Create Social Media Laughs in Seconds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-blend-beats-and-bullets-in-microsofts-presentation-tool/"><u>How to Blend Beats and Bullets in Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovation-in-visuals-a-guide-to-the-leading-5-monitors/"><u>Innovation in Visuals  A Guide to the Leading 5 Monitors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphones-in-action-capturing-and-altering-slow-motion-content/"><u>IPhones in Action  Capturing & Altering Slow Motion Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lifetime-of-memories-elevated-in-the-cloud-free-and-paid-storage-compared/"><u>Lifetime of Memories, Elevated in the Cloud  Free & Paid Storage Compared</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-mix-audio-meets-images-online/"><u>Melodic Mix  Audio Meets Images Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneers-in-the-digital-realm-vr-past-and-future/"><u>Pioneers in the Digital Realm  VR Past and Future</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/safety-features-evaluated-in-syma-x8c/"><u>Safety Features Evaluated in Syma X8C</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/subtle-volume-lessening-masterclass-using-lumafusion/"><u>Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-quest-for-optimal-video-viewing-vlcs-stand-against-mpc/"><u>The Quest for Optimal Video Viewing  VLC's Stand Against MPC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-mastering-zoom-in-windows-10/"><u>The Ultimate Guide to Mastering Zoom in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-time-extension/"><u>Unlocking the Potential of Time Extension</u></a></li>
+</ul></div>

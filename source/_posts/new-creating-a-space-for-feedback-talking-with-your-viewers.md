@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Creating a Space for Feedback  Talking with Your Viewers\""
-date: 2024-05-24T06:46:20.886Z
-updated: 2024-05-25T06:46:20.886Z
+date: 2024-07-26T17:40:53.635Z
+updated: 2024-07-27T17:40:53.635Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Creating a Space for Feedback: Talking with Your Viewers\""
 excerpt: "\"This Article Describes [New] Creating a Space for Feedback: Talking with Your Viewers\""
 keywords: "Viewer Feedback Space,Engage Viewers Talk,Feedback Viewer Chat,Space for Viewer Input,Dialogue with Audience,Viewers Interaction,Audience Engagement Zone"
-thumbnail: https://www.lifewire.com/thmb/cnjnkPWdIA12GDaeFz62_nExYhg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b610883b05f292e6c6a7a4335.jpg
 ---
 
 ## Creating a Space for Feedback: Talking with Your Viewers
@@ -24,6 +24,9 @@ A YouTube subscriber is someone who has chosen to follow your channel and your c
 
 ![youtube channel subscriber count](https://images.wondershare.com/filmora/article-images/2022/11/youtube-channel-subscriber-count.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How important is the subscriber to vloggers or content creator
 
 Building a strong and loyal subscriber base is very important when it comes to creating a strong online community. When a YouTube channel has many subscribers, it’s likely to get more targeted traffic, exposure and views.
@@ -34,6 +37,9 @@ Building a strong and loyal subscriber base is very important when it comes to c
 * Subscriber is a fan that watches, shares and comments about the video that are uploaded on a channel.
 * Having more subscribers on a YouTube channel influences and it reflects the channel’s popularity. This can convince more people to subscribe to the channel.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![increase youtube channel subscribers](https://images.wondershare.com/filmora/article-images/2022/11/increase-youtube-channel-subscribers.jpg)
 
 ## How to communicate with your Subscriber
@@ -54,6 +60,9 @@ Engaging with other people, joining groups, forums and others forms of communica
 
 In entering in some communities or groups, remember that these are communities and as a YouTuber, you should be transparent about who you are and what you do. Users are protective when it comes to maintaining the integrity of discussion in these communities, so be sure you’re adding value first and foremost.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![engage with other people youtube](https://images.wondershare.com/filmora/article-images/2022/11/engage-with-other-people-youtube.jpg)
 
 ### Promoting your channel
@@ -62,6 +71,9 @@ Is one way to engage with your subscriber. Keep them updated, get in touch with 
 
 Usually subscriber don’t just ask questions in the comment section of your video on YouTube. When they see your other social media link, they go there and do private message you for their concerns because that is the best way for you to notice them. So you need also to check your other social media accounts, if you have subscribers there who comment and reply to them immediately if necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![prompt your youtube channel](https://images.wondershare.com/filmora/article-images/2022/11/prompt-your-youtube-channel.jpg)
 
 **Steps How to communicate:**
@@ -74,8 +86,23 @@ Step3 Add like, share and subscribe quotes sometime during the video.
 
 Step4 Always end the video with a coming back for the next one with a subscribe signal in it.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to increase YouTube Subscribers
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Interact Constantly
 
 YouTube is an online community. It’s not just a place where people host videos. When you see this platform this way, you will use it to interact with people who visit it every day. Just like with other social media, the more you give on YouTube.
@@ -88,10 +115,25 @@ The more comments and interaction one of your videos has, the more value YouTube
 
 You can increase your YouTube subscribers by asking people to subscribe to your channel if they like your video. To do this, include a call to action in your video. Your call to action should be compelling to convince people to subscriber. Don’t be shy to ask your family, friends, friends of your friends to subscribe and share your video to their social accounts to more people will see and watch your video. From there you will gain more subscriber and more viewers. Also don’t forget to thank them for their effort promoting your channel.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Promote your YouTube Channel on other platform
 
 Promote your channel and videos on other social media like Facebook, Twitter and Instagram. Ask people to watch your videos and subscribe to stay updated on the new videos that you will be published.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![prompt youtube channel on facebook](https://images.wondershare.com/filmora/article-images/2022/11/prompt-youtube-channel-on-facebook.jpg)
 
 While doing this, be consistent and provide value to your subscriber. People want to know that they can count on your channel to provide quality and relevant videos. Be remarkable by taking the right approach. You can increase you YouTube views by establishing relationships with the audiences. Do this by engaging and interacting with the existing audience or subscriber. Be realistic, sustainable, and organic in your videos.
@@ -116,6 +158,9 @@ Its not enough to be posting weekly videos with you tips and content. Using your
 
 One of the important things to do as a YouTuber is to give importance to subscribers because they are the reason why a YouTube channel becomes popular, they also the reason why your channel recognized by many. Viewers and subscribers must treat as your family, always reply to their comment and follow what they have suggested. Don’t forget also to give them a treat by giving them some gifts or allow them to join to your giveaways.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube video engaging tips](https://images.wondershare.com/filmora/article-images/2022/11/youtube-video-engaging-tips.jpg)
 
 ## Conclusion
@@ -158,3 +203,39 @@ Creating videos on YouTube is key to your video marketing and content marketing 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-grab-and-store-the-quickest-tools-to-save-social-media-videos/"><u>[New] 2024 Approved  Grab & Store  The Quickest Tools to Save Social Media Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[New] 2024 Approved  Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-primer-on-essential-camera-movements-in-film/"><u>[New] A Beginner's Primer on Essential Camera Movements in Film</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-zero-fee-technique-for-pixel-perfection/"><u>[New] Best Zero-Fee Technique for Pixel Perfection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-piscine-adventures-5-superior-camers/"><u>[New] Capturing Piscine Adventures - 5 Superior Camers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chromatic-magic-for-your-digital-photography/"><u>[New] Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-explore-the-best-4k-capture-with-10-mirrorless-models/"><u>[Updated] 2024 Approved  Explore the Best 4K Capture with 10 Mirrorless Models</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-effective-is-sponsored-view-count-boosting/"><u>[Updated] 2024 Approved  How Effective Is Sponsored View Count Boosting?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>[Updated] Assessing Virtual Reality’s Dual Facets  Pros & Cons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-captivating-viewers-with-animated-text-on-instagram-stories/"><u>[Updated] Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-audio-dramatic-writing/"><u>[Updated] Innovative Audio Dramatic Writing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-curated-compilation-of-online-videoaudio-magicians/"><u>A Curated Compilation of Online Video/Audio Magicians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-value-with-recommendations-for-2024/"><u>Adding Value with Recommendations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-customer-revelation/"><u>Captivating Customer Revelation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cognitive-conundrums-top-11-gk-video-hubs/"><u>Cognitive Conundrums  Top 11 GK Video Hubs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-android-lightroom-assessment-for-2024/"><u>Comprehensive Android Lightroom Assessment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-comedy-gold-top-8-techniques-that-shape-meme-artistry/"><u>Creating Comedy Gold  Top 8 Techniques That Shape Meme Artistry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-steps-to-modify-game-sounds-for-a-unique-identity-all-at-no-cost/"><u>Easy Steps to Modify Game Sounds for a Unique Identity - All at No Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effective-strategies-for-spotlight-success/"><u>Effective Strategies for Spotlight Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-visual-storytelling-in-ar-integrating-downloadable-lut-techniques/"><u>Elevate Visual Storytelling in AR  Integrating Downloadable LUT Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-speedsters-snowspeedcrosss-best-of-22/"><u>Elite Speedsters  Snowspeedcross's Best of '22</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oneplus-nord-ce-3-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on OnePlus Nord CE 3 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-digital-divide-with-gratuitous-animations/"><u>In 2024, Bridging the Digital Divide with Gratuitous Animations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elevating-video-reach-the-role-of-smart-backlinking-techniques/"><u>In 2024, Elevating Video Reach  The Role of Smart Backlinking Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-excelling-without-vimeo-best-editing-software-rankings/"><u>In 2024, Excelling Without Vimeo  Best Editing Software Rankings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mastering-adobe-premiere-top-6-essential-tips-for-pro-level-video-editing-for-2024/"><u>Mastering Adobe Premiere Top 6 Essential Tips for Pro-Level Video Editing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecti-top-photo-and-video-display-programming/"><u>Perfecti  Top Photo & Video Display Programming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks-for-2024/"><u>Recharge and Reflect  Top Ideas for Combining Podcast Listening & Tasks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-diverse-world-of-uavs/"><u>The Diverse World of UAVs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation/"><u>Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-quick-glance-a-review-hack/"><u>Windows Quick Glance  A Review Hack</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Chromatic Ingenuity  From Concept to Creation\""
-date: 2024-05-24T08:54:30.966Z
-updated: 2024-05-25T08:54:30.966Z
+date: 2024-07-26T21:26:54.299Z
+updated: 2024-07-27T21:26:54.299Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Chromatic Ingenuity: From Concept to Creation\""
 excerpt: "\"This Article Describes 2024 Approved: Chromatic Ingenuity: From Concept to Creation\""
 keywords: "\"Colorful Design Methods,Chromatic Creation Insights,Idea-to-Art Process,Creative Color Techniques,Ingenious Chromatic Art,Conceptual Color Crafting,Birth of Chromatic Works\""
-thumbnail: https://www.lifewire.com/thmb/QdzyneXrDNJP05LF9GWKQLcJKKQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-965113756-764697dfeb544233b50fb9965b244595.jpg
+thumbnail: https://thmb.techidaily.com/cb31b7e1126829f3edd114be49ab32d4b537b8ce3f51566e9db65fcc77abbc00.jpg
 ---
 
 ## Chromatic Ingenuity: From Concept to Creation
@@ -22,12 +22,18 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -36,10 +42,16 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -60,10 +72,16 @@ In this scene the director decided that the backdrop should complement the top t
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +116,59 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-20plus-vivid-photo-assemblages-to-brighten-moods/"><u>[New] 20+ Vivid Photo Assemblages to Brighten Moods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>[New] A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advice-alley-17-recommended-tools-for-effective-image-cleaning/"><u>[New] Advice Alley  17 Recommended Tools for Effective Image Cleaning</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-evasion-techniques-for-breaking-free-from-shadowban/"><u>[New] Evasion Techniques for Breaking Free From Shadowban</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revenue-revolution-how-to-design-effective-animated-fb-ads-for-2024/"><u>[New] Revenue Revolution  How to Design Effective Animated FB Ads for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlock-creative-potential-strategic-use-of-strikethrough-for-2024/"><u>[New] Unlock Creative Potential  Strategic Use of Strikethrough for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[Updated] Advanced Techniques  Sending Subtitles to Instagram, LinkedIn</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-breathtaking-photos-with-iphone-hdr/"><u>[Updated] Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>[Updated] Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-critical-game-analysis-from-top-creators-for-2024/"><u>[Updated] Critical Game Analysis From Top Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-peace-in-patience-slowing-down-your-online-video-experience-on-youtube-60-chars-a-bit-long-but-full-of-helpful-info/"><u>[Updated] In 2024, Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-is-av1-better-than-vp9-learn-it-here/"><u>[Updated] Is AV1 Better Than VP9? Learn It Here</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stream-quality-which-is-superior-obs-or-fraps-in-2024/"><u>[Updated] Stream Quality  Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-superior-canon-chrono-series/"><u>2024 Approved  Craft Superior Canon Chrono Series</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-shocking-news-titles-expert/"><u>2024 Approved  Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-guide-making-your-podcasts-rss-feed/"><u>A Beginner's Guide  Making Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-equipment-prime-8k-cameras-unmatched-for-2024/"><u>Apex Equipment  Prime 8K Cameras Unmatched for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-applications-for-transforming-photo-content-into-video/"><u>Best Applications for Transforming Photo Content Into Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-photo-and-video-display-apps-for-iphone-series-78/"><u>Best Photo & Video Display Apps for iPhone Series 7/8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>Beyond the Screen  Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-your-story-leading-drawers-in-ipados-for-2024/"><u>Craft Your Story  Leading Drawers in iPadOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-stunning-hdr-portraits-step-by-step/"><u>Creating Stunning HDR Portraits Step-by-Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-the-meaning-behind-windows-folders-x-marks/"><u>Demystifying: The Meaning Behind Windows' Folders X-Marks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/direct-ipad-to-iphone-media-sync-tutorial/"><u>Direct iPad-to-iPhone Media Sync Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-hidden-treasures-windows-11s-new-offerings/"><u>Discovering Hidden Treasures  Windows 11'S New Offerings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-bottom-to-top-seo-guide-for-podcasters/"><u>From Bottom to Top  Seo Guide for Podcasters</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-access-an-array-of-personalized-ending-sounds-for-videos/"><u>In 2024, Access an Array of Personalized Ending Sounds for Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-green-screen-videos-must-know-secrets/"><u>In 2024, Ace Your Green Screen Videos  Must-Know Secrets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-windows-11-status-essential-improvements/"><u>In 2024, Achieving Windows 11 Status  Essential Improvements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>In 2024, Capture It All  The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-celebrating-the-hottest-instagram-after-effects-plugins/"><u>In 2024, Celebrating the Hottest Instagram After Effects Plugins</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chic-crests-curating-the-best-websites-for-aesthetic-laptop-backgrounds/"><u>In 2024, Chic Crests  Curating the Best Websites for Aesthetic Laptop Backgrounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>In 2024, Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>In 2024, Converting ZIP to SubRip (SRT) Format  A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-pop-7-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Pop 7 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram/"><u>Mastering GIF Transformation  To Stickers on WhatsApp, Discord & Telegram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overlaying-imagery-from-desktop-to-cloud/"><u>Overlaying Imagery  From Desktop to Cloud</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-tips-for-capturing-the-excitement-of-online-cricket-matches/"><u>Premier Tips for Capturing the Excitement of Online Cricket Matches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selfies-in-focus-iphones-8-innovative-tools/"><u>Selfies in Focus  IPhone's #8 Innovative Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamlined-strategy-for-igtv-and-instagram-story-integration-for-2024/"><u>Streamlined Strategy for IGTV & Instagram Story Integration for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/subtle-reduction-of-volume-in-fl-studio/"><u>Subtle Reduction of Volume in FL Studio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-experts-gopro-buyers-companion/"><u>The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-reference-to-gesture-and-movement-capture/"><u>The Ultimate Reference to Gesture and Movement Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-6-hdmi-21-monitor-you-can-find-detailed-comparison/"><u>Top 6 HDMI 2.1 Monitor You Can Find [Detailed Comparison]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k/"><u>Top Picks in Affordable Home Cinema Setups with 4K</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-voice-to-text-applications/"><u>Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-hdr-photo-guidebook/"><u>Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-art-of-chromatic-enhancement/"><u>Unlocking the Art of Chromatic Enhancement</u></a></li>
+</ul></div>

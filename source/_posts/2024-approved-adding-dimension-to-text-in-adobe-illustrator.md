@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Adding Dimension to Text in Adobe Illustrator\""
-date: 2024-05-24T07:16:37.059Z
-updated: 2024-05-25T07:16:37.059Z
+date: 2024-07-26T18:34:27.148Z
+updated: 2024-07-27T18:34:27.148Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Adding Dimension to Text in Adobe Illustrator\""
 excerpt: "\"This Article Describes 2024 Approved: Adding Dimension to Text in Adobe Illustrator\""
 keywords: "AI Text Depth Effects,Illustrator Shadow Techniques,Colorful Text Layering,Advanced Text Illustration,Vector Text Dimensioning,Adobe Shading Tools,Creative Typography Design"
-thumbnail: https://www.lifewire.com/thmb/9zP4FHqoBjTYTcnKPx1ayZYilLM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed4-3ef148e602fd46e8ba95745b3f2d5270.jpg
+thumbnail: https://thmb.techidaily.com/346f1b42c3595ddf32b42f331ce9c1b3e2f2115976dbfc26ef5bc200fbe009cd.jpg
 ---
 
 ## Adding Dimension to Text in Adobe Illustrator
@@ -50,6 +50,9 @@ Step4 Next, choose any color you want for your text from the panel on the screen
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
@@ -58,6 +61,9 @@ Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
@@ -76,6 +82,10 @@ You might not believe it, but there's an even more accessible and less expensive
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -84,16 +94,26 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -110,16 +130,26 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -148,3 +178,50 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-save-and-watch-5-best-pinterest-videos-tools/"><u>[New] Capture, Save and Watch  5 Best Pinterest Videos Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog/"><u>[New] From Idea to Interaction  Steps for Crafting a Successful Product Evaluation Vlog</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-the-chill-easy-phone-game-compilation/"><u>[Updated] 2024 Approved  Best of the Chill  Easy Phone Game Compilation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-advice-for-efficiently-creating-srt-files/"><u>[Updated] 2024 Approved  Expert Advice for Efficiently Creating SRT Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-tips-to-enhance-your-adobe-presentation-videos/"><u>[Updated] 2024 Approved  Expert Tips to Enhance Your Adobe Presentation Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breezy-blogging-quick-video-concept-ideas/"><u>[Updated] Breezy Blogging  Quick Video Concept Ideas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>[Updated] Bring Out Canon's Best  Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-adding-srt-track-to-mp4-media/"><u>[Updated] Comprehensive Guide to Adding SRT Track to MP4 Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>[Updated] Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-guide-to-recording-tv-screens-with-ease-and-precision-for-2024/"><u>[Updated] Guide to Recording TV Screens with Ease and Precision for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tap-into-the-rhythm-web-free-and-comprehensive/"><u>[Updated] Tap Into the Rhythm Web (FREE & Comprehensive)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-detailed-walkthrough-of-androids-photography-suite-lightroom/"><u>2024 Approved  A Detailed Walkthrough of Android’s Photography Suite, Lightroom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-eye-catching-text-to-vids-without-costs/"><u>2024 Approved  Adding Eye-Catching Text to Vids Without Costs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-average-payout-for-a-million-view-youtube-video/"><u>2024 Approved  Average Payout for a Million-View YouTube Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bargain-cameras-that-dont-skimp-on-quality/"><u>2024 Approved  Bargain Cameras That Don't Skimp On Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromatic-ingenuity-from-concept-to-creation/"><u>2024 Approved  Chromatic Ingenuity  From Concept to Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>2024 Approved  Comprehensive Analysis  Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hall-of-fame-movie-scenarios/"><u>2024 Approved  Hall of Fame Movie Scenarios</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere-for-2024/"><u>Advanced Techniques for 360° Video Editing in Premiere for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/belly-laughs-ledger-no-fee-funny-templates-for-2024/"><u>Belly Laughs Ledger  No-Fee Funny Templates for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-flying-fun-in-depth-dji-phantom-4-examination/"><u>Beyond Flying Fun  In-Depth DJI Phantom 4 Examination</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-premium-4k-converters-for-flawless-recordings/"><u>Explore Premium 4K Converters for Flawless Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-metaverse-meme-landscape/"><u>Exploring the Metaverse Meme Landscape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-leader-mastering-social-media-marketing-smm-in-10-steps/"><u>From Novice to Leader  Mastering Social Media Marketing (SMM) in 10 Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-poco-x5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Poco X5 Pro Phone Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-prime-visual-backdrops-for-efficient-collaboration/"><u>In 2024, Prime Visual Backdrops for Efficient Collaboration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rhythmic-revelations-songs-that-will-echo-yes/"><u>In 2024, Rhythmic Revelations  Songs That Will Echo 'Yes'</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-blaze-pro-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Blaze Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/introducing-dimensional-text-with-photoshop-expertise/"><u>Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>Master Image Enhancement  10 Pro Tips for Using Pixlr Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-journeys-ten-sci-fi-films-that-expand-realities/"><u>Metaverse Journeys  Ten Sci-Fi Films that Expand Realities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-to-perfect-minecraft-pixelation/"><u>Pro Tips to Perfect Minecraft Pixelation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-enhanced-ultrablade-samsungs-2023-take/"><u>The Enhanced UltraBlade  Samsung’s 2023 Take</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-iphone-markers-choosing-the-best-image-watermarks/"><u>Top iPhone Markers  Choosing the Best Image Watermarks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-talking-avatar/"><u>Updated In 2024, What Is Talking Avatar?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-split-clips-in-vlc-for-2024/"><u>Updated Step by Step to Split Clips in VLC for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/view-count-victory-strategies-to-captivate-a-million-users/"><u>View Count Victory  Strategies to Captivate a Million Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-potential-income-from-youtube-sponsored-videos/"><u>What's Your Potential Income From YouTube Sponsored Videos?</u></a></li>
+</ul></div>

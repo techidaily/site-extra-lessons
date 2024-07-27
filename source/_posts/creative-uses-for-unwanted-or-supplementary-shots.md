@@ -1,7 +1,7 @@
 ---
 title: "Creative Uses for Unwanted or Supplementary Shots"
-date: 2024-05-24T06:49:59.476Z
-updated: 2024-05-25T06:49:59.476Z
+date: 2024-07-26T17:47:15.829Z
+updated: 2024-07-27T17:47:15.829Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Creative Uses for Unwanted or Supplementary Shots"
 excerpt: "This Article Describes Creative Uses for Unwanted or Supplementary Shots"
 keywords: "Wasteful Shot Repurposing,Creative Photography Hacks,Supplemental Snap Utilization,Extra Shots in Advertising,Unwanted Photos Reimagined,Backup Image Innovation,Additional Scenery Exploitation"
-thumbnail: https://www.lifewire.com/thmb/P7rRfkINfv1vuvMta_Lxbru6Ke0=/564x250/filters:no_upscale():max_bytes(150000):strip_icc()/HomeTheater_GettyImages-1157313674_DennisFischerPhotography_CROPPED-cdaa99c3a6af4fd8a666aedc8c41cd89.jpg
+thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c242c2210395cb978ced6a8dea.jpg
 ---
 
 ## Creative Uses for Unwanted or Supplementary Shots
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -48,14 +51,30 @@ We'll examine the top 5 uses for B rolls across a variety of video genres and di
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -72,10 +91,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +135,51 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>[New] Advanced Color Techniques  Incorporating Luts for Cinematic Flair</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ensuring-privacy-when-documenting-whatsapp-voice-calls-for-2024/"><u>[New] Ensuring Privacy When Documenting WhatsApp Voice Calls for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-inaugural-vision-preservation-review-and-alternate-suggestions-for-2024/"><u>[New] Inaugural Vision Preservation Review & Alternate Suggestions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instagram-reel-creation-guide/"><u>[New] Instagram Reel Creation Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-irecorder-insights-for-tech-enthusiasts-for-2024/"><u>[New] IRecorder Insights for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comparing-syma-x8c-to-previous-models/"><u>[Updated] Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-cost-free-multi-os-video-player-releases/"><u>10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-iphone-selfie-gear-the-ultimate-compilation-8/"><u>2024 Approved  Best iPhone Selfie Gear - The Ultimate Compilation (#8)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-boost-workout-zeal-curated-list-of-top-tier-training-songs/"><u>2024 Approved  Boost Workout Zeal  Curated List of Top-Tier Training Songs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-overview-bublcam-360-camera-explored/"><u>2024 Approved  Complete Overview  Bublcam 360 Camera Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>Adobe Cloud Storage Demystified  Features, Functionality, and Alternatives Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asmr-tactics-your-path-to-nocturnal-serenity/"><u>ASMR Tactics  Your Path to Nocturnal Serenity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-life-to-slides-adding-audio-effectively-powerpoint-for-2024/"><u>Bringing Life to Slides  Adding Audio Effectively (PowerPoint) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-captivating-iphone-lengthened-photos-for-2024/"><u>Creating Captivating iPhone Lengthened Photos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/distinguished-directories-top-online-destinations-for-snapping-alert-tunes/"><u>Distinguished Directories  Top Online Destinations for Snapping Alert Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-list-premium-free-video-player-apps-pc-and-mobile/"><u>Essential List  Premium Free Video Player Apps (PC & Mobile)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fast-track-framework-for-crafting-facebook-collage/"><u>Fast-Track Framework for Crafting Facebook Collage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concept-to-delivery-using-luts-with-adobe-ae/"><u>From Concept to Delivery  Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/greatest-copyright-free-pubg-image-anthology/"><u>Greatest Copyright-Free PUBG Image Anthology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-8-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 8 Plus Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-choose-the-background-music-for-the-trailer/"><u>How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-combine-videos-on-iphone/"><u>How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-enable-and-disable-picture-in-picture-in-safari-for-maciphoneipad/"><u>How to Enable and Disable Picture in Picture in Safari for Mac_iPhone_iPad</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-p60-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei P60 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-approach-to-lut-application-in-ae/"><u>In 2024, A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerate-with-these-key-windows-10-tricks/"><u>In 2024, Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>In 2024, Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-build-at-home-an-affordable-and-versatile-virtual-reality-headset/"><u>In 2024, Build at Home an Affordable and Versatile Virtual Reality Headset</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-strategies-for-recruiting-superior-video-artists/"><u>Key Strategies for Recruiting Superior Video Artists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lg-360-camera-full-review-for-2024/"><u>LG 360 Camera Full Review for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-your-fb-live-on-zoom-stream/"><u>Optimizing Your FB Live on Zoom Stream</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-together-attention-grabbing-channel-snippets/"><u>Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-tools-for-cinematic-creation-top-ten-picks/"><u>Prime Tools for Cinematic Creation  Top Ten Picks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>Pros and Cons of InShot  Is It the Ultimate Editor?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>Sea Dwellers in Focus  Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/1716326996697-slo-mo-video-app-complete-review-2024/"><u>Slo Mo Video App – Complete Review 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectrum-of-autonomous-flight-machines/"><u>Spectrum of Autonomous Flight Machines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-3d-tools-for-animated-designers/"><u>Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-mobile-editors-for-professional-gopro-videos/"><u>The Best Mobile Editors for Professional GoPro Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>The Metaverse Mirth-Making Manual  Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-commercial-sky-storage-provider/"><u>Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/under-500-drone-guide-top-5-budget-buzzers/"><u>Under $500 Drone Guide  Top 5 Budget Buzzers</u></a></li>
+</ul></div>

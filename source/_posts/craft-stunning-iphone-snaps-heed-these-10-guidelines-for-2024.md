@@ -1,7 +1,7 @@
 ---
 title: "\"Craft Stunning iPhone Snaps - Heed These 10 Guidelines for 2024\""
-date: 2024-05-24T08:51:13.711Z
-updated: 2024-05-25T08:51:13.711Z
+date: 2024-07-26T21:21:05.716Z
+updated: 2024-07-27T21:21:05.716Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Craft Stunning iPhone Snaps - Heed These 10 Guidelines for 2024\""
 excerpt: "\"This Article Describes Craft Stunning iPhone Snaps - Heed These 10 Guidelines for 2024\""
 keywords: "IPhone Photography Tips,Perfect iPhone Images,DIY iPhone Pics Guide,Stunning iPhone Photos,IPhone Picture Techniques,Essential iPhone Snaps,Capture iPhone Beauty"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Craft Stunning iPhone Snaps - Heed These 10 Guidelines
@@ -28,6 +28,9 @@ thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/fi
 
  Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Rule of Thirds
 
  The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
@@ -38,6 +41,18 @@ thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/fi
 
  Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
 ## Symmetry
@@ -46,6 +61,116 @@ thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/fi
 
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+## Framing
+
+ When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
+
+## Diagonals
+
+ Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
+
+## Shape
+
+ Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Leave Empty Space
+
+ You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
+
+![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Direction of Subject
+
+ Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
+
+![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
+
+## Fill Your Frame
+
+ Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
+
+![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
+
+## Break the Rules
+
+ Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
+
+![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclsion
+
+ Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
+
+ Images come from the Internet
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Rule of Thirds
+
+ The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
+
+![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
+
+## Leading Lines
+
+ Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
+
+## Symmetry
+
+ For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
+
+![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Framing
 
  When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
@@ -56,14 +181,146 @@ thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/fi
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Leave Empty Space
+
+ You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
+![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Direction of Subject
+
+ Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
+
+![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fill Your Frame
+
+ Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
+
+## Break the Rules
+
+ Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+## Conclsion
+
+ Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
+
+ Images come from the Internet
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
+
+## Rule of Thirds
+
+ The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
+
+![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+## Leading Lines
+
+ Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## Symmetry
+
+ For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
+
+## Framing
+
+ When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
+
+![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Diagonals
+
+ Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shape
+
+ Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
+
+![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
@@ -86,6 +343,9 @@ thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/fi
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
 ## Conclsion
@@ -120,214 +380,88 @@ Follow @Ollie Mattison
 
 ![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Symmetry
 
  For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
 
 ## Framing
 
  When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 ## Diagonals
 
  Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
 
 ## Leave Empty Space
 
  You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
 ## The Direction of Subject
 
  Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
 
-## Conclsion
-
- Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
-
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
-
-## Rule of Thirds
-
- The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
-
-![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
-
-## Leading Lines
-
- Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
-
-![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
-
-## Symmetry
-
- For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
-
-![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
-
-## Framing
-
- When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
-
-![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
-
-## Diagonals
-
- Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
-
-![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
-
-## Shape
-
- Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
-
-![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
-
-## Leave Empty Space
-
- You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
-
-![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
-
-## The Direction of Subject
-
- Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
-
-![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
-
-## Fill Your Frame
-
- Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
-
-![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
-
-## Break the Rules
-
- Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
-
-![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
-
-## Conclsion
-
- Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
-
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Capturing photographs with an iPhone have always been a favorite hobby of community at large. Well, who wouldn’t want to make use of its high quality camera and powerful functionalities to capture the most alluring view! Nevertheless, most of the people fail to take better photos since they don’t know some key photography rules. If you are one of those, all you need to have is little more knowledge on photography composition rules. In today’s post, we have collated 10 golden photography rules that will empower you to steal the view perfectly with your iPhone. So let’s explore and make your photos even more stunning.
-
-## Rule of Thirds
-
- The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
-
-![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
-
-## Leading Lines
-
- Leading lines add depth and scale to an image by leading the eyes into an image. When you want to capture a road running between two rows of trees, a suspended wooden bridge vanishing at a distant point, leading lines make sure that the picture is taken in such a way that the viewer’s eyes would follow your direction (here, the way you guide them along the rows of trees or the bridge vanishing in the horizon). Leading lines create a great impact on the photographs that you click with your iPhone and don’t let the observer wander away from your subject. The leading lines can be diagonal, straight, zigzag, curvy, or radial.
-
-![leading lines](https://images.wondershare.com/filmora/article-images/leading-lines.jpg)
-
-## Symmetry
-
- For the perfect photo composition with an iPhone, one should understand what all make for the right composition. Photographers divide the frame they want to click into rough patterns and position the subject at the right place to get wonderful shots. Both man-made and natural symmetry and patterns represent eye-catching compositions. You can either take a shot following the symmetric patterns or break them to make the subject stand out by adding focal points and tension.
-
-![symmetrical](https://images.wondershare.com/filmora/article-images/Symmetrical.jpg)
-
-## Framing
-
- When we see a framed photograph, the frame brings out the beauty of the photograph. There are natural and man-made frames lying around. You just need to find that while clicking a picture. Framing the subject with such frames amplifies focus towards it, by isolating it from the world around. You can capture your subject through a hole, an arch, and different shapes and structures that you can visualize at that time.
-
-![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
-
-## Diagonals
-
- Diagonals are an integral aspect of photography composition, as they determine the outcome of a picture you have clicked using your iPhone. Let’s get to know what the role of diagonals in a picture is and how it impacts the visual. As you know the Rules of Thirds is important and it positions the subject of interest at a corner over the grid outlay of a photograph. It sometimes might leave the other corner empty and unbalance the image. Using diagonals, you can position the main subject and diagonally move the less important subjects towards the other end to click the perfectly balanced shot.
-
-![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
-
-## Shape
-
- Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
-
-![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
-
-## Leave Empty Space
-
- You may wonder if I leave too much empty space in my photo contradicts the concept of ‘filling the frame’. But, it brings out the best for your iPhone photography when you have a strong subject in your scene. A clutter free and less distractive environment leads the viewers’ focus towards the main subject. You can think of clicking a giant statue against a clear blue sky, where the sky would act as a perfect background for the statue and render a clean look to the empty space.
-
-![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
-
-## The Direction of Subject
-
- Like all the photography composition rules, it is important to take note of the direction of the subject in a photograph. This is known as the ‘Rule of Space’ and it leads the viewer towards the subject’s direction of motion. For example, if there is a person walking on the road, then there should be space ahead of him. If there is a person sitting in a bench or rock, he should be clicked facing into the frame, and there should be space in front of him. It will help the viewer’s eyes to go along with the direction he is facing and take notice of the other subjects such as, other people walking in front him, or any pet moving around etc.
-
-![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
-
-## Fill Your Frame
-
- Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
-
-![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
-
-## Break the Rules
-
- Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
-
-![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclsion
 
  Next time you are out to shoot something with your iPhone, try these photo composition rules and click mind blowing pictures. Though, these rules help you to get amazing iPhone pictures, learning to find the right subject and clicking with the right photo composition helps you more. With or without the rules, you have to keep a steady hand and a sharp eye for detail with patience if you want to click beautiful photographs with your iPhone.
@@ -366,3 +500,53 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-advanced-editing-for-published-youtube-videos/"><u>[New] 2024 Approved  Advanced Editing for Published YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-symphony-of-shades-practical-color-utilization/"><u>[New] A Symphony of Shades  Practical Color Utilization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>[New] Advanced Photographic Techniques  From Auto to Smart HDR</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-dynamic-youtube-music-chains-for-2024/"><u>[New] Building Dynamic YouTube Music Chains for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-premier-screenshot-applications-for-linux-users/"><u>[New] In 2024, The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-3d-tools-optimized-for-animation-workflows/"><u>[New] Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-time-action-film-transcription-for-2024/"><u>[New] Prime Time Action Film Transcription for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boosting-gopro-power-endurance-tips-and-tricks/"><u>[Updated] Boosting GoPro Power Endurance  Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>[Updated] Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-controlling-video-flow-on-your-screens-window-netflix/"><u>[Updated] Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-firecapture-plugins-for-firefox/"><u>[Updated] FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-aural-adventures-next-gen-devices/"><u>[Updated] In 2024, Aural Adventures  Next-Gen Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-android-video-playback-turning-ends-into-beginnings/"><u>2024 Approved  Android Video Playback  Turning Ends Into Beginnings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-treasure-trove-of-e-commerce-the-hottest-sites-for-mystery-boxes-for-2024/"><u>A Treasure Trove of E-Commerce  The Hottest Sites for Mystery Boxes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-friendly-chinese-innovations-in-vr/"><u>Budget-Friendly Chinese Innovations in VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clipcomposer-critique-full-report-for-2024/"><u>ClipComposer Critique – Full Report for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-insight-a-detailed-walkthrough-of-facetune-app-for-2024/"><u>Complete Insight  A Detailed Walkthrough of Facetune App for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-morphvox-audio-transformation-blueprint/"><u>Complete MorphVOX Audio Transformation Blueprint</u></a></li>
+<li><a href="https://fox-access.techidaily.com/decoding-upgrades-to-macos-11-big-surs-core-features/"><u>Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-premiere-pro-essentials-free-and-high-quality/"><u>Discover Premiere Pro Essentials  Free & High-Quality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-winos-sync-using-aocs-fwu-ve1659/"><u>Elevate WINOS Sync Using AOC's FWU vE1659</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-human-capital-layouts-that-leverage-team-synergy/"><u>Harnessing Human Capital  Layouts That Leverage Team Synergy</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-x100-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo X100 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>In 2024, A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>In 2024, Behind the Curtain  Detailed Guide to Import Tasks W11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-lg-bp350-monitor-review-with-comparisons/"><u>In 2024, Comprehensive LG BP350 Monitor Review with Comparisons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-create-meme-with-adobe/"><u>In 2024, Create Meme with Adobe</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-expert-advice-capturing-and-storing-twitter-vids-on-phones/"><u>In 2024, Expert Advice  Capturing and Storing Twitter Vids on Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-transforming-videos-using-vida/"><u>In 2024, From Novice to Pro  Transforming Videos Using Vida</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-unlock-chromecast-play-any-video-format-with-ease-2023-update/"><u>In 2024, Unlock Chromecast Play Any Video Format with Ease 2023 Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-out-of-t5-ultimate-sports-and-adventures-recorder/"><u>Inside Out of T5  Ultimate Sports and Adventures Recorder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-2024s-best-cloud-services-your-guide/"><u>Navigating 2024'S Best Cloud Services  Your Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-x-fold-2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo X Fold 2 Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones/"><u>Perfecting Your Personal Palette  A Guide to WhatsApp Alerts on Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premium-free-fb-imagemotion-graphics-builder-for-2024/"><u>Premium Free FB Image/Motion Graphics Builder for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-method-to-tag-chapters-on-youtube-clips/"><u>Simplified Method to Tag Chapters on YouTube Clips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-elevating-your-photos-with-online-cropping/"><u>Step-by-Step  Elevating Your Photos with Online Cropping</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stop-automatically-added-podcast-episodes-via-spotifys-suggestions/"><u>Stop Automatically Added Podcast Episodes via Spotify's Suggestions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamers-dilemma-is-vlc-superior-to-mpc/"><u>Streamer's Dilemma  Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone-for-2024/"><u>The Art of Audio-Visual Storytelling with iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques/"><u>The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-deciding-between-hero-and-cube-videos/"><u>The Ultimate Guide to Deciding Between Hero and Cube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transformative-tactics-for-skyrocketing-subscribers-on-youtube/"><u>Transformative Tactics for Skyrocketing Subscribers on Youtube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+</ul></div>

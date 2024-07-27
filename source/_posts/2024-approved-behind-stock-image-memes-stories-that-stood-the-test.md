@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Behind Stock Image Memes  Stories That Stood the Test\""
-date: 2024-05-24T07:57:39.613Z
-updated: 2024-05-25T07:57:39.613Z
+date: 2024-07-26T19:47:31.859Z
+updated: 2024-07-27T19:47:31.859Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Behind Stock Image Memes: Stories That Stood the Test\""
 excerpt: "\"This Article Describes 2024 Approved: Behind Stock Image Memes: Stories That Stood the Test\""
 keywords: "\"Meme Image History,Stock Photos in Humor,Behind-the-Scenes Images,Memetic Media Analysis,Creative Image Usage,Stocks as Comedic Art,Testing Image Laughs\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Behind Stock Image Memes: Stories That Stood the Test
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -51,6 +54,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,18 +70,27 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
@@ -90,10 +105,16 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
@@ -104,6 +125,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -113,6 +137,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -125,6 +152,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +191,49 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-can-a-128gb-drive-handle-huge-video-files/"><u>[New] Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-save-and-watch-5-best-pinterest-videos-tools/"><u>[New] Capture, Save and Watch  5 Best Pinterest Videos Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-evaluation-of-slomo-recording-software/"><u>[New] Complete Evaluation of SloMo Recording Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-utilizing-telegram-web-services/"><u>[New] Comprehensive Guide to Utilizing Telegram Web Services</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-simple-scenes-advanced-techniques-for-snapchat-edits/"><u>[New] In 2024, From Simple Scenes  Advanced Techniques for Snapchat Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unblocking-video-sharing-how-to-solve-fb-chat-issues-for-iphonesandroid/"><u>[New] In 2024, Unblocking Video Sharing  How to Solve FB Chat Issues for iPhones/Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premium-choice-10-leading-webcams-for-win-11-for-2024/"><u>[New] Premium Choice  10 Leading Webcams for Win 11 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-moments-snappy-storytime/"><u>[Updated] 2024 Approved  FB Moments  Snappy Storytime</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>[Updated] A Professional's Secret  Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps/"><u>[Updated] Auditory Evolution at Your Fingertips  The Leading 5 Chrome Extension Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-better-montages-a-creative-guide/"><u>[Updated] Building Better Montages  A Creative Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-uncovering-stardews-depths-with-ginger-island-adventures/"><u>[Updated] In 2024, Uncovering Stardew's Depths with Ginger Island Adventures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10/"><u>[Updated] Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-newbies-blueprint-to-mastering-av1/"><u>2024 Approved  A Newbie's Blueprint to Mastering AV1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>2024 Approved  Comprehensive Analysis  Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-a-top-notch-linkedin-image/"><u>2024 Approved  Crafting a Top-Notch LinkedIn Image</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere-for-2024/"><u>Advanced Techniques for 360° Video Editing in Premiere for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/alternative-windows-filmmakers/"><u>Alternative Windows Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-photo-editing-uncovered-complete-review-of-lightroom-app/"><u>Android Photo Editing Uncovered  Complete Review of Lightroom App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nubia-red-magic-9-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nubia Red Magic 9 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-crash-top-surf-cameras-of-2023/"><u>Capture the Crash  Top Surf Cameras of 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-unpacking-of-ricohs-theta-vr-solution/"><u>Complete Unpacking of Ricoh's Theta VR Solution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-cost-effective-seminars-using-youtube-for-2024/"><u>Conduct Cost-Effective Seminars Using YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-premium-4k-converters-for-flawless-recordings/"><u>Explore Premium 4K Converters for Flawless Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flipping-srt-to-sub-easy-conversion-techniques/"><u>Flipping SRT to SUB  Easy Conversion Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hacking-the-meme-game-master-kinemaster-skills/"><u>Hacking the Meme Game  Master KineMaster Skills</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/highlight-prime-iphone-gif-apps-to-try/"><u>Highlight  Prime iPhone GIF Apps to Try</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-tools-for-broadcasting-professionals/"><u>In 2024, Advanced Tools for Broadcasting Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-free-os-compatible-videography-applications/"><u>In 2024, Top 10 Free, OS-Compatible Videography Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 Pro support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/introducing-dimensional-text-with-photoshop-expertise/"><u>Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/real-time-aspect-ratio-modification-tips/"><u>Real-Time Aspect Ratio Modification Tips</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-redmi-k70-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Redmi K70 Pro on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-infinix-note-30-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Note 30 Pro ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-viral-marketing-mastering-instagram-fame-through-9-key-tips/"><u>The Art of Viral Marketing  Mastering Instagram Fame Through 9 Key Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel A05s FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-environmental-immersion-in-media-creation-for-2024/"><u>Total Environmental Immersion in Media Creation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/view-count-victory-strategies-to-captivate-a-million-users/"><u>View Count Victory  Strategies to Captivate a Million Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-exactly-is-periscope-free-access-and-registration-details/"><u>What Exactly Is Periscope? Free Access & Registration Details</u></a></li>
+</ul></div>

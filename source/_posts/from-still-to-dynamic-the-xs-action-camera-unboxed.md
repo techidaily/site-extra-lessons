@@ -1,7 +1,7 @@
 ---
 title: "\"From Still to Dynamic  The XS Action Camera Unboxed\""
-date: 2024-05-24T09:04:43.065Z
-updated: 2024-05-25T09:04:43.065Z
+date: 2024-07-26T21:44:43.518Z
+updated: 2024-07-27T21:44:43.518Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes From Still to Dynamic: The XS Action Camera Unboxed\""
 excerpt: "\"This Article Describes From Still to Dynamic: The XS Action Camera Unboxed\""
 keywords: "XS Camera Unboxing Review,Dynamic Action Cameras,Static vs Dynamic Video,Unveiling the XS Action Cam,Action Cam XS Reveal,Transforming Still to Motion,XS Action Camera Launch"
-thumbnail: https://www.lifewire.com/thmb/JnBSFSr8YQadpLe99CkaKn6MzEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-c0a673f2ceec4e48bf0388773f3bd360.jpg
+thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
 ---
 
 ## From Still to Dynamic: The XS Action Camera Unboxed
 
 # Polaroid XS 100i Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,8 +33,14 @@ thumbnail: https://www.lifewire.com/thmb/JnBSFSr8YQadpLe99CkaKn6MzEc=/400x300/fi
 
  The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Polaroid XS 100i
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -163,6 +172,9 @@ Follow @Max Wales
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 7. **Battery and Memory:**  
@@ -172,6 +184,9 @@ Follow @Max Wales
 
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -190,6 +205,9 @@ Follow @Max Wales
 
 ## Complete Review for Polaroid XS 100i
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
@@ -238,10 +256,16 @@ Follow @Max Wales
 6. **App and Wi-Fi:**  
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 7. **Battery and Memory:**  
@@ -251,6 +275,9 @@ Follow @Max Wales
 
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -267,6 +294,9 @@ Follow @Max Wales
 
  The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Polaroid XS 100i
 
 ![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
@@ -362,3 +392,53 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chucklecircuit-meme-studio-free-download/"><u>[New] ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-red-eye-photo-fixes-on-your-iphone-no-money-needed/"><u>[New] Quick Red-Eye Photo Fixes on Your iPhone, No Money Needed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eamless-streaming-to-mp3-top-10-online-audio-tools/"><u>[New] Seamless Streaming to Mp3  Top 10 Online Audio Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivate-audiences-perfecting-snapchats-boomerang-feature-for-2024/"><u>[Updated] Captivate Audiences  Perfecting Snapchat's Boomerang Feature for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-from-play-to-watch-recording-with-a-nintendo-switch/"><u>[Updated] From Play to Watch  Recording with a Nintendo Switch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-watermarks-safeguard-your-digital-pictures/"><u>[Updated] How Watermarks Safeguard Your Digital Pictures</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-innovating-with-ideas-constructing-your-unique-tiktok-sequence/"><u>[Updated] In 2024, Innovating with Ideas  Constructing Your Unique TikTok Sequence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-analyzing-dji-x4-fpv-helmet-functionality/"><u>2024 Approved  Analyzing DJI X4 FPV Helmet Functionality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-kinemaster-meme-wizard/"><u>2024 Approved  Become a KineMaster Meme Wizard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screencaptureapps-recording-your-next-google-meet/"><u>2024 Approved  ScreenCaptureApps  Recording Your Next Google Meet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-income-leap-at-500-subs-count/"><u>2024 Approved  YouTube's Income Leap at 500 Subs Count</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aim-for-perfection-selecting-superior-hd-live-streaming-equipment/"><u>Aim for Perfection  Selecting Superior HD Live-Streaming Equipment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ancestral-creations-public-domain-masterpieces/"><u>Ancestral Creations  Public Domain Masterpieces</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-engagement-top-5-typeface-tools-to-amplify-your-tiktok-reach/"><u>Crafting Engagement  Top 5 Typeface Tools to Amplify Your TikTok Reach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-compelling-images-on-iphone-with-these-10-principles/"><u>Create Compelling Images on iPhone with These 10 Principles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-srt-file-creation-post-export-in-premiere/"><u>Demystifying SRT File Creation Post-Export in Premiere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/developing-persuasive-podcast-thumbnails/"><u>Developing Persuasive Podcast Thumbnails</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-fleet-10-aerial-visionaries-dream-choices/"><u>Elite Fleet #10  Aerial Visionaries' Dream Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-your-browsing-experience-using-chrome-pip/"><u>Enhance Your Browsing Experience Using Chrome PIP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fine-tuning-your-videos-shape-with-aspect-ratio/"><u>Fine-Tuning Your Video's Shape with Aspect Ratio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>Getting to Know the Premium P2715Q  A High-Definition Marvel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-11-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme 11 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hunters-picks-best-video-recorders-reviewed/"><u>Hunters' Picks  Best Video Recorders Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-excellence-top-6-for-under-100-savings/"><u>In 2024, Affordable Action Camera Excellence – Top 6 for Under $100 Savings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>In 2024, Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-productivity-on-your-mac-an-overview-of-great-tts-apps/"><u>In 2024, Boost Productivity on Your Mac  An Overview of Great TTS Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-brand-through-effective-live-streaming-practices/"><u>In 2024, Building a Brand Through Effective Live Streaming Practices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-illusions-simulating-time-jumps-and-space-hopping/"><u>In 2024, Crafting Illusions  Simulating Time Jumps & Space Hopping</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-x9b-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor X9b Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus with/without SIM Card</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-shooting-stars-and-sedans-selecting-the-best-gear-for-sj4000/"><u>In 2024, Shooting Stars & Sedans  Selecting the Best Gear for SJ4000</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-8-in-virtual-reality-gaming/"><u>In 2024, The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-video-organization-the-art-of-chapter-addition/"><u>In 2024, YouTube Video Organization  The Art of Chapter Addition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/market-mastery-top-20-words-for-effective-advertising/"><u>Market Mastery  Top 20 Words for Effective Advertising</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-the-new-era-of-video-production-with-powerdirector-2024/"><u>Master the New Era of Video Production with PowerDirector 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-b-roll-effective-techniques/"><u>Maximizing B-Roll  Effective Techniques</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-quandale-dingle-voice-generators/"><u>New Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-spend-high-repeat-leading-apps-for-your-pinterest-vids/"><u>No Spend, High Repeat! Leading Apps for Your Pinterest Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polarr-editor-explained-the-ultimate-visual-enhancement-pathway/"><u>Polarr Editor Explained  The Ultimate Visual Enhancement Pathway</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-picture-editor-tutorial/"><u>The Ultimate Picture Editor Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-nft-maker-tools-for-digital-art-tokenization/"><u>Top 7 NFT Maker Tools for Digital Art Tokenization</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocked-design-potential-100-free-pp-templates/"><u>Unlocked Design Potential  100%% Free PP Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-templates-free-eco-friendly-options/"><u>Visual Templates  Free Eco-Friendly Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-optimization-top-three-transcoder-methods/"><u>Zoom Optimization  Top Three Transcoder Methods</u></a></li>
+</ul></div>

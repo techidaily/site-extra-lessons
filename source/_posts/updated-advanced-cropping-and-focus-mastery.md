@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Cropping and Focus Mastery"
-date: 2024-05-24T08:45:57.103Z
-updated: 2024-05-25T08:45:57.103Z
+date: 2024-07-26T21:11:50.588Z
+updated: 2024-07-27T21:11:50.588Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Advanced Cropping and Focus Mastery"
 excerpt: "This Article Describes [Updated] Advanced Cropping and Focus Mastery"
 keywords: "Crop Advanced Tech,Focus Control Skills,Precision Farming Tips,Advanced Agriculture Tools,Enhanced Crop Management,Mastery in Planting Focus,AgroFocusing Techniques"
-thumbnail: https://www.lifewire.com/thmb/UE2wAdrb_vxoa9J6bQV8tbj6s20=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Catherine_Falls_Commercial_Getty_Images-a30e58e942654fddb4423949948f3a2e.jpg
+thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092cc6760e2a82edb3563c1b5c8.jpg
 ---
 
 ## Advanced Cropping and Focus Mastery
@@ -56,6 +56,9 @@ If you want to blur face Photoshop, follow the steps below.
 1. Now, draw a selection around the face you would like to blur.
 2. Navigate to Filter and select the Blur option, then choose Gaussian Blur. You will see the Gaussian Blur menu and a preview of the effect of the blur on the area of the face you had selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-2.png)
 
 1. Dial the radius up; do this until the face is completely blurred.
@@ -70,6 +73,9 @@ You can create beautiful soft backgrounds in Photoshop using the blur effect. Us
 3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
 4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
 
 1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
@@ -80,12 +86,19 @@ You can create beautiful soft backgrounds in Photoshop using the blur effect. Us
 2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
 3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
 
 1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
 2. Tune the blur amount by using the Blur Knob at the center of the Blur Preview close to the Pin. Rorate the Blur knob counter-clockwise to decrease the blur and move it clockwise to enhance the blur. Alternatively, you can use the Blur Slider found in the Blur Tools panel to adjust the blur.
 3. Once you're satisfied with your background, hit the OK button to save your edits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![learn to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-6.png)
 
 ### How to Blur Texts in Photoshop
@@ -104,6 +117,201 @@ Photoshop allows you to blur text on your image to hide some information from vi
 
 1. The Gaussian Blur menu will pop up, showing a preview.
 
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
+
+1. Increase or decrease the blur effect in the Radius option.
+2. Click on File on the menu bar and select Save As to save your edited image with blurred text.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Frequently Asked Questions About Blur Photos in Photoshop
+
+#### What Options Do I Have When Using Photoshop to Blur Images?
+
+The Blur Gallery offers five options for those who want to blur images. They are:
+
+• Path-Blur: This option allows you to draw a specific path that the blur will follow. Path-Blur gives you the motion illusion in a still photo.
+
+• Tilt-Shift Blur: This option mimics the style of tilt-shift cameras by blurring out the bottom and top of your image. Most people use it to create fake miniature scenes. Tilt-Shift Blur allows you to adjust the strength and size of the blurred areas, and you can rotate them.
+
+• Iris Blur: This option allows you to choose a circle to remain in focus while the rest of the image remains blurred. You can also adjust the size and shape of the circles and adjust the blur's strength.
+
+• Field Blur: If you want to blur the background of your image, this is the ideal option. When you first choose the Field Blur, it will put a pin where the blur effect will happen. You can add another pin and adjust the strength of the blur to zero. Keep in mind that objects within the radius of your second pin will be in focus, while objects that are within the radius of your first pin will be blurred.
+
+#### How Can I Fix Blurry Images in Photoshop?
+
+You can fix blurry images in Photoshop, especially when there's motion blur. But, this raster graphics editor cannot recover out-of-focus images effectively and still keep their natural look: it will create loads of digital artifacts.
+
+You'll find the tools to make your blurry images in Filters > Sharpen. You can use the Smart Sharpen and Shake Reduction options to make your images less blurry.
+
+#### Can I Blur Images in Photoshop Using the Brush?
+
+Yes. You can soften areas of your image and make viewers focus on your subject by using your favorite brush to apply the blur effect. You only need to select the Blur tool and choose a brush strength and tip; you can then drag it over the areas you would like to blur.
+
+## How to Blur the Face in Video Using Filmora
+
+If you don't want to reveal the identity of people in your videos, you can use Filmora to blur out their faces. This easy-to-use software is designed to make video editing a breeze. It comes with tons of exciting tools that will help you create high-quality, HD, and professional-like videos. That said, below is a step-by-step guide on how to use Filmora to blur faces in your videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+1. Import the video you want to edit. You can browse the video file from your device or drag and drop it into Filmora.
+2. Drag and drop your video clip to the Video Timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
+
+1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
+
+![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
+
+1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
+2. Look at your main tracks before making adjustments to ensure you don't move them by accident.
+3. Clicking on the preview window will end up highlighting the mosaic blurred layer.
+4. You can reshape, resize and move it around. You can also choose from six different mosaics on the upper lefts side of your screen.
+5. Adjust the blur and pixelation size and opacity, which allow you to select how transparent the blurred effect will be.
+6. Click OK to save the changes you have made.
+7. Export to save your video. Be sure to choose the right format for your video and the save option.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Photoshop allows you to blur images and faces to amplify motion, bring focus, and add various artistic elements to the photos. When viewers' eyes have nothing else to focus on but the subject of the photo, they will take time to appreciate the subject's beauty. They will be able to see the freckles on your cheeks and your eyes and connect with the expression you have on your face. In this article, we'll give you a low-down on how to blur faces in Photoshop. You'll also learn how to blur faces on videos.
+
+#### In this article
+
+01 [How to Blur Faces/Background/Texts in Photoshop](#part1)
+
+02 [Frequently Asked Questions About Blur Photos in Photoshop](#part2)
+
+03 [How to Blur the Face in Video Using Filmora](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Blur Faces/Background/Texts in Photoshop
+
+Learning how to blur part of an image in Photoshop helps you enhance your images and hide details. With that in mind, here is how to blur texts, backgrounds, and faces in Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Blur Faces in Photoshop
+
+If you want to blur face Photoshop, follow the steps below.
+
+1. Launch Photoshop on your device.
+2. Click on the File button.
+3. Select the Open option and double-click the file you would like to work on.
+4. Once you have opened your image in Photoshop, choose the Marquee Tool located in the Tool Bar. Alternatively, you can use the keyboard shortcut M.
+
+![how to blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-1.png)
+
+1. Now, draw a selection around the face you would like to blur.
+2. Navigate to Filter and select the Blur option, then choose Gaussian Blur. You will see the Gaussian Blur menu and a preview of the effect of the blur on the area of the face you had selected.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-2.png)
+
+1. Dial the radius up; do this until the face is completely blurred.
+2. Hit the OK button to apply the effect and save the new image on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+### How to Blur the Background in Photoshop
+
+You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
+
+1. Open Photoshop on your PC and click on the File button on its menu bar.
+2. Next, select the Open option from the dropdown menu and choose the photo you want to edit from your gallery.
+3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
+4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
+
+1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-4.png)
+
+1. Click the center of this pin, then drug it to the subject. To place the pin, release your mouse.
+2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
+3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
+
+![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
+
+1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
+2. Tune the blur amount by using the Blur Knob at the center of the Blur Preview close to the Pin. Rorate the Blur knob counter-clockwise to decrease the blur and move it clockwise to enhance the blur. Alternatively, you can use the Blur Slider found in the Blur Tools panel to adjust the blur.
+3. Once you're satisfied with your background, hit the OK button to save your edits.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+![learn to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-6.png)
+
+### How to Blur Texts in Photoshop
+
+Photoshop allows you to blur text on your image to hide some information from viewers. All you need to do is follow the steps below:
+
+1. Import the image with the text that you want to blur.
+2. Select the Marquee tool.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-7.png)
+
+1. Draw a selection around the text you want to blur.
+2. Now, go to Filter and choose Blur. Select the Gaussian Blur option.
+
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-8.png)
+
+1. The Gaussian Blur menu will pop up, showing a preview.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
 
 1. Increase or decrease the blur effect in the Radius option.
@@ -152,6 +360,179 @@ For macOS 10.12 or later
 
 1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
+
+1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
+2. Look at your main tracks before making adjustments to ensure you don't move them by accident.
+3. Clicking on the preview window will end up highlighting the mosaic blurred layer.
+4. You can reshape, resize and move it around. You can also choose from six different mosaics on the upper lefts side of your screen.
+5. Adjust the blur and pixelation size and opacity, which allow you to select how transparent the blurred effect will be.
+6. Click OK to save the changes you have made.
+7. Export to save your video. Be sure to choose the right format for your video and the save option.
+
+## Conclusion
+
+● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Photoshop allows you to blur images and faces to amplify motion, bring focus, and add various artistic elements to the photos. When viewers' eyes have nothing else to focus on but the subject of the photo, they will take time to appreciate the subject's beauty. They will be able to see the freckles on your cheeks and your eyes and connect with the expression you have on your face. In this article, we'll give you a low-down on how to blur faces in Photoshop. You'll also learn how to blur faces on videos.
+
+#### In this article
+
+01 [How to Blur Faces/Background/Texts in Photoshop](#part1)
+
+02 [Frequently Asked Questions About Blur Photos in Photoshop](#part2)
+
+03 [How to Blur the Face in Video Using Filmora](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Blur Faces/Background/Texts in Photoshop
+
+Learning how to blur part of an image in Photoshop helps you enhance your images and hide details. With that in mind, here is how to blur texts, backgrounds, and faces in Photoshop.
+
+### How to Blur Faces in Photoshop
+
+If you want to blur face Photoshop, follow the steps below.
+
+1. Launch Photoshop on your device.
+2. Click on the File button.
+3. Select the Open option and double-click the file you would like to work on.
+4. Once you have opened your image in Photoshop, choose the Marquee Tool located in the Tool Bar. Alternatively, you can use the keyboard shortcut M.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![how to blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-1.png)
+
+1. Now, draw a selection around the face you would like to blur.
+2. Navigate to Filter and select the Blur option, then choose Gaussian Blur. You will see the Gaussian Blur menu and a preview of the effect of the blur on the area of the face you had selected.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+![blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-2.png)
+
+1. Dial the radius up; do this until the face is completely blurred.
+2. Hit the OK button to apply the effect and save the new image on your device.
+
+### How to Blur the Background in Photoshop
+
+You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
+
+1. Open Photoshop on your PC and click on the File button on its menu bar.
+2. Next, select the Open option from the dropdown menu and choose the photo you want to edit from your gallery.
+3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
+4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
+
+![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
+
+1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
+
+![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-4.png)
+
+1. Click the center of this pin, then drug it to the subject. To place the pin, release your mouse.
+2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
+3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
+
+![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
+
+1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
+2. Tune the blur amount by using the Blur Knob at the center of the Blur Preview close to the Pin. Rorate the Blur knob counter-clockwise to decrease the blur and move it clockwise to enhance the blur. Alternatively, you can use the Blur Slider found in the Blur Tools panel to adjust the blur.
+3. Once you're satisfied with your background, hit the OK button to save your edits.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![learn to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-6.png)
+
+### How to Blur Texts in Photoshop
+
+Photoshop allows you to blur text on your image to hide some information from viewers. All you need to do is follow the steps below:
+
+1. Import the image with the text that you want to blur.
+2. Select the Marquee tool.
+
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-7.png)
+
+1. Draw a selection around the text you want to blur.
+2. Now, go to Filter and choose Blur. Select the Gaussian Blur option.
+
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-8.png)
+
+1. The Gaussian Blur menu will pop up, showing a preview.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
+
+1. Increase or decrease the blur effect in the Radius option.
+2. Click on File on the menu bar and select Save As to save your edited image with blurred text.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Frequently Asked Questions About Blur Photos in Photoshop
+
+#### What Options Do I Have When Using Photoshop to Blur Images?
+
+The Blur Gallery offers five options for those who want to blur images. They are:
+
+• Path-Blur: This option allows you to draw a specific path that the blur will follow. Path-Blur gives you the motion illusion in a still photo.
+
+• Tilt-Shift Blur: This option mimics the style of tilt-shift cameras by blurring out the bottom and top of your image. Most people use it to create fake miniature scenes. Tilt-Shift Blur allows you to adjust the strength and size of the blurred areas, and you can rotate them.
+
+• Iris Blur: This option allows you to choose a circle to remain in focus while the rest of the image remains blurred. You can also adjust the size and shape of the circles and adjust the blur's strength.
+
+• Field Blur: If you want to blur the background of your image, this is the ideal option. When you first choose the Field Blur, it will put a pin where the blur effect will happen. You can add another pin and adjust the strength of the blur to zero. Keep in mind that objects within the radius of your second pin will be in focus, while objects that are within the radius of your first pin will be blurred.
+
+#### How Can I Fix Blurry Images in Photoshop?
+
+You can fix blurry images in Photoshop, especially when there's motion blur. But, this raster graphics editor cannot recover out-of-focus images effectively and still keep their natural look: it will create loads of digital artifacts.
+
+You'll find the tools to make your blurry images in Filters > Sharpen. You can use the Smart Sharpen and Shake Reduction options to make your images less blurry.
+
+#### Can I Blur Images in Photoshop Using the Brush?
+
+Yes. You can soften areas of your image and make viewers focus on your subject by using your favorite brush to apply the blur effect. You only need to select the Blur tool and choose a brush strength and tip; you can then drag it over the areas you would like to blur.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Blur the Face in Video Using Filmora
+
+If you don't want to reveal the identity of people in your videos, you can use Filmora to blur out their faces. This easy-to-use software is designed to make video editing a breeze. It comes with tons of exciting tools that will help you create high-quality, HD, and professional-like videos. That said, below is a step-by-step guide on how to use Filmora to blur faces in your videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+1. Import the video you want to edit. You can browse the video file from your device or drag and drop it into Filmora.
+2. Drag and drop your video clip to the Video Timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
+
+1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
 
 1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
@@ -201,6 +582,9 @@ If you want to blur face Photoshop, follow the steps below.
 1. Dial the radius up; do this until the face is completely blurred.
 2. Hit the OK button to apply the effect and save the new image on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Blur the Background in Photoshop
 
 You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
@@ -210,6 +594,9 @@ You can create beautiful soft backgrounds in Photoshop using the blur effect. Us
 3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
 4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
 
 1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
@@ -220,6 +607,9 @@ You can create beautiful soft backgrounds in Photoshop using the blur effect. Us
 2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
 3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
 
 1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
@@ -244,6 +634,9 @@ Photoshop allows you to blur text on your image to hide some information from vi
 
 1. The Gaussian Blur menu will pop up, showing a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
 
 1. Increase or decrease the blur effect in the Radius option.
@@ -288,10 +681,16 @@ For macOS 10.12 or later
 1. Import the video you want to edit. You can browse the video file from your device or drag and drop it into Filmora.
 2. Drag and drop your video clip to the Video Timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
 
 1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
 
 1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
@@ -302,286 +701,9 @@ For macOS 10.12 or later
 6. Click OK to save the changes you have made.
 7. Export to save your video. Be sure to choose the right format for your video and the save option.
 
-## Conclusion
+<!-- affiliate ads begin -->
 
-● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Photoshop allows you to blur images and faces to amplify motion, bring focus, and add various artistic elements to the photos. When viewers' eyes have nothing else to focus on but the subject of the photo, they will take time to appreciate the subject's beauty. They will be able to see the freckles on your cheeks and your eyes and connect with the expression you have on your face. In this article, we'll give you a low-down on how to blur faces in Photoshop. You'll also learn how to blur faces on videos.
-
-#### In this article
-
-01 [How to Blur Faces/Background/Texts in Photoshop](#part1)
-
-02 [Frequently Asked Questions About Blur Photos in Photoshop](#part2)
-
-03 [How to Blur the Face in Video Using Filmora](#part3)
-
-## How to Blur Faces/Background/Texts in Photoshop
-
-Learning how to blur part of an image in Photoshop helps you enhance your images and hide details. With that in mind, here is how to blur texts, backgrounds, and faces in Photoshop.
-
-### How to Blur Faces in Photoshop
-
-If you want to blur face Photoshop, follow the steps below.
-
-1. Launch Photoshop on your device.
-2. Click on the File button.
-3. Select the Open option and double-click the file you would like to work on.
-4. Once you have opened your image in Photoshop, choose the Marquee Tool located in the Tool Bar. Alternatively, you can use the keyboard shortcut M.
-
-![how to blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-1.png)
-
-1. Now, draw a selection around the face you would like to blur.
-2. Navigate to Filter and select the Blur option, then choose Gaussian Blur. You will see the Gaussian Blur menu and a preview of the effect of the blur on the area of the face you had selected.
-
-![blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-2.png)
-
-1. Dial the radius up; do this until the face is completely blurred.
-2. Hit the OK button to apply the effect and save the new image on your device.
-
-### How to Blur the Background in Photoshop
-
-You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
-
-1. Open Photoshop on your PC and click on the File button on its menu bar.
-2. Next, select the Open option from the dropdown menu and choose the photo you want to edit from your gallery.
-3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
-4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
-
-![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
-
-1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
-
-![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-4.png)
-
-1. Click the center of this pin, then drug it to the subject. To place the pin, release your mouse.
-2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
-3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
-
-![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
-
-1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
-2. Tune the blur amount by using the Blur Knob at the center of the Blur Preview close to the Pin. Rorate the Blur knob counter-clockwise to decrease the blur and move it clockwise to enhance the blur. Alternatively, you can use the Blur Slider found in the Blur Tools panel to adjust the blur.
-3. Once you're satisfied with your background, hit the OK button to save your edits.
-
-![learn to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-6.png)
-
-### How to Blur Texts in Photoshop
-
-Photoshop allows you to blur text on your image to hide some information from viewers. All you need to do is follow the steps below:
-
-1. Import the image with the text that you want to blur.
-2. Select the Marquee tool.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-7.png)
-
-1. Draw a selection around the text you want to blur.
-2. Now, go to Filter and choose Blur. Select the Gaussian Blur option.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-8.png)
-
-1. The Gaussian Blur menu will pop up, showing a preview.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
-
-1. Increase or decrease the blur effect in the Radius option.
-2. Click on File on the menu bar and select Save As to save your edited image with blurred text.
-
-## Frequently Asked Questions About Blur Photos in Photoshop
-
-#### What Options Do I Have When Using Photoshop to Blur Images?
-
-The Blur Gallery offers five options for those who want to blur images. They are:
-
-• Path-Blur: This option allows you to draw a specific path that the blur will follow. Path-Blur gives you the motion illusion in a still photo.
-
-• Tilt-Shift Blur: This option mimics the style of tilt-shift cameras by blurring out the bottom and top of your image. Most people use it to create fake miniature scenes. Tilt-Shift Blur allows you to adjust the strength and size of the blurred areas, and you can rotate them.
-
-• Iris Blur: This option allows you to choose a circle to remain in focus while the rest of the image remains blurred. You can also adjust the size and shape of the circles and adjust the blur's strength.
-
-• Field Blur: If you want to blur the background of your image, this is the ideal option. When you first choose the Field Blur, it will put a pin where the blur effect will happen. You can add another pin and adjust the strength of the blur to zero. Keep in mind that objects within the radius of your second pin will be in focus, while objects that are within the radius of your first pin will be blurred.
-
-#### How Can I Fix Blurry Images in Photoshop?
-
-You can fix blurry images in Photoshop, especially when there's motion blur. But, this raster graphics editor cannot recover out-of-focus images effectively and still keep their natural look: it will create loads of digital artifacts.
-
-You'll find the tools to make your blurry images in Filters > Sharpen. You can use the Smart Sharpen and Shake Reduction options to make your images less blurry.
-
-#### Can I Blur Images in Photoshop Using the Brush?
-
-Yes. You can soften areas of your image and make viewers focus on your subject by using your favorite brush to apply the blur effect. You only need to select the Blur tool and choose a brush strength and tip; you can then drag it over the areas you would like to blur.
-
-## How to Blur the Face in Video Using Filmora
-
-If you don't want to reveal the identity of people in your videos, you can use Filmora to blur out their faces. This easy-to-use software is designed to make video editing a breeze. It comes with tons of exciting tools that will help you create high-quality, HD, and professional-like videos. That said, below is a step-by-step guide on how to use Filmora to blur faces in your videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-1. Import the video you want to edit. You can browse the video file from your device or drag and drop it into Filmora.
-2. Drag and drop your video clip to the Video Timeline.
-
-![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
-
-1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
-
-![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
-
-1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
-2. Look at your main tracks before making adjustments to ensure you don't move them by accident.
-3. Clicking on the preview window will end up highlighting the mosaic blurred layer.
-4. You can reshape, resize and move it around. You can also choose from six different mosaics on the upper lefts side of your screen.
-5. Adjust the blur and pixelation size and opacity, which allow you to select how transparent the blurred effect will be.
-6. Click OK to save the changes you have made.
-7. Export to save your video. Be sure to choose the right format for your video and the save option.
-
-## Conclusion
-
-● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Photoshop allows you to blur images and faces to amplify motion, bring focus, and add various artistic elements to the photos. When viewers' eyes have nothing else to focus on but the subject of the photo, they will take time to appreciate the subject's beauty. They will be able to see the freckles on your cheeks and your eyes and connect with the expression you have on your face. In this article, we'll give you a low-down on how to blur faces in Photoshop. You'll also learn how to blur faces on videos.
-
-#### In this article
-
-01 [How to Blur Faces/Background/Texts in Photoshop](#part1)
-
-02 [Frequently Asked Questions About Blur Photos in Photoshop](#part2)
-
-03 [How to Blur the Face in Video Using Filmora](#part3)
-
-## How to Blur Faces/Background/Texts in Photoshop
-
-Learning how to blur part of an image in Photoshop helps you enhance your images and hide details. With that in mind, here is how to blur texts, backgrounds, and faces in Photoshop.
-
-### How to Blur Faces in Photoshop
-
-If you want to blur face Photoshop, follow the steps below.
-
-1. Launch Photoshop on your device.
-2. Click on the File button.
-3. Select the Open option and double-click the file you would like to work on.
-4. Once you have opened your image in Photoshop, choose the Marquee Tool located in the Tool Bar. Alternatively, you can use the keyboard shortcut M.
-
-![how to blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-1.png)
-
-1. Now, draw a selection around the face you would like to blur.
-2. Navigate to Filter and select the Blur option, then choose Gaussian Blur. You will see the Gaussian Blur menu and a preview of the effect of the blur on the area of the face you had selected.
-
-![blur faces in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-2.png)
-
-1. Dial the radius up; do this until the face is completely blurred.
-2. Hit the OK button to apply the effect and save the new image on your device.
-
-### How to Blur the Background in Photoshop
-
-You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
-
-1. Open Photoshop on your PC and click on the File button on its menu bar.
-2. Next, select the Open option from the dropdown menu and choose the photo you want to edit from your gallery.
-3. On the menu bar, click the Filter function. Find the Blur Gallery option in the dropdown menu; you'll see a list of several blur options when you click on it.
-4. Choose Iris Blur to blur the background; this option helps define a focal point in your image and blurs the rest of the photo.
-
-![how to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-3.png)
-
-1. A large Blur Ring with Pin at the center will appear on your image. You'll also see several dots around the Blur Ring. The Pin acts as a target; your image will get more blurry as you increase the distance from the center.
-
-![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-4.png)
-
-1. Click the center of this pin, then drug it to the subject. To place the pin, release your mouse.
-2. Now you need to adjust the blur transition. There are four large white dots inside the Blur Ring, which define the blur transition area. Essentially, the blur transition will be sharper when you move these dots far from the focal point and smoother when you move them closer to the focal point. Clicking and dragging these dots allows you to adjust the blur transition area.
-3. You'll see four small dots on the outer ring of your blur preview. Moving your mouse over any of these dots will make your cursor change to a curved arrow.
-
-![blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-5.png)
-
-1. You need to rotate the double-ended arrow clockwise by moving your mouse. This will increase the blur area. Moving the arrow counter-clockwise will decrease the blur area. Alternatively, you can click and drag the Blur Ring line.
-2. Tune the blur amount by using the Blur Knob at the center of the Blur Preview close to the Pin. Rorate the Blur knob counter-clockwise to decrease the blur and move it clockwise to enhance the blur. Alternatively, you can use the Blur Slider found in the Blur Tools panel to adjust the blur.
-3. Once you're satisfied with your background, hit the OK button to save your edits.
-
-![learn to blur background in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-6.png)
-
-### How to Blur Texts in Photoshop
-
-Photoshop allows you to blur text on your image to hide some information from viewers. All you need to do is follow the steps below:
-
-1. Import the image with the text that you want to blur.
-2. Select the Marquee tool.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-7.png)
-
-1. Draw a selection around the text you want to blur.
-2. Now, go to Filter and choose Blur. Select the Gaussian Blur option.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-8.png)
-
-1. The Gaussian Blur menu will pop up, showing a preview.
-
-![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
-
-1. Increase or decrease the blur effect in the Radius option.
-2. Click on File on the menu bar and select Save As to save your edited image with blurred text.
-
-## Frequently Asked Questions About Blur Photos in Photoshop
-
-#### What Options Do I Have When Using Photoshop to Blur Images?
-
-The Blur Gallery offers five options for those who want to blur images. They are:
-
-• Path-Blur: This option allows you to draw a specific path that the blur will follow. Path-Blur gives you the motion illusion in a still photo.
-
-• Tilt-Shift Blur: This option mimics the style of tilt-shift cameras by blurring out the bottom and top of your image. Most people use it to create fake miniature scenes. Tilt-Shift Blur allows you to adjust the strength and size of the blurred areas, and you can rotate them.
-
-• Iris Blur: This option allows you to choose a circle to remain in focus while the rest of the image remains blurred. You can also adjust the size and shape of the circles and adjust the blur's strength.
-
-• Field Blur: If you want to blur the background of your image, this is the ideal option. When you first choose the Field Blur, it will put a pin where the blur effect will happen. You can add another pin and adjust the strength of the blur to zero. Keep in mind that objects within the radius of your second pin will be in focus, while objects that are within the radius of your first pin will be blurred.
-
-#### How Can I Fix Blurry Images in Photoshop?
-
-You can fix blurry images in Photoshop, especially when there's motion blur. But, this raster graphics editor cannot recover out-of-focus images effectively and still keep their natural look: it will create loads of digital artifacts.
-
-You'll find the tools to make your blurry images in Filters > Sharpen. You can use the Smart Sharpen and Shake Reduction options to make your images less blurry.
-
-#### Can I Blur Images in Photoshop Using the Brush?
-
-Yes. You can soften areas of your image and make viewers focus on your subject by using your favorite brush to apply the blur effect. You only need to select the Blur tool and choose a brush strength and tip; you can then drag it over the areas you would like to blur.
-
-## How to Blur the Face in Video Using Filmora
-
-If you don't want to reveal the identity of people in your videos, you can use Filmora to blur out their faces. This easy-to-use software is designed to make video editing a breeze. It comes with tons of exciting tools that will help you create high-quality, HD, and professional-like videos. That said, below is a step-by-step guide on how to use Filmora to blur faces in your videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-1. Import the video you want to edit. You can browse the video file from your device or drag and drop it into Filmora.
-2. Drag and drop your video clip to the Video Timeline.
-
-![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
-
-1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
-
-![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
-
-1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
-2. Look at your main tracks before making adjustments to ensure you don't move them by accident.
-3. Clicking on the preview window will end up highlighting the mosaic blurred layer.
-4. You can reshape, resize and move it around. You can also choose from six different mosaics on the upper lefts side of your screen.
-5. Adjust the blur and pixelation size and opacity, which allow you to select how transparent the blurred effect will be.
-6. Click OK to save the changes you have made.
-7. Export to save your video. Be sure to choose the right format for your video and the save option.
-
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
@@ -610,3 +732,58 @@ For macOS 10.12 or later
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ultimate-headgear-selection-for-your-virtual-exploration/"><u>[New] 2024 Approved  Ultimate Headgear Selection for Your Virtual Exploration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>[New] 360 Video Stitching Tips  How to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>[New] Amplify Visual Impact  Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bigger-photos-equal-quality-output/"><u>[New] Bigger Photos, Equal Quality Output</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[New] In 2024, Crafting the Perfect Visual Identity  Podcast Covers Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-inshot-adding-your-favorite-tunes/"><u>[New] Mastering InShot  Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-the-best-vr-games-for-google-cardboard/"><u>[New] The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-10-survival-arena-matches/"><u>[New] Ultimate 10 Survival Arena Matches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20-must-have-mp4-devices/"><u>[Updated] 20 Must-Have MP4 Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-macs-leading-video-recording-applications-excluding-bandicam/"><u>[Updated] 2024 Approved  Mac's Leading Video Recording Applications  Excluding Bandicam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-8-best-drawing-apps-for-iphones/"><u>[Updated] 8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>[Updated] Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-scribes-solution-recording-modern-television/"><u>[Updated] In 2024, The Scribe's Solution  Recording Modern Television</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-previewing-facebooks-hidden-activities/"><u>2024 Approved  A Comprehensive Guide to Previewing Facebook's Hidden Activities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-analyzing-huawei-p10s-impact-on-mobile-photography-trends/"><u>2024 Approved  Analyzing Huawei P10's Impact on Mobile Photography Trends</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>2024 Approved  Bring Life to Your Photos  Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-colorize-your-flight-dji-miniair-drone-visuals-at-no-cost/"><u>2024 Approved  Colorize Your Flight – DJI Mini/Air Drone Visuals at No Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-studio-study-xvideo-studio-insights/"><u>2024 Approved  Comprehensive Studio Study  XVideo Studio Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-magic-5-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Magic 5 Lite without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-360-degree-view-transformative-media-experience-for-2024/"><u>A 360-Degree View  Transformative Media Experience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-playbook-for-rotating-and-joining-videography-for-2024/"><u>Android's Playbook for Rotating and Joining Videography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-8-subtitle-transformers-seamless-switch-from-sub-to-srtr-in-seconds-on-windowsmacos/"><u>Best 8 Subtitle Transformers  Seamless Switch From SUB to SRTR in Seconds on Windows/MacOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-drone-deals-ready-to-buy-for-2024/"><u>Best Drone Deals Ready to Buy for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-choosing-background-scores-for-vlogs/"><u>Best Practices for Choosing Background Scores for Vlogs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bigger-photos-uncompromised-clarity-for-2024/"><u>Bigger Photos, Uncompromised Clarity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-ideas-to-life-video-editing-essentials-in-windows-11-for-2024/"><u>Bringing Ideas to Life  Video Editing Essentials in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/composing-an-alluring-cinematic-teaser-track/"><u>Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-photos-the-art-and-science-of-using-3d-luts/"><u>Elevating Your Photos  The Art and Science of Using 3D LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-sites-to-access-multipurpose-text-effects/"><u>Essential Sites to Access Multipurpose Text Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essentials-acquiring-quality-unboxing-soundtracks/"><u>Essentials  Acquiring Quality Unboxing Soundtracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expanding-networks-integrating-youtube-and-facebook-for-2024/"><u>Expanding Networks  Integrating YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-into-the-world-of-av1/"><u>First Steps Into the World of AV1</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-native-the-language-learning-ladder/"><u>From Novice To Native: The Language Learning Ladder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y78t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y78t Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-after-effects-templates-crafting-stories-one-text-at-a-time/"><u>In 2024, After Effects Templates  Crafting Stories One Text at a Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-sfpr-settings-for-leisurely-scenes/"><u>In 2024, Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-14-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 14 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>In 2024, Comprehensive Examination  Videon X – The Ultimate Video Editor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-infinix-note-30-vip-racing-edition-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Infinix Note 30 VIP Racing Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-unboxing-videos-your-comprehensive-strategy/"><u>In 2024, Mastering Unboxing Videos  Your Comprehensive Strategy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nubia-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nubia Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instructors-resource-for-enhancing-learning-via-video/"><u>Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>Rekindling the Classics  Top 80S Video Effects for Cutting-Edge Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smoothly-alter-color-grades-with-luts-abroad/"><u>Smoothly Alter Color Grades with LUTs, Abroad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-approaches-for-zoom-utility-on-chromebook/"><u>Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transformative-photographic-text-edits/"><u>Transformative Photographic Text Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-immersing-in-your-favorite-talk-shows/"><u>Unlock the Power of Podcasts  15 Task-Filled Activities to Do While Immersing in Your Favorite Talk Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-pin-removal-switch-in-windows-11/"><u>Unlocking Hidden Pin Removal Switch in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>Unlocking SRT Secrets  Comprehensive Knowledge Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>Unveiling the DJI Spark  Compact Drone Mastery for Photographers</u></a></li>
+</ul></div>

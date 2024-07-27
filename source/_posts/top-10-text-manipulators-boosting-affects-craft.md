@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Text Manipulators Boosting Affects Craft"
-date: 2024-05-24T07:49:26.659Z
-updated: 2024-05-25T07:49:26.659Z
+date: 2024-07-26T19:33:11.740Z
+updated: 2024-07-27T19:33:11.740Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,13 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -34,6 +41,9 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -42,8 +52,14 @@ Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -52,12 +68,19 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 ## Cartoon Moblur
@@ -66,8 +89,14 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
@@ -88,6 +117,9 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 ## Text Library
@@ -98,6 +130,9 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +167,43 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-action-cameras-feature-front-display/"><u>[New] Best Action Cameras  Feature Front Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techniques-to-troubleshoot-silent-obs-sessions/"><u>[Updated] 2024 Approved  Techniques to Troubleshoot Silent OBS Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-4k-lg-display-assessment-the-ultimate-31mu97-b/"><u>[Updated] 4K LG Display Assessment  The Ultimate 31MU97-B</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-step-by-step-igtv-translation-guide-for-2024/"><u>[Updated] A Step-By-Step IGTV Translation Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-become-a-pro-at-networked-streams-with-vlc/"><u>[Updated] Become a Pro at Networked Streams with VLC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-seo-for-podcasts-ultimate-guide/"><u>[Updated] SEO for Podcasts - Ultimate Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmenting-film-vistas-with-apple-playlist/"><u>2024 Approved  Augmenting Film Vistas with Apple Playlist</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-list-10-costless-video-caption-extractors/"><u>2024 Approved  Ultimate List  10 Costless Video Caption Extractors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-action-the-fastest-most-effective-home-filmmaking-tricks-for-2024/"><u>Capture the Action  The Fastest, Most Effective Home Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-review-of-the-latest-slomo-capture-application-for-2024/"><u>Complete Review of the Latest SloMo Capture Application for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-mac-compatible-4k-screens-ranked-1/"><u>Elite Mac-Compatible 4K Screens Ranked #1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-suggestions-premium-iphone-tone-makers/"><u>Foremost Suggestions  Premium iPhone Tone Makers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-light-and-motion-for-gopro-time-lapse-magic/"><u>Harnessing Light and Motion for GoPro Time-Lapse Magic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-y100-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo Y100 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-unmarked-visuals-for-your-business/"><u>In 2024, Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chortlecraft-funny-visuals-for-social-engagement/"><u>In 2024, ChortleCraft  Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/internet-jesters-arsenal/"><u>Internet Jester's Arsenal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-list-high-quality-mobile-tune-designers/"><u>Leading List  High-Quality Mobile Tune Designers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-digital-vhs-image-modification-techniques/"><u>Mastering Digital VHS Image Modification Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support/"><u>Mastering PC HD Video Viewing & Editing with Windows HDR Support</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-accelerated-photo-browser-for-windows/"><u>Premium Accelerated Photo Browser for Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prime-alternatives-the-best-online-learning-platforms-without-udemy-for-2024/"><u>Prime Alternatives  The Best Online Learning Platforms without Udemy for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-time-lapse-production-using-advanced-gopro-software/"><u>Seamless Time Lapse Production Using Advanced GoPro Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sharpen-your-stream-top-5-video-improvement-tech/"><u>Sharpen Your Stream  Top 5 Video Improvement Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/smooth-path-from-instagram-visuals-to-mp3-sound/"><u>Smooth Path  From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-g42-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from G42 5G.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-shooting-guide-top-8-tripods-for-4k-cameras/"><u>Ultimate Shooting Guide  Top 8 Tripods for 4K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-full-potential-of-zoom-in-windows-10/"><u>Unlock Full Potential of Zoom in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings/"><u>Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visualizing-success-with-the-right-video-ratio/"><u>Visualizing Success with the Right Video Ratio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-are-luts-and-how-they-change-your-photography/"><u>What Are LUTs and How They Change Your Photography</u></a></li>
+</ul></div>

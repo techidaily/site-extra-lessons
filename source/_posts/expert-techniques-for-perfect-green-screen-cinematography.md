@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Techniques for Perfect Green-Screen Cinematography\""
-date: 2024-05-24T08:03:30.158Z
-updated: 2024-05-25T08:03:30.158Z
+date: 2024-07-26T19:57:41.487Z
+updated: 2024-07-27T19:57:41.487Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Expert Techniques for Perfect Green-Screen Cinematography\""
 excerpt: "\"This Article Describes Expert Techniques for Perfect Green-Screen Cinematography\""
 keywords: "\"Green-Screen Techniques,Cinematic Green Screen,Screen Cinematography Tricks,Professional Filming Tips,High-Quality Green Screens,Expert CGI Methods,VFX Cinematography Skills\""
-thumbnail: https://www.lifewire.com/thmb/MaOu3FH6HAb4dzVe_AN1hXIylb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CK_Headshot-6631970d6f384e74bf6a4e7d19791081.jpg
+thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed9270d940f9ca545069c585fcb0.jpg
 ---
 
 ## Expert Techniques for Perfect Green-Screen Cinematography
 
 # How to Shoot a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -42,6 +45,9 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
@@ -92,88 +98,14 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-Green screen videos are generally used to create realistic environments and background scenes without having to film on location. When done correctly, your green screen videos are not only safe, but also can bring unique and magic effects to your video projects, without letting anyone notice that you aren't on location.
-
-In the previous blog we have talked about the principle of Green Screen video and [How to make and use a green screen](https://tools.techidaily.com/wondershare/filmora/download/) in your own but professional way, as well as some of the[best free green screen video compositing software](https://tools.techidaily.com/wondershare/filmora/download/). Here we are going to talk about how to successfully shoot a green screen video even when you at home. Check out the video tutorial below to get an instant overview of the process:
-
----
-
-If you are wondering how to compositing the shot green screen video with your main video on your Windows PC or Mac, try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video tutorial of How to make a green screen video with Filmora.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-**Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 5 Tips for shooting better green screen video
-
-We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
-
-#### 1 Lighting tips in shooting a Green Screen Video
-
-To shoot a nice green screen video, it's better to be able to light the background and the subject separately. It allows you to fully control the intensity and color saturation of the green screen. You are free to light your subject as you wish and avoid any shadows falling on the background. So typically two or more lights are used to light the green screen. Adjust the light positions and filters until you get the satisfying result. If your subject is human, it requires 6-10 feet between your subject and the background.
-
-Don’t throw too much light onto the green background. That will create hotspots and “green spill” on the subject and make the key less effective. The key to lighting a green screen is consistency – create a single, consistent shade of color across the entire screen.
-
-![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
-
-Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 2Camera tips in shooting a Green Screen Video
-
-![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
-
-When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
-
-Also choose carefully the camera as some cameras are better to shoot green screen video, especially if you are shooting something with a bit of movement. Then shoot your video as HD quality video (720p or higher) and save in a format your green screen software can import.
-
-When shooting the green screen video, it's of great importance to keep the camera very still and a tripod is necessary for this purpose. The simplest shot is to captures the whole body in the center of the cloth so that none of the peripheral edges of the room can been seen. Another general rule is that it's better to lose legs in a shot than the head of an individual. Although sometimes it's essential to film a perspective that break these rules, many problems can be overcome in the editing process.
-
-Looking for some best cameras for shooting green screen video? Check our picks of[the Top 15 Best Cameras in 2018](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 3Clothing tips in shooting a Green Screen Video
-
-![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
-
-There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
-
-#### 4 Wrinkles problem in shooting a Green Screen Video
-
-![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
-
-Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
-
-#### 5 Motion blur problem in shooting a Green Screen Video
-
-![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
-
-If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
-
-Wanna adding a fake camera shake effect to your video? Check our tips of [How to creating camera shake effects in your video](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Till now, I believe we have basic skills on how to shoot a green screen videos, in technique way. The other important thing, is to have our own green screen ideas. Let’s [check out the youtube green screen videos and inspire your own green screen ideas.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -212,12 +144,18 @@ To shoot a nice green screen video, it's better to be able to light the backgrou
 
 Don’t throw too much light onto the green background. That will create hotspots and “green spill” on the subject and make the key less effective. The key to lighting a green screen is consistency – create a single, consistent shade of color across the entire screen.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
@@ -236,12 +174,18 @@ There are some mistakes that you can avoid to help your green screen video look 
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
 #### 5 Motion blur problem in shooting a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
 
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
@@ -252,8 +196,113 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+Green screen videos are generally used to create realistic environments and background scenes without having to film on location. When done correctly, your green screen videos are not only safe, but also can bring unique and magic effects to your video projects, without letting anyone notice that you aren't on location.
+
+In the previous blog we have talked about the principle of Green Screen video and [How to make and use a green screen](https://tools.techidaily.com/wondershare/filmora/download/) in your own but professional way, as well as some of the[best free green screen video compositing software](https://tools.techidaily.com/wondershare/filmora/download/). Here we are going to talk about how to successfully shoot a green screen video even when you at home. Check out the video tutorial below to get an instant overview of the process:
+
+---
+
+If you are wondering how to compositing the shot green screen video with your main video on your Windows PC or Mac, try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Watch the video tutorial of How to make a green screen video with Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+**Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 5 Tips for shooting better green screen video
+
+We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
+
+#### 1 Lighting tips in shooting a Green Screen Video
+
+To shoot a nice green screen video, it's better to be able to light the background and the subject separately. It allows you to fully control the intensity and color saturation of the green screen. You are free to light your subject as you wish and avoid any shadows falling on the background. So typically two or more lights are used to light the green screen. Adjust the light positions and filters until you get the satisfying result. If your subject is human, it requires 6-10 feet between your subject and the background.
+
+Don’t throw too much light onto the green background. That will create hotspots and “green spill” on the subject and make the key less effective. The key to lighting a green screen is consistency – create a single, consistent shade of color across the entire screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
+
+Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 2Camera tips in shooting a Green Screen Video
+
+![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
+
+When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
+
+Also choose carefully the camera as some cameras are better to shoot green screen video, especially if you are shooting something with a bit of movement. Then shoot your video as HD quality video (720p or higher) and save in a format your green screen software can import.
+
+When shooting the green screen video, it's of great importance to keep the camera very still and a tripod is necessary for this purpose. The simplest shot is to captures the whole body in the center of the cloth so that none of the peripheral edges of the room can been seen. Another general rule is that it's better to lose legs in a shot than the head of an individual. Although sometimes it's essential to film a perspective that break these rules, many problems can be overcome in the editing process.
+
+Looking for some best cameras for shooting green screen video? Check our picks of[the Top 15 Best Cameras in 2018](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 3Clothing tips in shooting a Green Screen Video
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
+
+There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
+
+#### 4 Wrinkles problem in shooting a Green Screen Video
+
+![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
+
+Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
+
+#### 5 Motion blur problem in shooting a Green Screen Video
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
+
+If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
+
+Wanna adding a fake camera shake effect to your video? Check our tips of [How to creating camera shake effects in your video](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Till now, I believe we have basic skills on how to shoot a green screen videos, in technique way. The other important thing, is to have our own green screen ideas. Let’s [check out the youtube green screen videos and inspire your own green screen ideas.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -278,6 +327,9 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
@@ -316,6 +368,9 @@ There are some mistakes that you can avoid to help your green screen video look 
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
@@ -332,8 +387,14 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -366,3 +427,58 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boost-your-budget-a-straightforward-triple-step-method-to-monitor-youtube-revenue/"><u>[New] 2024 Approved  Boost Your Budget  A Straightforward Triple-Step Method to Monitor YouTube Revenue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-must-have-equipment-and-basic-software-to-start-vlogging/"><u>[New] 5 Must-Have Equipment and Basic Software to Start Vlogging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-list-5-high-res-tvs-perfecting-chromatic-balance/"><u>[New] A-List 5 High-Res TVs  Perfecting Chromatic Balance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blissful-onboarding-guide-for-new-users/"><u>[New] Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>[New] Capture & Crop with iOS  Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-covert-snapcapture-stealthy-tactics-for-unseen-picture-recording/"><u>[New] In 2024, Covert SnapCapture  Stealthy Tactics for Unseen Picture Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-share-of-todays-thought-provoking-talk/"><u>[New] Instagram Share of Today's Thought-Provoking Talk</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-methods-saving-your-google-voice-dialogues/"><u>[New] Quick Methods  Saving Your Google Voice Dialogues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-rectify-facebook-video-playback-issues-chrome-for-2024/"><u>[New] Rectify Facebook Video Playback Issues (Chrome) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>[Updated] 2024 Approved  Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>[Updated] Audio Transformation Expertise  From TTML & XML to Dynamic SRTs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-gamification-tools-and-apps-on-a-budget/"><u>[Updated] Best Gamification Tools & Apps on a Budget</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-best-podcast-debut-days/"><u>[Updated] Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[Updated] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-artful-depth-of-field-with-modern-tools/"><u>[Updated] Crafting Artful Depth of Field with Modern Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-earning-in-a-world-dominated-by-youtubers-for-2024/"><u>[Updated] Earning in a World Dominated by YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boosting-photo-skills-speed-and-simplicity-with-windows-10-paint-app/"><u>[Updated] In 2024, Boosting Photo Skills  Speed & Simplicity with Windows 10 Paint App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-solutions-maintaining-a-vigorous-snapstreak/"><u>[Updated] Snappy Solutions  Maintaining a Vigorous Snapstreak</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>2024 Approved  Auditory Enhancements  Adding Sound Effectively (PowerPoint)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-websites-and-software-to-add-frames-to-photos/"><u>2024 Approved  Best Websites and Software to Add Frames to Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/completing-the-process-of-disabling-your-linkedin-profile/"><u>Completing the Process of Disabling Your LinkedIn Profile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-this-collection-of-14-text-animation-marvels/"><u>Dive Into This Collection of 14 Text Animation Marvels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach  Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-moments-tips-for-creating-captivating-slow-motion-on-android/"><u>Enhancing Moments  Tips for Creating Captivating Slow Motion on Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-hd-to-hyper-hd-the-eizo-monitor-revolution-with-cg318-4k/"><u>From HD to Hyper HD  The EIZO Monitor Revolution with CG318-4K</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fusing-data-and-design-for-dynamic-fb-video-campaigns/"><u>Fusing Data & Design for Dynamic FB Video Campaigns</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-fix-facebook-notifications-not-loading/"><u>How to Fix Facebook Notifications Not Loading</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>In 2024, A Future-Proof Selection  Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoid-blurry-scenes-zooming-in-on-google-meet/"><u>In 2024, Avoid Blurry Scenes  Zooming In on Google Meet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>In 2024, Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-gionee-f3-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Gionee F3 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12-proplus-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12 Pro+ 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-viral/"><u>In 2024, Twitter Video Viral</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-marketing-the-power-of-youtube-and-brand-collaboration/"><u>Integrating Marketing  The Power of YouTube and Brand Collaboration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/listen-and-act-complimentary-recognition-software/"><u>Listen and Act  Complimentary Recognition Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-vs-multiverse-whats-the-difference/"><u>Metaverse vs Multiverse  What's the Difference?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-music-management-win-media-and-cds/"><u>Pioneering Digital Music Management  Win, Media and Cds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/set-a-unique-tiktok-sound-as-your-cellphone-alarm-or-ringtone/"><u>Set a Unique TikTok Sound as Your Cellphone Alarm or Ringtone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-governance-right-to-suspend-trump-temporarily/"><u>Social Media Governance: Right to Suspend Trump Temporarily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-fixing-non-operational-srt-exports/"><u>Step-by-Step Guide  Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-mixing-sounds-in-imovie/"><u>The Art of Mixing Sounds in iMovie</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-key-disparities-in-360-degree-and-vr-videos/"><u>The Key Disparities in 360-Degree & VR Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/time-tagging-in-picture-editing-software/"><u>Time Tagging in Picture Editing Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>Top 10 Android/iOS Weddings  Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-5-budget-friendly-camcorders-with-hd-quality/"><u>Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-use-deep-fried-meme-maker/"><u>Updated 2024 Approved How to Use Deep Fried Meme Maker</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719275577489-winshift-troubles-how-to-resolve-them/"><u>WinShift Troubles: How to Resolve Them</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker"
-date: 2024-05-24T07:54:43.644Z
-updated: 2024-05-25T07:54:43.644Z
+date: 2024-07-26T19:42:26.423Z
+updated: 2024-07-27T19:42:26.423Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker"
 excerpt: "This Article Describes [New] Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker"
 keywords: "\"Syma X5C Drones,Beginner Drone Guide,Drone Comparison Tool,Top Entry-Level Drone,First Drone Matchmaker,Drone Buying Tips,Introductory Drone Selection\""
-thumbnail: https://www.lifewire.com/thmb/tEMnnUjKAHz6RxWmsp5GZiTQbVc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/using-amazon-alexa-app-for-echo-dot-3rd-generation_t20_YELgBm-03cb8e88e0644a5a949e0ef9e69cfde7.jpg
+thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba17ed6f4bfafe6ec23c46bab1.jpg
 ---
 
 ## Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker
@@ -95,14 +95,23 @@ thumbnail: https://www.lifewire.com/thmb/tEMnnUjKAHz6RxWmsp5GZiTQbVc=/400x300/fi
 
 #### 6\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -117,6 +126,9 @@ Follow @Max Wales
 
  Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
@@ -178,12 +190,18 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
@@ -206,12 +224,130 @@ Follow @Max Wales
 
  Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Pros and Cons of Syma X5C
+
+**Pros:**
+
+* Syma X5C is simply one of the best drone units with such a affordable price range.
+* It is equipped with 720p camera that assists in good quality footage production.
+* This device is highly durable and the company also provides easy access to all internal as well as external parts in case anyone needs to replace broken parts due to crash damage.
+* You will find it highly stable quadcopter that can easily fly in outdoor locations as well as at indoors.
+* Equipped with anti-collision blade type guards.
+* 6-axis type gyro stabilization added.
+* It can perform the 360 degree type eversion flips.
+* Rated as a fast and agile device.
+
+**Cons:**
+
+* It takes about 90 minutes to get fully charged but the total flight time offered is 7 to 10 minutes only.
+* GPS tracking facility is missing.
+* Its weight gets increased due to added blade guards.
+* Motors make too much noise.
+* LED lights cause fast reduction in battery.
+* LCD screen does not have any APV indicator.
+
+**Verdict:**
+
+ There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Complete Review for Syma X5C
+
+#### 1\.  Basic Specs Info
+
+| Item name            | Syma H5C                     |                   |                                             |
+| -------------------- | ---------------------------- | ----------------- | ------------------------------------------- |
+| Price:               | Official: $61 only           |                   |                                             |
+| Basic Specifications |                              |                   |                                             |
+| Radio Control        | 2.4 GHz                      | Stabilization     | 6 axis                                      |
+| Flight Range         | About 100 meters             | Camera Resolution | 2MP                                         |
+| Memory               | 4GB SD Card Reader Supported | Weight            | .24 lbs when blade protectors are detached. |
+| Transmitter Channels | 4 Channels                   | Battery Life      | 500mAh LiPo                                 |
+| Flight Time          | 6 to 8 Minutes               | Charge Time       | 2 hours maximum                             |
+| Video Resolution     | 720 P                        | Special Features  | Headfree Mode,                              |
+
+#### 2. Design
+
+ This device has maximum dimensions of 12x12x8 inches and the weight goes up to 2 pounds. It consists of four motors inside that possess individual control over single blade type propeller. With these additional blades, the quadcopter is able to gain more speed during flight and it also makes this device more strength full while adding ability to perform impressive flips. LED lights are attached to each propeller so that users can have perfect control over drone even during night hours. One additional protective layer is provided by a guard cage for the blades. The outer edge possesses a highly flexible yet durable plastic guard cage.
+
+#### 3\.  Battery Life
+
+ The average recorded flight time of this unit is about 6 to 10 minutes that is powered from 500mAh batteries with 3.7Volt rating. This high quality battery can hold charge perfectly but you need to spend about 100 minutes for recharging of drone batteries. This quad possesses only one battery in the package but if you want to enjoy more flights then you can prefer to buy spare batteries.
+
+#### 4\.  Flight Performance
+
+ This device possesses regular flight mode as default mode so users need not to make much efforts for its flight arrangements. Beginners are always suggested to spend some time for learning control mechanisms and the major capabilities of drone so that a safe flight can be taken. Regular mode offers easier and safe flight so that beginners can feel comfortable about its controls. Further the expert mode can be activated from push button switch. This mode works with much faster controls and if you remove the blade guards then it can achieve more improvement over speed. In this expert mode, users can enjoy flipping operations and other advanced controls.
+
+#### 5. Control Range
+
+![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
+
+ The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
+
+#### 6\.  Camera
+
+![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
+
+ Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+ Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
+
+![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
+
+**You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -267,101 +403,18 @@ Follow @Max Wales
 
 #### 5. Control Range
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
-![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
-
- Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
-
-## Conclusion
-
- Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Syma is a well known name in the world of toy RC segment and this company has released about 20 quadcopters and helicopters till now. Syma X5C is designed with all good features that a beginner demands from his drone. It is definitely not a good idea to spend $1000 or [$500](<https://filmora.wondershare.com/drones/affordable-drones-under-500-dollars.html>) for buying a camera drone when you can own a feature rich quadcopter by making payment of $50 only. It is well designed with all simple and intuitive controls; the camera offers 720p resolution with stunning clarity. It is capable enough to have safe flight in light wind conditions whereas users can put a 4GB Micro SSD card inside it to serve instant video recording needs.
-
-![syma x5c explorers](https://images.wondershare.com/filmora/article-images/syma-x5c-explorers.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01CNGT0DG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CNGT0DG&linkId=57d2a66ecb7fdd24814d14d9272a2f49)
-
-**You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Pros and Cons of Syma X5C
-
-**Pros:**
-
-* Syma X5C is simply one of the best drone units with such a affordable price range.
-* It is equipped with 720p camera that assists in good quality footage production.
-* This device is highly durable and the company also provides easy access to all internal as well as external parts in case anyone needs to replace broken parts due to crash damage.
-* You will find it highly stable quadcopter that can easily fly in outdoor locations as well as at indoors.
-* Equipped with anti-collision blade type guards.
-* 6-axis type gyro stabilization added.
-* It can perform the 360 degree type eversion flips.
-* Rated as a fast and agile device.
-
-**Cons:**
-
-* It takes about 90 minutes to get fully charged but the total flight time offered is 7 to 10 minutes only.
-* GPS tracking facility is missing.
-* Its weight gets increased due to added blade guards.
-* Motors make too much noise.
-* LED lights cause fast reduction in battery.
-* LCD screen does not have any APV indicator.
-
-**Verdict:**
-
- There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
-
-## Complete Review for Syma X5C
-
-#### 1\.  Basic Specs Info
-
-| Item name            | Syma H5C                     |                   |                                             |
-| -------------------- | ---------------------------- | ----------------- | ------------------------------------------- |
-| Price:               | Official: $61 only           |                   |                                             |
-| Basic Specifications |                              |                   |                                             |
-| Radio Control        | 2.4 GHz                      | Stabilization     | 6 axis                                      |
-| Flight Range         | About 100 meters             | Camera Resolution | 2MP                                         |
-| Memory               | 4GB SD Card Reader Supported | Weight            | .24 lbs when blade protectors are detached. |
-| Transmitter Channels | 4 Channels                   | Battery Life      | 500mAh LiPo                                 |
-| Flight Time          | 6 to 8 Minutes               | Charge Time       | 2 hours maximum                             |
-| Video Resolution     | 720 P                        | Special Features  | Headfree Mode,                              |
-
-#### 2. Design
-
- This device has maximum dimensions of 12x12x8 inches and the weight goes up to 2 pounds. It consists of four motors inside that possess individual control over single blade type propeller. With these additional blades, the quadcopter is able to gain more speed during flight and it also makes this device more strength full while adding ability to perform impressive flips. LED lights are attached to each propeller so that users can have perfect control over drone even during night hours. One additional protective layer is provided by a guard cage for the blades. The outer edge possesses a highly flexible yet durable plastic guard cage.
-
-#### 3\.  Battery Life
-
- The average recorded flight time of this unit is about 6 to 10 minutes that is powered from 500mAh batteries with 3.7Volt rating. This high quality battery can hold charge perfectly but you need to spend about 100 minutes for recharging of drone batteries. This quad possesses only one battery in the package but if you want to enjoy more flights then you can prefer to buy spare batteries.
-
-#### 4\.  Flight Performance
-
- This device possesses regular flight mode as default mode so users need not to make much efforts for its flight arrangements. Beginners are always suggested to spend some time for learning control mechanisms and the major capabilities of drone so that a safe flight can be taken. Regular mode offers easier and safe flight so that beginners can feel comfortable about its controls. Further the expert mode can be activated from push button switch. This mode works with much faster controls and if you remove the blade guards then it can achieve more improvement over speed. In this expert mode, users can enjoy flipping operations and other advanced controls.
-
-#### 5. Control Range
-
-![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
-
- The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
-
-#### 6\.  Camera
-
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
@@ -402,3 +455,47 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-quick-remedies-for-common-youtube-short-mishaps/"><u>[New] 2024 Approved  Quick Remedies for Common YouTube Short Mishaps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplify-meetings-a-comprehensive-guide-to-skype-call-recorders/"><u>[New] 2024 Approved  Simplify Meetings  A Comprehensive Guide to Skype Call Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-further-elite-video-editing-hacks-for-tiktok/"><u>[New] A Step Further  Elite Video Editing Hacks for TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ai-integration-for-vr-marketplaces/"><u>[New] AI Integration for VR Marketplaces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-practices-for-advanced-ae-plug-ins/"><u>[New] Best Practices for Advanced AE Plug-Ins</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-screen-record-on-iphone-in-an-easy-way/"><u>[New] How to Screen Record on Iphone in An Easy Way?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhanced-video-clarity-on-iphone-and-android-platforms/"><u>[New] In 2024, Enhanced Video Clarity on iPhone & Android Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[Updated] 2024 Approved  Elevating Your Visuals  Mastering Instagram Edits in FCPX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>[Updated] Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-in-converting-photos-into-movies/"><u>[Updated] Best Practices in Converting Photos Into Movies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-stop-losses-maintaining-seamless-obs-recording/"><u>[Updated] In 2024, Stop Losses  Maintaining Seamless OBS Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-likeability-strategies-for-going-viral-on-facebook/"><u>[Updated] Leveraging Likeability  Strategies for Going Viral on Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-key-tips-on-how-to-design-podcast-cover-art/"><u>2024 Approved  10 Key Tips on How to Design Podcast Cover Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-look-at-the-best-narrative-creators-on-youtube-in-23/"><u>2024 Approved  A Look at the Best Narrative Creators on YouTube in '23</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-to-manage-safe-area-multitasking/"><u>2024 Approved  Advanced Techniques to Manage Safe Area Multitasking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-comprehensive-discussion-googles-podcast-uncovered/"><u>2024 Approved  Comprehensive Discussion  Google's Podcast Uncovered</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-giroptic-camera-experience/"><u>2024 Approved  Comprehensive Giroptic Camera Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-battle-of-digital-universes-metaverse-vs-omniverse/"><u>2024 Approved  The Ultimate Battle of Digital Universes  Metaverse Vs. Omniverse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-seconds-for-a-20mb-movie/"><u>2024 Approved  Understanding Seconds for a 20MB Movie</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-v27-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo V27 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-x-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone X Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-step-by-step-to-rotate-and-unite-video-files/"><u>Android's Step-by-Step to Rotate & Unite Video Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-curiosity-with-these-6-video-categories-for-2024/"><u>Capture Curiosity with These 6 Video Categories for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-potential-for-creators-in-youtube-ads-for-2024/"><u>Earning Potential for Creators in YouTube Ads for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/edgy-escapes-tips-on-avoiding-edgenuity-videos-quickly/"><u>Edgy Escapes  Tips on Avoiding Edgenuity Videos Quickly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-augmented-realities-transforming-movie-production/"><u>In 2024, Augmented Realities  Transforming Movie Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-boundaries-custom-font-use-in-after-effects/"><u>In 2024, Breaking Boundaries  Custom Font Use in After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>In 2024, Combining Zoom & Facebook Live  A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 12?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-the-technique-of-radial-distortion-in-adobe-ps/"><u>Master the Technique of Radial Distortion in Adobe PS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/penning-perfectly-captivating-podcast-descriptions/"><u>Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/playscreen-media-app-review/"><u>PlayScreen Media App Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-rhythm-tracking-made-simple-try-these-free-ones/"><u>Precision Rhythm Tracking Made Simple - Try These Free Ones</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-journey-from-photo-album-to-video-storyboard/"><u>The Journey From Photo Album to Video Storyboard</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-pova-5-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/twitch-and-youtube-a-comprehensive-streamers-guide/"><u>Twitch and YouTube  A Comprehensive Streamer's Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-best-top-9-gamers-hubs/"><u>Unlock the Best  Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-higher-view-counts-through-sustained-compliance-with-youtube-cc-for-2024/"><u>Unlocking Higher View Counts Through Sustained Compliance with YouTube CC for 2024</u></a></li>
+</ul></div>

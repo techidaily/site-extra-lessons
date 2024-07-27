@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Writer’s Workshop Online"
-date: 2024-05-24T07:52:51.514Z
-updated: 2024-05-25T07:52:51.514Z
+date: 2024-07-26T19:39:11.098Z
+updated: 2024-07-27T19:39:11.098Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Best Writer’s Workshop Online"
 excerpt: "This Article Describes [New] Best Writer’s Workshop Online"
 keywords: "\"Online Writing Course,Skilled Writers' Bootcamp,Virtual Authorship Training,Digital Writing Seminar,Expert Content Creation,E-Learning Writer’s Hub,Topic Mastery Workshop\""
-thumbnail: https://www.lifewire.com/thmb/Dle-s2KY0Be649mxZL5Z0_Dgqgk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Temporary-Cloud-Backup_dl2-0c86817b8c2c46049eba5d447a875fbb.jpg
+thumbnail: https://thmb.techidaily.com/747f020dba73f73220750a642a58d9200a84cba1b61684b0bd89a4b6e70d1ea8.jpg
 ---
 
 ## Best Writer’s Workshop Online
@@ -32,6 +32,9 @@ We've compiled a comprehensive list of script writing software and websites. Ana
 
 ### 1\. [The Black List Loglines.](https://blcklst.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the black list loglines](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-1.jpg)
 
 To see what kinds of screenplays are gaining traction in Hollywood, read these loglines of screenplays that made the **Black List** \- an annual roundup of the best-unproduced screenplays in Hollywood.
@@ -40,6 +43,9 @@ The archive goes back to 2005 and contains information on associated management 
 
 ### 2\. [Logline It.](https://logline.it/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![logline it](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-2.jpg)
 
 This site gets it - coming up with an original and exciting idea for a movie or TV show is the most important first step in writing a screenplay.
@@ -48,20 +54,32 @@ Logline This is the only scripting website we know of that is dedicated exclusiv
 
 ### 3\. [Nicholl Winners' Scripts & Formatting Sample.](https://www.oscars.org/nicholl/screenwriting-resources)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![nicholl winners' scripts and formatting sample](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-3.jpg)
 
 Want to see what a script good enough to win a Nicholl competition looks like? Here is a list of some of the past winners who will do so.
 
 And if you're confused about script formatting, you can also download this PDF that gives instructions on how to do it in a short scene.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### 4\. [Screenwriting.io.](https://screenwriting.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenwriting.io](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-4.jpg)
 
 John August, the author of Go, Charlie's Angels, and Big Fish has created one of the best online screenwriting websites for answering basic questions about the craft and business of writing.
 
 Enter any question into the search bar and, nine times out of ten, you'll find an answer.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Best 5 free websites to download scripts
 
 When I want to see how a more seasoned or, let's be honest, a better writer than me attacks a story, I usually want to read their script. I want to know how they follow the story on the page and for that... I need to see the script.
@@ -74,16 +92,28 @@ Let's go through them together.
 
 This is the first place I go for scripted stuff. They have an extensive catalog and have proven to be a valuable resource for researching film crews, actors, and trivia. IMSDB is equally useful for those looking for screenplays of all kinds and genres, which they have listed in categories.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![imsdb](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 2\. [Go Into the Story](https://gointothestory.blcklst.com/)
 
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-6.jpg)
 
 I'm a huge fan of Scott Myers. He gives everything to the writer. Go Into the Story is the official blog for The **_Black List,_** the screenwriting community known for its annual list of the top ten unproduced screenplays in Hollywood. There is always a bank of scripts that you can filter.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Simply Scripts](https://www.simplyscripts.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-7.jpg)
 
 Simply Scripts has a large and diverse library that includes Tennessee Williams' plays, classics, and even non-English screenplays. It's also constantly updated, so the most recent scripts are always available.
@@ -96,14 +126,23 @@ Again, there is not much difference between these pages. You can search by genre
 
 ### 5\. [The Screenplay Database](https://imsdb.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![the screenplay database](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-9.jpg)
 
 The script database is another useful resource with a large selection of scripts to choose from. If you're interested in a certain type of movie, the site also lets you search its library by genre, allowing you to browse the window displays and find something you didn't even know you were looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Best 5 free websites to grace your scripts
 
 ### 1\. [Go Into The Story](https://gointothestory.blcklst.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-10.jpg)
 
 Run by Scott Myers, the Go into The Story blog has been named “Best of the Best” by Writer's Digest magazine.
@@ -114,6 +153,9 @@ In addition to being an award-winning blog, Scott's blog is also one that we vis
 
 ### 2\. [John August](https://johnaugust.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![john august](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-11.jpg)
 
 Everyone seems to have advice about Hollywood, but who can you trust? John August is one of Hollywood's best screenwriters. He was nominated for an Academy Award for Big Fish and continues to work on major studio films such as Aladdin, Charlie and the Chocolate Factory and Charlie's Angels.
@@ -130,6 +172,9 @@ It can help you not only inspire your script but also help you with production. 
 
 ### 4\. [Internet Movie Script Database](https://imsdb.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![internet movie script database](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-13.jpg)
 
 If you're going to write screenplays for a career, you'd better get used to reading them. But professional scripts can be hard to find.
@@ -154,6 +199,9 @@ It has since expanded to an online database where users can submit their scripts
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It also includes video filters, animated elements, and other effects. The filters and overlays allow video to be transformed using a variety of filters and graphic overlays. Wondershare Filmora facilitates communication by providing a vast array of titles, openers, and lower thirds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![using filmora](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-15.jpg)
 
 Users can adjust the white balance and dynamic range of their clips using the color tuning feature. The audio mixer feature allows you to change the audio of each track. The advanced text editor allows you to change the text's color, size, font, and even animation. The screen recording feature efficiently records the computer's screen and webcam. The video stabilization feature compensates for camera shake.
@@ -200,3 +248,47 @@ To write a video script quickly, you should use templates, which are designed to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>[New] 2024 Approved  Learn to Leverage Telegram  A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-science-behind-effective-instagram-puzzle-posts/"><u>[New] 2024 Approved  The Science Behind Effective Instagram Puzzle Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-8-must-have-methods-for-crafting-memorable-gifs/"><u>[New] 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] Chorus Climaxes  Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/implified-cross-platform-listening-top-5-playlist-conversion-resources-for-2024/"><u>[New] Simplified Cross-Platform Listening  Top 5 Playlist Conversion Resources for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-flawless-video-thumbnails-instantly/"><u>[New] Unlock Flawless Video Thumbnails Instantly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat/"><u>[Updated] Achieve Crystal Clear Shots  Expert Guide to Zooming on Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-apex-in-mobile-videography-select-the-10-best-phones/"><u>[Updated] Apex in Mobile Videography - Select the 10 Best Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>[Updated] Best Box-Personalizing Online Spots  Unique, Heartfelt Gestures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bringing-text-to-life-dynamic-animated-content-on-ig-stories/"><u>[Updated] Bringing Text to Life  Dynamic Animated Content on IG Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[Updated] Capturing Clarity in Close-Ups  The Filmmaker’s Kinemaster Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-be-a-beauty-guru-on-youtube-beauty-vlogger-set-up/"><u>[Updated] How To Be A Beauty Guru on YouTube  Beauty Vlogger Set Up</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>2024 Approved  10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-critical-look-at-ustream-with-similar-sites/"><u>2024 Approved  A Critical Look at Ustream with Similar Sites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-apex-broadcast-tools-and-platforms/"><u>2024 Approved  Apex Broadcast Tools & Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-buddies-games-top-metagame-escapades/"><u>2024 Approved  Best Buddies Games  Top Metagame Escapades</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cerebral-showcase-gk-video-challenge-network/"><u>2024 Approved  Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-clipcomposers-evaluation-full-breakdown-of-video-editing-software/"><u>2024 Approved  ClipComposer's Evaluation – Full Breakdown of Video Editing Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-broadcast-tools-go-with-wirecast-or-obs/"><u>2024 Approved  Comparing Broadcast Tools  Go With Wirecast or OBS?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerate-your-fb-video-game-the-top-apps-and-plugins-guide/"><u>Accelerate Your FB Video Game  The Top Apps & Plugins Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/alternatives-to-vlc-revealed-in-detailed-review-for-2024/"><u>Alternatives to VLC Revealed in Detailed Review for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-zte-blade-a73-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your ZTE Blade A73 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-iphone-x-animoji-the-complete-users-edition/"><u>Dive Into iPhone X Animoji  The Complete User's Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>GIF Design Essentials  Top 9 Tools to Elevate Your Creativity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hero-5-in-action-an-in-depth-analysis/"><u>Hero 5 in Action  An In-Depth Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-prevent-youtube-from-starting-video-before-you-watch/"><u>How to Prevent YouTube From Starting Video Before You Watch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/humor-hacks-simplifying-the-process-of-meme-creation/"><u>Humor Hacks  Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-adventures-with-gopro-tips/"><u>In 2024, Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-reno-8t-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Reno 8T 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-tricks-adjusting-picture-size-efficiently/"><u>IPhone Tricks  Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mambo-measuring-macaws/"><u>Mambo Measuring Macaws</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-iphones-with-ease-download-podcasts-made-simple/"><u>Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quickened-cinema-of-corporate-presentations/"><u>Quickened Cinema of Corporate Presentations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/skyrocketing-your-earning-potential-a-vimeo-monetization-guide/"><u>Skyrocketing Your Earning Potential  A Vimeo Monetization Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison/"><u>Streamlining Your Viewing  VLC Versus MX Comparison</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tailor-your-media-auto-scaling-videos-for-instagram-via-macos-for-2024/"><u>Tailor Your Media  Auto-Scaling Videos for Instagram via MacOS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-80-pro-straight-screen-edition-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor 80 Pro Straight Screen Edition for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-12-capture-providers-never-stop/"><u>Top 12 Capture Providers, Never Stop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
+</ul></div>

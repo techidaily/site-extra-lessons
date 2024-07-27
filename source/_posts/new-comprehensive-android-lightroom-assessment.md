@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Android Lightroom Assessment"
-date: 2024-05-24T09:07:28.438Z
-updated: 2024-05-25T09:07:28.438Z
+date: 2024-07-26T21:49:34.713Z
+updated: 2024-07-27T21:49:34.713Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Android Lightroom Assessment"
 excerpt: "This Article Describes [New] Comprehensive Android Lightroom Assessment"
 keywords: "Lightroom for Android,Mobile Lightroom Review,Android Photo Editing App,Digital Camera Workflow (Lightroom),Portable Image Processor,Compact Photography Software,Quick Edit on Android Devices"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Comprehensive Android Lightroom Assessment
@@ -39,6 +39,9 @@ The app allows you to perform various tasks, from basic photo editing to more ad
 
 **Price**: Lightroom photo editing app offers a free version with basic features at your disposal and a premium version with seven days trial, 1TB of storage space, and two subscription options: **$99.9** per month and **$119.88** per year.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Key Features Of Lightroom App on Android
 
 Following are some of the key features of the Lightroom app on Android are:
@@ -61,6 +64,9 @@ Step1 Install the app using the **Google Play Lightroom** link provided above an
 
 Step2 Once signed in, tap the **Import** icon and select your picture to import. Next, open a picture you want to edit, and editing tools will appear at the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![importing media file to lightroom](https://images.wondershare.com/filmora/article-images/2022/09/importing-media-file-to-lightroom.jpg)
 
 Step3 To improve your picture's composition, tap **"Crop"** and set the ratio or drag the handles to adjust the size. Tap the check icon to accept the changes and apply them to your picture.
@@ -71,6 +77,9 @@ Step4 From the adjustment menu, tap **"Preset"** and select the filter effect fr
 
 Step5 Next, tap the **"Light"** option, and drag the slider to adjust the Contrast and Exposure. Moreover, you can also adjust the Shadow and Highlight to increase or decrease the contrast.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![setting light on picture in lightroom](https://images.wondershare.com/filmora/article-images/2022/09/setting-light-on-picture-in-lightroom.jpg)
 
 Now, tap **"Color"** and use the sliders to adjust the Temperature and Saturation on your picture. Tap the **"Check"** icon once you are done.
@@ -109,8 +118,14 @@ Lightroom PC version is a comprehensive photo editing software that offers a var
 
 With Lightroom, you can crop and straighten photos, remove blemishes and unwanted objects, and adjust the exposure, contrast, and color of your pictures. Furthermore, you can use the PC app to create slideshows, collages, and photo books.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lightroom-for-PC](https://images.wondershare.com/filmora/article-images/2022/09/lightroom-for-pc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6\. The Best Lightroom App Alternative On Desktop
 
 While many people believe that mobile photo editors are just as good as desktop editors, there are several reasons why PC photo editors are better.
@@ -143,6 +158,14 @@ The app allows you to perform various tasks, from basic photo editing to more ad
 
 **Price**: Lightroom photo editing app offers a free version with basic features at your disposal and a premium version with seven days trial, 1TB of storage space, and two subscription options: **$99.9** per month and **$119.88** per year.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 2\. Key Features Of Lightroom App on Android
 
 Following are some of the key features of the Lightroom app on Android are:
@@ -157,6 +180,9 @@ Following are some of the key features of the Lightroom app on Android are:
 
 **Cloud Backup:** With cloud backup, you can keep your photos and edits safe and sound in the cloud and access them from your tablet, desktop, or mobile Lightroom versions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. How To Use Lightroom App?
 
 Here's the step-by-step guide to help you edit your pictures like a pro with the **Lightroom Android app:**
@@ -165,6 +191,9 @@ Step1 Install the app using the **Google Play Lightroom** link provided above an
 
 Step2 Once signed in, tap the **Import** icon and select your picture to import. Next, open a picture you want to edit, and editing tools will appear at the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing media file to lightroom](https://images.wondershare.com/filmora/article-images/2022/09/importing-media-file-to-lightroom.jpg)
 
 Step3 To improve your picture's composition, tap **"Crop"** and set the ratio or drag the handles to adjust the size. Tap the check icon to accept the changes and apply them to your picture.
@@ -175,12 +204,22 @@ Step4 From the adjustment menu, tap **"Preset"** and select the filter effect fr
 
 Step5 Next, tap the **"Light"** option, and drag the slider to adjust the Contrast and Exposure. Moreover, you can also adjust the Shadow and Highlight to increase or decrease the contrast.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![setting light on picture in lightroom](https://images.wondershare.com/filmora/article-images/2022/09/setting-light-on-picture-in-lightroom.jpg)
 
 Now, tap **"Color"** and use the sliders to adjust the Temperature and Saturation on your picture. Tap the **"Check"** icon once you are done.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setting Color on picture in lightroom](https://images.wondershare.com/filmora/article-images/2022/09/setting-color-on-picture-in-lightroom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** _Lightroom also offers a redo, undo, and reset option to help you stay on track._
@@ -189,6 +228,9 @@ Step6 Once satisfied with your edits, click the **"Share"** icon and tap **"Save
 
 ![export options in lightroom](https://images.wondershare.com/filmora/article-images/2022/09/export-options-in-lightroom.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Advantages and Disadvantages Of Lightroom App For Android
 
 The Lightroom app for Android has a variety of features that can be useful for both amateur and professional photographers. However, the app also has drawbacks that you should be aware of before you download it.
@@ -213,6 +255,9 @@ Lightroom PC version is a comprehensive photo editing software that offers a var
 
 With Lightroom, you can crop and straighten photos, remove blemishes and unwanted objects, and adjust the exposure, contrast, and color of your pictures. Furthermore, you can use the PC app to create slideshows, collages, and photo books.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lightroom-for-PC](https://images.wondershare.com/filmora/article-images/2022/09/lightroom-for-pc.png)
 
 ## Part 6\. The Best Lightroom App Alternative On Desktop
@@ -227,6 +272,9 @@ For one, desktop editors have more advanced features and editing tools available
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've elucidated the Lightroom Android app and its key features. We also discussed how to use the app to edit your photos and make them stand out. Moreover, we explored its advantages, disadvantages, and the Lightroom PC version. In the end, we discussed the best desktop Lightroom alternative Filmora to help you make a better decision for your editing needs
@@ -261,3 +309,58 @@ We hope you find this review informative, and that you can edit your photos with
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-10-superior-text-conversion-tools-for-mac-enthusiasts/"><u>[New] 10 Superior Text Conversion Tools for Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-ultimate-online-destinations-for-enigmatic-boxes/"><u>[New] 10 Ultimate Online Destinations for Enigmatic Boxes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transform-your-webcam-footage-edit-and-export-tips/"><u>[New] 2024 Approved  Transform Your WebCam Footage  Edit & Export Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-canvas-magic-how-to-banish-the-unwanted-backdrop/"><u>[New] Canva's Magic  How to Banish the Unwanted Backdrop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>[New] Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-gamegazers-graphic-guide-for-2024/"><u>[New] GameGazer's Graphic Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-gameplay-with-best-gadgets/"><u>[New] Mastering Gameplay with Best Gadgets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-complete-encyclopedia-of-tweetresponses/"><u>[Updated] 2024 Approved  The Complete Encyclopedia of TweetResponses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-appreciative-adjacencies-templates-for-any-spend-plan/"><u>[Updated] Appreciative Adjacencies  Templates for Any Spend Plan</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-alchemy-fusing-music-and-visuals-on-instagram/"><u>[Updated] Audio Alchemy  Fusing Music and Visuals on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-action-cameras-feature-front-display/"><u>[Updated] Best Action Cameras  Feature Front Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-great-educational-video-for-youtube-for-2024/"><u>[Updated] How to Make a Great Educational Video for YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-in-the-garage-ingenious-funny-video-concepts-for-youtubers/"><u>[Updated] In 2024, Giggles in the Garage  Ingenious Funny Video Concepts for YouTubers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-must-try-facial-editors-on-iphones-and-samsungs-for-2024/"><u>10 Must-Try Facial Editors on iPhones and Samsungs for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>2024 Approved  2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-an-insiders-view-on-creating-effective-slug-lines/"><u>2024 Approved  An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-ambiguity-clear-dating-of-digital-pics/"><u>2024 Approved  Avoiding Ambiguity  Clear Dating of Digital Pics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-meme-templates/"><u>2024 Approved  Best Free Meme Templates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-video-capture-toolkit/"><u>2024 Approved  FB Video Capture Toolkit</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion/"><u>2024 Approved  Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/add-cinematic-shake-to-images-using-ps/"><u>Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-best-cloud-space-solutions-for-2024/"><u>Android's Best Cloud Space Solutions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-gaming-graphics-4k-edition-guide-for-2024/"><u>Apex Gaming Graphics  4K Edition Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aurora-high-dynamic-range-review-pros-and-cons-for-2024/"><u>Aurora High-Dynamic Range Review – Pros & Cons for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/break-down-barriers-to-sound-convert-srt-with-ease-and-precision/"><u>Break Down Barriers to Sound  Convert SRT with Ease and Precision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budding-entrepreneurs-mastering-telegram-advertising-basics-for-2024/"><u>Budding Entrepreneurs  Mastering Telegram Advertising Basics for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 13T</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c12-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C12 Pro?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choreographed-ice-winter-olympics-highlights/"><u>Choreographed Ice  Winter Olympics Highlights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-sight-steady-shot-fighting-the-mist-in-your-footage/"><u>Clear Sight, Steady Shot  Fighting the Mist in Your Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-breakdown-of-polarr-photo-editors-features-for-2024/"><u>Comprehensive Breakdown of Polarr Photo Editor's Features for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-effective-drone-collection-affordable-flight-gadgets-for-2024/"><u>Cost-Effective Drone Collection  Affordable Flight Gadgets for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-corporate-emblems-from-available-graphic-samples-for-2024/"><u>Craft Corporate Emblems From Available Graphic Samples for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-images-with-words-step-by-step-guide-for-adding-text-on-pcmac/"><u>Elevating Your Images with Words  Step-by-Step Guide for Adding Text on PC/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-immersive-video-storytelling-mastering-360-degree-edits-in-premierepro/"><u>Elevating Your Immersive Video Storytelling  Mastering 360-Degree Edits in PremierePro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/flawless-conversion-needed-try-these-top-8-sub-and-srt-tools/"><u>Flawless Conversion Needed? Try These Top 8 Sub & Srt Tools</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-to-the-prime-10-websites-for-photo-acquisition-without-expense/"><u>Guide to the Prime 10 Websites for Photo Acquisition Without Expense</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/implement-xps-video-editing-suite-instantly/"><u>Implement XP's Video Editing Suite Instantly</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-training-on-googles-automatic-transcription-tool/"><u>In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-quickfix-for-podcast-broadcasts/"><u>Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-meme-craftsmanship/"><u>Mastering the Art of Meme Craftsmanship</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-the-world-of-social-networking-facebook-basics-for-2024/"><u>Navigating the World of Social Networking  Facebook Basics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-video-sharing-techniques-in-zoom-and-tiktok/"><u>Pioneering Video Sharing Techniques in Zoom and TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>Rgb to Srgb Transition  What It Means for Visual Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stealthy-edits-blur-without-compromising-quality/"><u>Stealthy Edits  Blur Without Compromising Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-most-popular-images-journey-to-meme-status/"><u>The Most Popular Images' Journey to Meme Status</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-video-quality-boost-version-22/"><u>The Ultimate Checklist for Video Quality Boost  Version 2.2</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uniting-skype-and-zoom-for-seamless-video-calls/"><u>Uniting Skype & Zoom for Seamless Video Calls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/winning-windows-sound-engineers/"><u>Winning Windows Sound Engineers</u></a></li>
+</ul></div>

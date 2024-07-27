@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Closer Look  Detailed Test on LG UD88-W OLED Screen\""
-date: 2024-05-24T08:09:14.131Z
-updated: 2024-05-25T08:09:14.131Z
+date: 2024-07-26T20:07:35.927Z
+updated: 2024-07-27T20:07:35.927Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [New] A Closer Look: Detailed Test on LG UD88-W OLED Screen\""
 excerpt: "\"This Article Describes [New] A Closer Look: Detailed Test on LG UD88-W OLED Screen\""
 keywords: "\"LG OLED TV Test,UD88 WOLED Review,OLED Screen Quality,UD88 Display Test,LG UD88-W Features,OLED Tech Examination,Screen Resolution Test\""
-thumbnail: https://www.lifewire.com/thmb/8tb7hHH0fUAmFt2wj_WV8ks_i0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1183804979-558ec63f893e4e068a261ebc584f819e.jpg
+thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532a7a2ec26036834e7833dd28.jpg
 ---
 
 ## A Closer Look: Detailed Test on LG UD88-W OLED Screen
 
 # LG 27UD88-W 4K USB Type-C Monitor Complete Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -100,6 +103,156 @@ thumbnail: https://www.lifewire.com/thmb/8tb7hHH0fUAmFt2wj_WV8ks_i0k=/400x300/fi
 
 #### 3.Settings and Menu Options
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+![lg-27ud88-main-menu](https://images.wondershare.com/filmora/article-images/lg-27ud88-main-menu.jpg)
+
+ The main menu of this monitor contains several incredible features where users can access deeper setting options, adjustment choices for game mode picture as well as several deeper settings. Its Game Mode option assists users to access multiple picture modes with ease that are actually optimized to work with real time strategy and first person shooting needs. It is much easier to make adjustments for black stabilization, response time and FreeSync.
+
+ There is a quick settings section in this monitor that can help users to set specific ranges for display ratio, input, headphone volume, contrast, and brightness settings. You will be glad to know that it also includes Pic-by-Pic section so that users can view two images side by side at a time. It is possible to calibrate this monitor manually by simply adjusting the standard settings in the scale of 0 to 100\. One can tweak adjustments for response time, color temperature, gamma, RGB balance, black stabilization and sharpness details. The main menu contains general settings section where few basic adjustment options are available such as standby, automatic energy saving and language adjustment etc.
+
+#### 4.On Screen Display
+
+![lg-onscreen-control-27ud88](https://images.wondershare.com/filmora/article-images/lg-onscreen-control-27ud88.jpg)
+
+ You will really enjoy this on screen control application that works for both Windows and Mac platforms. This feature allows users to manage several LG monitors as well as multiple windows inside a single monitor. You will find this app little bit same as that of screen manager application of LG. This feature allows users to enjoy split screen feature so that one screen on this monitor can be easily divided into several sections. The On Screen controls are capable enough to manage display settings such as response time, energy saving, picture mode, display ratio, contrast, brightness and volume etc.
+
+#### 5. Calibration
+
+ Sadly, the calibration feature does not show any specific improvement in performance on the basis of brightness, contrast and black level adjustments. But yes, it was able to make some impact on color accuracy. The average color error for LG 27UD88 is generally observed to be 3.97 but with calibration feature, it can be reduced up to 2.34\. This monitor provides great results for images and calibration helps to improve performance for off white and white surfaces. The post calibration ability of LG 27UD88 is quite impressive that makes appearance of colours more vivid. The picture depth gets increased and the 4K clips become more stunning. However, there is some trouble with its hue adjustments for primary colours. Sometimes you will not even notice its effect whereas other times it starts annoying you more but yes professionals can notice is easily.
+
+#### 6.Image Quality
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![lg-27ud88-w-color-management](https://images.wondershare.com/filmora/article-images/lg-27ud88-w-color-management.jpg)
+
+ The maximum brightness of LG 27UD88 is observed to be 350 nits. You will find 163 pixels/ inch in this 4K monitor but this response is little inferior to most of the modern smartphones. If you maintain it at proper distance from your eyes then probably you will be able to see finer details. The contrast ratio for this monitor is observed somewhere around 620:1 and manufacturers claim that it can handle sRGB gamut up to 99%. As its IPS panel can handle 10 bit color so you can have better support for your professional needs.
+
+**Related:** [Top 5 Best 4K Monitors for Color Grading in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 7. Windows Scaling
+
+ Apple assists in easy display resolution settings for this monitor. Depending upon your requirement for user space you can adjust all text size options and interface elements. In the default mode, there is a retina display with 60Hz setting that allows users to view crisp images and text. You can access the scaled ratio button to adjust the resolution options for desired content display. It is possible to enjoy larger pixel size on 27UD88 and it fits to professional’s taste.
+
+#### 8.Verification Orientation
+
+ Here is another cool feature that we need to discuss about for LG 27UD88 monitor. Generally, most of the monitors use to follow horizontal display orientation as standard but in this case you can also adjust setup as per vertical orientation needs. it is not tough to make settings for vertical orientation as you simply need to move to display preferences for Apple and then hit the vertical display option from available options.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![lg-27ud8-vertical](https://images.wondershare.com/filmora/article-images/lg-27ud88-vertical.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+ There is no doubt to say that market for 4K monitors faced great boost within last few years. Today you can find unlimited competitive models around offering all incredible features. In this list, LG 27UD88 has made a decent entry with its solid features and top notch design. It is preferred b most of professionals due to its incredible color accuracy and reasonable price range. The versatile connectivity options are another edge on this design. With all such incredible features, probably, LG 27UD88 is best choice for your 4K monitor needs. Its budget friendly design with professional level features makes it best alternative among all competitors.
+
+**Related:** [Top 10 Best 4K Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ From last few months, 4K monitors are gaining more and more popularity due to their elegant design and feature rich structure. Such types of monitors are being manufactured by almost all popular brands and there is a great competition in the market that creates confusion for most of buyers. If you are searching for a 4K monitor with all good features then it is good to go through the review below. Here we have included detailed review of LG 27UD88-W 4K monitor. Its incredible features make it worth buying so keep reading.
+
+**Related:** [Top 10 Best 4K Monitors for Mac in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## LG 27UD88-W 4K Monitor Specification
+
+| Parameters                      | Specs                                             |
+| ------------------------------- | ------------------------------------------------- |
+| Screen Size                     | 27"                                               |
+| Resolution                      | 3840\*2160 4K                                     |
+| Screen Technology               | IPS                                               |
+| Aspect Ratio                    | 16:9                                              |
+| Refresh Rate                    | 60Hz                                              |
+| Response Time                   | 5ms                                               |
+| Color Support                   | 1.07 billion (10-bit per subpixel plus dithering) |
+| Contrast ratio                  | 980:1                                             |
+| Maximum brightness              | 350 cd/m²                                         |
+| Sync                            | FreeSync                                          |
+| Input Lag Time                  | 9.8ms                                             |
+| Built-in Speaker                | /                                                 |
+| Viewing Angle                   | 178º                                              |
+| Adjustable Stand                | Yes                                               |
+| Connectivity                    | DisplayPort 1.2, HDMI 2.0 ,USB 3.0                |
+| Power consumption               | 29W                                               |
+| Backlight                       | LED                                               |
+| Dimensions with Stand (W\*H\*D) | 24.2" x 8.1" x 16.7" (with stand)                 |
+
+**Pros:**
+
+* People love its elegant design.
+* It comes with a durable and stable bundled stand.
+* There are lots of options for connectivity.
+* Lots of menu controls that can be adjusted directly from main screen.
+* Provides bright and sharp image.
+* LG 27UD88-W 4K monitor is just perfect choice for gaming needs due to its incredible performance.
+* It is designed with AMD FreeSync technology.
+
+**Cons:**
+
+* You will observe little skewness in greens.
+* Lacks somewhere in color accuracy.
+* It is quite expensive as compared to other competitors available in market with similar kind of features.
+* Comes with only one year limited warranty.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Accessories in the Box
+
+ Once you receive your ordered package at home then following things will come out of it:
+
+* Your LG 27UD88-W 4K monitor that is designed with IPS technology.
+* DisplayPort Cable.
+* HDMI Cable
+* USB Type C-C and A-C cable.
+* Power Cord.
+
+ With such a wide range of connectivity options on this monitor, you will definitely find it more useful for your gaming needs.
+
+**Related:** [Top 5 Best 4K Gaming Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## LG 27UD88-W 4K Monitor Features and Performance
+
+#### 1.Design Style
+
+ It looks elegant and attractive. Although, we have gathered lots of responses about its build quality from users but its elegance was appreciated by almost everyone. People love its matte black enclosure of plastic and the metal foot that makes everything fairly good to eyes. This monitor has designed with unique style as compared to all models of the same company. The plastic finish is improved with the attractive silver arm whereas the arc shaped foot has brushed aluminium like appearance. You will definitely get attracted towards its stand that offers incredible stability. The bezels around edges of this monitor are fairly thin, on the side portion they cover 5/16 portion of inch whereas on bottom side they are quite larger. The rear sides of LG 27UD88 looks attractive with bright white plastic material that has little glossy appearance.
+
+#### 2.Ports and Connectivity
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![lg-27ud88-ports](https://images.wondershare.com/filmora/article-images/lg-27ud88-ports.jpg)
+
+ Most of the gamers these days are searching for monitors that can have wide connectivity options. Probably your need ends here with LG 27UD88 as this monitor has almost all kind of ports to make easy connectivity with external world. The USB-C port on this device can be used to access single cable type connectivity for data, audio and videos. It can also carry 60 Watt power to notebook. Other than this, the monitor contains 2 HDMI ports and one DisplayPort that is much useful to all those users who need to make connection with Apple TV, Cable Box or other input sources. There is a USB Hub that provides easy pairing options to USB Type A ports having 5V- 1.5A power charging option so that users can easily charge their mobile phones.
+
+ Other than this, LG 27UD88 also supports headphone jack as well as has a DC-in Port that can connect power adapter for display. With all such facilities, there is no doubt to say that LG 27UD88 offers wide range of connectivity options.
+
+#### 3.Settings and Menu Options
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![lg-27ud88-main-menu](https://images.wondershare.com/filmora/article-images/lg-27ud88-main-menu.jpg)
 
  The main menu of this monitor contains several incredible features where users can access deeper setting options, adjustment choices for game mode picture as well as several deeper settings. Its Game Mode option assists users to access multiple picture modes with ease that are actually optimized to work with real time strategy and first person shooting needs. It is much easier to make adjustments for black stabilization, response time and FreeSync.
@@ -196,6 +349,10 @@ Follow @Max Wales
 * It is quite expensive as compared to other competitors available in market with similar kind of features.
 * Comes with only one year limited warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Accessories in the Box
 
  Once you receive your ordered package at home then following things will come out of it:
@@ -210,6 +367,9 @@ Follow @Max Wales
 
 **Related:** [Top 5 Best 4K Gaming Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LG 27UD88-W 4K Monitor Features and Performance
 
 #### 1.Design Style
@@ -234,6 +394,9 @@ Follow @Max Wales
 
 #### 4.On Screen Display
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![lg-onscreen-control-27ud88](https://images.wondershare.com/filmora/article-images/lg-onscreen-control-27ud88.jpg)
 
  You will really enjoy this on screen control application that works for both Windows and Mac platforms. This feature allows users to manage several LG monitors as well as multiple windows inside a single monitor. You will find this app little bit same as that of screen manager application of LG. This feature allows users to enjoy split screen feature so that one screen on this monitor can be easily divided into several sections. The On Screen controls are capable enough to manage display settings such as response time, energy saving, picture mode, display ratio, contrast, brightness and volume etc.
@@ -244,6 +407,9 @@ Follow @Max Wales
 
 #### 6.Image Quality
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![lg-27ud88-w-color-management](https://images.wondershare.com/filmora/article-images/lg-27ud88-w-color-management.jpg)
 
  The maximum brightness of LG 27UD88 is observed to be 350 nits. You will find 163 pixels/ inch in this 4K monitor but this response is little inferior to most of the modern smartphones. If you maintain it at proper distance from your eyes then probably you will be able to see finer details. The contrast ratio for this monitor is observed somewhere around 620:1 and manufacturers claim that it can handle sRGB gamut up to 99%. As its IPS panel can handle 10 bit color so you can have better support for your professional needs.
@@ -258,8 +424,14 @@ Follow @Max Wales
 
  Here is another cool feature that we need to discuss about for LG 27UD88 monitor. Generally, most of the monitors use to follow horizontal display orientation as standard but in this case you can also adjust setup as per vertical orientation needs. it is not tough to make settings for vertical orientation as you simply need to move to display preferences for Apple and then hit the vertical display option from available options.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![lg-27ud8-vertical](https://images.wondershare.com/filmora/article-images/lg-27ud88-vertical.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  There is no doubt to say that market for 4K monitors faced great boost within last few years. Today you can find unlimited competitive models around offering all incredible features. In this list, LG 27UD88 has made a decent entry with its solid features and top notch design. It is preferred b most of professionals due to its incredible color accuracy and reasonable price range. The versatile connectivity options are another edge on this design. With all such incredible features, probably, LG 27UD88 is best choice for your 4K monitor needs. Its budget friendly design with professional level features makes it best alternative among all competitors.
@@ -282,6 +454,9 @@ Follow @Max Wales
 
 **Related:** [Top 10 Best 4K Monitors for Mac in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LG 27UD88-W 4K Monitor Specification
 
 | Parameters                      | Specs                                             |
@@ -322,6 +497,9 @@ Follow @Max Wales
 * It is quite expensive as compared to other competitors available in market with similar kind of features.
 * Comes with only one year limited warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Accessories in the Box
 
  Once you receive your ordered package at home then following things will come out of it:
@@ -370,6 +548,9 @@ Follow @Max Wales
 
 #### 6.Image Quality
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lg-27ud88-w-color-management](https://images.wondershare.com/filmora/article-images/lg-27ud88-w-color-management.jpg)
 
  The maximum brightness of LG 27UD88 is observed to be 350 nits. You will find 163 pixels/ inch in this 4K monitor but this response is little inferior to most of the modern smartphones. If you maintain it at proper distance from your eyes then probably you will be able to see finer details. The contrast ratio for this monitor is observed somewhere around 620:1 and manufacturers claim that it can handle sRGB gamut up to 99%. As its IPS panel can handle 10 bit color so you can have better support for your professional needs.
@@ -392,132 +573,9 @@ Follow @Max Wales
 
 **Related:** [Top 10 Best 4K Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- From last few months, 4K monitors are gaining more and more popularity due to their elegant design and feature rich structure. Such types of monitors are being manufactured by almost all popular brands and there is a great competition in the market that creates confusion for most of buyers. If you are searching for a 4K monitor with all good features then it is good to go through the review below. Here we have included detailed review of LG 27UD88-W 4K monitor. Its incredible features make it worth buying so keep reading.
-
-**Related:** [Top 10 Best 4K Monitors for Mac in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## LG 27UD88-W 4K Monitor Specification
-
-| Parameters                      | Specs                                             |
-| ------------------------------- | ------------------------------------------------- |
-| Screen Size                     | 27"                                               |
-| Resolution                      | 3840\*2160 4K                                     |
-| Screen Technology               | IPS                                               |
-| Aspect Ratio                    | 16:9                                              |
-| Refresh Rate                    | 60Hz                                              |
-| Response Time                   | 5ms                                               |
-| Color Support                   | 1.07 billion (10-bit per subpixel plus dithering) |
-| Contrast ratio                  | 980:1                                             |
-| Maximum brightness              | 350 cd/m²                                         |
-| Sync                            | FreeSync                                          |
-| Input Lag Time                  | 9.8ms                                             |
-| Built-in Speaker                | /                                                 |
-| Viewing Angle                   | 178º                                              |
-| Adjustable Stand                | Yes                                               |
-| Connectivity                    | DisplayPort 1.2, HDMI 2.0 ,USB 3.0                |
-| Power consumption               | 29W                                               |
-| Backlight                       | LED                                               |
-| Dimensions with Stand (W\*H\*D) | 24.2" x 8.1" x 16.7" (with stand)                 |
-
-**Pros:**
-
-* People love its elegant design.
-* It comes with a durable and stable bundled stand.
-* There are lots of options for connectivity.
-* Lots of menu controls that can be adjusted directly from main screen.
-* Provides bright and sharp image.
-* LG 27UD88-W 4K monitor is just perfect choice for gaming needs due to its incredible performance.
-* It is designed with AMD FreeSync technology.
-
-**Cons:**
-
-* You will observe little skewness in greens.
-* Lacks somewhere in color accuracy.
-* It is quite expensive as compared to other competitors available in market with similar kind of features.
-* Comes with only one year limited warranty.
-
-## Accessories in the Box
-
- Once you receive your ordered package at home then following things will come out of it:
-
-* Your LG 27UD88-W 4K monitor that is designed with IPS technology.
-* DisplayPort Cable.
-* HDMI Cable
-* USB Type C-C and A-C cable.
-* Power Cord.
-
- With such a wide range of connectivity options on this monitor, you will definitely find it more useful for your gaming needs.
-
-**Related:** [Top 5 Best 4K Gaming Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## LG 27UD88-W 4K Monitor Features and Performance
-
-#### 1.Design Style
-
- It looks elegant and attractive. Although, we have gathered lots of responses about its build quality from users but its elegance was appreciated by almost everyone. People love its matte black enclosure of plastic and the metal foot that makes everything fairly good to eyes. This monitor has designed with unique style as compared to all models of the same company. The plastic finish is improved with the attractive silver arm whereas the arc shaped foot has brushed aluminium like appearance. You will definitely get attracted towards its stand that offers incredible stability. The bezels around edges of this monitor are fairly thin, on the side portion they cover 5/16 portion of inch whereas on bottom side they are quite larger. The rear sides of LG 27UD88 looks attractive with bright white plastic material that has little glossy appearance.
-
-#### 2.Ports and Connectivity
-
-![lg-27ud88-ports](https://images.wondershare.com/filmora/article-images/lg-27ud88-ports.jpg)
-
- Most of the gamers these days are searching for monitors that can have wide connectivity options. Probably your need ends here with LG 27UD88 as this monitor has almost all kind of ports to make easy connectivity with external world. The USB-C port on this device can be used to access single cable type connectivity for data, audio and videos. It can also carry 60 Watt power to notebook. Other than this, the monitor contains 2 HDMI ports and one DisplayPort that is much useful to all those users who need to make connection with Apple TV, Cable Box or other input sources. There is a USB Hub that provides easy pairing options to USB Type A ports having 5V- 1.5A power charging option so that users can easily charge their mobile phones.
-
- Other than this, LG 27UD88 also supports headphone jack as well as has a DC-in Port that can connect power adapter for display. With all such facilities, there is no doubt to say that LG 27UD88 offers wide range of connectivity options.
-
-#### 3.Settings and Menu Options
-
-![lg-27ud88-main-menu](https://images.wondershare.com/filmora/article-images/lg-27ud88-main-menu.jpg)
-
- The main menu of this monitor contains several incredible features where users can access deeper setting options, adjustment choices for game mode picture as well as several deeper settings. Its Game Mode option assists users to access multiple picture modes with ease that are actually optimized to work with real time strategy and first person shooting needs. It is much easier to make adjustments for black stabilization, response time and FreeSync.
-
- There is a quick settings section in this monitor that can help users to set specific ranges for display ratio, input, headphone volume, contrast, and brightness settings. You will be glad to know that it also includes Pic-by-Pic section so that users can view two images side by side at a time. It is possible to calibrate this monitor manually by simply adjusting the standard settings in the scale of 0 to 100\. One can tweak adjustments for response time, color temperature, gamma, RGB balance, black stabilization and sharpness details. The main menu contains general settings section where few basic adjustment options are available such as standby, automatic energy saving and language adjustment etc.
-
-#### 4.On Screen Display
-
-![lg-onscreen-control-27ud88](https://images.wondershare.com/filmora/article-images/lg-onscreen-control-27ud88.jpg)
-
- You will really enjoy this on screen control application that works for both Windows and Mac platforms. This feature allows users to manage several LG monitors as well as multiple windows inside a single monitor. You will find this app little bit same as that of screen manager application of LG. This feature allows users to enjoy split screen feature so that one screen on this monitor can be easily divided into several sections. The On Screen controls are capable enough to manage display settings such as response time, energy saving, picture mode, display ratio, contrast, brightness and volume etc.
-
-#### 5. Calibration
-
- Sadly, the calibration feature does not show any specific improvement in performance on the basis of brightness, contrast and black level adjustments. But yes, it was able to make some impact on color accuracy. The average color error for LG 27UD88 is generally observed to be 3.97 but with calibration feature, it can be reduced up to 2.34\. This monitor provides great results for images and calibration helps to improve performance for off white and white surfaces. The post calibration ability of LG 27UD88 is quite impressive that makes appearance of colours more vivid. The picture depth gets increased and the 4K clips become more stunning. However, there is some trouble with its hue adjustments for primary colours. Sometimes you will not even notice its effect whereas other times it starts annoying you more but yes professionals can notice is easily.
-
-#### 6.Image Quality
-
-![lg-27ud88-w-color-management](https://images.wondershare.com/filmora/article-images/lg-27ud88-w-color-management.jpg)
-
- The maximum brightness of LG 27UD88 is observed to be 350 nits. You will find 163 pixels/ inch in this 4K monitor but this response is little inferior to most of the modern smartphones. If you maintain it at proper distance from your eyes then probably you will be able to see finer details. The contrast ratio for this monitor is observed somewhere around 620:1 and manufacturers claim that it can handle sRGB gamut up to 99%. As its IPS panel can handle 10 bit color so you can have better support for your professional needs.
-
-**Related:** [Top 5 Best 4K Monitors for Color Grading in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 7. Windows Scaling
-
- Apple assists in easy display resolution settings for this monitor. Depending upon your requirement for user space you can adjust all text size options and interface elements. In the default mode, there is a retina display with 60Hz setting that allows users to view crisp images and text. You can access the scaled ratio button to adjust the resolution options for desired content display. It is possible to enjoy larger pixel size on 27UD88 and it fits to professional’s taste.
-
-#### 8.Verification Orientation
-
- Here is another cool feature that we need to discuss about for LG 27UD88 monitor. Generally, most of the monitors use to follow horizontal display orientation as standard but in this case you can also adjust setup as per vertical orientation needs. it is not tough to make settings for vertical orientation as you simply need to move to display preferences for Apple and then hit the vertical display option from available options.
-
-![lg-27ud8-vertical](https://images.wondershare.com/filmora/article-images/lg-27ud88-vertical.jpg)
-
-## Conclusion
-
- There is no doubt to say that market for 4K monitors faced great boost within last few years. Today you can find unlimited competitive models around offering all incredible features. In this list, LG 27UD88 has made a decent entry with its solid features and top notch design. It is preferred b most of professionals due to its incredible color accuracy and reasonable price range. The versatile connectivity options are another edge on this design. With all such incredible features, probably, LG 27UD88 is best choice for your 4K monitor needs. Its budget friendly design with professional level features makes it best alternative among all competitors.
-
-**Related:** [Top 10 Best 4K Monitors in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -550,3 +608,56 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>'21 Edition Deep-Dive  Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-closer-look-at-immersive-virtual-reality-tech/"><u>[New] A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boxed-insights-unpacking-effective-strategy/"><u>[New] Boxed Insights  Unpacking Effective Strategy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ensuring-seamless-gotomeeting-experience-with-device-recording/"><u>[New] Ensuring Seamless GoToMeeting Experience with Device Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[New] In 2024, Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instantaneous-instagram-video-experience-for-2024/"><u>[New] Instantaneous Instagram Video Experience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ultimate-guide-to-convert-srt-to-txt-in-minutes-2023/"><u>[New] Ultimate Guide to Convert SRT to TXT in Minutes 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-newbies-compendium-of-best-cinematography-devices-35mm-pands/"><u>[Updated] A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-top-10-drawing-apps-for-android-that-will-boost-your-creativity/"><u>[Updated] Top 10 Drawing Apps for Android That Will Boost Your Creativity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-kid-friendly-drone-recommendations-for-2024/"><u>10 Kid-Friendly Drone Recommendations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-closer-look-at-apples-m1-computing-powerhouse/"><u>2024 Approved  A Closer Look at Apple’s M1 Computing Powerhouse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aural-alchemy-transforming-sound-tracks-in-logic-pro-x/"><u>2024 Approved  Aural Alchemy  Transforming Sound Tracks In Logic Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creative-shots-with-photoshops-radial-distortion/"><u>2024 Approved  Unlock Creative Shots with Photoshop's Radial Distortion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiovisual-harmony-music-integration-in-social-media/"><u>Audiovisual Harmony  Music Integration in Social Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/azure-speech-to-text-your-ultimate-development-toolkit-for-2024/"><u>Azure Speech-to-Text  Your Ultimate Development Toolkit for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakdown-adding-narrative-pauses-to-your-youtube-projects/"><u>Breakdown  Adding Narrative Pauses to Your YouTube Projects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-books-in-video-form-for-2024/"><u>Captivating Books in Video Form for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-suite-of-business-plugins-and-slide-show-ideas-for-2024/"><u>Comprehensive Suite of Business Plugins and Slide Show Ideas for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-techniques-for-capturing-stellar-interviews-on-idevices/"><u>Cutting-Edge Techniques for Capturing Stellar Interviews on iDevices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-tricks-for-sculptable-text-in-ps-mastery/"><u>Cutting-Edge Tricks for Sculptable Text in PS Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/examining-updates-the-2023-samsung-bd-j5900/"><u>Examining Updates  The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-scratch-building-a-lighthearted-image-meme/"><u>From Scratch  Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>FusionVisualizer  IPad+MacMedia Combining Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/halt-and-rewind-mastering-live-streams-on-twitch/"><u>Halt & Rewind  Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harmonizing-your-footage-a-color-grading-roadmap/"><u>Harmonizing Your Footage  A Color Grading Roadmap</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-procuring-customized-text-files/"><u>In 2024, Best Practices for Procuring Customized Text Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>In 2024, Capturing Life in High Definition  The Nikon 1J5 Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-civi-3-disney-100th-anniversary-edition-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Civi 3 Disney 100th Anniversary Edition Device SIM</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-the-art-of-audio-with-zoom-your-complete-guidebook/"><u>In 2024, Mastering the Art of Audio with Zoom  Your Complete Guidebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-securing-virtual-triumphs-mastering-screen-captures-in-pc-games/"><u>In 2024, Securing Virtual Triumphs - Mastering Screen Captures in PC Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-8-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 8 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instantly-examine-windows-documents-efficiently/"><u>Instantly Examine Windows Documents Efficiently</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/interactive-realities-face-off-metaverse-and-omniverse-guide/"><u>Interactive Realities Face-Off  Metaverse & Omniverse Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luminances-stand-in-the-hdr-landscape/"><u>Luminance's Stand in the HDR Landscape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-and-multimeva-a-comparative-study-of-features/"><u>Metaverse and Multimeva  A Comparative Study of Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-noise-sensational-success-in-telegram-marketing/"><u>Navigating Noise  Sensational Success in Telegram Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/personalize-your-prayers-with-scripture-inspired-tunes-guide/"><u>Personalize Your Prayers with Scripture-Inspired Tunes Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-steps-to-access-high-rate-youtube-likes/"><u>Quick Steps to Access High-Rate YouTube Likes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reducing-background-melodies-windowsmac-guide-for-2024/"><u>Reducing Background Melodies  Windows/Mac Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reimagine-reality-techniques-for-astonishing-image-distortions/"><u>Reimagine Reality  Techniques for Astonishing Image Distortions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speaking-medias-language-mastering-srt-conversions/"><u>Speaking Media's Language  Mastering SRT Conversions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tactics-to-increase-youtube-video-engagement-and-views-for-2024/"><u>Tactics to Increase YouTube Video Engagement and Views for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-video-storytelling-integrating-audio-narration/"><u>The Art of Video Storytelling  Integrating Audio Narration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/thorough-appraisal-gopro-silver-hero4-specimen/"><u>Thorough Appraisal  GoPro Silver HERO4 Specimen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-15-cinematic-tools-for-gopro-videos-and-films/"><u>Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-dynamic-collages/"><u>Ultimate Guide to Dynamic Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncovering-elite-instagram-ringtones-and-crafting-an-astute-alarm/"><u>Uncovering Elite Instagram Ringtones and Crafting an Astute Alarm</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wisdom-webcasts-best-general-trivia-video-channels-for-2-point-zero-two-four/"><u>Wisdom Webcasts  Best General Trivia Video Channels for 2 Point Zero Two Four</u></a></li>
+</ul></div>
