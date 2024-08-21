@@ -1,0 +1,121 @@
+---
+title: "\"The Next Generation of VR  Innovations Reviewed\""
+date: 2024-08-20T00:04:33.083Z
+updated: 2024-08-21T00:04:33.083Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes The Next Generation of VR: Innovations Reviewed\""
+excerpt: "\"This Article Describes The Next Generation of VR: Innovations Reviewed\""
+keywords: "\"Virtual Reality Future Trends,VR Innovation Analysis,Emerging VR Technologies,Next-Gen VR Updates,VR Tech Review Insights,Advancements in VR Devices,New VR Experience Exploration\""
+thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383e5008c1e4699b06b4a4f916.jpg
+---
+
+## The Next Generation of VR: Innovations Reviewed
+
+# State of the VR Industry
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+## What’s the popular VR platforms and what is developing fast?
+
+ Well, the fourth Annual GDC European State of the Industry was held just about a month ago and as always, developers from various parts of this continent took part in it. It was very clear from the developers that they are still launching games keeping the PC and Smart Phones in mind. These are still the most popular platforms where 49 percent of the developers made their latest release on PC/Mac, around 41 percent chose smart phones and tablets to be the best medium.
+
+ It is quite clear from the discussion that the game developers prefer PC/Laptops/Mac over any other devices to release their games. But, this year’s survey came up with a different result where 59.7 percent developers preferably chose PC/Mac followed by 48.3 percent developers who chose virtual reality headsets for their upcoming games. So, we can say that despite the indomitable popularity of the PC and Mac, virtual reality is also gaining a strong ground.
+
+![google-cardbaorad-1]( https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg
+ )
+
+## The VR gaming development is truly rising then
+
+ Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
+
+![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
+
+ This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
+
+ However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+## About the European VR game makers and their funding
+
+ Funding for the games has always remained one of the prime concerns for the game developers and publishers. You know that it takes large amounts to be invested for the games. When it comes to the funding policies for the European game developers, most of them are covering the entire expenses using their own funds. Take a look at what the survey report has to say about that. Asking about the sources of the fund for the games 57.8 percent said that their funds come from the company’s existing fund while contrary to this, 32.9 percent game developers said that they manage their own fund from their personal accounts.
+
+![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
+
+ Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simplifying-video-preservation-with-3-key-practices/"><u>[New] In 2024, Simplifying Video Preservation with 3 Key Practices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-budget-friendly-srt-translators-unveiled-online/"><u>[Updated] Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collage-wizardry-secrets-unveiled/"><u>[Updated] Collage Wizardry  Secrets Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-transmission-from-twitters-to-whatsapp-for-2024/"><u>[Updated] Direct Video Transmission From Twitters to WhatsApp for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>[Updated] Pro Level Webcams  The Ultimate Choice for Your Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-splitcam-breakdown-best-or-not-amongst-recorders-for-2024/"><u>[Updated] SplitCam Breakdown  Best or Not Amongst Recorders for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-critical-strategies-for-dynamic-cover-designs/"><u>2024 Approved  10 Critical Strategies for Dynamic Cover Designs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-lunapic-wizard-top-editorial-techniques/"><u>2024 Approved  Become a LunaPic Wizard  Top Editorial Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-the-illusion-iphone-tricks-for-reflection-photography/"><u>2024 Approved  Capturing the Illusion  IPhone Tricks for Reflection Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-critique-unmasking-the-bublcam-360-experience/"><u>2024 Approved  Complete Critique  Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-google-photos-guide-for-beginners/"><u>2024 Approved  Complete Google Photos Guide for Beginners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-your-next-travel-companion-best-youtubers-list/"><u>2024 Approved  Your Next Travel Companion  Best Youtubers' List</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-1-5-editors-perfect-for-your-macos-sierra-setup/"><u>Discover the #1-#5 Editors Perfect for Your MacOS Sierra Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/drone-cutting-edge-tools-top-editors-unveiled/"><u>Drone Cutting Edge Tools - Top Editors Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-choices-in-total-sweep-cinematography/"><u>Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-tips-for-digital-boards-in-zoom-desktops-and-mobile-for-2024/"><u>Essential Tips for Digital Boards in Zoom Desktops & Mobile for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-20plus-funny-memes-of-virtual-universes/"><u>Exploring 20+ Funny Memes of Virtual Universes</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-fun-to-profitable-lessons-from-helldivers-2s-success-story/"><u>From Fun to Profitable: Lessons From Helldivers 2'S Success Story</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-analysis-powerdirector-app-2024/"><u>Full Analysis  PowerDirector App - 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/getting-started-in-vlogging-gear-and-software-guide/"><u>Getting Started in Vlogging  Gear and Software Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ghostly-glance-at-fb-sequences/"><u>Ghostly Glance at Fb Sequences</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-12-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 12 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-14-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 14 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-windows-spotlight-feature-on-windows-11-devices/"><u>How To Restore Windows Spotlight Feature On Windows 11 Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immortalize-gameplay-glories-with-samsung-devices-for-2024/"><u>Immortalize Gameplay Glories with Samsung Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>In 2024, Crafting Audio Identity  The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g13-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G13 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-steps-to-join-start-and-manage-a-zoom-call-with-your-android-device/"><u>In 2024, Quick Steps to Join, Start & Manage a Zoom Call with Your Android Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-giroptic-complete-immersion/"><u>In-Depth Giroptic Complete Immersion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-mobile-multimedia-tools-to-transform-photos/"><u>Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/making-moolah-the-snapchat-way-for-2024/"><u>Making Moolah  The Snapchat Way for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-4k-laptop-choices-for-gamers/"><u>Premier 4K Laptop Choices for Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reach-peaks-lead-lines-strategies-to-elevate-telegram-marketing/"><u>Reach Peaks, Lead Lines  Strategies to Elevate Telegram Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shade-smarts-mastering-the-art-of-color-correction-with-speed/"><u>Shade Smarts  Mastering the Art of Color Correction with Speed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-srt-potential-mac-edition-tutorial/"><u>Unlocking SRT Potential  Mac Edition Tutorial</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

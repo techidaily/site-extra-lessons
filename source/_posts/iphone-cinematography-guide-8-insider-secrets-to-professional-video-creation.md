@@ -1,0 +1,162 @@
+---
+title: "\"IPhone Cinematography Guide  8 Insider Secrets to Professional Video Creation\""
+date: 2024-08-20T00:06:44.541Z
+updated: 2024-08-21T00:06:44.541Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes IPhone Cinematography Guide: 8 Insider Secrets to Professional Video Creation\""
+excerpt: "\"This Article Describes IPhone Cinematography Guide: 8 Insider Secrets to Professional Video Creation\""
+keywords: "IPhone ProVideoTips,CinematiciPhoneSecrets,IPhonesCameraTricks,FilmWithIphoneHacks,IPhoneShotProTips,MobileFilmCreationIdeas,IPhoneCinemaGuide"
+thumbnail: https://thmb.techidaily.com/fd52a4ddb4c67fef5b4a68a7a51c8e47e5f13f4d158884cb761f8f838fb72e26.jpeg
+---
+
+## IPhone Cinematography Guide: 8 Insider Secrets to Professional Video Creation
+
+# iPhone Videography: 8 Tips of Recording Pro Videos
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ You shouldn’t feel the need to have to invest in fancy equipment if you want to take good video – it’s not necessary. If you wanted to be involved in very high-level camera work, then you would need some fancier gear, but for most people’s purposes, what they have on their phone is just fine. This article is aimed at looking at how people can use their iPhone to record good quality videos which they can enjoy with their friends.
+
+## Use Stabilizers
+
+ Many people are critical of the ‘found footage’ types of movies which are sometimes released – the Blair Witch project being a prime example. This is generally because the shaky videography can make it difficult to really follow what is going on, or possibly also because it is hard to watch without feeling ill.
+
+![stabilizer](https://images.wondershare.com/stabilizer.jpg)
+
+ This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
+
+## Use Light Properly
+
+ Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
+
+![light](https://images.wondershare.com/set-light-iphone.jpg)
+
+## Avoid Using the Digital Zoom
+
+ It can be very tempting to try and use the zoom function on your camera to see people better, but this ultimately doesn’t work. You will end up with a grainy video of uncertain quality, rather than one which allows you to see everything in close up. Just move towards the point you are attempting to film – the quality of the video will be better, and you will not have to fiddle with controls and menus while making the video.
+
+![zoom](https://images.wondershare.com/Zoom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Use the Grid
+
+ Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
+
+![grid](https://images.wondershare.com/grid-iphone-camera.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## Use the Exposure Lock
+
+ When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
+
+![exposure](https://images.wondershare.com/lock-exposure.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## Use Slow Motion\\Time Lapse Mode
+
+ One way to make videos more interesting is to use either slow motion or time lapse features. The well-known use of time lapse video is if the video is extremely long, and it needs to be shortened – we are all aware of the use of montages in films, after all – and it can be very effective when used correctly. Slow motion is different - it can be used for the same reasons as in films, but it can also be used for when you need to follow instructions, or for when you want to follow what is being done in absolute detail.
+
+![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Put your iPhone in Airplane Mode
+
+ There is nothing worse than being in the middle of recording a great video, and then being interrupted by a notification. Even worse, since phones vibrate when they receive a notification, and it will ruin the entire video if that happens, since the phone will move and throw off the exposure and the light enhancements which you have been using.
+
+ Putting your phone in airplane mode allows you to stop any notifications from coming in at all, and thus keeping them from ruining your video.
+
+![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
+
+## Edit your Video with Filmora
+
+ Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+ Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-live-video-streaming-software/"><u>[New] Best Live Video Streaming Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>[New] Conquer the Clouds  Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-enhanced-visuals-projector-vs-tv-for-ultimate-4k-viewing-for-2024/"><u>[New] Enhanced Visuals  Projector Vs TV for Ultimate 4K Viewing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-ultimate-strategies-for-instagram-stories-mastery/"><u>[New] In 2024, Ultimate Strategies for Instagram Stories Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-to-viral-meme-innovation/"><u>[New] Secrets to Viral Meme Innovation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-every-angle-top-360-streaming-devices-reviewed/"><u>[Updated] Capture Every Angle  Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-charting-the-course-of-viral-stocks-and-stories/"><u>[Updated] Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-digest-exploring-google-podcast-apps-essence/"><u>[Updated] Complete Digest  Exploring Google Podcast App's Essence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-horizon-capture-setup-vr-for-2024/"><u>[Updated] Horizon Capture Setup VR for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-time-your-instagram-content-for-max-engagement/"><u>[Updated] In 2024, How to Time Your Instagram Content For Max Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-logitech-webcam-101-a-beginners-guide-to-video/"><u>[Updated] In 2024, Logitech Webcam 101  A Beginner's Guide to Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-21plus-novel-collage-formulas-amplify-your-mood/"><u>2024 Approved  21+ Novel Collage Formulas  Amplify Your Mood</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chucklechops-witworks-corp/"><u>2024 Approved  ChuckleChops  WitWorks Corp</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-strategies-for-acquiring-photo-and-video-backdrops/"><u>2024 Approved  Essential Strategies for Acquiring Photo & Video Backdrops</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-insightful-guide-to-using-showmore-for-professional-screen-recording/"><u>2024 Approved  Insightful Guide to Using ShowMore for Professional Screen Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-digital-content-in-pedagogic-contexts/"><u>2024 Approved  Navigating Digital Content in Pedagogic Contexts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies/"><u>2024 Approved  Optimal Charger Solutions for GoPro Hero5  Genuine & Imitative Companies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-comedic-image-editor/"><u>2024 Approved  Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-maximum-comfort-in-vr-landscape-for-2024/"><u>Achieving Maximum Comfort in VR Landscape for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-tips-for-drone-video-refining/"><u>Cutting-Edge Tips for Drone Video Refining</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-new-era-select-addons-and-browser-plugins-to-optimize-video-viewing-in-firefox-for-2024/"><u>Facebook's New Era  Select Addons & Browser Plugins to Optimize Video Viewing in Firefox for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-tozo-t6-connectivity-problems-on-the-latest-microsoft-operating-system-windows-11/"><u>Fixing Tozo T6 Connectivity Problems on the Latest Microsoft Operating System, Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foundations-of-frame-and-frequency-in-visual-media/"><u>Foundations of Frame and Frequency in Visual Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms/"><u>From Unwrapped to Personalized Perfection  10 Leading Shopping Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-mini-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 mini?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>In 2024, Access All Movies  IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-slow-mo-magic-with-gopro-hero-10/"><u>In 2024, Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-the-cloudscape-insights-into-gopro-karmas-operations/"><u>In 2024, Capturing the Cloudscape  Insights Into GoPro Karma's Operations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-costlesscapture-revolutionizing-how-you-record-play/"><u>In 2024, CostlessCapture  Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/joke-jugglers-androids-in-the-dead-zone/"><u>Joke Jugglers  Androids in the Dead Zone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mixer-connectivity-seamless-live-broadcast-on-macos/"><u>Mixer Connectivity  Seamless Live Broadcast on macOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-angular-video-transitions-on-android-devices/"><u>Navigate Angular Video Transitions on Android Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-photo-finishes-picarts-background-erase-method/"><u>Perfect Photo Finishes  PicArt's Background Erase Method</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/personalize-phone-chimes-a-whatsapp-tone-builders-manual/"><u>Personalize Phone Chimes  A WhatsApp Tone Builder's Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-photographers-toolkit-polarr-edition/"><u>The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/total-review-demystifying-googles-podcast-app/"><u>Total Review  Demystifying Google's Podcast App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xsplit-versus-obs-which-takes-live-streaming-to-the-next-level/"><u>XSplit versus OBS - Which Takes Live Streaming to the Next Level?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
