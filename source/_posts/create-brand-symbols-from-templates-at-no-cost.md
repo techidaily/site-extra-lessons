@@ -1,7 +1,7 @@
 ---
 title: "Create Brand Symbols From Templates at No Cost"
-date: 2024-08-26T19:30:34.372Z
-updated: 2024-08-27T19:30:34.372Z
+date: 2024-09-04T09:58:07.224Z
+updated: 2024-09-05T09:58:07.224Z
 tags: 
   - screen-recording
   - ai video
@@ -103,7 +103,10 @@ Unsplash provides current effect logo ideas for effective graphic creation. The 
 ![unsplash logo page](https://images.wondershare.com/filmora/article-images/2022/07/unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

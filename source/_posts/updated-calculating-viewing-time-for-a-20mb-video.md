@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Calculating Viewing Time for a 20Mb Video"
-date: 2024-08-26T19:28:21.217Z
-updated: 2024-08-27T19:28:21.217Z
+date: 2024-09-04T09:58:09.358Z
+updated: 2024-09-05T09:58:09.358Z
 tags: 
   - screen-recording
   - ai video
@@ -426,5 +426,8 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
