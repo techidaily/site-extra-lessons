@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Battle of the Titans  GoPro Hero4 Black Versus Drift Ghost-S\""
-date: 2024-09-04T09:58:05.332Z
-updated: 2024-09-05T09:58:05.332Z
+date: 2024-09-09T23:44:42.571Z
+updated: 2024-09-10T23:44:42.571Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,30 @@ keywords: "\"GoPro Hero4 Clash,Titans vs GoPro Hero4,Hero4 Battle Drift,GoPro Ti
 thumbnail: https://www.lifewire.com/thmb/kVXxldjY4nN2hgMn5Y-hRfsNJOk=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Catherine_Falls_Commercial_Getty_Images-a30e58e942654fddb4423949948f3a2e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battle of the Titans: GoPro Hero4 Black Versus Drift Ghost-S
 
 # GoPro Hero4 Black VS Drift Ghost-S
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -32,6 +50,12 @@ thumbnail: https://www.lifewire.com/thmb/kVXxldjY4nN2hgMn5Y-hRfsNJOk=/540x405/fi
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -71,16 +95,40 @@ thumbnail: https://www.lifewire.com/thmb/kVXxldjY4nN2hgMn5Y-hRfsNJOk=/540x405/fi
 
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2\.  Accessories in the Box
 
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
@@ -209,9 +257,3 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
