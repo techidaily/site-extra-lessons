@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"extra-lessons.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -694,14 +751,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/blueprint-for-thriving-in-virtual-events-stream-success-tips-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d93382b937c3fa171ed251d1.jpg" alt="&#34;Blueprint for Thriving In Virtual Events  Stream Success Tips for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d93382b937c3fa171ed251d1.jpg" alt="Blueprint for Thriving In Virtual Events Stream Success Tips for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/blueprint-for-thriving-in-virtual-events-stream-success-tips-for-2024/">
-                            &#34;Blueprint for Thriving In Virtual Events  Stream Success Tips for 2024&#34;
+                            Blueprint for Thriving In Virtual Events Stream Success Tips for 2024
                         </a>
                     </h3>
 
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/blueprint-for-thriving-in-virtual-events-stream-success-tips-for-2024/">Read more<span class="seo-reader-text">&#34;Blueprint for Thriving In Virtual Events  Stream Success Tips for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/blueprint-for-thriving-in-virtual-events-stream-success-tips-for-2024/">Read more<span class="seo-reader-text">Blueprint for Thriving In Virtual Events Stream Success Tips for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -790,14 +847,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr-for-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e452b20253ad5c2d81a1eb51a.jpg" alt="&#34;Beyond Illusion  The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e452b20253ad5c2d81a1eb51a.jpg" alt="Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr-for-2024/">
-                            &#34;Beyond Illusion  The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024&#34;
+                            Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024
                         </a>
                     </h3>
 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr-for-2024/">Read more<span class="seo-reader-text">&#34;Beyond Illusion  The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr-for-2024/">Read more<span class="seo-reader-text">Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, &amp; MR) for 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -886,14 +943,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/breathing-life-into-bios-a-zodiac-perspective/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066afd0af7e2373c813aa6b6f85.jpg" alt="&#34;Breathing Life Into Bios  A Zodiac Perspective&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066afd0af7e2373c813aa6b6f85.jpg" alt="Breathing Life Into Bios A Zodiac Perspective" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/breathing-life-into-bios-a-zodiac-perspective/">
-                            &#34;Breathing Life Into Bios  A Zodiac Perspective&#34;
+                            Breathing Life Into Bios A Zodiac Perspective
                         </a>
                     </h3>
 
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/breathing-life-into-bios-a-zodiac-perspective/">Read more<span class="seo-reader-text">&#34;Breathing Life Into Bios  A Zodiac Perspective&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/breathing-life-into-bios-a-zodiac-perspective/">Read more<span class="seo-reader-text">Breathing Life Into Bios A Zodiac Perspective</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1078,14 +1135,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/best-value-in-cloud-storage-a-2024-price-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/rQ3q4SoJdzdvXlfXUbIk9JHjOFk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/watchcnnplus-7287fbb439934fd7a21cd7c8389b3147.jpg" alt="&#34;Best Value in Cloud Storage - A 2024 Price Guide&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://www.lifewire.com/thmb/rQ3q4SoJdzdvXlfXUbIk9JHjOFk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/watchcnnplus-7287fbb439934fd7a21cd7c8389b3147.jpg" alt="Best Value in Cloud Storage - A 2024 Price Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/best-value-in-cloud-storage-a-2024-price-guide/">
-                            &#34;Best Value in Cloud Storage - A 2024 Price Guide&#34;
+                            Best Value in Cloud Storage - A 2024 Price Guide
                         </a>
                     </h3>
 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/best-value-in-cloud-storage-a-2024-price-guide/">Read more<span class="seo-reader-text">&#34;Best Value in Cloud Storage - A 2024 Price Guide&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/best-value-in-cloud-storage-a-2024-price-guide/">Read more<span class="seo-reader-text">Best Value in Cloud Storage - A 2024 Price Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1174,14 +1231,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/canva-skills-purging-images-of-their-surroundings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab0995e73547b18cbc746d1e9.png" alt="&#34;Canva Skills  Purging Images of Their Surroundings&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab0995e73547b18cbc746d1e9.png" alt="Canva Skills Purging Images of Their Surroundings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/canva-skills-purging-images-of-their-surroundings/">
-                            &#34;Canva Skills  Purging Images of Their Surroundings&#34;
+                            Canva Skills Purging Images of Their Surroundings
                         </a>
                     </h3>
 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/canva-skills-purging-images-of-their-surroundings/">Read more<span class="seo-reader-text">&#34;Canva Skills  Purging Images of Their Surroundings&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/canva-skills-purging-images-of-their-surroundings/">Read more<span class="seo-reader-text">Canva Skills Purging Images of Their Surroundings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1462,14 +1519,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/best-practices-in-upgrading-to-a-high-end-4k-camera-lens/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87d13a642256000f5335eb2cc.jpg" alt="&#34;Best Practices in Upgrading to a High-End 4K Camera Lens&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87d13a642256000f5335eb2cc.jpg" alt="Best Practices in Upgrading to a High-End 4K Camera Lens" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/best-practices-in-upgrading-to-a-high-end-4k-camera-lens/">
-                            &#34;Best Practices in Upgrading to a High-End 4K Camera Lens&#34;
+                            Best Practices in Upgrading to a High-End 4K Camera Lens
                         </a>
                     </h3>
 
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/best-practices-in-upgrading-to-a-high-end-4k-camera-lens/">Read more<span class="seo-reader-text">&#34;Best Practices in Upgrading to a High-End 4K Camera Lens&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/best-practices-in-upgrading-to-a-high-end-4k-camera-lens/">Read more<span class="seo-reader-text">Best Practices in Upgrading to a High-End 4K Camera Lens</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1558,14 +1615,14 @@
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
                         <a href="/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4f39254b71c759c472e8e33a.jpg" alt="&#34;Bridging Caption Gaps  Perfecting Word Placement on Windows/Mac Photos&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                            <img src="https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4f39254b71c759c472e8e33a.jpg" alt="Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
                         <a href="/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/">
-                            &#34;Bridging Caption Gaps  Perfecting Word Placement on Windows/Mac Photos&#34;
+                            Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos
                         </a>
                     </h3>
 
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/">Read more<span class="seo-reader-text">&#34;Bridging Caption Gaps  Perfecting Word Placement on Windows/Mac Photos&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/">Read more<span class="seo-reader-text">Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
