@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-09-09T23:44:46.081Z
-updated: 2024-09-10T23:44:46.081Z
+date: 2024-09-13T02:44:30.595Z
+updated: 2024-09-16T21:58:46.350Z
 tags: 
   - screen-recording
   - ai video
@@ -16,32 +16,14 @@ keywords: "\"Speed Racing Leaders 2022,Top Racers 2022,Fastest Drivers 2022,Elit
 thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a099867df0bbc5e1bf070a408f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Speed Kings and Queens of 2022
 
 Putting aside the controversy of getting disqualified in 1000 meter short track speed skating, South Korean skater Hwang Dae-heon has captured gold in men’s 1500 meter short track speed skating Olympics 2022\. Hwang Dae-heon managed to beat Canada’s Steven Dubois by the tightest margin of 0.035 seconds. He completed short track speed skating 1500m in 2 minutes and 9.219 seconds.
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -78,12 +60,6 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -99,11 +75,18 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -123,11 +106,12 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -138,65 +122,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-organizing-epics-implementing-chapters-in-vimeo-media/"><u>[New] 2024 Approved  Organizing Epics  Implementing Chapters in Vimeo Media</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-steering-clear-of-the-8-most-frequent-pitfalls-for-first-time-youtubers/"><u>[New] 2024 Approved  Steering Clear of the 8 Most Frequent Pitfalls for First-Time YouTubers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>[New] 8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audio-overhaul-methods-for-content-creators-online/"><u>[New] In 2024, Audio Overhaul Methods for Content Creators Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-tips-activating-or-deactivating-youtube-comments/"><u>[New] In 2024, Expert Tips  Activating or Deactivating YouTube Comments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[Updated] Behind the Screen  Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-6-cheap-4k-projectors/"><u>[Updated] Best 6 Cheap 4K Projectors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[Updated] Capture Clarity  Optimal Tripods for iPhone & Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-choosing-your-camera-companion-for-editing-hero-session-x-vs-cube/"><u>[Updated] Choosing Your Camera Companion for Editing  Hero Session X V/S Cube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-iphone-camera-roll-synergy-with-snapchat-sharing-for-2024/"><u>[Updated] IPhone Camera Roll Synergy with Snapchat Sharing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-masterclass-in-connecting-ig-and-tiktok/"><u>[Updated] Masterclass in Connecting IG & TikTok</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-cloud-based-seminar-snapshots/"><u>2024 Approved  Cloud-Based Seminar Snapshots</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dividing-footage-top-splitcams-worth-in-review/"><u>2024 Approved  Dividing Footage  Top SplitCam's Worth in Review?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-itel-p55-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Itel P55 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>Drone Flight Smoothness  Choosing a Gimbal Wisely</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-your-live-broadcast-with-mixer-on-macos/"><u>Elevating Your Live Broadcast with Mixer on macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-cinematic-experience-camera-upgrade-tips/"><u>Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-insight-on-sierras-icloud-drive-accessibility/"><u>Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-notorious-usb-driver-error-resolving-blue-screen-of-death-in-windows-10/"><u>Fixing the Notorious USB Driver Error: Resolving Blue Screen of Death in Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-zooms-potential-with-key-conversion-techniques/"><u>Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/high-end-methods-for-monitoring-and-recording-pc-sounds/"><u>High-End Methods for Monitoring and Recording PC Sounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-performance-gpus-for-4k-vision/"><u>High-Performance GPUs for 4K Vision</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-boost-your-productivity-combining-chatgpt-with-visual-studio-code/"><u>How to Boost Your Productivity: Combining ChatGPT with Visual Studio Code</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-prevent-your-iphone-apps-from-suddenly-quitting-the-complete-fix-list/"><u>How to Prevent Your iPhone Apps From Suddenly Quitting - The Complete Fix List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-resolve-origin-application-failures-on-windows-versions-10-and-11/"><u>How to Resolve Origin Application Failures on Windows Versions 10 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g13-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G13 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-social-media-optimal-video-converters-for-twitters/"><u>In 2024, Conquer Social Media  Optimal Video Converters for Twitters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-story-pace-with-instagrams-temp-control-feature/"><u>In 2024, Craft Your Story Pace with Instagram's Temp Control Feature</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-on-selecting-the-finest-displays-for-your-xbox-series-x-console/"><u>In 2024, Game On  Selecting the Finest Displays for Your Xbox Series X Console</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>In 2024, Mastering PUBG  Effective Techniques for Altering Your Vocal Presence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-curves-decoded-a-beginners-guide/"><u>In 2024, Photoshop Curves Decoded  A Beginner's Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-10-facebook-jail-secrets-to-avoid-being-blocked-get-out-of-it/"><u>In 2024, Top 10 Facebook Jail Secrets to Avoid Being Blocked / Get Out of It</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-sony-xperia-5-v-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Sony Xperia 5 V Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-the-art-of-9gag-memes-tips-for-creativity-and-impact/"><u>Master the Art of 9GAG Memes  Tips for Creativity and Impact</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>Mastering iPhone Sky Photography  Essential Tips & Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-vivacut-an-exhaustive-2024-review/"><u>Mastering VivaCut  An Exhaustive 2024 Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-basics-of-zoom-meeting-setup/"><u>Navigating the Basics of Zoom Meeting Setup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pazera-free-extractor-analysis-the-ultimate-guide-to-2024-sound-freedom/"><u>Pazera Free Extractor Analysis  The Ultimate Guide to 2024 Sound Freedom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-edits-start-on-all-your-tech/"><u>Seamless Edits Start on All Your Tech</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamline-your-media-experience-add-subtitles-in-windows-media-player/"><u>Streamline Your Media Experience  Add Subtitles in Windows Media Player</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-complete-audio-editors-journey-through-garageband-for-2024/"><u>The Complete Audio Editor's Journey Through GarageBand for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>Transform Your iPhone Footage  Filming and Slowing Down Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transformative-srt-to-txt-guide-for-time-saving/"><u>Transformative SRT to TXT Guide for Time-Saving</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-poco-x5-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zerobackground-pro-precision-erasing-for-photos/"><u>ZeroBackground Pro  Precision Erasing for Photos</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -204,3 +132,23 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-top-10-best-drones-with-camera-for-filming-and-photography-for-2024/"><u>[New] Top 10 Best Drones with Camera for Filming and Photography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[Updated] In 2024, Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-crafting-a-complete-media-experience-mixing-music-and-video-in-premiere-pro/"><u>2024 Approved Crafting a Complete Media Experience Mixing Music and Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speech-tuning-made-simple-on-sony-playstation-consoles/"><u>2024 Approved Speech Tuning Made Simple on Sony PlayStation Consoles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps-for-2024/"><u>Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-overcoming-batman-arkham-knights-sudden-freezes-and-critical-bugs/"><u>Fixes and Solutions: Overcoming Batman: Arkham Knight's Sudden Freezes & Critical Bugs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-blaze-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Blaze Pro 5G?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>In 2024, Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/incorporating-multimedia-in-school-curricula/"><u>Incorporating Multimedia in School Curricula</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-approaches-for-podcast-cover-art-mastery/"><u>Innovative Approaches for Podcast Cover Art Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mellow-melodies-gradual-audio-decline-in-garageband/"><u>Mellow Melodies Gradual Audio Decline in Garageband</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-steadicam-options-for-high-end-dslr-video-production/"><u>The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-future-of-language-learning-how-to-do-it-in-the-21st-century/"><u>The Future Of Language Learning: How To Do It In The 21St Century!</u></a></li>
+</ul></div>
+

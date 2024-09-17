@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Best Practices for Safe, No-Cost VLC Player Download on Apple Systems\""
-date: 2024-09-09T23:44:49.070Z
-updated: 2024-09-10T23:44:49.070Z
+date: 2024-09-11T04:31:49.624Z
+updated: 2024-09-16T16:25:51.073Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Oct 26, 2023• Proven solutions
@@ -48,12 +42,6 @@ Section4\. [How to Download and Install VLC Player on Mac? \[Step-by-Step Guide\
 
 You May Also Like: [Best Way to Trim VLC Without Losing Quality](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Section 1.How to Assess a Website?
 
 Here are a few ways to understand if a site from where you are downloading VLC player for Mac is malicious or not.
@@ -64,15 +52,16 @@ Checking the green padlock presence is a good start. This shows that the site ha
 
 SSL certificates come at a cheap price and a cybercriminal knows where they can get them almost for free. So, click on the green padlock to find out who has issued the certificate. You can also check the other sites that have received their SSL certificate from this particular authority.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### • Use a Browser Extension or a Trusted Anti-Virus Software
 
 There are many free applications and browser extensions that will warn you about shady sites. This software can alert you when you try to open a site that they know to be the home of scammers and malware. Install such software or add it to your browser to recognize malicious sites and domains.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • Read Third-Party Reviews
 
@@ -85,11 +74,12 @@ In case a site doesn’t have reviews, it means it has only started operating an
 There are a few methods that you can use to weed out the malware from the downloaded files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### • Check The Digital Signature Of The File
 
 The digital signature of a file can be verified after you have downloaded it. This shows if the downloaded file has been signed by the particular party.
@@ -97,21 +87,16 @@ The digital signature of a file can be verified after you have downloaded it. Th
 Every cybercriminal has one thing in common. They know how to trick people. Hence, you should just accept a website to be trustworthy and download the VLC file simply because it features the logo of a trustworthy company on the homepage. Logo images are available online and they can be planted on a malware site.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### • Compare the Checksum To The Actual File
 
 A checksum is actually a sequence of letters or numbers used for checking data for errors. In case you know that the checksum is an original file, compare it to the file that you have downloaded. Mac has built-in options for calculating the file’s checksum.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### • Run A Malware Scan
 
 You can also use an anti-malware scanner. This can double-check if you are downloading an infected file.
@@ -122,6 +107,13 @@ In case you are looking for a website to download VLC player on your Mac, check 
 
 ![](https://images.wondershare.com/filmora/Mac-articles/vlc-media-player-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 • [VideoLAN.org](https://www.videolan.org/): This is the official site to download VLC media player for free.
 
 • CNET: This is one of the trustworthy websites offering the VLC player for free. It provides you the latest version of the software.
@@ -131,6 +123,13 @@ In case you are looking for a website to download VLC player on your Mac, check 
 • [Uptodown](https://cn.uptodown.com/mac): The site offers the latest version of VLC players and is easy to download.
 
 • [Mac.filehorse.com](https://mac.filehorse.com/): It is a legitimate site to download VLC media player easily.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Section 4.How to Download and Install VLC Player on Mac?
 
@@ -158,22 +157,10 @@ If you don’t know how to download and install this software, follow the instru
 
  ![](https://images.wondershare.com/filmora/Mac-articles/double-click-vlc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step8\.** VLC player is going to launch for the first time. Use it for playing your favorite movie or video any time you want.
 
 ![vlc launch](https://images.wondershare.com/filmora/Mac-articles/vlc-launch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Conclusion
 
 VLC Media Player is feature-packed and easy to use software. It can play a wide range of image, audio, and video files. With the help of this, you will be able to play multi-media files directly from Mac. All you have to do is make sure that you are not downloading a malicious file.
@@ -182,74 +169,11 @@ VLC Media Player is feature-packed and easy to use software. It can play a wide 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[New] 2024 Approved  From Blurry to Bold  Crafting Powerful YouTube Previews</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-video-edits-essential-mp4-tools-for-mac-users/"><u>[New] 2024 Approved  Mastering Video Edits  Essential MP4 Tools for Mac Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-an-overview-and-comparative-study-of-googles-augmented-reality-stickers/"><u>[New] An Overview and Comparative Study of Google's Augmented Reality Stickers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-amplification-adding-tracks-to-premiere-projects-with-ease/"><u>[New] Audio Amplification  Adding Tracks to Premiere Projects with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-augmented-reality-on-android-a-step-towards-future-viewing/"><u>[New] Augmented Reality on Android - A Step Towards Future Viewing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-beyond-the-basics-advanced-video-splitting/"><u>[New] Beyond the Basics  Advanced Video Splitting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bigger-captures-intact-detail-quality/"><u>[New] Bigger Captures, Intact Detail Quality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-celebrating-the-greats-anime-opens-of-all-time/"><u>[New] Celebrating the Greats  Anime Opens of All Time</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-software-stacks-for-photo-to-video-transformations/"><u>[New] Premium Software Stacks for Photo-To-Video Transformations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sound-signatures-curating-the-best-music-for-podcast-introductions/"><u>[New] Sound Signatures  Curating the Best Music for Podcast Introductions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques/"><u>[Updated] [Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dslrs-rivalry-with-mirrorless-for-video-artistry/"><u>[Updated] 2024 Approved  DSLR's Rivalry with Mirrorless for Video Artistry</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[Updated] 2024 Approved  Superstar Status Secrets  A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-30-probing-into-the-metaverse-key-ventures-deciphered/"><u>[Updated] 30 Probing Into the Metaverse  Key Ventures Deciphered</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-kinemaster-editors-roadmap-for-flawless-transitions/"><u>[Updated] A Kinemaster Editor's Roadmap for Flawless Transitions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-compelling-online-livestreams-from-a-single-source/"><u>[Updated] Crafting Compelling Online Livestreams From a Single Source</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-monitoring-friends-lost-in-instagram-world/"><u>[Updated] Monitoring Friends Lost in Instagram World</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unleashing-power-plays-exclusive-insights-into-best-7-total-war-battles-for-2024/"><u>[Updated] Unleashing Power Plays  Exclusive Insights Into Best 7 Total War Battles for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>2024 Approved  Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>2024 Approved  Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/echoes-for-every-call-the-ultimate-guide-to-tamil-ringtones/"><u>Echoes for Every Call  The Ultimate Guide to Tamil Ringtones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guidelines-for-creating-emotional-connection-in-client-spots/"><u>Essential Guidelines for Creating Emotional Connection in Client Spots</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-steps-for-diminishing-audio-intensity-in-lumafusion/"><u>Essential Steps for Diminishing Audio Intensity in Lumafusion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-recommendations-free-and-paid-hd-playback-for-pcmacos/"><u>Expert Recommendations  Free & Paid HD Playback for PC/macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/filmforge-editor8x/"><u>FilmForge Editor8X</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/freely-accessing-pinterest-vids-top-5-free-downloader-rankings/"><u>Freely Accessing Pinterest Vids  Top 5 Free Downloader Rankings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-realism-to-fantasy-how-green-screen-paints-new-worlds/"><u>From Realism to Fantasy  How Green Screen Paints New Worlds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-modeling-software-for-animation-professionals/"><u>Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-11-easy-to-produce-vlog-projects-at-home/"><u>In 2024, 11 Easy-to-Produce Vlog Projects at Home</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-screens-ever-the-ultimate-top-ten/"><u>In 2024, Best Screens Ever – The Ultimate Top Ten</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-blending-images-for-a-captivating-visual-journey/"><u>In 2024, Blending Images for a Captivating Visual Journey</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-transform-meetings-with-a-simple-webcam-record/"><u>In 2024, Transform Meetings with a Simple Webcam Record</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-me-driver-recovery-protocols/"><u>Intel Me Driver Recovery Protocols</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximizing-visual-clarity-on-kinemaster-projects/"><u>Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/preserving-the-past-in-motion-photo-to-video-transition/"><u>Preserving the Past in Motion  Photo to Video Transition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-crafting-your-own-insta-tones/"><u>Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-pinpointing-perfect-pexels-photographs/"><u>The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-powerdirector-2024-guide/"><u>The Complete PowerDirector 2024 Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-truth-behind-4-compelling-arguments-to-purchase-walmartplus/"><u>The Truth Behind 4 Compelling Arguments to Purchase Walmart+</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>The Ultimate Guide  Stop Snippet Playback on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-where-to-find-and-download-your-next-read-without-spending-a-penny/"><u>The Ultimate List: Where to Find & Download Your Next Read Without Spending a Penny</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>Unlock Advanced Editing  Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ustream-live-and-comparable-platforms/"><u>Ustream Live & Comparable Platforms</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/xiaomi-redmi-12-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi Redmi 12 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -257,3 +181,17 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-top-notch-gopro-cinematography-step-by-step/"><u>[New] Crafting Top-Notch GoPro Cinematography Step by Step</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-viewing-time-for-a-20mb-video/"><u>[Updated] Calculating Viewing Time for a 20Mb Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations/"><u>2024 Approved Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-trust-the-safety-of-your-data-on-chatgpt-platforms/"><u>Can You Trust the Safety of Your Data on ChatGPT Platforms?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expanding-your-audience-on-youtube-step-by-step/"><u>Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mind-maze-spectacle-exclusive-trivia-channel-line-up/"><u>In 2024, Mind Maze Spectacle Exclusive Trivia Channel Line-Up</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swinging-sparrow-suites/"><u>Swinging Sparrow Suites</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-of-vignette-apps-for-mobile-free-paid-and-everything-in-between/"><u>Updated In 2024, The Ultimate List of Vignette Apps for Mobile Free, Paid, and Everything in Between</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Face Off: Evaluating Wireless Router Showdown - Archer AX6000 Against the Nighthawk AX12"
-date: 2024-09-09T23:44:44.899Z
-updated: 2024-09-10T23:44:44.899Z
+date: 2024-09-15T01:45:40.834Z
+updated: 2024-09-17T05:21:23.829Z
 categories:
   - BestProducts
 description: "This Article Describes Face Off: Evaluating Wireless Router Showdown - Archer AX6000 Against the Nighthawk AX12"
@@ -9,32 +9,14 @@ excerpt: "This Article Describes Face Off: Evaluating Wireless Router Showdown -
 thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60b805be21432cf623922316c.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Performance of the Netgear Nighthawk AX8 as a Next-Gen Wi-Fi 6 Mesh Extender Solution
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/GshnCnk_G-hNSwDTRjGVB28Nl-o=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_HeroSquare-f1971c8abc1a45b7a589b440ee06f5cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Andrew Hayward
 
  What We Like
@@ -105,25 +87,14 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/xru8JLL_UOk3sXBYpbrOyAl-ihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_02-b120eab8816746338c53e4eb1cfc62d6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Connectivity: Smooth sailing**
 
  Once through the hassle of setup, the Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender really did deliver strong performance. I tested the connection in my office, which reliably sees reduced 5GHz reception from my router due to obstructions in between, and saw a noticeable boost in both reception and speed.
@@ -141,11 +112,12 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -153,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
  It’s billed as an “8-stream” device, so it should be able to handle several simultaneous media streams at once, with a billed max speed of 4.8Gbps on the 5GHz band and 1.2Gbps on the 2.4GHz band. It has[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) (multiple users, multi-in multi-out) and beamforming capabilities, promising expanded range of up to 2,500 square feet and support for 30+ simultaneous devices.
 
  If you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi mesh system instead.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: More than most**
 
@@ -187,8 +166,6 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,67 +175,12 @@ thumbnail: https://thmb.techidaily.com/14c6c9cb1c4c33ba818b93d76e13d5e2d13b83e60
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] 2024 Approved  Creating a Captivating Experience with Your First Facebook Live</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-beyond-the-basics-advanced-video-splitting/"><u>[New] Beyond the Basics  Advanced Video Splitting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-breaking-down-anonymous-instagram-streaming-techniques/"><u>[New] Breaking Down Anonymous Instagram Streaming Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-bringing-lectures-to-life-effective-editing-techniques/"><u>[New] Bringing Lectures to Life  Effective Editing Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-close-up-mastery-in-film-production/"><u>[New] Close-Up Mastery in Film Production</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-command-your-tech-not-money-needed/"><u>[New] Command Your Tech, Not Money Needed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>[New] Comprehensive Commentary  Delving Deep Into Bublcam's 360-Degree World</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-easy-steps-for-ios-and-android-capture-google-meet/"><u>[New] Easy Steps for iOS and Android  Capture Google Meet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-camslice-critique/"><u>[New] In 2024, CamSlice Critique</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-melodic-movies-the-art-of-making-musical-reels/"><u>[New] Melodic Movies  The Art of Making Musical Reels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-optimal-platforms-for-remote-team-engagement-for-2024/"><u>[New] Optimal Platforms for Remote Team Engagement for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-skyrocket-fb-engagement-enhancing-page-rankings-for-2024/"><u>[New] Skyrocket FB Engagement  Enhancing Page Rankings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-the-world-of-instagram-posts-large-imagevideo-uploads/"><u>[Updated] 2024 Approved  Navigating the World of Instagram Posts  Large Image/Video Uploads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>[Updated] Analyzing Android's Best Editor  Is PickUp at the Peak of Performance?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bebops-avian-evolution-strikes-again-with-parrot-2/"><u>[Updated] Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comparing-m1-powered-laptops-to-videographers-needs/"><u>[Updated] Comparing M1-Powered Laptops to Videographers' Needs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-4-facebook-film-compiler/"><u>[Updated] In 2024, Ultimate 4 Facebook Film Compiler</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>[Updated] The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-wi-fi-mesh-networking-solve-your-connectivity-issues-effectively/"><u>Can Wi-Fi Mesh Networking Solve Your Connectivity Issues Effectively?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-your-ultimate-style-haul-video/"><u>Crafting Your Ultimate Style Haul Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guidelines-for-creating-emotional-connection-in-client-spots/"><u>Essential Guidelines for Creating Emotional Connection in Client Spots</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-steps-for-diminishing-audio-intensity-in-lumafusion/"><u>Essential Steps for Diminishing Audio Intensity in Lumafusion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-and-tricks-for-correcting-device-driver-missing-mishaps-during-windows-7-install/"><u>Essential Tips & Tricks for Correcting 'Device Driver Missing' Mishaps During Windows 7 Install</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-tips-for-creating-engaging-screencasts-for-2024/"><u>Expert Tips for Creating Engaging Screencasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/express-faster-window-photo-sorter/"><u>Express Faster Window Photo Sorter</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/filmforge-editor8x/"><u>FilmForge Editor8X</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/game-on-mobile-funimate-apk-setup-simplified/"><u>Game On Mobile  Funimate APK Setup Simplified</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-elitebook-8460p-driver-updates-for-your-windows-pc-solutions-inside/"><u>Get the Latest HP EliteBook 8460P Driver Updates for Your Windows PC - Solutions Inside</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-z-flip-5-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy Z Flip 5 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-modeling-software-for-animation-professionals/"><u>Ideal Modeling Software for Animation Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-11-easy-to-produce-vlog-projects-at-home/"><u>In 2024, 11 Easy-to-Produce Vlog Projects at Home</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-7-leading-budget-4k-mirrorless-cameras-(1k/"><u>In 2024, 7 Leading Budget 4K Mirrorless Cameras (<$1K)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-assessing-inshots-superiority-in-the-editing-arena/"><u>In 2024, Assessing InShot's Superiority in the Editing Arena</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-barebones-calm-music-selection/"><u>In 2024, Barebones Calm Music Selection</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-best-youtube-to-mp3-converters-free-download-onlinewinmac/"><u>In 2024, Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-essential-tools-for-crafting-a-competitive-business-plan/"><u>In 2024, Essential Tools for Crafting a Competitive Business Plan</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-xs-max-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone XS Max iCloud Bypass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-narrative-scripts-dialogue-excellence/"><u>In 2024, Perfecting Narrative Scripts  Dialogue Excellence</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-easy-guide-to-enhancing-images-via-iphone-cropping/"><u>In 2024, The Easy Guide to Enhancing Images via iPhone Cropping</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 14 Pro Max Making It Possible</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-motion-assessment-2023/"><u>In-Depth Motion Assessment 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ai-applications-redefining-online-research/"><u>Innovative AI Applications Redefining Online Research</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instructions-for-installing-windows-movie-maker-6/"><u>Instructions for Installing Windows Movie Maker 6</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/optimizing-apex-dive-deep-into-single-platform-solitude/"><u>Optimizing Apex  Dive Deep Into Single-Platform Solitude</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/preserving-the-past-in-motion-photo-to-video-transition/"><u>Preserving the Past in Motion  Photo to Video Transition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rapid-reader-of-windows-photos-and-images/"><u>Rapid Reader of Windows Photos & Images</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>Shortcut to Go-To Tags  Maximizing Your YouTube Impact</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>Step-by-Step Guide  Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-crafting-your-own-insta-tones/"><u>Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-solutions-for-connecting-to-rainbow-six-siege-servers/"><u>Step-by-Step Solutions for Connecting to Rainbow Six Siege Servers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-and-science-of-writing-smart-slug-lines/"><u>The Art and Science of Writing Smart Slug Lines</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-pinpointing-perfect-pexels-photographs/"><u>The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-producing-professional-gopro-video-content/"><u>The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range/"><u>The Evolution of Video  From SDR to the Era of High Dynamic Range</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-next-generation-of-video-splitters-post-xplit/"><u>The Next Generation of Video Splitters Post-Xplit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-essential-laptop-skins-for-dynamic-screens/"><u>Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-tutorial-for-professional-gopro-cinematography/"><u>Ultimate Tutorial for Professional GoPro Cinematography</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-reno-11f-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 11F 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveil-top-10plus-platforms-for-virtual-worship-spaces/"><u>Unveil Top 10+ Platforms for Virtual Worship Spaces</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-how-luts-transform-visual-elements-in-photos/"><u>Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ustream-live-and-comparable-platforms/"><u>Ustream Live & Comparable Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-strategies-for-uninterrupted-facebook-broadcasts-for-2024/"><u>[New] Essential Strategies for Uninterrupted Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>[Updated] Battle of the Titans GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/choosing-the-perfect-screen-how-to-select-the-ideal-television-size/"><u>Choosing the Perfect Screen: How to Select the Ideal Television Size</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-review-and-comparison-is-mapmyride-right-for-you/"><u>Detailed Review and Comparison: Is MapMyRide Right for You?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enabling-pip-for-youtube-viewing-on-your-iphone/"><u>Enabling PIP for YouTube Viewing on Your iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
 </ul></div>
+

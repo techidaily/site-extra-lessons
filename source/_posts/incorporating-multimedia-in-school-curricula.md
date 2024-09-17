@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Multimedia in School Curricula"
-date: 2024-09-09T23:44:49.103Z
-updated: 2024-09-10T23:44:49.103Z
+date: 2024-09-13T21:56:29.327Z
+updated: 2024-09-16T16:39:24.441Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "School Media Integration,Multimedia Learning Courses,EdTech In Classr
 thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a15d7fcb3455927615d5179aa.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Incorporating Multimedia in School Curricula
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
 
 Video in education can help the Teachers and Students as well.
@@ -51,38 +39,14 @@ Some schools find that synchronous videos are a great way to keep the students c
 
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -137,41 +101,28 @@ More and more research supporting the advantages of blended learning will suppor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accelerating-or-slowing-down-video-playback-on-insta-stories/"><u>[New] Accelerating or Slowing Down Video Playback on Insta Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-anonymous-live-on-instagram-the-sneaky-techniques/"><u>[New] Anonymous Live on Instagram  The Sneaky Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audacity-workshop-eloquent-silent-transitions/"><u>[New] Audacity Workshop  Eloquent Silent Transitions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chill-championships-highlighting-cold-climates-sports/"><u>[New] Chill Championships  Highlighting Cold Climates Sports</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-zen-like-jams-top-20-relaxing-country-anthems-for-stress-free-dancing-tiktok-for-2024/"><u>[New] Zen-Like Jams  Top 20 Relaxing Country Anthems for Stress-Free Dancing (TikTok) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-experts-choice-top-8-proven-video-marketing-actions/"><u>[Updated] 2024 Approved  Expert's Choice  Top 8 Proven Video Marketing Actions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-briskly-building-your-own-google-collages/"><u>[Updated] Briskly Building Your Own Google Collages</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[Updated] Camera Editing Showdown  Hero Vs. Cube's Battle of the Screens</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-outsmart-youtube-sanctions-for-2024/"><u>[Updated] How to Outsmart Youtube Sanctions for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-tips-for-successful-video-game-broadcasting/"><u>[Updated] In 2024, Tips for Successful Video Game Broadcasting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-photographers-picks-top-6-high-resolution-4k-dslrs/"><u>[Updated] Pro Photographers' Picks  Top 6 High-Resolution 4K DSLRs</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-a-private-online-presence-essential-tips-for-fb-users/"><u>Crafting a Private Online Presence: Essential Tips for FB Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15 Pro</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-14-how-to-unlock-a-disabled-apple-iphone-14-by-drfone-ios/"><u>Disabled Apple iPhone 14 How to Unlock a Disabled Apple iPhone 14?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/engaging-openers-perfecting-podcast-intro-techniques/"><u>Engaging Openers  Perfecting Podcast Intro Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellence-in-image-making-via-premium-grid-makers/"><u>Excellence in Image Making via Premium Grid Makers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-deals-on-superior-quality-economical-asmr-mics/"><u>Exclusive Deals on Superior-Quality, Economical ASMR Mics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-spectrum-analysis-unpacking-adobes-data-preservation-and-alternatives/"><u>Full Spectrum Analysis  Unpacking Adobe's Data Preservation and Alternatives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-version-of-sas-driver-for-windows-os-xpvista7/"><u>How to Install the Latest Version of SAS Driver for Windows OS (XP/Vista/7)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-googles-ar-interactive-graphics/"><u>In 2024, Alternatives to Google's AR Interactive Graphics</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-following-with-captivating-instagram-reels/"><u>In 2024, Building a Following with Captivating Instagram Reels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chronological-tagging-adding-times-to-youtube-vids/"><u>In 2024, Chronological Tagging  Adding Times to YouTube Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-on-sharing-colossal-video-content-ios-to-mac-connection/"><u>In 2024, Expert Tips on Sharing Colossal Video Content  IOS to Mac Connection</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-remote-connectivity-a-step-by-step-guide-for-your-samsung-smart-tv/"><u>Mastering Remote Connectivity: A Step-by-Step Guide for Your Samsung Smart TV</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/mobilemediamender-regaining-lost-files/"><u>MobileMediaMender: Regaining Lost Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-dell-computer-step-by-step-instructions-for-downloading-and-updating-the-wireless-network-adapter-driver/"><u>Revitalize Your Dell Computer: Step-by-Step Instructions for Downloading and Updating the Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>Savory Scenes  Mastering the Art of Eating-Focused Filmography</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/strike-a-chord-with-instagram-reels-using-tiktoks-hit-hacks/"><u>Strike a Chord with Instagram Reels Using TikTok's Hit Hacks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/subtlety-in-volume-reduction-for-audacity-projects/"><u>Subtlety in Volume Reduction for Audacity Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-quickest-way-to-entertain-kapwing-memes/"><u>The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-lifelike-photo-editing-apps-on-ios-devices/"><u>Top 10 Lifelike Photo Editing Apps on iOS Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>Tune & Time Lapses  Creating Music Videos with Your Phone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>Ultimate Guide to Bandicam  The 2023 Comprehensive Overview</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zero-budget-football-broadcasting-101/"><u>Zero Budget Football Broadcasting 101</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chromebook-zoom-excellence-must-know-strategies/"><u>[New] Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-360-degree-panoramic-stands/"><u>[Updated] In 2024, 360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-perfecting-your-content-chrome-compatible-tiktok-uploads-for-2024/"><u>[Updated] Perfecting Your Content Chrome-Compatible TikTok Uploads for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-spark-10-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Spark 10 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visual-magic-the-power-of-luts-in-ar-environments/"><u>Crafting Visual Magic The Power of LUTs in AR Environments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-strategies-for-efficient-lut-design/"><u>Cutting-Edge Strategies for Efficient LUT Design</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-facebook-gesture-interface-value/"><u>Deciphering Facebook Gesture Interface Value</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drones-and-cams-clash-dji-action-gopro-max-360-x3/"><u>Drones & Cams Clash DJi Action, GoPro Max 360, X3</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embracing-the-commons-digital-access-to-classics/"><u>Embracing the Commons Digital Access to Classics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/extracted-image-selection-from-videos-to-windows-photos/"><u>Extracted Image Selection From Videos to Windows Photos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-12plus-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 12+ 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-top-10-best-hexacopter-drones/"><u>In 2024, Top 10 Best Hexacopter Drones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>Updated In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/years-ultimate-yt-story-creators-list/"><u>Year's Ultimate YT Story Creators List</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

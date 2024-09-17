@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-09-09T23:44:45.120Z
-updated: 2024-09-10T23:44:45.120Z
+date: 2024-09-14T03:00:19.860Z
+updated: 2024-09-17T02:11:19.988Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "\"Lighting Magic,Enchanted Audience,Dazzling Backgrounds,Eye-Catching
 thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb2da71ac3ca94b7300f4d4b3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Brilliant Backdrops: Using Light to Enchant Audiences
 
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
@@ -54,30 +48,12 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -96,12 +72,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -116,30 +86,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -174,37 +126,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-framework-for-dimming-sounds-in-lumafusion/"><u>[New] A Step-by-Step Framework for Dimming Sounds in Lumafusion</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-creative-video-overlays-top-10-essentials/"><u>[New] In 2024, Creative Video Overlays  Top 10 Essentials</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-10-mobile-relaxation-renders-idle-games/"><u>[New] In 2024, Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-2024s-excellent-frames-for-your-pics/"><u>[Updated] 2024'S Excellent Frames for Your Pics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-combining-youtube-harmonies-in-moving-images/"><u>[Updated] Combining YouTube Harmonies in Moving Images</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-twisting-the-tape-youtube-video-rotation-techniques-unveiled/"><u>2024 Approved  Twisting the Tape  YouTube Video Rotation Techniques Unveiled</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/beyond-the-basics-advanced-insights-into-snapchat-filters/"><u>Beyond the Basics  Advanced Insights Into Snapchat Filters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cyber-odyssey-charting-new-territories-with-top-sci-fi-flicks/"><u>Cyber Odyssey  Charting New Territories with Top Sci-Fi Flicks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/direct-link-method-for-photos-and-videos/"><u>Direct Link Method for Photos & Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-digital-presence-mastering-the-art-of-sharing-pictures-on-youtube/"><u>Elevate Your Digital Presence  Mastering the Art of Sharing Pictures on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-daily-use-to-extraordinary-experiences-phones-into-vr/"><u>From Daily Use to Extraordinary Experiences  Phones Into VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-novice-to-vlogger-top-tips-to-enhance-your-tiktok-videos/"><u>From Novice to Vlogger  Top Tips to Enhance Your TikTok Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s24-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S24 Ultra Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-sales-opening-plans/"><u>In 2024, Boost Your Sales  Opening Plans</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-free-win-10-screencast-solutions-top-5-picks/"><u>In 2024, Cost-Free Win 10 Screencast Solutions  Top 5 Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-media-channels-for-youtube-popularity/"><u>Optimal Media Channels for YouTube Popularity</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/optimized-with-cookiebot-tailored-experiences-for-every-visitor/"><u>Optimized with Cookiebot: Tailored Experiences for Every Visitor</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfecting-video-productions-by-adding-youtube-music/"><u>Perfecting Video Productions by Adding YouTube Music</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>Picture Crafting  Top 10 Resources for Elegant Photo Framing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-vr-manipulators-to-try-now/"><u>Premier VR Manipulators to Try Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>Premiere Pro  Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>Pro-Level Video Editing with VivaCut  Full Review & Guidebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-turn-off-the-mobile-interface-win-11/"><u>Quick Fix: Turn Off the Mobile Interface (Win 11)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ranking-the-best-8-websites-with-shimmering-3d-and-text/"><u>Ranking the Best  8 Websites with Shimmering 3D & Text</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/skys-best-the-ultimate-hd-collection-websites/"><u>Sky's Best - The Ultimate HD Collection Websites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spotify-how-to-halt-default-podcast-additions/"><u>Spotify  How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tailoring-soundtracks-the-art-of-editing-in-garageband-for-2024/"><u>Tailoring Soundtracks  The Art of Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-best-video-editing-software-for-windows-enthusiasts-revealed/"><u>The Best Video Editing Software For Windows Enthusiasts Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-your-audio-technica-drivers-efficiently/"><u>The Ultimate Tutorial on How to Refresh Your Audio-Technica Drivers Efficiently</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-budget-friendly-high-definition-action-cams/"><u>Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-here-are-the-ten-best-stop-motion-apps-for-ios-and-android-devices-that-enable-you-to-create-awesome-stop-motion-animations/"><u>Updated 2024 Approved Here Are the Ten Best Stop Motion Apps for iOS and Android Devices that Enable You to Create Awesome Stop Motion Animations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zooming-techniques-for-detailed-cinematography/"><u>Zooming Techniques for Detailed Cinematography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pros-picks-the-5-ultimate-gaming-stream-cams-uncovered/"><u>[New] In 2024, Pro's Picks The 5 Ultimate Gaming Stream Cams Uncovered</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/experience-the-future-of-home-entertainment-with-apple-tv-4k-2021-in-depth-review/"><u>Experience the Future of Home Entertainment with Apple TV 4K - 2021 In-Depth Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/how-to-easily-and-quickly-draw-on-photos-app-in-windows-10/"><u>How to Easily and Quickly Draw on Photos App in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hunt-for-best-ringtone-deals-on-pixel-phones/"><u>Hunt for Best Ringtone Deals on Pixel Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-discover-the-instant-fame-boosting-channel-names/"><u>In 2024, Discover the Instant Fame-Boosting Channel Names</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro to Roku? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-process-for-igtv-on-instagram-stories/"><u>In 2024, Step-by-Step Process for IGTV on Instagram Stories</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pick-windows-10s-cutting-edge-apps-and-games/"><u>Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
