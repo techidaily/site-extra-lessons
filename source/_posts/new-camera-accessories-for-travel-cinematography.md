@@ -1,7 +1,7 @@
 ---
 title: "[New] Camera Accessories for Travel Cinematography"
-date: 2024-09-14T04:50:42.731Z
-updated: 2024-09-16T16:08:02.816Z
+date: 2024-09-16T04:42:57.877Z
+updated: 2024-09-22T16:51:32.446Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,23 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Gimbal
 
@@ -50,11 +64,32 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Action Camera
 
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
 
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
 
@@ -63,10 +98,10 @@ In any case, we needed a few accessories to support our equipment better. Simple
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Laptop, desktop, or phone for editing
@@ -87,18 +122,18 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3DRAG AND DROP
 
@@ -114,13 +149,6 @@ select video and you can choose Stabilization
 
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
 
 there you go. analyzing the video means its working 100% you will see the difference from shaky to smooth and stabilize video
@@ -133,6 +161,13 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ##### Step1NEW PROJECT
@@ -140,13 +175,6 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2IMPORT FILES
 
@@ -159,13 +187,6 @@ from there you can choose and select which video you would like to import
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -209,13 +230,20 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-high-definition-facebook-video-downloads/"><u>[New] In 2024, Mastering High-Definition Facebook Video Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-advice-top-ranked-call-alert-creators/"><u>Expert Advice Top-Ranked Call Alert Creators</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-reduce-virtual-reality-vr-sickness/"><u>How to Reduce Virtual Reality (VR) Sickness</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-clearing-microsoft-protection-archives/"><u>Mastering the Art of Clearing Microsoft Protection Archives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-cura-modifications-elevate-your-3d-printing-experience/"><u>Optimal Cura Modifications: Elevate Your 3D Printing Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfectly-pairing-photos-step-by-step-guide/"><u>Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-linux-screen-capture-software-ranked/"><u>[Updated] 2024 Approved Best Linux Screen Capture Software Ranked</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[Updated] Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-celebrating-redditenas-top-ten-upvoted-discussions/"><u>[Updated] Celebrating Reddit'enas Top Ten Upvoted Discussions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-your-macbook-writable-screen-with-these-wallpapers-for-2024/"><u>[Updated] Transform Your MacBook' Writable Screen with These Wallpapers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/7-critical-aspects-to-assess-prior-to-acquiring-your-new-smart-television/"><u>7 Critical Aspects to Assess Prior to Acquiring Your New Smart Television</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-install-fonts-for-windows-10-easily-solved/"><u>How to Install Fonts for Windows 10 Easily [Solved]</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2020-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2020) to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-huawei-p10-with-industry-standards-of-smartphones/"><u>In 2024, Comparing Huawei P10 with Industry Standards of Smartphones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-guide-recording-netflix-videos-on-a-mac/"><u>In 2024, Essential Guide Recording Netflix Videos on a Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-question-collection-for-lively-podcast-discussions/"><u>Innovative Question Collection for Lively Podcast Discussions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-hosting-services-for-online-storage-and-sharing/"><u>New Best Free Video Hosting Services for Online Storage and Sharing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-head-to-head-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-editors/"><u>New In 2024, Head-to-Head Comparison Sony Vegas vs Adobe Premiere Pro for Video Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-the-art-of-video-reversal-on-snapchat/"><u>Step-by-Step Guide: Mastering the Art of Video Reversal on Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stepwise-guide-to-designing-efficient-podcast-rss-feeds/"><u>Stepwise Guide to Designing Efficient Podcast RSS Feeds</u></a></li>
 </ul></div>
 

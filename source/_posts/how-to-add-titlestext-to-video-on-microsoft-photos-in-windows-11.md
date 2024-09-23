@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-09-11T22:35:13.238Z
-updated: 2024-09-16T21:43:07.682Z
+date: 2024-09-16T05:33:58.692Z
+updated: 2024-09-22T17:01:38.977Z
 tags: 
   - screen-recording
   - ai video
@@ -62,17 +62,45 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -95,32 +123,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audacity-wisdom-achieving-fluid-audio-transitions/"><u>[New] Audacity Wisdom Achieving Fluid Audio Transitions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-leverage-ez-grabber-for-peak-performance/"><u>[New] In 2024, How to Leverage EZ Grabber for Peak Performance</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>[New] ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-digital-dexterity-quick-quality-trimming-of-vimeo-videos-5-ways/"><u>[Updated] 2024 Approved Digital Dexterity Quick, Quality Trimming of Vimeo Videos (5 Ways)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>[Updated] Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[Updated] Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
-<li><a href="https://fox-links.techidaily.com/boosting-productivity-utilizing-zoom-on-win11-devices-for-2024/"><u>Boosting Productivity Utilizing Zoom on Win11 Devices for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-mw-dev-error-6034-a-comprehensive-guide-for-gamers-on-pc-and-xbox-platforms/"><u>Fixing MW Dev Error 6034: A Comprehensive Guide for Gamers on PC and Xbox Platforms</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-a-closer-look-at-avs-video-editor-2023-features-performance-and-value/"><u>In 2024, A Closer Look at AVS Video Editor 2023 Features, Performance, and Value</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-boosters-and-their-buyers-guide/"><u>In 2024, Action Camera Boosters and Their Buyer's Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-leap-forward-in-exposure-management-and-composition/"><u>[New] A Leap Forward in Exposure Management and Composition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[New] In 2024, The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-10-standout-educational-websites-for-self-paced-learning-for-2024/"><u>[Updated] 10 Standout Educational Websites for Self-Paced Learning for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-an-inside-look-at-magix-vpxs-advanced-techniques/"><u>[Updated] An Inside Look at Magix VPX's Advanced Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-avoid-youtube-previews-on-all-platforms-and-devices/"><u>[Updated] Avoid YouTube Previews on All Platforms & Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] In 2024, Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guia-passo-a-passo-adicionar-um-temporizador-gratis-as-suas-producoes-em-video/"><u>Guia Passo-a-Passo: Adicionar Um Temporizador Grátis Às Suas Produções Em Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-problems-in-resident-evil-village-on-your-pc-the-ultimate-guide/"><u>How To Resolve Lag Problems In Resident Evil Village on Your PC - The Ultimate Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chucklecraft-sign-up-now-and-laugh-later/"><u>In 2024, ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
 <li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-review-top-cloud-services-prices/"><u>In 2024, Comparative Review Top Cloud Services' Prices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/teaching-through-media-efficient-classroom-editing/"><u>Teaching Through Media Efficient Classroom Editing</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

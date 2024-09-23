@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-09-14T04:37:18.045Z
-updated: 2024-09-16T20:44:07.104Z
+date: 2024-09-20T08:51:43.601Z
+updated: 2024-09-22T18:52:19.139Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -58,15 +65,22 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -81,18 +95,18 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -115,20 +129,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>[New] 2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-brief-cinematic-chronicle/"><u>[New] Brief Cinematic Chronicle</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[New] Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-find-your-photo-oasis-a-guide-to-pexels/"><u>[New] Find Your Photo Oasis A Guide to Pexels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-how-to-submit-your-podcast-to-apple-podcasts/"><u>[New] How To Submit Your Podcast to Apple Podcasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-edge-vertical-footage-editing-techniques-on-final-cut-x/"><u>[New] In 2024, The Instagram Edge Vertical Footage Editing Techniques on Final Cut X</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-achieve-professional-results-access-to-10-basic-free-and-paid-luts-for-canon-cams/"><u>[Updated] 2024 Approved Achieve Professional Results Access to 10 Basic Free and Paid LUTs for Canon Cams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-streamlined-approach-to-using-azures-transcription-technology/"><u>[Updated] A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>Digital Migration Made Simple Top 5 File Transfer Routes for Computers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-stability-in-depth-strategies-to-eliminate-gameplay-interruptions-from-phoenix-point-crashes/"><u>Mastering Stability: In-Depth Strategies to Eliminate Gameplay Interruptions From Phoenix Point Crashes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/msi-b350-toms-hardware-driver-download-compatible-with-windows-10-and-7/"><u>MSI B350 TOM'S HARDWARE Driver Download: Compatible with Windows 10 & 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-enabling-safe-mode-in-windows-11-after-an-unsuccessful-attempt-with-the-f8-key/"><u>Solutions for Enabling Safe Mode in Windows 11 After an Unsuccessful Attempt with the F8 Key</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-the-full-potential-innovative-techniques-for-youtube-end-screen-designs-for-2024/"><u>Unlocking the Full Potential Innovative Techniques for Youtube End Screen Designs for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-how-to-use-emojis-on-windows-10-and-windows-11-in-2024/"><u>Updated How to Use Emojis on Windows 10 and Windows 11, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discovering-the-benefits-of-personalized-asmr-sounds/"><u>[New] 2024 Approved Discovering the Benefits of Personalized ASMR Sounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-top-notch-gopro-cinematography-step-by-step/"><u>[New] Crafting Top-Notch GoPro Cinematography Step by Step</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-your-podcast-entry-in-apples-catalog/"><u>[New] Perfecting Your Podcast Entry in Apple's Catalog</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-picture-perfect-moments-for-morale-boost-for-2024/"><u>[New] Picture Perfect Moments for Morale Boost for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dialing-in-on-youtube-success-identifying-ranks-boosters-for-2024/"><u>[Updated] Dialing in on YouTube Success Identifying Ranks Boosters for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brand-integration-with-youtube-content-creators/"><u>Brand Integration with YouTube Content Creators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-compatible-with-windows-7-10-and-81/"><u>Download Canon MF8200C Printer Drivers: Compatible with Windows 7, 10 & 8.1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expanding-your-audience-on-youtube-step-by-step/"><u>Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-advice-top-ranked-call-alert-creators/"><u>Expert Advice Top-Ranked Call Alert Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-reduce-virtual-reality-vr-sickness/"><u>How to Reduce Virtual Reality (VR) Sickness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfectly-pairing-photos-step-by-step-guide/"><u>Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/x-media-library-manager-personal-computer/"><u>X-Media Library Manager, Personal Computer</u></a></li>
 </ul></div>
 

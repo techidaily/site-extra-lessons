@@ -1,7 +1,7 @@
 ---
 title: "Innovative Question Collection for Lively Podcast Discussions"
-date: 2024-09-14T17:14:41.839Z
-updated: 2024-09-16T22:56:31.020Z
+date: 2024-09-19T03:20:33.417Z
+updated: 2024-09-22T21:45:59.865Z
 tags: 
   - screen-recording
   - ai video
@@ -30,11 +30,25 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are some icebreaker questions that you can ask to start an interview.
 
@@ -48,6 +62,13 @@ Here are some icebreaker questions that you can ask to start an interview.
 8. Who has had the largest impact on your life?
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leading Question
 
@@ -79,19 +100,6 @@ In an interview, a comparison question is one where you ask a person what he pre
 
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can ask questions from the comparison questions given below.
 
 1. Can you compare and contrast standard costing and actual costing?
@@ -110,13 +118,6 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -133,10 +134,10 @@ When we move on to this type of question, typically, it's time to end the show. 
 10. How can listeners contact you online?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. What's a Good Podcast Interview Question?
@@ -154,29 +155,29 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What were your feelings when this happened?
 
@@ -249,20 +250,24 @@ Consider the following when picking which of the above questions to use on your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>[New] A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-choreographing-spellbinding-short-films/"><u>[New] Choreographing Spellbinding Short Films</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-storage-expansion-for-sony-a7c/"><u>[New] Optimal Storage Expansion for Sony A7C</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks/"><u>[Updated] Advancing Photo Viewing in Windows 11 Merge Artistic Layers and Soundtracks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-action-recorders-with-front-view-panels/"><u>[Updated] Best Action Recorders with Front View Panels</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-key-to-success-perfecting-your-online-yt-presence/"><u>[Updated] The Key to Success Perfecting Your Online YT Presence</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/charting-the-course-visual-content-in-educational-endeavors/"><u>Charting the Course Visual Content in Educational Endeavors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-game-breaking-glitches-in-dragoner-dogma-2-for-pc-players/"><u>Fixing Game-Breaking Glitches in Dragon'er Dogma 2 for PC Players</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy XCover 7 ?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/immersive-entertainment-showdown-google-cardboard-and-samsung-gear/"><u>Immersive Entertainment Showdown Google Cardboard & Samsung Gear</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-best-free-luts-with-download-links/"><u>In 2024, 10 Best Free LUTs with Download Links</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-profile-visibility-in-snapchats-focus/"><u>Optimizing Profile Visibility in Snapchat's Focus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-80-pro-straight-screen-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor 80 Pro Straight Screen Edition Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-experts-say-optimizing-your-4k-lens-selection-process/"><u>What Experts Say Optimizing Your 4K Lens Selection Process</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-clarity-complimentary-photo-refining-app/"><u>[New] Capture Clarity - Complimentary Photo Refining App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smoother-rides-with-htc-vive-anti-nausea-tips/"><u>[New] Smoother Rides with HTC Vive Anti-Nausea Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-17-transformative-metaverse-trials-explained/"><u>[Updated] 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-8-popular-oculus-rift-games/"><u>[Updated] 8 Popular Oculus Rift Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cuddly-creatures-galore-best-android-wildlife-titles/"><u>[Updated] In 2024, Cuddly Creatures Galore Best Android Wildlife Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>[Updated] The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-x9b-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor X9b Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-static-to-swirling-implementing-motion-blur-in-ai-designs/"><u>From Static to Swirling Implementing Motion Blur in AI Designs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/game-loop-malfunctions-solved-preventing-application-crashes-on-microsofts-latest-os-versions/"><u>Game Loop Malfunctions Solved: Preventing Application Crashes on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-use-free-text-animations-online-and-offline-solutions/"><u>How to Use Free Text Animations [Online and Offline Solutions]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-authenticity-on-display-video-reviews-role/"><u>In 2024, Authenticity on Display Video Reviews' Role</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-charismatic-captions-instagrams-animated-text-guide/"><u>In 2024, Charismatic Captions Instagram's Animated Text Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leading-tools-to-transform-your-vocal-recordings/"><u>In 2024, Leading Tools to Transform Your Vocal Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/next-gen-cuts-select-best-6-video-editing-apps-for-mac-big-sur/"><u>Next-Gen Cuts Select Best 6 Video Editing Apps for Mac Big Sur</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-wraps-for-virtual-reality-enthusiasts-for-2024/"><u>Next-Gen Wraps for Virtual Reality Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/"><u>Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-find-x6-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo Find X6 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unboxing-revolution-the-most-innovative-yt-channels-of-2024/"><u>Unboxing Revolution The Most Innovative YT Channels of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-it-really-mean-to-be-idle-in-discord/"><u>What Does It Really Mean to Be Idle in Discord?</u></a></li>
 </ul></div>
 

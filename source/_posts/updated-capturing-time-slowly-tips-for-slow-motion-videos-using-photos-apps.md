@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-09-10T09:08:15.905Z
-updated: 2024-09-17T03:58:17.794Z
+date: 2024-09-20T20:31:10.755Z
+updated: 2024-09-23T03:31:49.241Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -52,11 +59,25 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Edit in Slow Motion Online
 
@@ -81,10 +102,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -92,13 +113,6 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,19 +129,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-editors-for-diy-dji-film-production-at-home/"><u>[New] Best Editors for DIY DJi Film Production at Home</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-10-best-cinema-cameras-for-filmmaking-from-beginner-to-professional/"><u>[Updated] 10 Best Cinema Cameras for Filmmaking From Beginner to Professional</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-avoiding-virtual-reality-nausea-tips-and-tricks/"><u>[Updated] Avoiding Virtual Reality Nausea Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>[Updated] M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-retro-social-media-revelations-mastering-outdated-fb-functionality-for-2024/"><u>[Updated] Retro Social Media Revelations Mastering Outdated FB Functionality for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-mac-screen-recorder-with-audio-for-2024/"><u>Best Mac Screen Recorder with Audio for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-to-view-performances-film-cast-permissions/"><u>Free-to-View Performances Film Cast Permissions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-meizu-21-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Meizu 21 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/joketileart-imagehumorhub-for-2024/"><u>JokeTileArt ImageHumorHub for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/m1-pro-to-m1-max-understanding-the-differences-in-apple-computing/"><u>M1 Pro to M1 Max Understanding the Differences in Apple Computing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-6-masterpieces-designing-mc-village-homes-for-2024/"><u>Top 6 Masterpieces Designing MC Village Homes for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/turn-off-youtube-previews-on-all-devices/"><u>Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-a-new-sound-profile-free-guide-to-free-fire-voice-changes/"><u>Unlocking a New Sound Profile Free Guide to Free Fire Voice Changes</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-cortana-proven-fixes-for-the-not-working-problems/"><u>Unstick Your Cortana: Proven Fixes for the 'Not Working' Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-shrouded-screen-images-techniques-for-redacting-info/"><u>[New] 2024 Approved Shrouded Screen Images Techniques for Redacting Info</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-intelligent-alternative-stardock-desktopgt-the-ideal-choice-for-seasoned-tech-enthusiasts/"><u>1. Intelligent Alternative: Stardock DesktoPGT - The Ideal Choice for Seasoned Tech Enthusiasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-update-your-hp-deskjet-3700-printers-software-a-user-friendly-approach/"><u>Find & Update Your HP Deskjet 3700 Printer's Software - A User-Friendly Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-idea-to-hit-solo-podcast-production-tactics/"><u>From Idea to Hit Solo Podcast Production Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-fixing-windows-steam-remote-play-disconnection/"><u>Guide to Fixing Windows-Steam Remote Play Disconnection</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-professional-mac-burned-discs/"><u>In 2024, Advanced Techniques for Professional Mac-Burned Discs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-recurrence-installer-collection/"><u>In 2024, Recurrence Installer Collection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-infinix-note-30-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Infinix Note 30? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/replay-movies-in-android-a-step-by-step-guide/"><u>Replay Movies in Android A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shadowlessedit-advanced-background-removal-app/"><u>ShadowLessEdit Advanced Background Removal App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-insiders-look-at-mac-preview-software-for-2024/"><u>The Insider's Look at Mac Preview Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
 </ul></div>
 
