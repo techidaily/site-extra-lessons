@@ -132,51 +132,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-achieving-muted-audibility-with-effortless-fading-in-lumafusion/"><u>[New] Achieving Muted Audibility with Effortless Fading in Lumafusion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-academy-for-storytellers-top-8-recommendations/"><u>[New] Best Academy for Storytellers – [Top 8 Recommendations]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-complete-rundown-reels-vs-stories-on-instagram/"><u>[New] In 2024, A Complete Rundown  Reels vs Stories on Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-video-dimensions-the-key-to-youtube-presence/"><u>[New] In 2024, Mastering Video Dimensions  The Key to YouTube Presence</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-instant-sharing-to-long-term-storage-snapshots-journey/"><u>[Updated] 2024 Approved  From Instant Sharing to Long-Term Storage  Snapshots' Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>[Updated] A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adoption-trends-for-arvr-shopping/"><u>[Updated] Adoption Trends for AR/VR Shopping</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beyond-the-norm-redefining-fun-with-vr-technology/"><u>[Updated] Beyond the Norm  Redefining Fun with VR Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[Updated] Broadcast Battle Royale  Deciding Between VMix and Wirecast</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] In 2024, Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-superior-text-conversion-tools-for-mac-enthusiasts/"><u>10 Superior Text Conversion Tools for Mac Enthusiasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-asmr-excellence-superior-performance-for-less-money/"><u>2024 Approved  ASMR Excellence  Superior Performance for Less Money</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>2024 Approved  Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>2024 Approved  Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-techniques-for-3d-text-illustration/"><u>2024 Approved  Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>2024 Approved  H1  An Easy Guide for How to Add Photos on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-5-cheap-drones-under-100/"><u>2024 Approved  Top 5 Cheap Drones Under $100</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-new-lens-on-cinema-embracing-vr-tech-for-2024/"><u>A New Lens on Cinema  Embracing VR Tech for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/behance-portfolio-image-constraints-for-2024/"><u>Behance Portfolio Image Constraints for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-enhancing-skype-with-zooms-features-for-2024/"><u>Bridging the Gap  Enhancing Skype with Zoom's Features for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/call-transcriber-iphone-2024-speaker-device/"><u>Call Transcriber  IPhone 2024 Speaker Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivating-comedy-crafted-step-by-step-meme-tutorial-for-2024/"><u>Captivating Comedy Crafted  Step-by-Step Meme Tutorial for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-magix-audio-tools/"><u>Comparing MAGIX Audio Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-guide-to-simplified-hdr-techniques/"><u>Comprehensive Guide to Simplified HDR Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>Easy Tweaks  Changing Fishy Vocal Patterns on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-image-quality-with-iphone-lights-control/"><u>Enhance Image Quality with iPhone Lights Control</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-mobile-experience-with-inshots-music-features/"><u>Enhance Your Mobile Experience with InShot's Music Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/guide-to-websites-specializing-in-customized-text-aesthetics/"><u>Guide to Websites Specializing in Customized Text Aesthetics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-live-sound-experience-service/"><u>In 2024, Best Live Sound Experience Service</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bypassing-costs-your-step-by-step-to-fcp/"><u>In 2024, Bypassing Costs  Your Step-by-Step to FCP</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-a-one-of-a-kind-digital-gag-now/"><u>In 2024, Craft a One-of-a-Kind Digital Gag Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-12-game-choices-for-the-ultimate-pc-clicking-journey/"><u>In 2024, Top 12 Game Choices for the Ultimate PC Clicking Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-iphone-collages-the-ultimate-guide-to-cutting-edge-design/"><u>Innovative iPhone Collages  The Ultimate Guide to Cutting-Edge Design</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-solutions-transforming-images-into-videos/"><u>Optimal Solutions  Transforming Images Into Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/resolution-realm-for-rookies-exploring-picture-quality-nuances/"><u>Resolution Realm for Rookies  Exploring Picture Quality Nuances</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/retro-smile-captured-by-iphone-x-classic/"><u>Retro Smile Captured by iPhone X Classic</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-television-with-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and Television with an HDMI Cable</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/steps-to-skip-the-water-stained-stock-photos/"><u>Steps to Skip the Water-Stained Stock Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/storytellers-sanctum-summit-selections/"><u>Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/t5-thievery-hd-hands-on-review/"><u>T5 Thievery HD Hands-On Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-resource-for-high-quality-videos-in-gopro-studio/"><u>The Complete Resource for High-Quality Videos in GoPro Studio</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-podcasters-guide-to-high-quality-home-recordings/"><u>The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

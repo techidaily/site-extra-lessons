@@ -131,72 +131,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-filmmakers-handbook-mastering-close-up-videography/"><u>[New] A Filmmaker's Handbook  Mastering Close-Up Videography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-boost-your-content-with-top-notch-tiktok-video-edit-tricks/"><u>[New] Boost Your Content with Top-Notch TikTok Video Edit Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-breathtaking-review-and-different-directions/"><u>[New] Breathtaking Review & Different Directions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-to-drone-visuals/"><u>[New] Comprehensive Guide to Drone Visuals</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-exploring-the-validity-of-instagram-photos/"><u>[New] Exploring the Validity of Instagram Photos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-creative-edge-in-tiktok-two-effect-adding-methods/"><u>[New] In 2024, Creative Edge in TikTok  Two Effect-Adding Methods</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inside-look-prospects-and-pitfalls-of-samsung-image-processor-2023/"><u>[New] Inside Look  Prospects & Pitfalls of Samsung Image Processor, 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-20plus-fresh-collages-elevate-your-environment/"><u>[Updated] 20+ Fresh Collages  Elevate Your Environment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>[Updated] 2024 Approved  A Vlogger's Dream  Exploring the Best 12 Video Capture Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-fan-favorite-films-reimagined-7-replacements/"><u>[Updated] 2024 Approved  Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sharex-unmasked-critical-insights-and-substitutes/"><u>[Updated] 2024 Approved  ShareX Unmasked  Critical Insights & Substitutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>[Updated] 2024 Approved  The Ultimate Guide to Bandicam  Navigating Its Full Potential</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-beginner-friendly-approach-to-srt-knowledge/"><u>[Updated] A Beginner-Friendly Approach to SRT Knowledge</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-altitude-achievers-the-ultimate-long-duration-drones-top-10/"><u>[Updated] Altitude Achievers  The Ultimate Long Duration Drones (Top 10)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-brushbuddies-full-examination-and-manual-2024/"><u>[Updated] BrushBuddies Full Examination & Manual 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[Updated] Clear Up Cloudy Captures  Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>[Updated] Crafting Cinematic Stories in Extended Seconds  A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-the-art-of-youtube-to-facebook-shares/"><u>[Updated] In 2024, Mastering the Art of YouTube to Facebook Shares</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-compelling-social-media-presentations-through-subtitle-sharing/"><u>[Updated] Secure and Compelling Social Media Presentations Through Subtitle Sharing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pinnacle-performance-discover-the-top-8-webcams-today/"><u>2024 Approved  Pinnacle Performance  Discover the Top 8 Webcams Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere/"><u>Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-to-follow-plan-for-5-effective-windows-11-audio-techniques/"><u>Easy-to-Follow Plan for 5 Effective Windows 11 Audio Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-phone-communication-a-step-by-step-guide-on-downloading-and-customizing-whatsapp-ringtones/"><u>Elevate Phone Communication  A Step-By-Step Guide on Downloading & Customizing WhatsApp Ringtones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-watchlist-using-double-display-with-netflix/"><u>Enhance Your Watchlist  Using Double Display with Netflix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-cameras-for-cutting-edge-concert-filming-in-4khd/"><u>Essential Cameras for Cutting-Edge Concert Filming in 4K/HD</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-crafting-srt-files-professionally/"><u>Essential Guide to Crafting SRT Files Professionally</u></a></li>
-<li><a href="https://fox-access.techidaily.com/foundations-of-cinematography-15-must-know-shot-types-for-2024/"><u>Foundations of Cinematography  15 Must-Know Shot Types for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-add-music-to-a-video-on-iphone-for-free/"><u>How to Add Music to a Video on iPhone for FREE</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improved-printing-experience-with-the-latest-hp-officejet-pro-9015-printer-drivers-download-now/"><u>Improved Printing Experience with the Latest HP OfficeJet Pro 9015 Printer Drivers – Download Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>In 2024, A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-assessing-negative-impacts-of-vr/"><u>In 2024, Assessing Negative Impacts of VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-enhancement-strategies-using-premiere-pro/"><u>In 2024, Audio Enhancement Strategies Using Premiere Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-brief-cinematic-chronicle/"><u>In 2024, Brief Cinematic Chronicle</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-easy-integration-merging-igtv-and-instagram-stories/"><u>In 2024, Easy Integration  Merging IGTV & Instagram Stories</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-starting-point-for-motion-visual-effects/"><u>In 2024, Starting Point for Motion Visual Effects</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-best-practice-manual-for-text-on-picture-edits/"><u>In 2024, The Best Practice Manual for Text-on-Picture Edits</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24+ Phone Pattern Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-g54-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola G54 5G Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-techniques-for-next-level-lut-creation/"><u>Innovative Techniques for Next-Level LUT Creation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-newest-compatible-epson-v39-drivers-for-smooth-operations-on-win-7810-systems/"><u>Install the Newest Compatible Epson V39 Drivers for Smooth Operations on Win 7/8/10 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/is-there-a-business-model-for-shopping-blog-reviews/"><u>Is There a Business Model for Shopping Blog Reviews?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-voice-customization-go-beyond-echoes/"><u>Leading Voice Customization  Go Beyond Echoes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/measuring-64gbs-video-holding-ability/"><u>Measuring 64Gb's Video Holding Ability</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/merging-melodies-the-art-of-crossfading/"><u>Merging Melodies  The Art of Crossfading</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-htc-vive-experience-without-nausea/"><u>Navigating HTC Vive Experience Without Nausea</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>Perfect Planning  How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-video-editing-compatible-software-across-windows-systems/"><u>Pro Video Editing  Compatible Software Across Windows Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplify-satire-funniest-memes-made-simple/"><u>Simplify Satire  Funniest Memes Made Simple</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/solved-how-to-overcome-stutter-and-lag-in-naraka-bloodepoint-gameplay/"><u>Solved: How to Overcome Stutter and Lag in Naraka: Bloodepoint Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speech-recognition-a-game-changer-for-visual-presentations/"><u>Speech Recognition  A Game Changer for Visual Presentations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation/"><u>SRT Simplified  A Practical Manual for XML/SSA/TTML Transformation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-analysis-mastering-xmedia-studio-software/"><u>Step by Step Analysis  Mastering XMedia Studio Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/taking-flight-in-video-editing-a-drone-perspective/"><u>Taking Flight in Video Editing  A Drone Perspective</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essential-collection-of-high-speed-monitor-tools/"><u>The Essential Collection of High-Speed Monitor Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-tips-for-secure-clear-stock-purchases/"><u>Top Tips for Secure, Clear Stock Purchases</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tracking-payment-for-consumer-feedback-vlogs/"><u>Tracking Payment for Consumer Feedback Vlogs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>Transform Your Images with Text  A Windows/MacOS Expertise Guide</u></a></li>
-<li><a href="https://media-tips.techidaily.com/transforming-mtsm2ts-videos-into-editable-formats-for-final-cut-pro-users/"><u>Transforming MTS/M2TS Videos Into Editable Formats for Final Cut Pro Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-animation-styles-pack/"><u>Ultimate Animation Styles Pack</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
