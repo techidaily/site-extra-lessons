@@ -1,7 +1,7 @@
 ---
 title: "\"Sky Perspectives in Stunning HD  A Mi Drone Reality\""
-date: 2024-09-16T21:01:46.855Z
-updated: 2024-09-23T06:27:49.129Z
+date: 2024-09-25T17:42:04.239Z
+updated: 2024-09-29T17:03:41.978Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Design
@@ -60,16 +66,16 @@ Even with a reasonable price tag, this advanced drone unit has several features 
 Xiaomi Mi has impressive aesthetics and most of its features are comparable to DJI Phantom 4 Drone. The best part is that this drone unit is designed with light weight structure so you can easily carry it to your tour. Even, the propeller guards as well as the gimbal unit are detachable so that you can put this drone easily inside your backpack. The overall weight of Xiaomi Mi is only 149 grams due to carbon fiber and polycarbonate material.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
+<span id="1983549">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Battery Life
@@ -77,10 +83,10 @@ Xiaomi Mi has impressive aesthetics and most of its features are comparable to D
 As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you. As already discussed, Xiaomi MI can spend 27 minutes in the air with one time full charging. But battery time can be depleted faster if you prefer to use the auto return to home and auto departure feature. The 17.4 Volt battery unit with 5199mAh capacity takes 3 ½ hours to full charge but if you want to extend battery life then prefer to carry a backup with you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Flight Performance
@@ -88,13 +94,6 @@ As already discussed, Xiaomi MI can spend 27 minutes in the air with one time fu
 Like most of the advanced drone units, Xiaomi Mi also features autonomous flying mode. All that you need to do is simply hit the TapFly button and it will start moving. Users can control all movements with a tap of a finger and you can check all movements with the help of the map.
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Control Range
 
@@ -110,6 +109,13 @@ The 1080p variant of Mi Drone is available with a price tag of $380 whereas for 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -123,5 +129,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-deep-dive-into-insta-verified-posts/"><u>[New] In 2024, A Deep Dive Into Insta Verified Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-prime-selection-of-top-20-humorous-lockdown-memes-lifting-spirits-on-facebook/"><u>[Updated] 2024 Approved Prime Selection of Top 20 Humorous Lockdown Memes, Lifting Spirits on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-inside-the-world-of-superior-screen-recording-with-recmeister/"><u>[Updated] In 2024, Inside the World of Superior Screen Recording with Recmeister</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tips-to-reduce-compression-artifacts-in-obs/"><u>[Updated] In 2024, Tips to Reduce Compression Artifacts in OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>2024 Approved Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-7-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 7 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions-for-2024/"><u>Conquering Peaks and Valleys Comparing the Mightiest GoPros, B & Sessions for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-advice-on-how-to-achieve-perfect-camera-placement-with-your-ps4/"><u>Expert Advice on How to Achieve Perfect Camera Placement with Your PS4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-psd-lighting-tweaks-for-2024/"><u>High-End PSD Lighting Tweaks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>In 2024, Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-circle-cinematic-mounts/"><u>In 2024, Complete Circle Cinematic Mounts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-macs-preview-app-an-in-depth-tutorial-for-users/"><u>Mastering Mac's Preview App An In-Depth Tutorial for Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scriptwriting-the-creative-process/"><u>Scriptwriting The Creative Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unraveling-historys-fabric-with-open-source-canvases/"><u>Unraveling History's Fabric with Open-Source Canvases</u></a></li>
+</ul></div>
 

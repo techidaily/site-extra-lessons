@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Visual Presentations  Implementing Title Overlays in Windows Photos\""
-date: 2024-09-15T22:53:03.399Z
-updated: 2024-09-22T19:44:15.852Z
+date: 2024-09-26T20:31:18.932Z
+updated: 2024-09-30T02:26:47.389Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -69,30 +62,37 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -102,10 +102,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -121,5 +121,21 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-channel-into-a-revenue-powerhouse-with-impactful-trailers/"><u>[New] Transform Your Channel Into a Revenue Powerhouse with Impactful Trailers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-20plus-hashes-to-skyrocket-your-short-films-popularity/"><u>[Updated] 2024 Approved 20+ Hashes to Skyrocket Your Short Film's Popularity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>[Updated] In 2024, Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-complete-list-where-to-find-high-quality-music-files/"><u>A Complete List Where to Find High-Quality Music Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-directors-toolkit-powerdirector-24-for-2024/"><u>Advanced Directors' Toolkit PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-in-everyday-searches-bing-now-available-on-smartphones-and-tablets/"><u>Discover the Power of AI in Everyday Searches: Bing Now Available on Smartphones and Tablets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-recommendations-for-maximum-data-keep/"><u>Essential Recommendations for Maximum Data Keep</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>In 2024, Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fascinating-topic-titling-system/"><u>In 2024, Fascinating Topic Titling System</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography/"><u>In 2024, Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/photographys-softbox-choices-premium-lineup-2024/"><u>Photography's Softbox Choices: Premium Lineup 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary/"><u>Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-tips-to-switch-input-languages-within-the-kodi-media-center/"><u>Quick Tips to Switch Input Languages Within the Kodi Media Center</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
+</ul></div>
 
