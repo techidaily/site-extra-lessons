@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-09-23T02:32:57.235Z
-updated: 2024-09-29T23:11:35.676Z
+date: 2024-10-01T01:34:27.866Z
+updated: 2024-10-05T05:05:55.738Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -52,41 +59,21 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -101,6 +88,13 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -108,10 +102,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,18 +129,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-captivating-viewers-with-animated-text-on-instagram-stories/"><u>[Updated] Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-hashtag-hits-top-10-viral-tiktoks-on-twitter/"><u>2024 Approved Hashtag Hits Top 10 Viral TikToks on Twitter</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-professional-insights-top-5-cloud-based-videographer-tools/"><u>2024 Approved Professional Insights Top 5 Cloud-Based Videographer Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-curated-compilation-of-online-videoaudio-magicians/"><u>A Curated Compilation of Online Video/Audio Magicians</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivating-customer-revelation/"><u>Captivating Customer Revelation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guide-by-tom-the-ultimate-resource/"><u>Comprehensive Hardware Guide by Tom: The Ultimate Resource</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creating-comedy-gold-top-8-techniques-that-shape-meme-artistry/"><u>Creating Comedy Gold Top 8 Techniques That Shape Meme Artistry</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-advanced-video-enhancement-tools/"><u>Live Streaming Mastery with ManyCam: Advanced Video Enhancement Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-editing-essentials-cutting-and-joining-tools-for-starters/"><u>New 2024 Approved Free Video Editing Essentials Cutting and Joining Tools for Starters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-and-easy-guide-enhance-youtube-shorts-with-new-images-for-2024/"><u>Quick & Easy Guide Enhance YouTube Shorts with New Images for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-and-repairing-class-not-registered-errors-in-windows-systems/"><u>Understanding and Repairing 'Class Not Registered' Errors in Windows Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation/"><u>Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-hue-adjustment-strategies-for-professionals/"><u>[New] Advanced Hue Adjustment Strategies for Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-stunning-photography-mastering-hdr-merging-in-lightroom/"><u>[New] Crafting Stunning Photography Mastering HDR Merging in Lightroom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-the-perfect-harmony-fusing-lyrics-and-images-with-lyric-video-maker/"><u>[Updated] 2024 Approved Crafting the Perfect Harmony Fusing Lyrics & Images with Lyric Video Maker</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>2024 Approved Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-zooming-techniques-for-stunning-snaps/"><u>2024 Approved Innovative Zooming Techniques for Stunning Snaps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>About Lava Yuva 3 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/buddy-up-virtuals-metaverses-best-10/"><u>Buddy Up Virtuals Metaverse's Best 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-dark-scenes-with-iphone-pros-for-2024/"><u>Capturing Dark Scenes with iPhone Pros for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-details-in-videoleap-footage-for-2024/"><u>Enhancing Details in Videoleap Footage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-cloud-providers-who-offers-what-price/"><u>In 2024, Comparing Cloud Providers Who Offers What Price</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look/"><u>In 2024, Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-level-phone-and-camera-gimbal-tracking-systems/"><u>Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-rhythm-of-reels-audio-syncing-for-insta-videos/"><u>The Rhythm of Reels Audio Syncing for Insta Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/threatened-by-gpts-content-generation/"><u>Threatened by GPT's Content Generation?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tidy-up-your-pictures-top-10-online-unblur-tools/"><u>Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tutorial-implementing-microsoft-copilot-in-your-windows-workspace/"><u>Tutorial: Implementing Microsoft Copilot in Your Windows Workspace</u></a></li>
 </ul></div>
 

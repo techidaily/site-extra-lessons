@@ -1,7 +1,7 @@
 ---
 title: "Turn Photos Inside Out with Ease Using Photoshop"
-date: 2024-09-09T23:44:51.528Z
-updated: 2024-09-10T23:44:51.528Z
+date: 2024-09-27T20:15:38.315Z
+updated: 2024-10-04T22:09:32.044Z
 tags: 
   - screen-recording
   - ai video
@@ -34,12 +34,6 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -52,32 +46,14 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
@@ -86,12 +62,6 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
@@ -99,11 +69,12 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -136,4 +107,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-value-hd-cams-for-adventurous-pursuits/"><u>[New] Best Value HD Cams for Adventurous Pursuits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brief-methods-for-sending-iphone-media-to-pc/"><u>[New] Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-gopro-professionals-a-filmmaking-guide/"><u>[New] Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-online-sound-experience-with-these-5-steps/"><u>[New] Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-top-7-best-waterproof-action-camera/"><u>[New] Top 7 Best Waterproof Action Camera</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-universal-guide-to-capturing-cinema-pc-mac-and-mobile-edition/"><u>[Updated] 2024 Approved Universal Guide to Capturing Cinema PC, Mac & Mobile Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-narrative-milestones-a-youtube-video-guide/"><u>[Updated] Adding Narrative Milestones A YouTube Video Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-initiate-investment-cost-effective-youtube-monetization-options/"><u>[Updated] Initiate Investment Cost-Effective YouTube Monetization Options</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aesthetic-alchemy-grading-with-colors/"><u>Aesthetic Alchemy Grading with Colors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-gap-between-ios-and-android-a-mac-and-mobile-guide/"><u>Bridging the Gap Between iOS and Android - A Mac & Mobile Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone SE (2022)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-note-12-pro-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi Note 12 Pro 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-issues-with-whatsapp-and-icloud-integration-a-comprehensive-guide/"><u>Overcoming Issues with WhatsApp & iCloud Integration - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snag-your-dream-ipad-at-unmatched-deals-right-now/"><u>Snag Your Dream iPad at Unmatched Deals Right Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swiftly-tweak-your-stories-frame-rates-on-instagram/"><u>Swiftly Tweak Your Stories' Frame Rates on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essentials-of-simple-straightforward-hdr-techniques/"><u>The Essentials of Simple, Straightforward HDR Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-finest-android-collage-creation-tools-listed/"><u>The Finest Android Collage Creation Tools Listed</u></a></li>
+</ul></div>
 

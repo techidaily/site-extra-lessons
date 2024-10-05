@@ -1,7 +1,7 @@
 ---
 title: "Insurgency: Overcoming Stability Issues in the New Sandstorm Update"
-date: 2024-09-24T20:51:17.595Z
-updated: 2024-09-30T00:38:31.837Z
+date: 2024-09-28T16:16:54.382Z
+updated: 2024-10-04T20:31:27.598Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  If your game files are missing or corrupted, you’re likely to encounter the crashing issue when playing Insurgency: Sandstorm. To make sure the game is correctly installed on your PC, you can scan and repair your game files via Steam. Here’s how:
@@ -42,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
@@ -78,24 +79,30 @@ If the game keeps crashing, move on to the next fix.
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -119,19 +126,6 @@ If the crashing issue remains, check out the next fix.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset the video settings
 
  Some players have reported that they fixed the crashing issue by resetting the video settings. You can give it a try. Here’s how:
@@ -147,10 +141,10 @@ If the crashing issue remains, check out the next fix.
 If this fix doesn’t do the trick, continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Close background applications
@@ -168,10 +162,10 @@ Launch Insurgency: Sandstorm to see if the game crashes again.
 If the crashing issue persists, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Allow the game through Windows Firewall
@@ -196,20 +190,20 @@ If the crashing issue persists, go ahead with the next fix.
 7. Click**Add** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
@@ -239,21 +233,19 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/"><u>[New] The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-greatest-of-all-time-reddits-favorite-threads/"><u>[Updated] Greatest of All Time Reddit's Favorite Threads</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-professional-edge-mastering-bordered-videos-on-insta/"><u>[Updated] In 2024, Professional Edge Mastering Bordered Videos on Insta</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uploading-and-showcasing-videos-on-instagram-made-easy/"><u>[Updated] Uploading and Showcasing Videos on Instagram Made Easy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>2024 Approved A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-videochat-services-for-team-meetings/"><u>2024 Approved Premier Videochat Services for Team Meetings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/8-premier-ios-sketch-tools/"><u>8 Premier iOS Sketch Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/astromon-a-la-ligne-sans-frais-utilisez-le-convertisseur-gratuit-de-movavi-pour-une-transition-parfaite/"><u>Astromon À La Ligne Sans Frais : Utilisez Le Convertisseur Gratuit De Movavi Pour Une Transition Parfaite!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-camera-stabilizers-for-youtuber-for-2024/"><u>Best Camera Stabilizers for YouTuber for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chuckles-and-characters-a-guide-to-top-meme-generators/"><u>Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/experts-selection-ideal-sierra-dvd-creators/"><u>Expert’s Selection Ideal Sierra DVD Creators</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-does-handbrake-handle-mp4-and-mp3-file-conversion/"><u>How Does HandBrake Handle MP4 and MP3 File Conversion?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-curve-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze Curve 5G Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-core-elements-of-stories/"><u>In 2024, Core Elements of Stories</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picsart-edge-bringing-facial-movement-into-the-digital-realm/"><u>Picsart Edge Bringing Facial Movement Into the Digital Realm</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-record-youtube-live-stream-on-any-device-in-2024/"><u>[New] How To Record YouTube Live Stream On Any Device, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[Updated] 2024 Approved The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-auditory-adventure-navigating-soundtracks-for-unboxing-content/"><u>[Updated] Auditory Adventure Navigating Soundtracks for Unboxing Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tiny-vid-creators/"><u>[Updated] In 2024, Tiny Vid Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>2024 Approved Basic Approach Adjust Sea Creature Tones in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-techniques-for-effective-srt-file-creation/"><u>Essential Techniques for Effective SRT File Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-favorites-with-our-selection-of-top-8-complimentary-roku-channels/"><u>Find Your Favorites with Our Selection of Top 8 Complimentary Roku Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-started-with-chatgpt-on-mobile-a-comprehensive-guide-for-android-and-iphone-owners/"><u>Get Started with ChatGPT on Mobile - A Comprehensive Guide for Android & iPhone Owners</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g04-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G04 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-8-upgrades-for-webcam-visual-quality/"><u>Innovative 8 Upgrades for Webcam Visual Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-free-graphic-resource-hubs-to-elevate-your-artistry/"><u>Leading Free Graphic Resource Hubs to Elevate Your Artistry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polishing-zoom-picture-quality-simple-solutions/"><u>Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/post-vlc-media-player-landscape-analysis-for-2024/"><u>Post-VLC Media Player Landscape Analysis for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-soundfile-compatibility-pc-and-mac/"><u>SRT Soundfile Compatibility PC & Mac</u></a></li>
 </ul></div>
 

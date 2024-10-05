@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Breakdown of Yi's Ultra HD Action"
-date: 2024-09-09T23:44:50.131Z
-updated: 2024-09-10T23:44:50.131Z
+date: 2024-10-02T19:08:00.169Z
+updated: 2024-10-05T06:32:42.765Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "UHD Action Review,Ultra HD Games Analysis,High Definition Gaming Guid
 thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4cc5911dccf11c067ddd27a33.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Comprehensive Breakdown of Yi's Ultra HD Action
 
 # Yi 4K + Action Camera Complete Review
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -126,31 +114,17 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -158,3 +132,37 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-usb-mouse-and-keyboard-stop-working-issue-in-windows-7/"><u>[Fixed] USB Mouse and Keyboard Stop Working Issue in Windows 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>[New] 2024 Approved IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-regain-control-recovering-after-a-facebook-breach/"><u>[New] 2024 Approved Regain Control Recovering After a Facebook Breach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-scenes-mastering-cinematic-techniques-in-24/"><u>[Updated] Behind the Scenes Mastering Cinematic Techniques in '24</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-every-angle-top-360-streaming-devices-reviewed/"><u>2024 Approved Capture Every Angle Top 360° Streaming Devices Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-compelling-podcast-titles-for-max-impact/"><u>2024 Approved Crafting Compelling Podcast Titles for Max Impact</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268192094-stellar-repair/"><u>今こそ、Stellar Repair フォトアプリを手に入れて</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/efficacy-expansion/"><u>Efficacy Expansion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/frontline-designers-in-the-vr-landscape/"><u>Frontline Designers in the VR Landscape</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/i-piu-ottimi-programmi-italiani-per-la-copia-disco-elenca-completo-con-opzioni-libere-per-film-principali-su-dvd/"><u>I Più Ottimi Programmi Italiani per La Copia Disco: Elenca Completo Con Opzioni Libere per Film Principali Su DVD</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-your-windows-ntdlldll-error-a-step-by-step-guide-for-windows-1110-fixes/"><u>Resolve Your Windows [ntdll.dll Error]: A Step-by-Step Guide for Windows 11/10 Fixes</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-reading-system-error-messages-in-windows/"><u>Step-by-Step Tutorial: Reading System Error Messages in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/techniques-for-non-linear-eq-curves/"><u>Techniques for Non-Linear EQ Curves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tips-for-optimal-frame-rate-manipulation/"><u>Top Tips for Optimal Frame Rate Manipulation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
