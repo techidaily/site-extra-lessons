@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Aesthetic Alchemy  Grading with Colors\""
-date: 2024-09-28T04:36:44.300Z
-updated: 2024-10-04T19:15:09.453Z
+date: 2024-10-06T17:55:39.827Z
+updated: 2024-10-10T18:04:17.386Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Color grading and color correction are processes that happen throughout postprod
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
@@ -72,10 +72,10 @@ Then select the New Project to create a new project file and click Import to fin
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
@@ -118,6 +118,13 @@ First, you need to select the specific video portion you want to change the colo
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
@@ -133,16 +140,10 @@ Once you've finished correcting the video color, press Play and go over the whol
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Using the Color Panel Window**
@@ -158,13 +159,6 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -234,20 +228,18 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-basics-of-narrative-crafting/"><u>[Updated] Basics of Narrative Crafting</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-ram-management-in-minecraft/"><u>[Updated] In 2024, Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-implementing-and-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>A Comprehensive Guide to Implementing and Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-causes-of-pc-disk-issues/"><u>Addressing Causes of PC Disk Issues</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/claim-cost-free-visuals-from-highest-rated-4-youtube-sources/"><u>Claim Cost-Free Visuals From Highest-Rated 4 YouTube Sources</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/cross-device-viewing-solutions-mastering-the-playback-of-wtv-media/"><u>Cross-Device Viewing Solutions: Mastering the Playback of WTV Media</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/efficient-ways-to-access-nba-games-online-for-2024/"><u>Efficient Ways to Access NBA Games Online for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-podcast-a-guide-through-garageband/"><u>Enhance Your Podcast A Guide Through GarageBand</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>In 2024, Bringing Out the Best Advanced Color Correction in GoPro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-video-editing-basics-on-windows-8-movie-maker/"><u>In 2024, Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g13-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G13 Location | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-selection-10-premium-image-replace-kits/"><u>Premier Selection 10 Premium Image Replace Kits</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/snap-your-next-podcast-pick-for-sharing/"><u>Snap Your Next Podcast Pick for Sharing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-video-editing-tips-for-beginner-editors/"><u>[New] In 2024, YouTube Video Editing Tips for Beginner Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-asmrs-improved-self-care-benefits/"><u>Discovering ASMR's Improved Self-Care Benefits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exhaustive-evaluation-the-new-360-camera/"><u>Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-c51-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme C51 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-hardware-for-high-quality-livestreams/"><u>In 2024, Best Hardware for High-Quality Livestreams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-charting-the-course-for-unmatched-cloud-storage/"><u>In 2024, Charting the Course for Unmatched Cloud Storage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>In 2024, The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>In 2024, Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightrooms-ultimate-guide-to-premium-luts/"><u>LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-close-up-cinematography-techniques-with-kinemaster-pro/"><u>Mastering Close-Up Cinematography Techniques with Kinemaster Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-audio-recorder-snag-with-error-9999-solution/"><u>Navigating Windows' Audio Recorder Snag with Error 9999 Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cast-local-videos-to-chromecast-a-step-by-step-guide-for-all-devices/"><u>New Cast Local Videos to Chromecast A Step-by-Step Guide for All Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-with-easy-windows-11-taskbar-color-tweaks/"><u>Personalize Your PC with Easy Windows 11 Taskbar Color Tweaks</u></a></li>
 </ul></div>
 

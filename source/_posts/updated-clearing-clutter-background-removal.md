@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Clearing Clutter  Background Removal\""
-date: 2024-08-20T00:09:27.294Z
-updated: 2024-08-21T00:09:27.294Z
+date: 2024-10-07T16:09:36.828Z
+updated: 2024-10-10T18:07:31.236Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,13 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -40,9 +47,23 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -56,9 +77,6 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -86,14 +104,8 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -119,8 +131,12 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -131,6 +147,13 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -139,9 +162,6 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
 * Offline and online image editing tools.
@@ -158,9 +178,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -193,4 +210,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-free-winpodcast-tools-compilation/"><u>[New] Best Free WinPodcast Tools Compilation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>[New] Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fighting-on-the-go-nintendos-best-switch-fighters-for-2024/"><u>[New] Fighting on the Go Nintendo's Best Switch Fighters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-5-goggles-securing-victory-in-air-races/"><u>[New] Premier 5 Goggles Securing Victory in Air Races</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers/"><u>[New] Your Journey to 1K Followers in One Month Secrets From Top Influencers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-loop-mastery-unlock-the-art-of-endless-viewing-for-2024/"><u>[New] YouTube Loop Mastery Unlock the Art of Endless Viewing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beyond-boundaries-vrs-educational-potential/"><u>[Updated] Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-tricks-in-sports-video-production/"><u>[Updated] Top Tricks in Sports Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-memes-with-kapwings-design-toolkit/"><u>2024 Approved Craft Memes with Kapwing's Design Toolkit</u></a></li>
+<li><a href="https://windows11.techidaily.com/bluescreenview-explained-for-everyday-users/"><u>BlueScreenView Explained for Everyday Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-samsung-galaxy-users-facing-network-not-registered-wireless-problems/"><u>Easy Fixes for Samsung Galaxy Users Facing 'Network Not Registered' Wireless Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-virtual-reality-storytelling-a-premiere-pro-360-degree-video-guide/"><u>Elevating Virtual Reality Storytelling A Premiere Pro 360-Degree Video Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-big-sur-basics-system-and-hardware-checklist/"><u>In 2024, Big Sur Basics System & Hardware Checklist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-drone-archetypes/"><u>Innovative Drone Archetypes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/interactive-techniques-for-periscope-hosts/"><u>Interactive Techniques for Periscope Hosts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siris-silent-assistant-what-to-do-when-suggestions-wont-show-up-on-your-iphone/"><u>Siri's Silent Assistant: What To Do When Suggestions Won't Show Up On Your iPhone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel P55 5G? | Dr.fone</u></a></li>
+</ul></div>
 

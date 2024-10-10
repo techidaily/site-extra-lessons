@@ -1,7 +1,7 @@
 ---
 title: "The Complete Insight Into VivaCut 2024 Features & Functionality"
-date: 2024-08-20T00:09:55.205Z
-updated: 2024-08-21T00:09:55.205Z
+date: 2024-10-06T17:28:00.051Z
+updated: 2024-10-10T18:16:20.120Z
 tags: 
   - screen-recording
   - ai video
@@ -43,15 +43,16 @@ Even if you haven't bought any premium package, you can still use the VivaCut ap
 As soon as the introduction is over. To learn more about it, let's talk about some of its main characteristics.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Various templates
 
 Its numerous built-in templates help its users to make or edit their videos according to their needs very efficiently. Also, these templates use trending effects and filters in them. So it is very effective to use them for making videos like those trending on the web. Moreover, the look of your videos will become fascinating after using these.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### 2\. Speed Adjustment
 
 This effect in the VivaCut video editor can help you make your simple sports videos look like scenes of an action film. Using it lets you adjust your video's speed very quickly. Now it's upon you whether you want to represent your video in fast or slow motion to the public. You can also use this feature in your music videos to give them a cinematic look.
@@ -61,18 +62,26 @@ This effect in the VivaCut video editor can help you make your simple sports vid
 VivaCut also makes it easy for you guys to add voice to your videos. By using its Voice-Over feature, you can do it effectively. This feature allows you to dub or voice over your videos with the help of your mobile's microphone.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Split / Merge
 
 Using this feature, you can split and merge your videos from whichever part you want. This helps you to improve the sequence of the scenes in your film or short video. Moreover, using the transitions feature between these, you can also give a cinematic look to your video scenes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Supports HD Resolution
 
 Using VivaCut, you guys can make your videos fascinating and export them in higher quality. However, it is upon you whether you want to export your videos in which resolution (higher or lower) as it provides almost all the quality options to you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Social Sharing
 
@@ -80,70 +89,41 @@ After exporting your video, you can share it directly to any social media platfo
 
 ![social sharing](https://images.wondershare.com/filmora/article-images/2022/09/vivacut-video-editor-review-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. How to use VivaCut Video Editor App?
 
 Now, after discussing its intro and critical features in the above sections, the question that may be arising in your mind is how you guys can use it. If yes, there is no need to worry because we are here to answer your question and guide you completely about it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Import
 
 Let's discuss how you can import your videos. So, first of all, you have to grant the VivaCut video editor permission to access your media gallery. Then you can import the videos as much as you want. However, there are a few limitations regarding it if you are using the free version: you can only export videos for up to five minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Primary Editing
 
 So now, let's move forward using primary or essential editing tools in your videos. As we discussed earlier, you can use almost all the essential editing tools, whether using a free or a premium version. You can quickly get all these tools at the bottom of your mobile's screen. However, some features that need opening through the Canvas menu will not show. You can use these features in your videos by just clicking on them.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Filters and AI effects
 
 We will discuss how we can apply filters and AI effects to our videos using VivaCut. To use them in your videos, first of all, you have to click on the specific video on which you want to use them from the timeline. A menu will appear at the bottom of your mobile's screen from which you can click on the filters or AI effects option, whatever you want to use. In the free version, you have only access to the limited filters, and AI effects are not available. It would be best to upgrade your plan to get unlimited access to the AI effects and filter library.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Chroma Key
 
 Chroma Key is another excellent feature in the VivaCut video editor, which you can use to change your video's background easily. To use this feature in your videos, you must click on the video layer and select the Chroma key option from the menu at the bottom. You can also set up its settings according to your requirements from the menu. Also, this feature is available in both (free and premium) versions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Export
 
 Now at the end, we will discuss how we can export our edited videos from it. So we can do this by clicking on the Export button at the top right corner of our screen. In the next step, it will ask us in which quality we want to export our video. Now it's upon us whether we export it in 720p (HD) or 480p (SD). We can also export our videos in 1080p (FHD), but for this, we have to purchase the premium package of it. Also, as we discussed earlier, we need a premium version to export videos longer than five minutes.
 
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/09/vivacut-video-editor-review-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Advantages and Disadvantages of the VivaCut Video Editor App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Advantages
 
 #### **Easily understandable interface**
@@ -182,6 +162,13 @@ So what software should we use for video editing on a PC? The answer is [Wonders
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So, in the end, this article concludes that the VivaCut video editor is one of the best options if you want to edit your video professionally on your phone. Still, suppose it comes to a desktop where it is not available. In that case, Filmora is the best alternative to using it. You cannot only edit your video professionally but also export them in 4K quality. We hope that you all find this article helpful and exciting. Thanks for reading it.
@@ -206,17 +193,10 @@ As soon as the introduction is over. To learn more about it, let's talk about so
 
 Its numerous built-in templates help its users to make or edit their videos according to their needs very efficiently. Also, these templates use trending effects and filters in them. So it is very effective to use them for making videos like those trending on the web. Moreover, the look of your videos will become fascinating after using these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Speed Adjustment
 
 This effect in the VivaCut video editor can help you make your simple sports videos look like scenes of an action film. Using it lets you adjust your video's speed very quickly. Now it's upon you whether you want to represent your video in fast or slow motion to the public. You can also use this feature in your music videos to give them a cinematic look.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### 3\. Voice-Over
 
 VivaCut also makes it easy for you guys to add voice to your videos. By using its Voice-Over feature, you can do it effectively. This feature allows you to dub or voice over your videos with the help of your mobile's microphone.
@@ -225,9 +205,6 @@ VivaCut also makes it easy for you guys to add voice to your videos. By using it
 
 Using this feature, you can split and merge your videos from whichever part you want. This helps you to improve the sequence of the scenes in your film or short video. Moreover, using the transitions feature between these, you can also give a cinematic look to your video scenes.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Supports HD Resolution
 
 Using VivaCut, you guys can make your videos fascinating and export them in higher quality. However, it is upon you whether you want to export your videos in which resolution (higher or lower) as it provides almost all the quality options to you.
@@ -251,31 +228,33 @@ Let's discuss how you can import your videos. So, first of all, you have to gran
 So now, let's move forward using primary or essential editing tools in your videos. As we discussed earlier, you can use almost all the essential editing tools, whether using a free or a premium version. You can quickly get all these tools at the bottom of your mobile's screen. However, some features that need opening through the Canvas menu will not show. You can use these features in your videos by just clicking on them.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Filters and AI effects
 
 We will discuss how we can apply filters and AI effects to our videos using VivaCut. To use them in your videos, first of all, you have to click on the specific video on which you want to use them from the timeline. A menu will appear at the bottom of your mobile's screen from which you can click on the filters or AI effects option, whatever you want to use. In the free version, you have only access to the limited filters, and AI effects are not available. It would be best to upgrade your plan to get unlimited access to the AI effects and filter library.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Chroma Key
 
 Chroma Key is another excellent feature in the VivaCut video editor, which you can use to change your video's background easily. To use this feature in your videos, you must click on the video layer and select the Chroma key option from the menu at the bottom. You can also set up its settings according to your requirements from the menu. Also, this feature is available in both (free and premium) versions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Export
 
 Now at the end, we will discuss how we can export our edited videos from it. So we can do this by clicking on the Export button at the top right corner of our screen. In the next step, it will ask us in which quality we want to export our video. Now it's upon us whether we export it in 720p (HD) or 480p (SD). We can also export our videos in 1080p (FHD), but for this, we have to purchase the premium package of it. Also, as we discussed earlier, we need a premium version to export videos longer than five minutes.
 
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/09/vivacut-video-editor-review-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Advantages and Disadvantages of the VivaCut Video Editor App
 
 ### Advantages
@@ -291,6 +270,13 @@ Using VivaCut, you can use the most updated and advanced editing features in you
 #### **High-Quality Exporting**
 
 In addition to its advanced editing features, VivaCut provides you with higher-quality exported content than any other video editing application on mobile devices. Using it, you can export your videos in FHD, HD, and SD. However, in the free version, you have only two options HD or SD quality exporting. To unlock the advanced option of FHD quality exporting, you must purchase their premium package.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disadvantages
 
@@ -342,4 +328,22 @@ So, in the end, this article concludes that the VivaCut video editor is one of t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[New] Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>[New] Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-enhancing-photos-with-cropping-tools/"><u>[Updated] Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/become-an-influencer-grow-by-a-thousand-on-instagrammonth-for-2024/"><u>Become an Influencer Grow by a Thousand on Instagram/Month for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-video-and-sound-capture-apps-for-artistic-visionaries-for-2024/"><u>Best Video & Sound Capture Apps for Artistic Visionaries for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromatic-excellence-learning-to-leverage-colors-for-2024/"><u>Chromatic Excellence Learning to Leverage Colors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-15-free-software-removal-tools/"><u>Discover the Ultimate Selection of 15 Free Software Removal Tools!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-gpts-role-in-academic-endeavors/"><u>Exploring GPT's Role in Academic Endeavors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-perpetual-load-solutions-for-when-youre-stuck-in-minecraft/"><u>Fixing the Perpetual Load: Solutions for When You're Stuck in Minecraft</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-build-and-deploy-a-personalized-gpt-chat-interface-for-windows-users-expert-insights/"><u>How to Build & Deploy a Personalized GPT Chat Interface for Windows Users - Expert Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-brief-cinematic-story-outline/"><u>In 2024, Brief Cinematic Story Outline</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/intensive-analysis-sonys-high-def-action-cam/"><u>Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-from-clips-to-masterpiece-essential-video-editing-tips-for-home-movie-makers/"><u>Updated 2024 Approved From Clips to Masterpiece Essential Video Editing Tips for Home Movie Makers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-update-eliminating-qualcomm-atheros-driver-issues/"><u>Win11 Update: Eliminating Qualcomm Atheros Driver Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pictorial Humor  Ranking #10 Memes by Creativity\""
-date: 2024-10-04T08:25:19.799Z
-updated: 2024-10-04T21:32:00.673Z
+date: 2024-10-06T18:14:49.210Z
+updated: 2024-10-10T19:37:23.039Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,6 @@ A year without a new SpongeBob meme is nothing. In this meme, SpongeBob may be s
 
 ![burning paper](https://images.wondershare.com/filmora/article-images/2022/07/burning-paper.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. They Can’t Read
 
 What more effective approach to convey a point than via a meme? Using this template, you may express a strong or unpopular stance while simultaneously making snide remarks about others who disagree with you.
@@ -63,13 +56,6 @@ What more effective approach to convey a point than via a meme? Using this templ
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
 
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Draw 25
 
@@ -89,11 +75,25 @@ This Gossip Girl-inspired meme template combines some intriguing questions with 
 
 ![gossip girl](https://images.wondershare.com/filmora/article-images/2022/07/gossip-girl.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Return To Monke
 
 If we were all monkeys, this epidemic would not have occurred. Absolutely, I say. Because of this, I and a vast majority of people think that we need to abandon a million years of development and go back to being monks.
 
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. They Don’t Know
 
@@ -142,16 +142,16 @@ In the next step, you can use the Editor’s menu bar to add titles, texts, anim
 ![shape up the meme](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step4 Share or Save Your Video Meme
@@ -180,25 +180,11 @@ What more effective approach to convey a point than via a meme? Using this templ
 
 ![they cant read](https://images.wondershare.com/filmora/article-images/2022/07/they-cant-read.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. I Am Once Again Asking
 
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
 
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Draw 25
 
@@ -211,19 +197,6 @@ You know that feeling you get in the game of Uno when you just have one card and
 I Pretend I Do Not See It is another one on the list. There are times when we just do not want to see things, especially when they are complete and total disappointments, like the year 2020\. We have elected to become blind because we are too exhausted, and I believe I can speak for everyone when I say that.
 
 ![pretend dont see it](https://images.wondershare.com/filmora/article-images/2022/07/pretend-dont-see-it.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Gossip Girl
 
@@ -238,10 +211,17 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. They Don’t Know
@@ -250,30 +230,31 @@ When you're at a party and people don't realize how much superior you are to the
 
 ![they dont know](https://images.wondershare.com/filmora/article-images/2022/07/they-dont-know.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. How It Started
 
 In a year when everything remained same at all times, we were certainly preoccupied with looking for signs of advancement. Unfortunately, a lot of the time it felt like things were just getting worse.
 
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Doge vs. Cheems
 
 We all know that the only individuals who have positive attitudes are those that exercise. For those individuals or canines, who don't, they may wish to begin soon.
 
 ![doge vs cheems](https://images.wondershare.com/filmora/article-images/2022/07/doge-vs-cheems.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Create Your Own Meme
 
@@ -296,6 +277,13 @@ Open the Filmora video meme maker and choose "New project" to begin a new meme p
 The timeline should then include the video file. Select the text style you want to use by clicking the "Title" tab. Enter the text, then change the font, color, and size of the caption. Playing well-known music in the background is an additional choice. You can do this by dragging and dropping the music file onto the timeline's audio track within the application.
 
 ![spruce up the meme content further](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Shape up the Meme
 
@@ -335,20 +323,17 @@ In summary, without some of the internet's funniest memes, there would be an une
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-are-video-selfies-on-instagram-really-genuine/"><u>[New] 2024 Approved Are Video Selfies on Instagram Really Genuine?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-brush-up-skills-unveiling-the-ultimate-8-iphone-drawing-tools/"><u>[New] Brush Up Skills Unveiling the Ultimate 8 iPhone Drawing Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[New] Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-prime-choices-cheap-pc-capture-software-listed/"><u>[New] Prime Choices Cheap PC Capture Software Listed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>[Updated] Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-exploring-the-limits-full-potential-of-screenflow-v4-on-macos/"><u>[Updated] Exploring the Limits Full Potential of ScreenFlow v4 on macOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-rotational-view-analysis/"><u>Comprehensive Rotational View Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embark-on-a-textual-adventure-14-spectacular-examples/"><u>Embark on a Textual Adventure 14 Spectacular Examples</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-airpods-connectivity-problems-with-windows-1011-updated-guide/"><u>Fixing AirPods Connectivity Problems with Windows 10/11 - Updated Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-acer-predator-xb271h-monitor-drivers-fast-and-simple-installation/"><u>Get the Latest Acer Predator XB271H Monitor Drivers – Fast & Simple Installation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-critical-analysis-of-luminances-role-in-hdr-development/"><u>In 2024, A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installation-guide-for-intels-management-engine-drivers-optimized-for-windows-11817-systems/"><u>Installation Guide for Intel's Management Engine Drivers: Optimized for Windows 11/8.1/7 Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nokia-g42-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nokia G42 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-tech-tools-for-streaming-a-detailed-overview-on-tv-recording-for-2024/"><u>[New] Tech Tools for Streaming A Detailed Overview on TV Recording for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-selecting-the-best-online-platforms-for-budget-stock-media/"><u>[Updated] 2024 Approved Selecting the Best Online Platforms for Budget Stock Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-privacy-downloading-facebook-status-videos/"><u>2024 Approved Navigating Privacy Downloading Facebook Status Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-spectacle-delving-into-vrs-negatives-for-2024/"><u>Beyond Spectacle Delving Into VR's Negatives for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-image-change-the-finest-online-transformer-tools/"><u>Effortless Image Change The Finest Online Transformer Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-turn-off-sound-improvement-features-on-your-pc-with-windows-10/"><u>How to Turn Off Sound Improvement Features on Your PC with Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/laughoutloud-maker-get-funny-faces-on-the-web/"><u>LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-4k-gaming-pcs-top-ten-selection/"><u>Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-mp4-metadata-editors-for-pc-and-mac/"><u>New In 2024, Top MP4 Metadata Editors for PC and Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/push-boundaries-in-filmmaking-with-these-essential-color-grades/"><u>Push Boundaries in Filmmaking with These Essential Color Grades</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-platforms-for-free-live-music-downloads-and-performances/"><u>Top Platforms for Free Live Music Downloads & Performances</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-v29-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo V29 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

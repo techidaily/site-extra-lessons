@@ -1,7 +1,7 @@
 ---
 title: "\"Panoramic Filmmaking Made Easy  9 Key Techniques\""
-date: 2024-10-04T09:48:42.847Z
-updated: 2024-10-05T05:06:44.966Z
+date: 2024-10-07T17:47:23.682Z
+updated: 2024-10-10T18:06:38.338Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  It is important that you use a good camera so that you can capture high quality videos. And because it is a developing technology, there are lots of options available, as well as those which are still in development. If you are looking for a good one, then go for a GoPro. A 360 video mount usually allows up to six video cameras to be mounted on it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Prepare enough battery and SD card
 
  When shooting a 360 degree video, you need to have enough battery and SD card. When using a GoPro camera, it requires a lot of power and storage space, especially if you are going to make a long video. It is recommended that you buy battery packs to keep your cameras charged while shooting. You should also bring extra SD cards to ensure that you have adequate storage space.
@@ -39,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 ### 3\. Make sure all the settings are the same
 
  When using multiple cameras, it is important to make sure that all the setting of each GoPro camera is the same. It is recommended to use manual mode, and turn off white balance, ISO, and color temperature. You should also use 4:3 ratio to ensure you have the largest coverage. That way editing the 360 degree will be easier. There will be fewer corrections to be made with the individual videos.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Use unipod instead of a tripod
 
@@ -59,27 +59,27 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 
  When the videos are recorded in the same timeline, it will make it easier to edit the video. It is recommended to turn on all the GoPro cameras at the same time. Avoid using a remote control for the cameras because it will cost a lot of power. Another suggestion is to clap your hand around the device. That way you can identify the frame and make it easier to keep the six videos in the same timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Use natural light when available
 
  When shooting a 360 degree video, you should consider using natural light or utilize a panoramic shooting studio. That way there will be no light device shown in the resulting video.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Hide the microphone
 
  For recording the audio, it is best to hide the camera. It is recommended to use a mini microphone when shooting the video. It will provide a more natural sound to other types of microphones. Hopefully in the future cameras are able to capture 360 degree sound that will make the sound shift as the viewer turns one’s head.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Keep an object in one camera
 
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc53156
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -111,16 +111,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-a-viral-video-journey-6-key-strategies-on-youtube-for-2024/"><u>Crafting a Viral Video Journey 6 Key Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-the-best-performance-out-of-your-intel-hardware-driver-update-guide/"><u>Getting the Best Performance Out of Your Intel Hardware - Driver Update Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-controlling-music-speed-on-spotify/"><u>In 2024, Best Practices for Controlling Music Speed on Spotify</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-nocturnal-nexus-versus-daylight-dominion/"><u>In 2024, Nocturnal Nexus Versus Daylight Dominion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/line-chat-review-a-deep-dive-into-its-performance-and-security/"><u>Line Chat Review – A Deep Dive Into Its Performance & Security</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimize-visual-design-top-10-must-have-type-plugins-for-ae/"><u>Optimize Visual Design Top 10 Must-Have Type Plugins for AE</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reducing-decibels-smoothly-with-advanced-mixing-tools/"><u>Reducing Decibels Smoothly with Advanced Mixing Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-education-with-instructional-videos/"><u>Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensively-unveiling-the-syma-x5c-your-first-drones-matchmaker/"><u>[New] Comprehensively Unveiling the Syma X5C – Your First Drone's Matchmaker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>[New] Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-10-easy-to-use-gamers-edits-software/"><u>[New] Top 10 Easy-to-Use Gamers' Edits Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-5-proven-methods-to-enhance-your-instagram-tv-experience/"><u>2024 Approved 5 Proven Methods to Enhance Your Instagram TV Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aerial-vehicles-deciphered-how-they-fly-and-communicate/"><u>Aerial Vehicles Deciphered How They Fly & Communicate</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-fixes-for-eradicating-image-retention-from-electronic-panels/"><u>Effective Fixes for Eradicating Image Retention From Electronic Panels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>In 2024, Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/is-av1-the-new-video-codec-front-runner/"><u>Is AV1 The New Video Codec Front-Runner?</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-11-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme 11 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screenflow-for-mac-review-for-2024/"><u>ScreenFlow for Mac Review for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/troubleshooting-frozen-footage-in-photo-booths/"><u>Troubleshooting Frozen Footage in Photo Booths</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-inexpensive-cloud-storage-services/"><u>Unveiling Inexpensive Cloud Storage Services</u></a></li>
 </ul></div>
 

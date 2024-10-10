@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2024-10-03T12:35:09.809Z
-updated: 2024-10-04T22:29:59.369Z
+date: 2024-10-06T19:57:21.462Z
+updated: 2024-10-10T20:14:51.620Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -61,10 +74,16 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -74,6 +93,13 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -86,6 +112,13 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -130,21 +163,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -159,24 +178,24 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -187,13 +206,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -224,24 +236,19 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quickly-connect-live-with-whatsapp-desktop-in-laptop-settings/"><u>[New] 2024 Approved Quickly Connect Live with WhatsApp Desktop in Laptop Settings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-webcam-solutions-for-audio-professionals/"><u>[New] Optimal Webcam Solutions for Audio Professionals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nlocking-viewership-on-multiple-channels-youtube-and-friends/"><u>[New] Unlocking Viewership on Multiple Channels (YouTube & Friends)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-calculating-20mb-video-length-in-secs/"><u>[Updated] Calculating 20MB Video Length in Secs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enlightenment-echoes-best-ed-tutorials-yt/"><u>[Updated] Enlightenment Echoes Best Ed Tutorials YT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-the-hang-issue-dxgierrordevicehunk-on-windows/"><u>Addressing the Hang Issue: DXGI_ERROR_DEVICE_HUNK on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/androids-ultimate-sky-archive-sentries-2-written-by-a-user-not-an-ai-model-for-2024/"><u>Android's Ultimate Sky Archive Sentries (2 Written by a User, Not an AI Model for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/economical-dslrmirrorless-systems/"><u>Economical DSLR/Mirrorless Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-cloud-saving-apps-for-android-users-2024-rankings/"><u>Essential Cloud Saving Apps for Android Users (2024 Rankings)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-professional-3d-lut-creation/"><u>In 2024, A Deep Dive Into Professional 3D LUT Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-auto-tracking-cameras/"><u>In 2024, Best Auto Tracking Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-celebrating-artistry-top-20-anime-melodies/"><u>In 2024, Celebrating Artistry Top 20 Anime Melodies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-chatgpt-shared-links-explained/"><u>Navigating the World of ChatGPT Shared Links Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-cwindowssystem32configsystemprofiledesktop-error-message/"><u>Overcoming The C: Windows system32 config systemprofile Desktop Error Message</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pinnacle-payload-pilots-drone-superlatives/"><u>Pinnacle Payload Pilots Drone Superlatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restrictions-on-windows-11-insider-edition-use/"><u>Restrictions on Windows 11 Insider Edition Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-review-of-magix-video-pro-x/"><u>The Ultimate Review of Magix Video Pro X</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] A Beginner's Guide Choosing Your First Film Camera</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boost-brand-awareness-with-selective-marketing-vernacular/"><u>[New] Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-advanced-mac-toolkit-screenaudio-recording-feature/"><u>[New] In 2024, Advanced Mac Toolkit Screen/Audio Recording Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-vlog-editing-essentials-utilizing-jump-cuts-rightly/"><u>[New] Vlog Editing Essentials Utilizing Jump Cuts Rightly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-techniques-for-accessing-and-saving-vimeo-videos/"><u>[Updated] Efficient Techniques for Accessing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skype-tone-searching-made-easy-pick-from-the-4-ace-lists/"><u>2024 Approved Skype Tone Searching Made Easy Pick From the 4 Ace Lists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-best-hd-hunting-recorders-reviewed-for-2024/"><u>5 Best HD Hunting Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-itel-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Itel Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instantaneously-assemble-aesthetic-fb-collage-posts/"><u>Instantaneously Assemble Aesthetic FB Collage Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-guide-streamlining-video-calls-on-xbox-one/"><u>Quick Guide Streamlining Video Calls on Xbox One</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steams-unavailable-content-servers-issue-on-pc/"><u>Resolving Steam's Unavailable Content Servers Issue on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamlessiphonedesktop-video-editing-top-8-software-recommendations/"><u>SeamlessiPhone/Desktop Video Editing Top 8 Software Recommendations</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-for-improving-mac-video-performance/"><u>Steps for Improving Mac Video Performance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-converting-regular-videos-with-best-vr-video-converters/"><u>Updated 2024 Approved Converting Regular Videos with Best VR Video Converters</u></a></li>
 </ul></div>
 

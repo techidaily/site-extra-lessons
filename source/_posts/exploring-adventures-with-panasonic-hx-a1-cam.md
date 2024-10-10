@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Adventures with Panasonic HX-A1 Cam\""
-date: 2024-09-26T01:22:33.829Z
-updated: 2024-09-30T01:50:08.406Z
+date: 2024-10-08T16:32:22.042Z
+updated: 2024-10-10T19:50:03.033Z
 tags: 
   - screen-recording
   - ai video
@@ -38,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -77,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessories in the box
@@ -127,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features
@@ -161,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -170,10 +158,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -191,20 +179,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-innovative-ways-to-craft-free-and-stylish-youtube-video-titles/"><u>[New] 2024 Approved Innovative Ways to Craft Free and Stylish YouTube Video Titles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-turning-challenges-into-paydays-top-8-tiktok-money-making-ways/"><u>[New] 2024 Approved Turning Challenges Into Paydays Top 8 TikTok Money-Making Ways</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-morphvox-transformation-tactics-for-professionals/"><u>[New] MorphVOX Transformation Tactics for Professionals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-overcoming-inaudibility-in-obs-captured-audio-for-2024/"><u>[Updated] Overcoming Inaudibility in OBS Captured Audio for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-adjustments-the-influence-of-luts-on-art/"><u>2024 Approved Beyond Adjustments The Influence of LUTs on Art</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>2024 Approved Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
-<li><a href="https://facebook.techidaily.com/convergence-of-realms-defining-the-metaverse-nexus/"><u>Convergence of Realms: Defining the Metaverse Nexus</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-your-virtual-alter-ego-in-a-metaverse-setting/"><u>Crafting Your Virtual Alter Ego in a Metaverse Setting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficient-platforms-where-to-purchase-customized-youtube-vids/"><u>Efficient Platforms Where to Purchase Customized YouTube Vids?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-s17-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo S17 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-preview-control-essentials-for-mac-users/"><u>In 2024, Complete Preview Control Essentials for Mac Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-video-privacy-the-art-of-concealing-details/"><u>In 2024, Mastering Video Privacy The Art of Concealing Details</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/radiance-and-refine-essential-editing-secrets-revealed/"><u>Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-pathway-to-stellar-visual-results-through-color-tuning/"><u>The Pathway to Stellar Visual Results Through Color Tuning</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-path-to-unforgettable-video-engagement/"><u>[New] 2024 Approved The Ultimate Path to Unforgettable Video Engagement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-iconic-inning-cameo-examination/"><u>[New] Iconic Inning - Cameo Examination</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-world-of-screen-capture-with-bandicam/"><u>[New] In 2024, Navigating the World of Screen Capture with Bandicam</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-best-10-echo-augmentation-apps-desktopmobile/"><u>[Updated] 2024 Approved Best 10 Echo Augmentation Apps Desktop/Mobile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>[Updated] Capture Dynamic Movements IPad Timelapse Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4-for-2024/"><u>Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-zoom-engagement-on-win10-systems-for-2024/"><u>Best Practices for Zoom Engagement on Win10 Systems for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-encoding-showdown-the-av1-and-vp9-race/"><u>Cutting-Edge Encoding Showdown The AV1 & VP9 Race</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-g-stylus-5g-2023-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto G Stylus 5G (2023) Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-8-hit-virtual-reality-titles-for-oculus-enthusiasts/"><u>In 2024, 8 Hit Virtual Reality Titles for Oculus Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insightful-names-in-virtual-reality-ventures/"><u>Insightful Names in Virtual Reality Ventures</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-12-proplus-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme 12 Pro+ 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-9a-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolution-assassins-creed-valhalla-release-delay-clarified/"><u>Resolution: Assassin's Creed Valhalla Release Delay Clarified</u></a></li>
 </ul></div>
 

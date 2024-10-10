@@ -1,7 +1,7 @@
 ---
 title: "\"Decreasing Decibels  A Step-by-Step Guide to Softening Sound in Premiere Pro\""
-date: 2024-10-04T00:45:41.345Z
-updated: 2024-10-04T22:39:42.380Z
+date: 2024-10-05T19:16:11.543Z
+updated: 2024-10-10T16:16:44.943Z
 tags: 
   - screen-recording
   - ai video
@@ -64,13 +64,6 @@ All these three options are leading to different effects. Now, it depends on the
 
 ![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
 You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
@@ -79,16 +72,16 @@ You should try to be careful and expand the complete track. Here, you should cut
 
 ![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
 You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4 Try Automated Fade Effect Offered In Premiere Pro CC
 
@@ -103,6 +96,13 @@ Many individuals are also looking for the best ways by which they can automate t
 ##### Step4 With the proper placement of such a tag, you can easily get the results of fade effects. In case you want to increase the fade out and in duration, you can drag the effect box in the direction you want to increase
 
 It will save you lots of time and help you apply some quick edits.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5 An Easier Way To Fade Out/In Music
 
@@ -146,13 +146,6 @@ Some people start understanding the application and want to get answers to multi
 
 ![Premiere Pro](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### In this article
 
 01 [Fade Our Music With Crossfade Audio Transition](#Part 1)
@@ -169,19 +162,6 @@ Some people start understanding the application and want to get answers to multi
 
 ![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
 ● Constant power
@@ -196,24 +176,38 @@ All these three options are leading to different effects. Now, it depends on the
 
 ![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
 
+Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
+
+You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3 Fade Out Music By Changing Music Duration
+
+![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
 You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
 
-## Part 3 Fade Out Music By Changing Music Duration
-
-![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
-
-Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
-
-You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4 Try Automated Fade Effect Offered In Premiere Pro CC
 
@@ -297,13 +291,6 @@ When it comes to joining two different audios or chopping an audio file, all edi
 
 All these three options are leading to different effects. Now, it depends on the track and its nature and how it does it work on the video and audience. You should choose one option carefully. In case you want to add a quick effect of fade out and in, you should consider constant gain. The use of constant power will allow you to get a transition between both tracks without any gap or space lack. For slow fade out and in effects, you can go with the option of exponential fade. All these options will help you work out properly and make things much easier.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2 Fade Out Music By Changing Music Duration
 
 ![Fade out by changing music duration ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-4.png)
@@ -311,13 +298,6 @@ All these three options are leading to different effects. Now, it depends on the
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
 You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3 Fade Out Music By Changing Music Duration
 
@@ -395,16 +375,16 @@ Some people start understanding the application and want to get answers to multi
 
 05 [An Easier Way To Fade Out/In Music](#Part 5)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1 Fade Our Music With Crossfade Audio Transition
 
 ![Fade out music with crossfading ](https://images.wondershare.com/filmora/article-images/2022/03/fade-out-music-pr-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it comes to joining two different audios or chopping an audio file, all editors use some effects to cover up the joint. It helps in making the audial join smooth and avoids rough ends or disturbance in the output. Most commonly, fade effects are considered by professionals. In case you are using Premiere Pro and thinking of using the crossfade audio transition, you will have three options, such as –
 
@@ -431,6 +411,13 @@ You should try to be careful and expand the complete track. Here, you should cut
 Every time you may not feel the requirements of fade out and in settings of easy musical transition. When you are using the music editor software Adobe, you can make things easier by making changes in music duration. Here, you need to be a little bit smart. In some songs, you may find out similar beats before and after the section you want to cut.
 
 You should try to be careful and expand the complete track. Here, you should cut track from a normal beat. You need to make sure that you will get similar beats and ends on both sides. It will help you set up a proper musical sequence that will benefit from a disturbance and issue-free fade effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4 Try Automated Fade Effect Offered In Premiere Pro CC
 
@@ -475,6 +462,13 @@ Now, you should visit the transitions or effects section. Here, you will get sev
 After choosing the effect, you should also drag and drop it to the timeline. Here, you should be careful with the effect placement. You should position the effect tag with the audio and video file smartly. One mistake during this procedure can change the outputs as well. You can add it where you want. Always make sure, you are choosing the ending and beginning spots of the file only.
 
 After all these things, you should save the file changes properly and download the final video. In case you don’t save the changes and exit the application, all efforts and work will be wasted. If you don’t understand anything, you can check out a detailed tutorial about such a process on the official sources. Filmora keeps everything updated on the official sources to assist the users in all situations.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Words
 
@@ -504,18 +498,24 @@ With this guide, you can easily understand the complete procedure for editing a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-15-diy-music-production-tutorial-videos-for-home-studios-for-2024/"><u>[New] 15 DIY Music Production Tutorial Videos for Home Studios for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-should-you-opt-for-a-compreayer-package-on-youtube-with-premium-features/"><u>[Updated] 2024 Approved Should You Opt for a Compreayer Package on YouTube with Premium Features?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unmasking-instagrams-unnoticed-capabilities/"><u>[Updated] Unmasking Instagram’s Unnoticed Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/accurate-guide-transforming-heic-images-into-jpeg-format-with-w11-ease/"><u>Accurate Guide: Transforming HEIC Images Into JPEG Format with W11 Ease</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/add-statistical-evidence-or-expert-testimonials-after-each-paragraph-discussing-treatment-efficacy/"><u>Add Statistical Evidence or Expert Testimonials After Each Paragraph Discussing Treatment Efficacy.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-illusions-mastering-photoshops-warp-and-twist/"><u>Digital Illusions Mastering Photoshop's Warp & Twist</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/groundbreaking-top-10-photo-grid-software/"><u>Groundbreaking Top 10 Photo Grid Software</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-8t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 8T to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-a78-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo A78 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-cinematic-excerpts-for-video-production/"><u>Top 10 Cinematic Excerpts for Video Production</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/whats-the-maximum-fps-for-exceptional-slow-motion-vids/"><u>What's the Maximum FPS for Exceptional Slow Motion Vids?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-assessing-the-usefulness-of-instas-verified-posts-for-2024/"><u>[New] Assessing the Usefulness of Insta’s Verified Posts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-cloud-price-trends-and-economical-alternatives/"><u>[Updated] Assessing Cloud Price Trends & Economical Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-explorers-best-virtual-reality-list/"><u>2024 Approved Metaverse Explorers Best Virtual Reality List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-free-image-editor-apps/"><u>2024 Approved The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-obs-settings-for-thrifty-users/"><u>Efficient OBS Settings for Thrifty Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/freedom-in-viewing-is-vlc-more-powerful-than-mpc/"><u>Freedom in Viewing Is VLC More Powerful Than MPC?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/getting-started-in-vlogging-gear-and-software-guide/"><u>Getting Started in Vlogging Gear and Software Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ften-do-youtubers-receive-income-in-2024/"><u>How Often Do YouTubers Receive Income, In 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>In 2024, Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-game-masters-top-ten-female-gaming-influencers/"><u>In 2024, Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/narratives-galore-top-20-storytelling-channels-of-the-year/"><u>Narratives Galore Top 20 Storytelling Channels of the Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-solving-fifa-21-game-crashes-on-desktop-computers-guide/"><u>No More Interruptions: Solving FIFA 21 Game Crashes on Desktop Computers [Guide]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/places-to-go-the-best-online-hubs-for-text-effects/"><u>Places to Go The Best Online Hubs for Text Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-files-unveiled-creating-and-optimizing-guide/"><u>SRT Files Unveiled Creating and Optimizing Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-exchange-solution-resolution-and-reflection/"><u>Swift Exchange Solution: Resolution & Reflection</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-slow-and-steady-wins-the-game-mastering-slow-motion-in-windows-live-movie-maker/"><u>Updated In 2024, Slow and Steady Wins the Game Mastering Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/win-and-mac-photo-magic-turn-images-to-cutouts-effortlessly/"><u>Win & Mac Photo Magic Turn Images to Cutouts Effortlessly</u></a></li>
 </ul></div>
 

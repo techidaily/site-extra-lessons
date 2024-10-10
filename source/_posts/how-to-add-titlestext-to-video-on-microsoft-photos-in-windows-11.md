@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-09-29T18:25:18.736Z
-updated: 2024-10-05T11:16:19.693Z
+date: 2024-10-05T17:21:06.549Z
+updated: 2024-10-10T17:28:15.799Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -69,37 +69,30 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -107,6 +100,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -123,22 +123,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-livecam-rivals-meet/"><u>[New] 2024 Approved LiveCam Rivals Meet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-apex-gk-quizmasters-video-channel-list/"><u>[New] Apex GK Quizmasters' Video Channel List</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-revolutionize-recording-the-ultimate-guide-to-minecraft-screenshots-on-mac/"><u>[Updated] 2024 Approved Revolutionize Recording The Ultimate Guide to Minecraft Screenshots on Mac</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-extensive-review-gopro-hero4-slr4-black-edition/"><u>[Updated] In 2024, Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-new-visionary-record-critique-and-counterfeit-replacements/"><u>[Updated] New Visionary Record Critique & Counterfeit Replacements</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>[Updated] Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-leveraging-regular-content-posts-for-enhanced-youtube-traffic/"><u>2024 Approved Leveraging Regular Content Posts for Enhanced YouTube Traffic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-unique-360-degree-videos-on-an-iphone/"><u>Crafting Unique 360-Degree Videos on an iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/greatest-of-all-time-reddits-favorite-threads/"><u>Greatest of All Time Reddit's Favorite Threads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-chronicles-reviewing-the-best-screencasters/"><u>In 2024, Capture Chronicles Reviewing the Best Screencasters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/motion-review-full-scope-2023/"><u>Motion Review Full Scope 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prove-your-skills-fast-and-precise-video-edits-on-windows-11/"><u>Prove Your Skills Fast & Precise Video Edits on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-speech-input-glitches-for-seamless-dictation-experience/"><u>Resolving iPhone Speech Input Glitches for Seamless Dictation Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-virtual-voice-inspiring-arvr-infused-quotations/"><u>The Virtual Voice Inspiring AR/VR-Infused Quotations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-ios-apps-revolutionizing-podcasts-for-2024/"><u>Unveiling the Top 5 iOS Apps Revolutionizing Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-storytelling-free-soundtrack-options-available/"><u>[Updated] 2024 Approved Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-the-extraordinary-tips-for-spectacular-slow-motion-video-on-mobile/"><u>2024 Approved Capture the Extraordinary Tips for Spectacular Slow Motion Video on Mobile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-inspiring-interview-experiences/"><u>2024 Approved Crafting Inspiring Interview Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market-for-2024/"><u>All Facets of Adobe's Storage System & Its Equivalents in the Market for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012777769-bypassing-error-re-establish-your-destiny-grope-with-these-fixes/"><u>Bypassing Error: Re-Establish Your Destiny Grope With These Fixes!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elite-screening-pacts-how-to-choose-a-cms/"><u>Elite Screening Pacts How to Choose a CMS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-vision-10-superb-text-methods-for-media/"><u>Enhancing Vision 10 Superb Text Methods for Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-cultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>In 2024, Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-12-pro-4g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 12 Pro 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola FRP Without Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/low-cost-lift-offs-the-most-affordable-drone-options/"><u>Low-Cost Lift-Offs The Most Affordable Drone Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-tether-online-experience-tips-for-a-cable-and-phone-free-internet/"><u>No-Tether Online Experience: Tips for a Cable and Phone-Free Internet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-by-stellar-the-revolutionary-jpeg-editor-for-mac-owners/"><u>Phoenix by Stellar - The Revolutionary JPEG Editor for Mac Owners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-cut-off-chronicles-in-digital-photobooths/"><u>Video Cut-Off Chronicles in Digital Photobooths</u></a></li>
 </ul></div>
 
