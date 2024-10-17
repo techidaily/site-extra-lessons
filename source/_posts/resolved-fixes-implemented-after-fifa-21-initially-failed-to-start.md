@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes Implemented After FIFA 21 Initially Failed to Start"
-date: 2024-10-08T19:59:52.042Z
-updated: 2024-10-10T17:20:48.812Z
+date: 2024-10-12T02:35:04.220Z
+updated: 2024-10-16T18:25:18.855Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 | **Video Card**   | NVIDIA GeForce GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2 GB           |
 | **Hard Drive**   | 105 GB                                                                         |
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Recommended **System Requirement**
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)              |
@@ -59,24 +66,18 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. In the same tab, check**Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ad-in-compatible.jpg)
 5. Click**Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Run Destiny 2 and check the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your driver
 
@@ -111,8 +112,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd-1.jpg)
 4. Relaunch the game and check to see if it could launch properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: End other processes
 
@@ -124,17 +139,10 @@ OR
 3. Reboot Destiny 2.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game/ Battle.net client
@@ -144,19 +152,6 @@ OR
 1. Press the**Windows logo key + Pause** key together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/control.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/uninstall-1.jpg)
 3. Right-click on Battle.net and click**Uninstall** .  
@@ -186,22 +181,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-maximize-inshot-usage-import-feature-walkthrough/"><u>[New] Maximize InShot Usage Import Feature Walkthrough</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-insta-wealth-with-our-safest-and-most-effective-tips/"><u>[Updated] 2024 Approved Secure Insta Wealth with Our Safest & Most Effective Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-beginner-friendly-iphone-screen-recording-techniques/"><u>[Updated] Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-perfect-shots-the-ultimate-list-of-zooming-editors/"><u>[Updated] Crafting Perfect Shots The Ultimate List of Zooming Editors</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-m14-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy M14 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session-for-2024/"><u>Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobes-guide-to-memetic-artistry-for-2024/"><u>Adobe's Guide to Memetic Artistry for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-the-horizon-expert-techniques-in-drone-filmmaking-for-2024/"><u>Capturing the Horizon Expert Techniques in Drone Filmmaking for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y200-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y200 to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/immerse-projects-in-audible-experience-via-premiere-pro/"><u>Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-astronomy-photographers-website-selection/"><u>In 2024, Astronomy Photographers' Website Selection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/prime-10-sticker-adding-tools-for-iphone-and-android-photos/"><u>Prime 10 Sticker-Adding Tools for iPhone and Android Photos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-ultimate-guide-to-eliminating-speaker-hum/"><u>Quick Fix: Ultimate Guide to Eliminating Speaker Hum</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/secure-hassle-free-passport-images-top-10-choices/"><u>Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-victory-mastering-initial-fps-configurations/"><u>Unveiling Victory: Mastering Initial FPS Configurations</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-inside-look-a-catalog-of-tracking-methods/"><u>[New] In 2024, Inside Look A Catalog of Tracking Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-streamers-blueprint-achieving-peak-performance-on-macos-for-2024/"><u>[New] The Streamer's Blueprint Achieving Peak Performance on macOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>[Updated] 16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-the-workings-of-whatsapp-call-features-for-2024/"><u>[Updated] Decoding the Workings of WhatsApp Call Features for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-virtual-road-racers-guide/"><u>[Updated] In 2024, Essential Virtual Road Racers Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>2024 Approved Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-the-balance-positives-and-negatives-of-vr/"><u>2024 Approved Grasping the Balance Positives and Negatives of VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos-for-2024/"><u>A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-the-benefits-and-features-of-linksyss-wrt1900acs-open-source-router-unveiled/"><u>Comprehensive Assessment: The Benefits & Features of Linksys's WRT1900ACS Open Source Router Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-a14-4g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy A14 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-analysis-completing-a-music-video-shoot/"><u>In 2024, Cost Analysis Completing A Music Video Shoot</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-cinematic-tones-beyond-basic-adjustments/"><u>Mastering Cinematic Tones Beyond Basic Adjustments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-steps-to-get-your-intel-wireless-ac-7260-driver-quick-download/"><u>Simple Steps to Get Your Intel Wireless-AC 7260 Driver - Quick Download!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-richest-resource-of-zero-price-ae-templates/"><u>The Richest Resource of Zero-Price AE Templates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-mastering-final-cut-pro-essentials/"><u>Ultimate Guide to Mastering Final Cut Pro Essentials</u></a></li>
 </ul></div>
 

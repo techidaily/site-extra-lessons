@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Filmmaker's Handbook  Mastering Close-Up Videography\""
-date: 2024-08-13T00:11:38.893Z
-updated: 2024-08-14T00:11:38.893Z
+date: 2024-10-14T23:51:59.523Z
+updated: 2024-10-16T19:55:57.400Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ Shooting macro video is an art form because it requires balancing the technicali
 
 Any person having a photography background can learn the nuances of the macro video quickly as macro photohgraphy is usually a part of their subject and macro video is an extension of the same.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 6 Tips For Making Macro Video
 
 The difference between the macro video and the macro photo mainly depends on the light acquisition.
@@ -72,9 +69,6 @@ Try to get great visual perspectives or angles by bracing the camera on the tree
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
 
@@ -95,9 +89,6 @@ What is an aperture? It is the opening of the lens. The smaller the opening of t
 But, you must remember that when the opening of the lens is small, the light required is more. There must be an equal balance.
 
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 6\. Composition
 
@@ -106,21 +97,25 @@ When you have low lights, ensuring a correct perspective on the subject with max
 For instance, in order to keep a snail always in focus, you may choose to shoot it while it crawls perpendicular to the camera. If you shoot while it crawls towards you, only a part of the snail remains in focus at a certain point of time.
 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -129,11 +124,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-editing-essentials-a-comprehensive-guide-to-song-inserts/"><u>[New] 2024 Approved YouTube Editing Essentials A Comprehensive Guide to Song Inserts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-androids-premier-tools-for-fast-fixing-vid/"><u>[New] Android's Premier Tools for Fast-Fixing Vid</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-picks-premium-iphone-tune-selectors/"><u>[New] In 2024, Top Picks Premium iPhone Tune Selectors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-high-profile-discussions/"><u>[New] Unlocking High-Profile Discussions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[Updated] Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>2024 Approved Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-gt-5-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme GT 5 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-beginners-companion-swift-iphone-screen-recording/"><u>In 2024, Beginner's Companion Swift Iphone Screen Recording</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mp4-revolutionized-by-srt-an-in-depth-tutorial/"><u>MP4 Revolutionized by SRT An In-Depth Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-downloading-bluetooth-dongle-software-for-windows-users/"><u>Step-by-Step Guide: Updating and Downloading Bluetooth Dongle Software for Windows Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/survival-of-the-undead-cutthroat-top-8-zombie-titles-for-2024/"><u>Survival of the Undead Cutthroat Top 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/using-luts-in-spark-ar-and-download-free-luts/"><u>Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+</ul></div>
+

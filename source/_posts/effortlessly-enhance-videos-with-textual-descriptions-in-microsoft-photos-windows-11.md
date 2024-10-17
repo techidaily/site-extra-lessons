@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Enhance Videos with Textual Descriptions in Microsoft Photos (Windows 11)"
-date: 2024-10-04T07:41:27.639Z
-updated: 2024-10-05T11:53:55.168Z
+date: 2024-10-15T21:20:57.174Z
+updated: 2024-10-16T23:00:59.537Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -70,10 +70,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -82,24 +82,18 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -108,10 +102,10 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -129,19 +123,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[New] 2024 Approved Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>[New] Combining Zoom & Facebook Live A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-hashtag-game-on-instagram-a-comprehensive-guide-for-2024/"><u>[New] Elevate Your Hashtag Game on Instagram A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ideal-applications-to-elevate-your-vtubers-sound-identity/"><u>[New] Ideal Applications to Elevate Your Vtuber's Sound Identity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-effortless-streams-screening-netflix-on-mac-professionally-for-2024/"><u>[Updated] Effortless Streams Screening Netflix on Mac Professionally for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chrome-stuck-solutions-for-playback-errors/"><u>[Updated] In 2024, Chrome Stuck Solutions for Playback Errors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-spend-summary-initiating-your-podcast-journey/"><u>2024 Approved Complete Spend Summary Initiating Your Podcast Journey</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-prompting-strategies-to-transform-your-ai-dialogues/"><u>7 Prompting Strategies to Transform Your AI Dialogues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audio-ambassadors-where-to-find-legal-skype-ringtone-files-for-2024/"><u>Audio Ambassadors Where to Find Legal Skype Ringtone Files for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-settings-audience-focused-screen-shots/"><u>In 2024, Best Settings Audience-Focused Screen Shots</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-powerful-tool-for-easy-conversion-from-webp-images-to-jpeg-format/"><u>Movavi: Powerful Tool for Easy Conversion From WebP Images to JPEG Format</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a25-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-editing-playbook-for-breaking-into-viral-spots-on-tiktok/"><u>Ultimate Editing Playbook for Breaking Into Viral Spots on TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-20plus-vivid-photo-assemblages-to-brighten-moods/"><u>[New] 20+ Vivid Photo Assemblages to Brighten Moods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-5-screen-selections-ps5s-partner/"><u>[New] 2024 Approved Elite 5 Screen Selections PS5's Partner</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-shocking-news-titles-expert/"><u>2024 Approved Crafting Shocking News Titles Expert</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-pixel-sounds-to-your-style/"><u>2024 Approved Tailoring Pixel Sounds to Your Style</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-equipment-prime-8k-cameras-unmatched-for-2024/"><u>Apex Equipment Prime 8K Cameras Unmatched for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/avoid-these-top-4-apple-gadgets-in-todays-market-insights-from-zdnet/"><u>Avoid These Top 4 Apple Gadgets in Today’s Market - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-stunning-hdr-portraits-step-by-step/"><u>Creating Stunning HDR Portraits Step-by-Step</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-mystery-of-unexpected-digital-rights-management-issues/"><u>Deciphering the Mystery of Unexpected Digital Rights Management Issues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-youtube-end-screen-templates-plushow-tos-for-2024/"><u>Free YouTube End Screen Templates [+How-Tos] for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-access-an-array-of-personalized-ending-sounds-for-videos/"><u>In 2024, Access an Array of Personalized Ending Sounds for Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-90-lite-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor 90 Lite online without jailbreak</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-inside-the-world-of-ustream-plus-alternatives/"><u>In 2024, Inside the World of Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-zexmte-bluetooth-adapter-software-on-windows-1178-systems/"><u>Install Zexmte Bluetooth Adapter Software on Windows 11/7/8 Systems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-fixes-for-the-infamous-driver-pnp-watchguard-bsod-issue/"><u>Troubleshooting Fixes for the Infamous Driver PNP Watchguard BSOD Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-hdr-photo-guidebook/"><u>Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-art-of-chromatic-enhancement/"><u>Unlocking the Art of Chromatic Enhancement</u></a></li>
 </ul></div>
 

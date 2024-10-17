@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-10-06T16:44:37.779Z
-updated: 2024-10-10T17:43:32.268Z
+date: 2024-10-09T19:54:49.785Z
+updated: 2024-10-16T18:09:13.829Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
@@ -70,10 +70,10 @@ You can even create multiple versions of the file with the slow motion effect ap
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -88,31 +88,31 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -129,22 +129,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>[New] The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-blending-images-into-a-masterpiece-of-mosaics/"><u>[Updated] Blending Images Into a Masterpiece of Mosaics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-augmented-visions-vrs-cinematic-influence/"><u>2024 Approved Augmented Visions VR's Cinematic Influence</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-insight-into-fixing-directdraw-discrepancies-in-win1011/"><u>Advanced Insight Into Fixing DirectDraw Discrepancies in Win10/11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-gradual-volume-change-for-2024/"><u>Advanced Techniques for Gradual Volume Change for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/budget-friendly-video-settings-for-low-end-systems/"><u>Budget-Friendly Video Settings for Low-End Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/cha-cha-chickadees/"><u>Cha-Cha Chickadees</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-meizu-21-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Meizu 21 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-previewed-fb-interactions-necessity-or-risk/"><u>In 2024, A Deep Dive Into Previewed FB Interactions Necessity or Risk?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-apples-m1-performance-enhancing-video-editing/"><u>In 2024, Apple’s M1 Performance Enhancing Video Editing?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/micro-snippet-analysis-at-a-glance/"><u>Micro Snippet Analysis at a Glance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/nine-must-have-technologies-for-online-privacy-protection/"><u>Nine Must-Have Technologies for Online Privacy Protection</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionary-acer-drivers-update-in-win11/"><u>Revolutionary Acer Drivers Update in Win11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/survey-diverse-categories-in-visual-media-tech/"><u>Survey Diverse Categories in Visual Media Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-boosting-android-video-brilliance/"><u>The Ultimate Guide to Boosting Android Video Brilliance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-overview-dji-inspire-1-reviewed/"><u>The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x50-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X50 GT.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/9-key-platforms-for-high-quality-livestreaming/"><u>9 Key Platforms for High-Quality Livestreaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/epb-shield-tunnelling-is-designed-for-soft-ground-conditions-with-high-water-content-and-uses-a-balancing-mechanism-at-the-face-of-the-tunnel-to-maintain-st137/"><u>EPB Shield Tunnelling Is Designed for Soft Ground Conditions with High Water Content and Uses a Balancing Mechanism at the Face of the Tunnel to Maintain Stability.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/firefoxs-multitasking-toolkit-the-pip-mode/"><u>Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/keep-it-cool-and-connected-unveiling-the-ultimate-3-in-1-magsafe-docking-solution-for-all-your-apple-devices-tech-insights-from-zdnet/"><u>Keep It Cool & Connected: Unveiling The Ultimate 3-in-1 MagSafe Docking Solution for All Your Apple Devices | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-cost-audio-treasure-trove-for-video-endings/"><u>No-Cost Audio Treasure Trove for Video Endings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g13-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G13 Location | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-combine-multiple-avi-files-into-one-10-best-free-freeware/"><u>Updated 2024 Approved Combine Multiple AVI Files Into One 10 Best Free Freeware</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-filmora-13-editor-download-for-free/"><u>Updated Filmora 13 Editor Download for Free</u></a></li>
 </ul></div>
 

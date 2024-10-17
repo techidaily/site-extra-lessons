@@ -1,7 +1,7 @@
 ---
 title: "\"The Creative's Handbook  Obtaining Stock Visuals for Media\""
-date: 2024-08-20T00:04:16.241Z
-updated: 2024-08-21T00:04:16.241Z
+date: 2024-10-11T17:46:10.209Z
+updated: 2024-10-16T23:41:45.435Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,13 @@ Where you get quality background stock images can be quite difficult with the hu
 
 Getting background stock images for your photos and video is easy. There are two powerful techniques to do that. Check them out below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Search for Background Stock Images in Royalty-Free Sites
 
 As previously mentioned, background stock images are readily available on the internet. There are lots of sites that support these images. While some are free, others require a premium subscription.
@@ -37,6 +44,13 @@ In this section, we will share with you some top-rated royalty-free sites you ca
 1. **Unsplash**
 
 ![unsplash](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you talk about stunning stock images, Unsplash is definitely the right platform to visit. The platform houses several quality images that you can choose from to beautify your video or photo backgrounds.
 
@@ -56,6 +70,13 @@ Navigating around this royalty-free stock image website, Pixabay, is easy. The r
 
 ![pexels](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pexels provides mind-blowing stock images and footage that you can use to customize your photos and video clips for free. This amazing platform supports over 50,000 quality royalty-free images uploaded by high-class photographers and graphics designers around the globe.
 
 End-users of this platform find it easy to use because of the easy-to-manage user interface. All images on this platform are tagged under different categories so you can easily locate them. Pexel allows you to download, copy, and edit images without hassles.
@@ -68,9 +89,6 @@ If you looking for a royalty-free stock image website with beautiful collections
 
 Shutterstock supports photo collections from several categories such as tech, wildlife, business, sports, and many more. This platform is well-organized with an interactive user interface that makes it easy for you to navigate around it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Use Background Remove Tools to Get Transparent Background
 
 Should you find images that suit your requirement but don't like the background, you can edit them. To do that, you need a background remover. There are several software programs designed for this purpose. Here are the top 4 you can use:
@@ -78,6 +96,13 @@ Should you find images that suit your requirement but don't like the background,
 1. **Media.io**
 
 ![media.io](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Media.io is an all-in-one media solution you can use to remove backgrounds from images without distorting the quality. This software program lets you transform your image background from solid color to a transparent one without stress.
 
@@ -119,27 +144,23 @@ Step2Next, drag and drop the video into the timeline just as shown in the image 
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Now double-click the image in the timeline. A settings tab will pop up on your screen. Navigate around the settings option till you find **Chroma Key**. Kindly enable Chroma Key, and your photo background would become transparent automatically. Click on **OK** to confirm your actions then move to the next step.
 
 Step3Now that you've successfully transformed the background of your photo into a transparent one, locate and click on the **Export** button to save it to your local storage.
 
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 1. **iMovie**
 
 ![imovie](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 iMovie is a great video editing software that allows end-users to erase image backgrounds. It lets you transform an image background into a transparent one and vice versa. The software also supports several background templates that you can use to customize your image background.
 
 You don't need to be a tech guru to use this software. Thanks to the clean user interface which is simple to operate. In addition to the services offered by this video editing software, iMovie lets you create/shoot engaging video content.
@@ -148,9 +169,6 @@ You don't need to be a tech guru to use this software. Thanks to the clean user 
 
 ![canvas](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
 
 In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
@@ -161,9 +179,6 @@ Using background media in a photo or video is easy. All you need is professional
 
 You can count on the Wondershare Filmora video editor to import or delete backgrounds from your photos and videos without distorting the output quality.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 Getting top-notch background stock images for your photos and videos shouldn't be a problem anymore with the information provided in the article above. We've introduced the best sites to download or copy amazing stock images.
@@ -200,4 +215,24 @@ In addition, we shared with you some of the best background editing software tha
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>[New] Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-all-about-youtube-micro-videos/"><u>[New] In 2024, All About YouTube Micro Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-mac-skills-perfecting-srt-file-management/"><u>2024 Approved Advanced Mac Skills Perfecting SRT File Management</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apple-music-enhancement-for-exquisite-videos-for-2024/"><u>Apple Music Enhancement for Exquisite Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/capturing-attention-the-power-of-these-top-10-tags-for-2024/"><u>Capturing Attention The Power of These Top 10 Tags for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chronocapture-expert-time-lapse-techniques-for-samsung-users/"><u>ChronoCapture Expert Time-Lapse Techniques for Samsung Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>Crafting Calm Conclusions Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-videos-with-these-5-high-ranking-editing-programs-we-love/"><u>Elevate Your Videos with These 5 High-Ranking Editing Programs We Love</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-15-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 15 Plus without Apple ID?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-photography-hub-is-pickup-at-the-top-of-its-class/"><u>In 2024, Android's Photography Hub Is PickUp at the Top of Its Class?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-broadcasters-dilemma-opt-for-wirecast-or-obs/"><u>In 2024, Broadcaster's Dilemma Opt for Wirecast or OBS?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Bootloader Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-your-tiktok-pro-editors-playbook/"><u>Maximize Your TikTok Pro Editor's Playbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-gpu-thermals-for-maximum-gaming/"><u>Navigating GPU Thermals for Maximum Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-lockups-in-windows-11-strategies-for-a-smooth-computing-experience/"><u>Overcoming System Lockups in Windows 11: Strategies for a Smooth Computing Experience</u></a></li>
+</ul></div>
 
