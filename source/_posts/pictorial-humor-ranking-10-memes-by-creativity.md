@@ -1,7 +1,7 @@
 ---
 title: "\"Pictorial Humor  Ranking #10 Memes by Creativity\""
-date: 2024-10-11T16:54:44.137Z
-updated: 2024-10-17T02:26:17.819Z
+date: 2024-10-20T17:20:08.491Z
+updated: 2024-10-22T18:40:55.126Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ What more effective approach to convey a point than via a meme? Using this templ
 
 ![they cant read](https://images.wondershare.com/filmora/article-images/2022/07/they-cant-read.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. I Am Once Again Asking
 
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
@@ -89,10 +82,10 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. They Don’t Know
@@ -102,10 +95,10 @@ When you're at a party and people don't realize how much superior you are to the
 ![they dont know](https://images.wondershare.com/filmora/article-images/2022/07/they-dont-know.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 9\. How It Started
@@ -113,6 +106,13 @@ When you're at a party and people don't realize how much superior you are to the
 In a year when everything remained same at all times, we were certainly preoccupied with looking for signs of advancement. Unfortunately, a lot of the time it felt like things were just getting worse.
 
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Doge vs. Cheems
 
@@ -141,6 +141,13 @@ Open the Filmora video meme maker and choose "New project" to begin a new meme p
 The timeline should then include the video file. Select the text style you want to use by clicking the "Title" tab. Enter the text, then change the font, color, and size of the caption. Playing well-known music in the background is an additional choice. You can do this by dragging and dropping the music file onto the timeline's audio track within the application.
 
 ![spruce up the meme content further](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Shape up the Meme
 
@@ -162,25 +169,11 @@ In summary, without some of the internet's funniest memes, there would be an une
 
 Social media doesn't have to be just serious and instructive. You may also enjoy it a little bit! Adding comedy or relevant material is really a terrific strategy to engage your readers. The decade's biggest cultural phenomena are memes. Every human phenomenon has a meme equivalent, but certain forms have shown to be more effective and durable over time than others, both in terms of narrative flexibility and the opportunity for innovative remixes. We've picked the top 10 meme templates below.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Burning Paper
 
 A year without a new SpongeBob meme is nothing. In this meme, SpongeBob may be seen reading a document with some mockery before burning it without looking back. This sample only demonstrates the lack of interest some individuals have in anything.
 
 ![burning paper](https://images.wondershare.com/filmora/article-images/2022/07/burning-paper.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. They Can’t Read
 
@@ -195,10 +188,10 @@ This priceless meme was lifted from one of Bernie Sanders' campaign materials. T
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Draw 25
@@ -212,6 +205,20 @@ You know that feeling you get in the game of Uno when you just have one card and
 I Pretend I Do Not See It is another one on the list. There are times when we just do not want to see things, especially when they are complete and total disappointments, like the year 2020\. We have elected to become blind because we are too exhausted, and I believe I can speak for everyone when I say that.
 
 ![pretend dont see it](https://images.wondershare.com/filmora/article-images/2022/07/pretend-dont-see-it.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Gossip Girl
 
@@ -237,6 +244,13 @@ In a year when everything remained same at all times, we were certainly preoccup
 
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Doge vs. Cheems
 
 We all know that the only individuals who have positive attitudes are those that exercise. For those individuals or canines, who don't, they may wish to begin soon.
@@ -259,13 +273,6 @@ Open the Filmora video meme maker and choose "New project" to begin a new meme p
 
 ![launch filmora and import meme content](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2 Spruce up the Meme Content Further
 
 The timeline should then include the video file. Select the text style you want to use by clicking the "Title" tab. Enter the text, then change the font, color, and size of the caption. Playing well-known music in the background is an additional choice. You can do this by dragging and dropping the music file onto the timeline's audio track within the application.
@@ -277,13 +284,6 @@ The timeline should then include the video file. Select the text style you want 
 In the next step, you can use the Editor’s menu bar to add titles, texts, animations and much more to your meme if you want to. Additionally, you can use the drop-down menu to change the caption's size and position by dragging and dropping the caption box.
 
 ![shape up the meme](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4 Share or Save Your Video Meme
 
@@ -317,20 +317,18 @@ In summary, without some of the internet's funniest memes, there would be an une
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-boost-views-top-10-free-tools-for-custom-youtube-thumbnails-for-2024/"><u>[Updated] Boost Views Top 10 Free Tools for Custom YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-game-on-tips-for-excellent-video-game-clips-for-2024/"><u>[Updated] Game On! Tips for Excellent Video Game Clips for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air/"><u>Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/epochs-epic-journey-best-free-mmo-games-roundup/"><u>Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-strategies-for-online-video-photo-effects-implementation/"><u>Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-moments-in-time-creating-dynamic-photo-videos-with-pixiz/"><u>In 2024, Capturing Moments in Time Creating Dynamic Photo Videos with Pixiz</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-captivating-gopro-time-lapse-footage-hacks/"><u>In 2024, Craft Captivating GoPro Time-Lapse Footage Hacks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone X</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-melodies-with-magix-music-maker-software/"><u>Mastering Melodies with Magix Music Maker Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-sony-camcorder-video-editing-tutorial-from-capture-to-completion-for-2024/"><u>New Sony Camcorder Video Editing Tutorial From Capture to Completion for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premier-tools-for-post-production-of-dji-videos/"><u>Premier Tools for Post-Production of DJi Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/proven-techniques-for-perfecting-video-aspect-ratios/"><u>Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zero-shaky-footage-selecting-the-best-phones-with-ois-feature/"><u>Zero Shaky Footage Selecting the Best Phones with OIS Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-artistic-ventures-on-ios-the-bestiary-of-the-top-8-drawing-apps/"><u>[Updated] Artistic Ventures on iOS The Bestiary of the Top 8 Drawing Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-google-cardboard-versus-samsung-gear-vr-the-showdown-for-2024/"><u>[Updated] Google Cardboard Versus Samsung Gear VR The Showdown for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-iphone-customization-changing-your-phones-tune/"><u>[Updated] In 2024, IPhone Customization Changing Your Phone's Tune</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ken-burns-method-in-camtasia-9-explained-simply-for-2024/"><u>[Updated] The Ken Burns Method in Camtasia 9 Explained Simply for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unveiling-the-secrets-to-youtube-highlighted-remarks/"><u>2024 Approved Unveiling the Secrets to YouTube Highlighted Remarks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/8-essential-tricks-to-enhance-your-fps-experience-on-battlefield-5/"><u>8 Essential Tricks to Enhance Your FPS Experience on Battlefield 5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-zooming-skills-for-clearer-google-meets/"><u>Essential Zooming Skills for Clearer Google Meets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/file-transportation-hacks-efficient-ways-to-upload-on-pc/"><u>File Transportation Hacks Efficient Ways to Upload on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>In 2024, Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-gap-how-to-successfully-export-srt-from-premiere/"><u>In 2024, Bridging the Gap How to Successfully Export SRT From Premiere</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-of-latest-tech-trends-by-toms-hardware-professionals/"><u>In-Depth Analysis of Latest Tech Trends by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/is-product-review-vlog-paid/"><u>Is Product Review Vlog Paid</u></a></li>
 </ul></div>
 

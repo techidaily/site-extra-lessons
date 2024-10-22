@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-10-11T02:38:07.275Z
-updated: 2024-10-16T20:24:08.320Z
+date: 2024-10-16T16:15:17.182Z
+updated: 2024-10-22T17:44:43.926Z
 tags: 
   - screen-recording
   - ai video
@@ -36,42 +36,42 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -80,13 +80,6 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -101,6 +94,13 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -121,10 +121,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -150,17 +150,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-achieving-cinematic-quality-through-aspect-ratio-choices/"><u>[New] Achieving Cinematic Quality Through Aspect Ratio Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-aerial-angle-appraisal-overlook/"><u>[Updated] Aerial Angle Appraisal Overlook</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-live-stream-success-tackling-common-2023-interruption-cases-in-fb/"><u>[Updated] Live Stream Success Tackling Common 2023 Interruption Cases in FB</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-essential-tips-to-keep-your-iphone-connected-to-wi-fi-without-dropping-signal/"><u>5 Essential Tips to Keep Your iPhone Connected to Wi-Fi without Dropping Signal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-standard-dvd-resolutions-how-do-480p-720p-and-1080p-compare-in-quality-and-clarity/"><u>Exploring Standard DVD Resolutions - How Do 480P, 720P, and 1080P Compare in Quality and Clarity?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-laserjet-m506-printer-drivers-latest-version-and-downloads/"><u>Free HP LaserJet M506 Printer Drivers: Latest Version and Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-luts-into-film-colorwork/"><u>Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://discover-best.techidaily.com/mov-to-mp4windowsmac/"><u>MOV to MP4への変換：パソコン利用者向けWindowsとMac両方対応の手順</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-airdrop-obstacles-fast-track-fixes-for-iosmacos-devices-for-2024/"><u>Overcoming AirDrop Obstacles Fast-Track Fixes for iOS/macOS Devices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-enhancing-fps-in-fallout-76-latest-fixes-and-tricks-2023/"><u>Step-by-Step Guide to Enhancing FPS in Fallout 76 (Latest Fixes and Tricks, 2023)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-6-most-advanced-language-understanding-systems/"><u>The 6 Most Advanced Language Understanding Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-event-space-12-channel-livestream-experience/"><u>Virtual Event Space 12-Channel Livestream Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-accelerated-file-format-change-from-srt-to-simple-txt/"><u>[New] Accelerated File Format Change From SRT to Simple TXT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-branding-excellence-through-joint-video-campaigns-with-youtube/"><u>[New] Branding Excellence Through Joint Video Campaigns with YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-time-lapse-photography-on-samsung-phones/"><u>[Updated] 2024 Approved Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brief-guide-to-obscured-faces-on-piscart-platforms/"><u>[Updated] Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-smart-picks-top-free-online-recorder-software/"><u>[Updated] In 2024, Smart Picks Top Free Online Recorder Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-guide-to-tv-and-fb-live-synergy/"><u>[Updated] The Ultimate Guide to TV and FB Live Synergy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-18-best-tools-for-live-webcam-streaming-and-saving/"><u>2024 Approved 18 Best Tools for Live Webcam Streaming & Saving</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-steps-to-adobe-audition-fade-in/"><u>2024 Approved Steps to Adobe Audition Fade In</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/birds-eye-view-duel-dji-pro-max-against-gopro-hero6-for-2024/"><u>Bird's Eye View Duel DJI Pro Max Against GoPro HERO6 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-tips-how-to-stop-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixes & Tips: How to Stop Genshin Impact From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evaluating-photoshop-sway-effective-or-not/"><u>In 2024, Evaluating Photoshop Sway Effective or Not?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/premier-choice-camera-strap-selections-expert-picks/"><u>Premier Choice Camera Strap Selections: Expert Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotating-videos-with-ease-on-windows-11-a-step-by-step-guide/"><u>Rotating Videos with Ease on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-best-tv-for-ps5-and-xbox-series-x/"><u>Top 5 Best TV for Ps5 and Xbox Series X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-flac-in-mp4-gratuitamente-il-miglior-metodo-online-di-movavi/"><u>Trasforma I Tuoi File FLAC in MP4 Gratuitamente: Il Miglior Metodo Online Di Movavi</u></a></li>
 </ul></div>
 

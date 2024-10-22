@@ -1,7 +1,7 @@
 ---
 title: "\"Your Step by Step Guide to Previewing Your Off-Facebook Life\""
-date: 2024-08-05T23:18:54.940Z
-updated: 2024-08-06T23:18:54.940Z
+date: 2024-10-21T17:58:39.546Z
+updated: 2024-10-22T20:26:05.131Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,13 @@ So, what information does the Off-Facebook Previews capture? According to Facebo
 
 As you can see, Off Facebook Previews collects lots of your sensitive information from its clients. Therefore, you must manage how much you share with other companies when not using the social media platform directly. The following sections help you understand how you can protect your data better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to switch it off?
 
 Follow these steps to disable Off Facebook Previews in your account.
@@ -45,41 +52,53 @@ Follow these steps to disable Off Facebook Previews in your account.
 * Launch the Facebook app or enter the URL in your device browser.
 * Enter your credentials to sign in, and click on the down arrow on your profile picture to activate your account options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![off facebook previews](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Then, choose **Settings and Privacy** from the drop-down menu, followed by **Settings** from the resultant menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![settings and privacy](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-2.jpg)
 
 * Tap the **Your Facebook Information** and then **Off-Facebook activity** to redirect to the **Off-Facebook Previews** settings page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![off facebook previews](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-3.jpg)
 
 * Select the **Disconnect Future Activity** option and move the slider left to prevent Facebook from receiving any information on your off-Facebook activities.
 
 ![disconnect future activity](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Finalize the process by pressing **Confirm** on the next page.
 
 ![confirm](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How can the feature help to protect your privacy?
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![protect privacy](https://images.wondershare.com/filmora/article-images/2022/09/off-facebook-previews-6.jpg)
 
 Following its recent legal troubles concerning user data safety, Facebook has the following protocols to protect your off Facebook previews information:
@@ -90,9 +109,6 @@ Following its recent legal troubles concerning user data safety, Facebook has th
 * Moreover, the company allows you to manage your Off-Facebook activity directly from your profile. For example, you can use the Clear Previous activity option to erase all previous data or use the Disconnect Future activity function to prevent further data collection.
 * Finally, the company openly shares a record of the information it receives from its clients through the **Recent Activity** Please refer to the **What is Off-Facebook Preview** section to discover what user information the company shares in your recent activity report.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQs
 
 #### Is the Off-Facebook Previews feature safe?
@@ -145,4 +161,21 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>[New] Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-use-the-instagram-question-sticker/"><u>[New] How to Use the Instagram Question Sticker?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>[New] Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>[Updated] Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-cameras-to-capture-slow-motion-videos/"><u>Best Cameras to Capture Slow Motion Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-editing-sites-your-gateway-to-flawless-visual-content-creation-for-2024/"><u>Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-mixed-graphics-quality-in-ubisofts-new-world/"><u>Fixing Mixed Graphics Quality in Ubisoft's New World</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-division-2-freezes-with-swift-troubleshooting-steps/"><u>Overcoming Division ^[2] Freezes with Swift Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reducing-volume-stealthily-on-computers-os-x-and-windows/"><u>Reducing Volume Stealthily on Computers (OS X & Windows)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-approach-for-customizing-snapchat-video-rate/"><u>Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-dos-and-donts-of-youtube-videos-on-twitter-for-2024/"><u>The Dos and Don'ts of YouTube Videos on Twitter for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ranked-zoonotic-patterns/"><u>Top-Ranked Zoonotic Patterns</u></a></li>
+</ul></div>
 
