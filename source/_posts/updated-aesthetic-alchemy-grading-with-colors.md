@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Aesthetic Alchemy  Grading with Colors\""
-date: 2024-10-10T01:28:58.729Z
-updated: 2024-10-16T16:24:05.460Z
+date: 2024-10-24T08:19:44.450Z
+updated: 2024-10-28T07:50:36.229Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
@@ -93,10 +100,10 @@ Here, there are two options to select: The Color correction. It offers different
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2Select the specific video portion
@@ -107,22 +114,15 @@ First, you need to select the specific video portion you want to change the colo
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * And I selected the end portion of the video. After that, choose the part of the video.
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -140,10 +140,10 @@ Once you've finished correcting the video color, press Play and go over the whol
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Using the Color Panel Window**
@@ -228,20 +228,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-secret-to-meme-making-mastery/"><u>2024 Approved KineMaster's Secret to Meme-Making Mastery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/6-vital-video-forms-for-captivated-viewers/"><u>6 Vital Video Forms for Captivated Viewers</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-treasures-15-incredible-stop-motion-films/"><u>Cinematic Treasures 15 Incredible Stop-Motion Films</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comment-configurer-et-utiliser-le-nouveau-systeme-de-saisie-de-partitions-de-sauvegarde-dans-windows-11/"><u>Comment Configurer Et Utiliser Le Nouveau Système De Saisie De Partitions De Sauvegarde Dans Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-photo-integration-for-personal-use/"><u>Effortless Photo Integration for Personal Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-xs-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Passcode without a Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mac-users-check-your-hardware-for-big-sur/"><u>Mac Users, Check Your Hardware for Big Sur</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-beginners-path-to-professional-windows-10-video-production/"><u>The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-karaoke-systems-find-your-perfect-match/"><u>Top-Rated Karaoke Systems - Find Your Perfect Match</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-guide-repairing-your-non-functional-samsung-soundbar/"><u>Ultimate Troubleshooting Guide: Repairing Your Non-Functional Samsung Soundbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-frictionless-nft-making/"><u>[Updated] A Beginner's Guide to Frictionless NFT Making</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-conference-calls-on-zoom-platform/"><u>[Updated] Boost Conference Calls on Zoom Platform</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cross-play-away-in-apex-legends-optimal-platform-selection-and-disabling/"><u>[Updated] Cross-Play Away in Apex Legends Optimal Platform Selection & Disabling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-new-youtube-premium-account/"><u>[Updated] In 2024, Getting Started with Your New YouTube Premium Account</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-create-a-square-video-for-instagram-in-imovie/"><u>[Updated] In 2024, How to Create a Square Video for Instagram in iMovie?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>2024 Approved Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-virtuscreen-clear-plastic-sheeting/"><u>2024 Approved VirtuScreen Clear Plastic Sheeting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/502-bad-gateway-error-what-it-is-and-how-to-fix-it/"><u>502 Bad Gateway Error: What It Is and How to Fix It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-offer-top-business-cloud-solutions-for-2024/"><u>Best Offer Top Business Cloud Solutions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-immersive-experiences-with-audio-in-canva-for-2024/"><u>Crafting Immersive Experiences with Audio in Canva for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/focus-on-details-masterful-close-up-techniques-for-gaming/"><u>Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hands-on-guide-flipping-film-with-vlc-software/"><u>Hands-On Guide Flipping Film with VLC Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-videos-in-ultra-hd/"><u>Mastering Twitter Videos in Ultra HD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/primeval-20-anime-series-opener-music/"><u>Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-fifa-20-directx-compatibility-issue/"><u>Resolved: Fixing the FIFA 20 DirectX Compatibility Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-livestream-with-manycam-the-ultimate-solution-for-professional-virtual-webcam-software/"><u>Transform Your Livestream with ManyCam - The Ultimate Solution for Professional Virtual Webcam Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vr-for-the-on-the-move-top-10-headsets-reviewed/"><u>VR for the On-the-Move Top 10 Headsets Reviewed</u></a></li>
 </ul></div>
 

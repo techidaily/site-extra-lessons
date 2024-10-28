@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Visual Magic  The Power of LUTs in AR Environments\""
-date: 2024-10-21T17:02:46.615Z
-updated: 2024-10-22T18:26:42.411Z
+date: 2024-10-23T13:47:45.519Z
+updated: 2024-10-28T05:07:37.260Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
@@ -55,10 +62,10 @@ The patch graph that renders the color gradation effect looks like this:
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **To create the effect:**
@@ -66,6 +73,13 @@ The patch graph that renders the color gradation effect looks like this:
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Free LUTs resource for Spark AR
 
@@ -91,10 +105,10 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -102,6 +116,13 @@ Here are the key building principles.
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Transition Curves
 
@@ -115,20 +136,6 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
@@ -136,17 +143,10 @@ Given how beautifully Glitter Rain was received, I believed it would be fitting 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Closing Thoughts
@@ -183,20 +183,24 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters/"><u>[New] 2024 Approved Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-downloading-fb-videos-made-easy-our-top-5-selection/"><u>[New] In 2024, Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator/"><u>2024 Approved Crafting 3D Text A Step-by-Step Guide to Adobe Illustrator</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-sunbeam-effect-android-screen-brightening/"><u>2024 Approved Sunbeam Effect Android Screen Brightening</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-dji-phantom-3-professionals-performance/"><u>Assessing DJI Phantom 3 Professional's Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-engagement-interactive-features-of-zoom-on-win11-pcs-for-2024/"><u>Boosting Engagement Interactive Features of Zoom on Win11 PCs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chronology-conundrum-best-podcast-times-for-2024/"><u>Chronology Conundrum Best Podcast Times for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-video-visibility-with-expert-titles/"><u>Elevate Video Visibility with Expert Titles</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062438577-get-the-most-out-of-your-game-update-gtx-1-written-in-python/"><u>Get the Most Out of Your Game: Update GTX 1 Written in Python:</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-p55-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel P55 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastery-in-minutes-full-vsco-app-guide/"><u>Mastery in Minutes Full VSCO App Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mirthful-mastery-no-monetary-boundaries/"><u>Mirthful Mastery, No Monetary Boundaries</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-for-launching-your-own-livestream-channel/"><u>Step-by-Step for Launching Your Own Livestream Channel</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tune-into-visuals-embedding-music-in-powerpoint/"><u>Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-6s-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 6s Plus?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-best-ios-video-player-apps-for-iphone-and-ipad/"><u>10 Best iOS Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-arc-electrify-powerful-media-player-replacement/"><u>2024 Approved Arc Electrify Powerful Media Player Replacement</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-choreographing-the-finale-for-your-tiktok-story/"><u>2024 Approved Choreographing the Finale for Your TikTok Story</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y78t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cold-games-2022s-ultimate-snowboard-dueling-display/"><u>Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-telegram-marketing-a-first-timers-primer/"><u>Dive Into Telegram Marketing A First Timer's Primer</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/getting-ahead-with-snapchats-latest-features/"><u>Getting Ahead with Snapchat's Latest Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-living-life-fully-on-facebook-tips-for-active-engagement/"><u>In 2024, Living Life Fully on Facebook Tips for Active Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reclaim-your-iphone-x-experience-with-these-tips/"><u>In 2024, Reclaim Your iPhone X Experience with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-picture-in-picture-the-essentials-of-ms-edge/"><u>Integrating Picture-in-Picture The Essentials of MS Edge</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/latin-language-gems-the-most-prestigious-50-phrases/"><u>Latin Language Gems: The Most Prestigious 50 Phrases</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-final-cut-pro-hack-flipping-clips-in-4-easy-steps-for-2024/"><u>New The Ultimate Final Cut Pro Hack Flipping Clips in 4 Easy Steps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-sound-to-text-converters/"><u>Premium Sound to Text Converters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/real-world-applications-of-magix-video-pro-x/"><u>Real-World Applications of Magix Video Pro X</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snapchat-spotlight-explained-how-it-works/"><u>Snapchat Spotlight Explained How It Works</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-7-main-takeaways-whistleblowers-leak-on-fb/"><u>The 7 Main Takeaways: Whistleblower's Leak on FB</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Skyline Scenery  Mastering Mobile Panoramas\""
-date: 2024-07-26T22:25:41.658Z
-updated: 2024-07-27T22:25:41.658Z
+date: 2024-10-26T07:39:56.311Z
+updated: 2024-10-28T11:50:59.595Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -37,17 +34,18 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -57,14 +55,25 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -72,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 * Start with opening the camera followed by choosing the "Panorama" option from the menu.
 * Hit on "Vertical" and begin the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
  Image source: mac-fusion
@@ -84,8 +90,12 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -101,12 +111,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-audiovisual-appeal-essential-tips-for-podcast-logos/"><u>[New] Audiovisual Appeal Essential Tips for Podcast Logos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[Updated] Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-on-mastery-a-critical-review-of-kinemaster-for-android-gamers-2023/"><u>[Updated] Game On Mastery A Critical Review of KineMaster for Android Gamers 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-pop-8-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Pop 8 without App | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-humor-image-processor/"><u>Best Humor Image Processor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eliminating-iphones-inability-to-autofocus-on-targets/"><u>Eliminating iPhone's Inability to Autofocus on Targets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-13-ultra-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi 13 Ultra Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-moto-g34-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Moto G34 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-parrot-mambo-complete-review/"><u>In 2024, Parrot Mambo Complete Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-drivers-for-your-epson-l3n50-on-windows-11-8-or-7-free-download/"><u>Install Latest Drivers for Your Epson L3n50 on Windows 11, 8 or 7 - Free Download</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-home-soundscapes-an-introductory-guide-for-budding-audio-enthusiasts/"><u>Navigating Home Soundscapes: An Introductory Guide for Budding Audio Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tap-into-asmrs-potential-for-emotional-balance/"><u>Tap Into ASMR’s Potential for Emotional Balance</u></a></li>
+<li><a href="https://win-net.techidaily.com/top-5-comfortable-and-supportive-ergonomic-office-chairs-recommended-by-tech-experts/"><u>Top 5 Comfortable and Supportive Ergonomic Office Chairs - Recommended by Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-a-non-functional-corsair-illuminated-keyboard/"><u>Troubleshooting and Fixes for a Non-Functional Corsair Illuminated Keyboard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-collection-of-dynamic-text-for-ae-projects/"><u>Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-samsungs-new-copilotplus-pc-your-ideal-pick-for-a-premier-windows-deal-today-according-to-zdnet-reviews/"><u>Unveiling the Power of Samsung's New Copilot+ PC – Your Ideal Pick for a Premier Windows Deal Today, According to ZDNET Reviews!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Insurgency: Overcoming Stability Issues in the New Sandstorm Update"
-date: 2024-10-19T18:24:53.401Z
-updated: 2024-10-22T20:40:54.386Z
+date: 2024-10-25T23:49:58.890Z
+updated: 2024-10-27T21:21:28.239Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the game keeps crashing, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -75,10 +68,10 @@ If the game keeps crashing, move on to the next fix.
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
@@ -89,10 +82,10 @@ If the game keeps crashing, move on to the next fix.
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
@@ -132,10 +125,16 @@ If the crashing issue remains, check out the next fix.
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
@@ -166,17 +165,37 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
@@ -187,23 +206,16 @@ If the crashing issue persists, go ahead with the next fix.
 7. Click**Add** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 Once done, relaunch the game to see if it crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -230,15 +242,20 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-poptoons-ultimate-insight-24-annual/"><u>[Updated] PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>2024 Approved Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities-for-2024/"><u>29 Visionary Metaverse Projects Elucidating Potentialities for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-practices-in-converting-videos-for-twitter/"><u>Best Practices in Converting Videos for Twitter</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-online-presence-making-exceptional-facebook-reels/"><u>Elevate Your Online Presence Making Exceptional Facebook Reels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-friendly-chinese-innovations-in-vr/"><u>In 2024, Budget-Friendly Chinese Innovations in VR</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-essential-techniques-for-slow-mo-tiktok-content-creation/"><u>In 2024, Essential Techniques for Slow Mo TikTok Content Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-your-creative-dreams-come-true-dall-e-3-on-microsoft-bing-free/"><u>Make Your Creative Dreams Come True: DALL-E 3 on Microsoft Bing (Free)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-full-screen-in-ppro/"><u>Navigating Full Screen in PPro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/permanent-deletion-process-for-your-yahoo-mail-a-detailed-walkthrough/"><u>Permanent Deletion Process for Your Yahoo Mail - A Detailed Walkthrough</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-preferred-mac-snipping-apps/"><u>[New] 2024 Approved The Ultimate List of Preferred Mac Snipping Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-harnessing-webcams-a-2023-guide-to-slidecast-perfection-for-2024/"><u>[New] Harnessing Webcams A 2023 Guide to Slidecast Perfection for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiences-choice-top-8-best-for-uhd-blu-ray/"><u>[Updated] Audience's Choice Top 8 Best for UHD Blu-Ray</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-artful-depth-of-field-with-modern-tools/"><u>[Updated] Crafting Artful Depth of Field with Modern Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-from-live-to-recording-maximizing-your-gaming-sessions-value/"><u>[Updated] From Live to Recording Maximizing Your Gaming Sessions' Value</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-proven-steps-to-create-high-impact-facebook-video-ads/"><u>[Updated] Proven Steps to Create High-Impact Facebook Video Ads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>2024 Approved Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/eliminating-oculus-sickness-key-tactics/"><u>Eliminating Oculus Sickness Key Tactics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-approaches-to-mobile-content-preservation-for-2024/"><u>Ideal Approaches to Mobile Content Preservation for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-music-management-win-media-and-cds/"><u>Pioneering Digital Music Management Win, Media and Cds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/unleashing-creativity-uploading-movies-from-mmc-to-vimeo/"><u>Unleashing Creativity Uploading Movies From MMC to Vimeo</u></a></li>
 </ul></div>
 

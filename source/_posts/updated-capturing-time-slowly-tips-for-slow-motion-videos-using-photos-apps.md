@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-10-17T20:02:05.777Z
-updated: 2024-10-22T18:09:10.983Z
+date: 2024-10-25T16:08:49.731Z
+updated: 2024-10-28T00:31:05.623Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -58,23 +65,9 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
 
@@ -88,6 +81,13 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -95,10 +95,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -108,10 +108,10 @@ Now that you have understood how to add the effect of slow motion in Windows 10 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -129,20 +129,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bring-your-footage-to-life-master-the-art-with-these-11-color-edits/"><u>[New] Bring Your Footage to Life Master the Art with These 11 Color Edits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-revealing-veiled-youtube-reviewers-opinions-for-2024/"><u>[New] Revealing Veiled YouTube Reviewers' Opinions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-telegram-web-usage-tips-and-tricks/"><u>[Updated] Comprehensive Telegram Web Usage Tips & Tricks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-cross-into-the-world-of-shared-tiktok-experiences/"><u>[Updated] Cross Into the World of Shared TikTok Experiences</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-mobile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>[Updated] In 2024, The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-snatching-supreme-photos-for-free/"><u>2024 Approved Best Practices Snatching Supreme Photos for Free</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-the-skyline-horizontal-photos-in-a-phone-for-2024/"><u>Capture the Skyline Horizontal Photos in a Phone for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-driver-fast-simplified-steps/"><u>Download Intel Thunderbolt Driver Fast - Simplified Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/guide-to-scrolling-through-youtube-comment-threads/"><u>Guide to Scrolling Through YouTube Comment Threads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>In 2024, Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recovering-broken-mp4-and-mov-through-quicktime/"><u>Recovering Broken MP4 and MOV Through QuickTime</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionizing-personal-data-organization-the-role-of-ai-in-converting-and-structuring-audio-memos/"><u>Revolutionizing Personal Data Organization: The Role of AI in Converting and Structuring Audio Memos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-perfect-close-up-cinematic-shots-for-2024/"><u>Step-by-Step Guide to Perfect Close-Up Cinematic Shots for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tactical-co-creation-youtube-and-brand-joint-efforts-for-2024/"><u>Tactical Co-Creation YouTube and Brand Joint Efforts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-psychology-of-crafting-engaging-podcast-intros/"><u>The Psychology of Crafting Engaging Podcast Intros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-treasure-trove-of-premium-rate-free-luts-revealed/"><u>[Updated] A Treasure Trove of Premium-Rate Free LUTs Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>[Updated] Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[Updated] In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>2024 Approved 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>2024 Approved Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-p55-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel P55 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-action-hunting-cameras-of-2023-for-2024/"><u>Best Action Hunting Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-imagery-elements-into-harmony/"><u>Bringing Imagery Elements Into Harmony</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinemas-best-bites-for-video-editors-for-2024/"><u>Cinema's Best Bites for Video Editors for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/converting-live-images-to-continuous-recordings-for-2024/"><u>Converting Live Images to Continuous Recordings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-video-content-with-effective-unboxing-tactics/"><u>Elevate Your Video Content with Effective Unboxing Tactics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-the-speed-of-vimeo-videos/"><u>Enhancing the Speed of Vimeo Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mg3620-up-and-running-safe-driver-downloads-here/"><u>Get Your Canon MG3620 Up and Running - Safe Driver Downloads Here!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>New Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-captioning-text-techniques-for-images-in-oses/"><u>The Art of Captioning Text Techniques for Images in OSes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-harry-potter-viewing-plan-from-sorcerers-stone-to-deathly-hallows-part-2/"><u>The Ultimate Harry Potter Viewing Plan From Sorcerer's Stone to Deathly Hallows Part 2</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tiktoks-viral-video-wave-twitters-top-10-rankings-for-2024/"><u>TikTok's Viral Video Wave Twitter's Top 10 Rankings for 2024</u></a></li>
 </ul></div>
 

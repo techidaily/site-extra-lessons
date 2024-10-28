@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-10-16T18:47:27.160Z
-updated: 2024-10-22T16:07:41.961Z
+date: 2024-10-25T21:39:35.662Z
+updated: 2024-10-28T01:51:04.587Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -69,6 +69,32 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
+* Pin the slider in Attach to a point at the On position
+* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* To increase or decrease the length of animation time, adjust the slider
+
+![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
   <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
@@ -76,43 +102,11 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-* Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
-* Pin the slider in Attach to a point at the On position
-* To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
-
-* To increase or decrease the length of animation time, adjust the slider
-
-![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -129,22 +123,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>[New] 2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-best-frame-rate-selection-for-effective-slow-motion-capture/"><u>[New] Best Frame Rate Selection for Effective Slow Motion Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-brief-cinematic-chronicle/"><u>[New] Brief Cinematic Chronicle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-experience-ultimate-quality-leading-4k-converters-for-2024/"><u>[New] Experience Ultimate Quality Leading 4K Converters for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-how-to-submit-your-podcast-to-apple-podcasts/"><u>[New] How To Submit Your Podcast to Apple Podcasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-framing-the-world-from-a-phone-angle/"><u>[Updated] 2024 Approved Framing the World From a Phone Angle</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-8-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 8 Plus How to Bypass?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-migration-made-simple-top-5-file-transfer-routes-for-computers/"><u>Digital Migration Made Simple Top 5 File Transfer Routes for Computers</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/guide-to-adjusting-jvm-properties-through-the-settings-panel/"><u>Guide to Adjusting JVM Properties Through the Settings Panel</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-complete-guide-to-soundtracks-instagrams-legalities-explained/"><u>In 2024, A Complete Guide To Soundtracks Instagram’s Legalities Explained</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>In 2024, Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionizing-reality-best-vr-gadgets-today/"><u>Revolutionizing Reality Best VR Gadgets Today</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-permission-issues-in-win11win10-installation/"><u>Tackling Permission Issues in Win11/Win10 Installation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721912687913-the-fascinating-world-of-chatbot-communication-speak-to-chatgpt-now/"><u>The Fascinating World of Chatbot Communication - Speak to ChatGPT Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/twitch-time-travel-regain-control-over-streams/"><u>Twitch Time Travel Regain Control Over Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-feathery-symphony-bebop-parrot-2-dissected/"><u>[Updated] A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>[Updated] In 2024, The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-a-filmmakers-dream-the-8-best-no-fee-video-editors-on-the-market/"><u>2024 Approved A Filmmaker's Dream The 8 Best No-Fee Video Editors on the Market</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/5-leading-iphone-data-rescue-software-solutions-supporting-ios-17-ranked/"><u>5 Leading iPhone Data Rescue Software Solutions Supporting iOS 17 - Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boosting-windows-7-launch-times-tips-and-solutions-to-combat-delayed-startups/"><u>Boosting Windows 7 Launch Times: Tips & Solutions to Combat Delayed Startups</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-detox-for-gamers-prioritizing-well-being/"><u>Digital Detox for Gamers: Prioritizing Well-Being</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-images-from-static-pixels-from-photos-to-video/"><u>Dynamic Images From Static Pixels From Photos to Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-craft-an-effective-email-closing-in-godaddys-online-mail-client/"><u>How to Craft an Effective Email Closing in GoDaddy's Online Mail Client</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-imagery-stories-a-peek-inside/"><u>Iconic Imagery Stories A Peek Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/immediate-entry-bing-chat-no-longer-requires-a-delay/"><u>Immediate Entry: Bing Chat No Longer Requires a Delay</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-blended-media-experience-with-tunes/"><u>In 2024, Crafting a Blended Media Experience with Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-presentations-by-adding-tunes/"><u>In 2024, Crafting Captivating Presentations by Adding Tunes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/portraying-paradoxes-effects-for-time-travel-films/"><u>Portraying Paradoxes Effects for Time Travel Films</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-the-truth-a-step-by-step-guide-on-detecting-an-airtag-following-your-movements/"><u>Uncover the Truth: A Step-by-Step Guide on Detecting an AirTag Following Your Movements</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-short-term-disabling-of-its-protection-systems/"><u>Windows 11: Short-Term Disabling of Its Protection Systems</u></a></li>
 </ul></div>
 
