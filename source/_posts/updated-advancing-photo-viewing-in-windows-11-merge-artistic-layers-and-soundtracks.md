@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks\""
-date: 2024-10-24T07:15:11.979Z
-updated: 2024-10-28T08:30:44.216Z
+date: 2024-10-28T23:53:28.204Z
+updated: 2024-11-02T21:26:22.241Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,10 +73,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -84,10 +84,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,21 +120,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-analyzing-youtube-rankings-what-drives-top-placement/"><u>[New] Analyzing YouTube Rankings What Drives Top Placement?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-achieving-precise-youtube-content-extraction-for-2024/"><u>[Updated] Achieving Precise YouTube Content Extraction for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>[Updated] Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-audiophiles-pathway-starting-with-the-fade-in-functionality-for-2024/"><u>[Updated] Audiophile's Pathway Starting with the Fade-In Functionality for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-becoming-an-exemplary-conductor-of-candidate-assessments/"><u>[Updated] Becoming An Exemplary Conductor of Candidate Assessments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-collaborative-branding-strategies-in-digital-media/"><u>2024 Approved Collaborative Branding Strategies in Digital Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advancing-training-with-vr-systems-for-2024/"><u>Advancing Training with VR Systems for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-7-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 7 Plus/iPad/iPod</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breakdown-average-monthly-earning-for-podcasters/"><u>Breakdown Average Monthly Earning for Podcasters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-videography-starter-pack-openers-and-more/"><u>In 2024, Free Videography Starter Pack Openers & More</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/la-secta-semanal-los-diez-nombres-en-espanol-y-su-significado/"><u>La Secta Semanal: Los Diez Nombres en Español Y Su Significado</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-image-cropping-in-fcpx-essential-techniques-for-editors/"><u>New 2024 Approved Image Cropping in FCPX Essential Techniques for Editors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimized-with-the-help-of-cookiebot-technology/"><u>Optimized with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-grounded-from-dropping-out-on-your-pc-top-fixes-of-202n4/"><u>Stop Grounded From Dropping Out on Your PC - Top Fixes of 202N4</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/voice-message-capture-and-storage-iphone-x2/"><u>Voice Message Capture & Storage iPhone X2</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-action-plan-seamless-transcoding-from-xmlssattml-to-srt-for-2024/"><u>[New] Action Plan Seamless Transcoding From XML/SSA/TTML to SRT for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridging-platforms-effortlessly-add-linktree-to-tiktok-bios/"><u>[New] Bridging Platforms Effortlessly Add Linktree to TikTok Bios</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mp4-capture-and-analysis-toolkit/"><u>[Updated] 2024 Approved MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-understanding-youtube-responses/"><u>[Updated] A Beginner's Guide to Understanding YouTube Responses</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-3d-text-magic-with-adobes-creative-suite/"><u>[Updated] Unlock 3D Text Magic with Adobe's Creative Suite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chorus-of-commitment-best-ballads-for-marital-dreaming-for-2024/"><u>Chorus of Commitment Best Ballads for Marital Dreaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dramatic-discourse-penning-powerful-narrative-dialogues/"><u>Dramatic Discourse Penning Powerful Narrative Dialogues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-revel-in-the-world-of-pokemon-brilliant-diamond-and-shining-pearl/"><u>How to Revel in the World of 'Pokémon Brilliant Diamond and Shining Pearl'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-hot-30i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Hot 30i to Another | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-x100-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on X100 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revamped-ar-laptops-enhanced-features-and-reduced-costs-the-new-generation-of-tech/"><u>Revamped AR Laptops: Enhanced Features & Reduced Costs | The New Generation of Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gaming-audio-equipment-ultimate-picks/"><u>Top Rated Gaming Audio Equipment - Ultimate Picks</u></a></li>
 </ul></div>
 
