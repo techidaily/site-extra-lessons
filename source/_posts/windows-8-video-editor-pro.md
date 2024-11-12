@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Video Editor Pro"
-date: 2024-10-30T22:24:01.815Z
-updated: 2024-11-02T22:41:45.413Z
+date: 2024-11-06T02:27:33.877Z
+updated: 2024-11-12T06:16:49.947Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,10 @@ Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or abov
 We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use DVD slideshow Builder on Windows 8
@@ -51,25 +51,11 @@ The content below will tell you how to make a video movie using [DVD Slideshow B
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 1.Install video movie software and import files
 
 Download and install [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/), in "Organize" tab, drag and drop your digital photos to the storyboard (you can also add videos from computer or camera as you like).
 
 ![video movie maker](https://images.wondershare.com/images/multimedia/dvd-slideshow-builder/dvd-slideshow-organize.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then add background music in "Personalize" tab. You can click "Music" button to add or just drag the music to the background track. You can add sounds or your own record by clicking "Voice Over".
 
@@ -86,10 +72,10 @@ You can also add some adorable elements to make your movie video more funny and 
 ![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
@@ -103,11 +89,37 @@ Ok, that's done. You see, with this **video movie maker for windows 8**, making 
 
 ![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 Interested in Filmora video editor? Check the YouTube tutorial about Filmora from tutvide and download it to try.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -126,19 +138,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-proven-methods-for-logging-digital-audio-data/"><u>[New] Proven Methods for Logging Digital Audio Data</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-action-cam-buyers-guide-affordable-high-definition/"><u>[Updated] Action Cam Buyer’s Guide - Affordable, High Definition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cerebral-showcase-gk-video-challenge-network/"><u>[Updated] Cerebral Showcase - GK Video Challenge Network</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-insiders-manual-reacting-on-twitter-videos-for-2024/"><u>[Updated] Insider’s Manual Reacting on Twitter Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>2024 Approved Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assemble-creative-gifs-for-online-sharing-for-2024/"><u>Assemble Creative GIFs for Online Sharing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/drone-guide-for-beginners-facts-you-cant-afford-to-miss/"><u>Drone Guide for Beginners Facts You Can't Afford to Miss</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210467830-9781628601756-energetic-diagnosis/"><u>Energetic Diagnosis | Free Book</u></a></li>
-<li><a href="https://win-trending.techidaily.com/erfahrene-methoden-zur-korrektur-eines-fehlenden-desktopordners-im-benutzerprofil/"><u>Erfahrene Methoden Zur Korrektur Eines Fehlenden Desktopordners Im Benutzerprofil</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-12-essential-metaverse-prototypes-demystifying-vr/"><u>In 2024, 12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nubia Red Magic 8S Pro+?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Smart 8 Plus Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/syncing-melodies-with-video-in-premiere-pro/"><u>Syncing Melodies with Video in Premiere Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-top-10-camera-recording-devices-of-2024-reviews/"><u>The Top 10 Camera Recording Devices of 2024 – Reviews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audience-accumulation-expedition-tutorials-1mplus-milestone/"><u>[New] Audience Accumulation Expedition Tutorial's 1M+ Milestone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gaming-without-limits-screen-recorder-alternatives-explained-for-2024/"><u>[New] Gaming Without Limits Screen Recorder Alternatives Explained for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-sites-for-downloading-desired-youtube-ringtones/"><u>[Updated] In 2024, Top Sites for Downloading Desired YouTube Ringtones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-capture-and-keep-best-five-extensions-for-fb-videos/"><u>2024 Approved Capture and Keep Best Five Extensions for Fb Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtubes-vista-an-in-depth-tutorial-on-video-submissions/"><u>2024 Approved Mastering YouTube's Vista An In-Depth Tutorial on Video Submissions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-new-era-of-photo-display-best-frame-makers-for-2024/"><u>A New Era of Photo Display Best Frame Makers for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/abbyy-legal-evolution-empowering-law-firms-with-digitization-and-process-automation/"><u>ABBYY Legal Evolution - Empowering Law Firms with Digitization & Process Automation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbot-face-off-evaluating-the-superiority-of-chatgpt-microsoft-bing-ai-and-google-bard/"><u>AI Chatbot Face-Off: Evaluating the Superiority of ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eye-catching-vr-adventures-top-5-psvr-games-awaiting-release/"><u>Eye-Catching VR Adventures Top 5 PSVR Games Awaiting Release</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-there-are-no-more-files-error-on-windows-11-and-11/"><u>How to Fix the “There Are No More Files” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>In 2024, A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12plus-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12+ 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/standout-literary-book-videos/"><u>Standout Literary Book Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-buzz-generating-tie/"><u>Ultimate Buzz-Generating Tie</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-11-01T02:47:29.796Z
-updated: 2024-11-03T01:26:18.853Z
+date: 2024-11-09T07:54:51.080Z
+updated: 2024-11-11T18:41:06.247Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -50,6 +43,13 @@ Russia’s Semen Elistratov wins the bronze medal.
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -59,22 +59,15 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
@@ -82,10 +75,23 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -121,10 +127,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -150,22 +156,14 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-playwriting-workshop/"><u>[New] Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bring-your-text-to-life-techniques-for-3d-design-in-ps/"><u>[Updated] Bring Your Text to Life Techniques for 3D Design in PS</u></a></li>
-<li><a href="https://win-data.techidaily.com/a-decade-on-microsofts-past-mobile-blunders-continue-to-impact-it/"><u>A Decade On, Microsoft's Past Mobile Blunders Continue to Impact It</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-augmentation-for-win11-clips-for-2024/"><u>Auditory Augmentation for Win11 Clips for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/becoming-a-pro-in-video-enhancement-vce-22-guide/"><u>Becoming a Pro in Video Enhancement - VCE 2.2 Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-visual-impact-the-11-best-practices-for-color-workflow-for-2024/"><u>Boosting Visual Impact The 11 Best Practices for Color Workflow for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-seo-with-the-power-of-cookiebot-technology/"><u>Enhance Your SEO with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-failed-steam-ui-module-on-pc/"><u>How To Reset Failed Steam UI Module on PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-harnessing-hours-of-light-long-exposure-iphone-tips/"><u>In 2024, Harnessing Hours of Light Long-Exposure iPhone Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>In 2024, Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/polaroid-cubeplus-action-camera-review/"><u>Polaroid Cube+ Action Camera Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/skyward-saga-with-gopro-karma-a-comprehensive-review/"><u>Skyward Saga with GoPro Karma A Comprehensive Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>Streamlined Video Conferencing Utilizing the Power of Zoom in Win10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y100i-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y100i Location | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tutorial-complet-la-facon-de-faire-une-captur-decran-partielle-sous-windows-11/"><u>Tutorial Complet : La Façon De Faire Une Captur D'écran Partielle Sous Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-metas-verified-gateway-to-gpt-4-world/"><u>Unveiling Meta's Verified Gateway to GPT-4 World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-the-extraordinary-tips-for-spectacular-slow-motion-video-on-mobile/"><u>[Updated] Capture the Extraordinary Tips for Spectacular Slow Motion Video on Mobile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-engaging-podcast-summaries-techniques-and-examples/"><u>[Updated] Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-guide-to-prime-livestream-sites/"><u>Exclusive Guide to Prime Livestream Sites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-good-to-great-unveiling-video-enhance-22-secrets/"><u>From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/master-raw-photography-on-macoslinux-using-the-powerful-gratis-darktable-app/"><u>Master RAW Photography on macOS/Linux Using the Powerful, Gratis Darktable App</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-5g-2023-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola Moto G 5G (2023) won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://some-approaches.techidaily.com/passos-faceis-para-extrair-audio-de-um-filme-em-formato-mkv/"><u>Passos Fáceis Para Extrair Audio De Um Filme Em Formato MKV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-youtube-comment-insights-a-comprehensible-guide/"><u>Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
 </ul></div>
 

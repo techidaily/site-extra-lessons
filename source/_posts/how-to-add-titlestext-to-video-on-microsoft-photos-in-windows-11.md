@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-10-30T22:37:30.055Z
-updated: 2024-11-02T17:47:36.043Z
+date: 2024-11-09T05:44:36.675Z
+updated: 2024-11-11T19:32:44.581Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -68,6 +61,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -80,25 +80,19 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -108,10 +102,16 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -129,22 +129,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-complete-breakdown-inside-google-podcasts-application/"><u>[New] In 2024, Complete Breakdown Inside Google Podcasts Application</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-discover-world-wonders-with-these-top-10-videos/"><u>[Updated] 2024 Approved Discover World Wonders with These Top 10 Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-the-value-of-digital-image-anchor-points/"><u>[Updated] Assessing the Value of Digital Image Anchor Points</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-explore-our-1-ranked-facebook-video-downloading-apps-for-ios/"><u>[Updated] In 2024, Explore Our #1 Ranked Facebook Video Downloading Apps for iOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-making-a-channels-story-visible-in-snippets/"><u>[Updated] Making a Channel's Story Visible in Snippets</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-steams-resource-drain-5-effective-methods-to-limit-ram-use/"><u>Avoid Steam's Resource Drain - 5 Effective Methods to Limit RAM Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/central-points-for-virtual-world-engagement-for-2024/"><u>Central Points for Virtual World Engagement for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-30-quick-steps-to-metaverse-humor-from-copycat-to-creator/"><u>In 2024, 30 Quick Steps to Metaverse Humor From Copycat to Creator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-brilliant-visuals-uncover-the-magic-in-these-7-grades/"><u>In 2024, Brilliant Visuals Uncover the Magic in These 7 Grades</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-dvd-creation-a-guide-for-mac-users/"><u>Mastering DVD Creation A Guide for Mac Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-choices-the-best-8-tripods-for-4k-cinematography/"><u>Premium Choices The Best 8 Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-future-is-now-how-vida-transforms-video-editing/"><u>The Future Is Now How Vida Transforms Video Editing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-intense-hdr-portraits/"><u>Unlock the Secrets to Intense HDR Portraits</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-highlight-video-creation-tools-compared-for-2024/"><u>Updated The Best of the Best Highlight Video Creation Tools Compared for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exclusive-software-gamers-streaming-companions/"><u>[Updated] In 2024, Exclusive Software Gamers' Streaming Companions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-download-of-youtubes-default-thumbnails-effortlessly/"><u>[Updated] Mastering the Download of YouTube's Default Thumbnails Effortlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhancing-classroom-learning-through-recorders/"><u>2024 Approved Enhancing Classroom Learning Through Recorders</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-mx492-printer-drivers-on-windows-complete-guide/"><u>Download & Install Canon MX492 Printer Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c12-plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Plus Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/improving-frame-rate-in-warped-web-videos/"><u>Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-googles-flat-cube-and-samsungs-headset/"><u>In 2024, Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-patches-selecting-shots-for-social-media/"><u>Premium Patches Selecting Shots for Social Media</u></a></li>
 </ul></div>
 

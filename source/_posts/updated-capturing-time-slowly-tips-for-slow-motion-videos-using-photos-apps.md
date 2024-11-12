@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-11-01T04:01:19.019Z
-updated: 2024-11-02T22:25:53.637Z
+date: 2024-11-07T16:31:11.190Z
+updated: 2024-11-11T22:55:42.206Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -62,13 +69,6 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [EZGif](https://ezgif.com/video-speed)
 
 **Step 1: Select Video**
@@ -82,10 +82,10 @@ Click on the “upload video” button so that it can be added into the database
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Output**
@@ -95,10 +95,23 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -106,13 +119,6 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -129,22 +135,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-7-top-free-instagram-video-clips-tools-for-daily-entertainment/"><u>[New] 2024 Approved 7 Top Free Instagram Video Clips Tools for Daily Entertainment</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] How to Address and Overcome a YouTube Content ID Issue</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-immediate-youtube-earnings-projections/"><u>[Updated] 2024 Approved Immediate YouTube Earnings Projections</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-build-funny-images-kapwings-meme-studio/"><u>[Updated] Build Funny Images Kapwing’s Meme Studio</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-recording-every-moment-of-skype-on-obs-for-2024/"><u>[Updated] Essential Tips Recording Every Moment of Skype on OBS for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-trend-titan-tags-the-list-that-elevates-your-youtube-shorts-to-fame-for-2024/"><u>[Updated] Trend Titan Tags The List That Elevates Your YouTube Shorts to Fame for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-cinematic-clarity-premium-handheld-stabilizers-selection/"><u>2024 Approved Cinematic Clarity Premium Handheld Stabilizers Selection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>2024 Approved The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-x50-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor X50 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-rundown-how-google-podcast-works/"><u>Complete Rundown How Google Podcast Works</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/get-free-c-span-footage-simple-legal-steps-explained/"><u>Get Free C-Span Footage - Simple, Legal Steps Explained</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/igniting-passion-creating-a-trending-solo-podcast/"><u>Igniting Passion Creating a Trending Solo Podcast</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-playback-techniques-to-streamline-media-workflows/"><u>In 2024, Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-sierras-icloud-drives-the-full-experience/"><u>In 2024, Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pinnacle-graphics-cards-for-4k-entertainment/"><u>Pinnacle Graphics Cards for 4K Entertainment</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionary-update-stellar-enhances-user-experience-with-newly-improved-data-recovery-tool/"><u>Revolutionary Update: Stellar Enhances User Experience with Newly Improved Data Recovery Tool</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-motorola-g24-power-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Motorola G24 Power to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[New] In 2024, Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[Updated] A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-fundamentals-of-gif-design-and-creation/"><u>[Updated] The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024-ultimate-guide-to-choosing-the-perfect-streaming-webcam-industry-experts-picks-gizmohub/"><u>2024 Ultimate Guide to Choosing the Perfect Streaming Webcam: Industry Experts' Picks | GizmoHub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-action-the-fastest-most-effective-home-filmmaking-tricks-for-2024/"><u>Capture the Action The Fastest, Most Effective Home Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers/"><u>Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-image-quality-with-expert-usage-of-ps-3d-color-grading/"><u>Elevating Image Quality with Expert Usage of PS 3D Color Grading</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-suggestions-premium-iphone-tone-makers/"><u>Foremost Suggestions Premium iPhone Tone Makers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-deconstructing-the-revenue-stream-of-tseries-in-youtube-economy/"><u>In 2024, Deconstructing the Revenue Stream of TSeries in YouTube Economy</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-store-locked-heres-your-path-forward/"><u>Microsoft Store Locked? Here's Your Path Forward</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nikon-z7-deep-dive-achieving-excellence-in-every-shot/"><u>Nikon Z7 Deep Dive: Achieving Excellence in Every Shot</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-a05s-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy A05s Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>Unbeatable Upvotes Reddit's Hottest Threads From History</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visualizing-success-with-the-right-video-ratio/"><u>Visualizing Success with the Right Video Ratio</u></a></li>
 </ul></div>
 

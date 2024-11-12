@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Accelerate Audio Stream  10 Best Mobile Tools\""
-date: 2024-07-26T22:08:54.931Z
-updated: 2024-07-27T22:08:54.931Z
+date: 2024-11-08T23:46:13.827Z
+updated: 2024-11-11T19:03:55.330Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ So, if you are editing videos you want to use for advertising products, a tutori
 
 Multiple useful options are available in the market that promises high-quality audio speed adjustment functions. In this post, we shall look into apps and software with this function on mobile devices and desktops, discussing their features and how to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tiktok music](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-0.jpg)
 
 ## Best 10 Apps for Audio Speed Changing in Android and iOS Devices
@@ -37,11 +34,15 @@ Some apps require payment to operate better quality audio adjustment and other e
 
 For that, here is a list of the top 10 mobile-based apps for audio speed and **tempo editing** that you can use on Android or iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. [Music Speed Changer](https://musicspeedchanger.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![music speed changer interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-1.jpg)
 
 Music Speed Changer is one of the best apps to **speed up audio** efficiently on your mobile devices. With this app, you adjust the pitch and speed of the tracks without compromising sound quality. Real-time conversion support is available here when you adjust the speed of the tracks, and neither action affects the other without you choosing it.
@@ -61,9 +62,6 @@ With this **audio speed changer pro** app, you can quickly master the music mixi
 
 ### 2\. [Audipo: Music Speed Changer](https://play.google.com/store/apps/details?id=jp.ne.sakura.ccice.audipo&gl=US)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![audipo interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-2.jpg)
 
 If you are looking for a dedicated **audio speed changer** app, Audipo is one of the best ones available in the market currently. You can easily access the application's interface and use its simple-to-understand UI to make various changes to the pitch and more.
@@ -83,9 +81,6 @@ You can adjust the speed of the audio here between 0.25x to 4.0x, and see no eff
 
 ### 3\. [Up Tempo: Pitch, Speed Changer](https://play.google.com/store/apps/details?id=com.stonekick.tempo&hl=en&gl=US)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![up tempo interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-3.jpg)
 
 Up Tempo is one of the best **tempo changer**\-based applications available for smartphone and tablet users to make audio edits easily. You can change the song's pitch to a higher level or a low range and even precisely create loops in sections.
@@ -105,9 +100,6 @@ This app allows users to play the songs they are editing in real-time to see how
 
 ### 4\. [Moises: The Musician's App](https://play.google.com/store/apps/details?id=ai.moises&gl=US)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![moises the musicians app interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-4.jpg)
 
 Indeed, as the name suggests, Moises caters heavily to music producers and artists looking to edit their tracks to optimized quality with its dynamic features. You can use high-quality functions like AI-based audio separation to take apart different stems in the songs. These include drums, background vocals, bass sounds, and piano notes.
@@ -145,8 +137,18 @@ The app also allows users the ability to record audio parts easily and then make
 * A free trial version is available for macOS users to utilize the app and check speed adjustment settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. [Transcribe+ Slow Down Music](https://apps.apple.com/us/app/transcribe-slow-down-music/id1048119179)
 
 ![transcribe plus interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-6.jpg)
@@ -166,14 +168,8 @@ This app works as a suitable **tempo slower** as well if that is something you a
 * Adjust the speed of the songs between 0.25x to 2x, keeping the pitch intact.
 * Enhance specific frequencies using the EQ toolbar.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. [AudioTweak](https://apps.apple.com/us/app/audiotweak/id1546870809)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![audiotweak interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-7.jpg)
 
 In the context of high-quality audio editing apps, AudioTweak is easily one of the most notable applications available for mobile users. Beginners can practice the song creation process, learning and transcribing new songs.
@@ -191,9 +187,6 @@ The speed changer functionality on this app is high-grade, making it easier for 
 * A wide speed range of 30-250% is available for adjusting sound speed.
 * Prepare looped sections in songs to make a repetitive section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 8\. [Riff Studio](https://play.google.com/store/apps/details?id=net.brazzi64.riffstudio&gl=US)
 
 ![riff studio interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-8.jpg)
@@ -234,10 +227,14 @@ There are settings for Tempo and Pitch with slider support. So, while making the
 
 ### 10\. [Tempo - Music Video Maker](https://apps.apple.com/us/app/tempo-music-video-maker/id1312830469)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![tempo music video maker interface](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This **audio speed changer app** for mobile users is useful for video-based audio editing primarily. You can try out the software to cut, reverse, crop, and do other standard editing steps for songs and video clips. Besides that, the app comes with speed adjustment functions that make changing the pace of the sound in the video effortless.
 
@@ -272,20 +269,21 @@ Step1: Launch Filmora and choose the add icon in the Media tab or "click here to
 
 ![drag and drop into the editor timeline](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2: Tap on the audio clip in the timeline and choose the Speedometer icon.
 
 Step3: Hover your cursor on it to shift to Fast or Slow.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![shift to fast or slow](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-12.jpg)
 
 Step4: To reverse or customize speed, click on the Speedometer icon > Custom Speed. Use the given slider to adjust it. Tap on the Reverse Speed tickbox if needed. Press OK.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reverse or customize speed on custom speed window](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-13.jpg)
 
 Step5: Press the Export button after you are done editing. Choose Local > MP3\. Make other settings-based changes and press the Export button to save the file to the device.
@@ -304,6 +302,13 @@ Step3: Choose and right-click on the video file on the time > Detect Audio.
 
 ![tap on detect audio](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: Choose the audio track and use the method explained in the previous section to change the audio speed. Make other edits as needed, and press Export > Local > MP4 > Export.
 
 Watch this [video](https://www.youtube.com/watch?v=s4JSmxUmHM4&t=677s) to know more.
@@ -314,9 +319,6 @@ Apart from audio speed-changing, you could also introduce other features briefly
 * Speech to Text/Text to Speech- Use the Speech to Text function to transcribe the audio in the audio file into readable text for captions. Or, if you want to avoid using your own voice, you can use the TTS feature for AI-based narration based on the text you add.
 * Auto Synchronization- The software will automatically synchronize the audio with the video on the screen, scene-by-scene.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you want a high-quality video with an adjusted or sped-up audio track or directly increase the tempo of your songs, use the mobile-based apps listed here. They come with varying features and simplified UI- choose your final option based on your requirements.
@@ -335,9 +337,6 @@ Here are the steps to follow:
 
 Step1: Launch Filmora and choose the add icon in the Media tab or "click here to import media" section. Insert the audio file and drag and drop it into the editor timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drag and drop into the editor timeline](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-11.jpg)
 
 Step2: Tap on the audio clip in the timeline and choose the Speedometer icon.
@@ -346,16 +345,19 @@ Step3: Hover your cursor on it to shift to Fast or Slow.
 
 ![shift to fast or slow](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: To reverse or customize speed, click on the Speedometer icon > Custom Speed. Use the given slider to adjust it. Tap on the Reverse Speed tickbox if needed. Press OK.
 
 ![reverse or customize speed on custom speed window](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-13.jpg)
 
 Step5: Press the Export button after you are done editing. Choose Local > MP3\. Make other settings-based changes and press the Export button to save the file to the device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![press the export button](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-14.jpg)
 
 **How to Change the Speed of Audio with Video in Filmora?**
@@ -368,11 +370,14 @@ Step2: Choose Match to Media under Project Setting pop-up window.
 
 Step3: Choose and right-click on the video file on the time > Detect Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![tap on detect audio](https://images.wondershare.com/filmora/article-images/2023/01/10-best-apps-to-speed-audio-speed-on-mobile-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4: Choose the audio track and use the method explained in the previous section to change the audio speed. Make other edits as needed, and press Export > Local > MP4 > Export.
 
@@ -383,6 +388,13 @@ Apart from audio speed-changing, you could also introduce other features briefly
 * Audio Visualizer- With this feature, you can do waveform-based editing, seeing the beats and pitch represented in a visual format. Make adjustments to the audio effect and tone directly.
 * Speech to Text/Text to Speech- Use the Speech to Text function to transcribe the audio in the audio file into readable text for captions. Or, if you want to avoid using your own voice, you can use the TTS feature for AI-based narration based on the text you add.
 * Auto Synchronization- The software will automatically synchronize the audio with the video on the screen, scene-by-scene.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -416,7 +428,17 @@ However, if you want to do more advanced editing work, you should use Filmora fo
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-cutting-edge-techniques-for-saving-insta-videos-for-2024/"><u>[Updated] Cutting-Edge Techniques for Saving Insta Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-perfect-memos-through-sound-waves/"><u>2024 Approved Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-how-to-get-your-epson-xp-410-drivers-on-a-windows-machine/"><u>Comprehensive Tutorial: How to Get Your Epson XP-410 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-movie-previews/"><u>Crafting Compelling Movie Previews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hunters-top-5-video-tools-of-today/"><u>Hunters' Top 5 Video Tools of Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selective-list-of-pro-gopro-add-ons/"><u>Selective List of Pro-Gopro Add-Ons</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-common-steam-error-code-80-problems/"><u>Troubleshooting the Common Steam Error Code 80 Problems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-break-free-from-format-restrictions-chromecast-streaming-for-all-videos/"><u>Updated Break Free From Format Restrictions Chromecast Streaming for All Videos</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving the Manor Lords Sudden Shutdowns on PC"
-date: 2024-11-01T17:45:22.295Z
-updated: 2024-11-03T01:59:45.462Z
+date: 2024-11-05T16:02:44.009Z
+updated: 2024-11-11T17:46:59.029Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest Adobe Flash Player
 
  Most video stream portals use**Adobe Flash Player** to stream videos. If Adobe Flash is old, or somehow corrupt, missing, you might encounter a YouTube video stuttering problem. If this is the case, you can install the latest Adobe Flash on your computer to solve this issue.
@@ -36,13 +49,6 @@ Here’s how you can do it:
  1) Go to the official[Adobe Flash Player download website](https://get.adobe.com/flashplayer/) .
 
  2) Click**Install now**  . The .exe installation file would then be downloaded automatically. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962aea31d8c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click the downloaded file. Then follow the on-screen instructions to complete the installation.
 
@@ -61,22 +67,15 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962b812b921.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
 
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
@@ -101,15 +100,22 @@ You can update your video driver either manually or automatically.
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and re-play the YouTube to see if it plays smoothly.
 
@@ -128,15 +134,15 @@ Here we take Chrome as an example to giving a step-by-step guide:
 3) Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f3a665d9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Chrome will check for updates automatically.
 
@@ -177,16 +183,18 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-preserving-your-snapchat-moments-beyond-app/"><u>[New] Preserving Your SnapChat Moments Beyond App</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-editing-unlimited-free-audio-samples/"><u>[Updated] 2024 Approved Enhance Editing Unlimited Free Audio Samples!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-real-time-revelations-does-software-trump-hardware/"><u>[Updated] 2024 Approved Real-Time Revelations Does Software Trump Hardware?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-budget-friendly-chinese-vr-gear-for-2024/"><u>[Updated] Budget-Friendly Chinese VR Gear for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-list-of-best-mp4-players/"><u>[Updated] In 2024, Master List of Best MP4 Players</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clearing-up-tips-for-preventing-gopro-haze-for-2024/"><u>Clearing Up Tips for Preventing GoPro Haze for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras-for-2024/"><u>Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harmonizing-sound-dynamics-in-ableton/"><u>Harmonizing Sound Dynamics in Ableton</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastery-through-motion-a-garageband-guide-to-podcasting/"><u>Mastery Through Motion A GarageBand Guide to Podcasting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tactical-steps-to-obtain-top-notch-pictorial-content/"><u>Tactical Steps to Obtain Top-Notch Pictorial Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unlocking-audacitys-full-potential-for-professional-audio-for-2024/"><u>Unlocking Audacity's Full Potential for Professional Audio for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speech-clarity-mastering-googles-translation-technology-for-2024/"><u>[New] Speech Clarity Mastering Google’s Translation Technology for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-prolonging-snapstreak-excellence-top-10-advice/"><u>[Updated] 2024 Approved Prolonging Snapstreak Excellence Top 10 Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m14-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M14 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-sound-top-5-apps-for-windows-beyond-maxed-volume/"><u>Elevate Sound: Top 5 Apps for Windows Beyond Maxed Volume</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fixes-deployed-overcoming-launch-hurdles-for-death-stranding-game/"><u>Final Fixes Deployed - Overcoming Launch Hurdles for Death Stranding Game</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Axon 40 Lite to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>In 2024, BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-conscious-shooters-7-best-4k-cameras/"><u>In 2024, Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
 </ul></div>
 

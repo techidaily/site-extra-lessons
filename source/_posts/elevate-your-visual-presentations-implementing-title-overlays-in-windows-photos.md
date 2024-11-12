@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Visual Presentations  Implementing Title Overlays in Windows Photos\""
-date: 2024-11-02T00:52:22.156Z
-updated: 2024-11-03T01:49:21.742Z
+date: 2024-11-09T17:49:13.383Z
+updated: 2024-11-12T04:15:35.496Z
 tags: 
   - screen-recording
   - ai video
@@ -51,13 +51,6 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -69,6 +62,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -76,10 +76,16 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
@@ -87,26 +93,26 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -123,22 +129,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-aiming-for-the-stars-select-7-top-shooter-experiences-for-2024/"><u>[New] Aiming for the Stars Select 7 Top Shooter Experiences for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-asmr-magic-made-simple-high-performance-at-economic-prices/"><u>[New] ASMR Magic Made Simple High Performance at Economic Prices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bebop-parrot-the-ultimate-feathered-performance-review/"><u>[New] Bebop Parrot The Ultimate Feathered Performance Review</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[Updated] 2024 Approved Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-whatsapp-integration-for-facebook-video-posts/"><u>[Updated] 2024 Approved WhatsApp Integration for Facebook Video Posts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-ways-to-record-streaming-audio-online/"><u>[Updated] In 2024, 5 Ways to Record Streaming Audio Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-rapport-an-interviewers-toolkit/"><u>2024 Approved Building Rapport An Interviewer's Toolkit</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-seamless-integration-iphone-video-editing-guide/"><u>2024 Approved Seamless Integration IPhone Video Editing Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-photo-distortion-methods-for-2024/"><u>Advanced Photo Distortion Methods for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-12-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi 12 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-caption-excellence-an-overview-of-premium-internet-tools/"><u>In 2024, Achieving Caption Excellence An Overview of Premium Internet Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-v27-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo V27 Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pros-hunters-rate-action-camera-winners/"><u>Pros Hunters Rate Action Camera Winners</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-12plus-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme 12+ 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamlining-processes-adding-tracks-to-your-custom-youtube-collection/"><u>Streamlining Processes Adding Tracks to Your Custom YouTube Collection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-preferred-sites-to-download-dynamic-and-versatile-text-effects/"><u>[New] 5 Preferred Sites to Download Dynamic and Versatile Text Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-insta-game-with-flawless-picture-borders/"><u>[New] Elevate Your Insta Game with Flawless Picture Borders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-perfecting-playback-apply-filters-to-video-content/"><u>[Updated] Perfecting Playback Apply Filters to Video Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-and-science-of-crafting-your-ideal-podcast-naming/"><u>[Updated] The Art & Science of Crafting Your Ideal Podcast Naming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-strategy-for-bio-linking-on-tiktok/"><u>2024 Approved Ultimate Strategy for Bio Linking on TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-videoharvest-downloading-fb-content/"><u>2024 Approved VideoHarvest Downloading Fb Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adapt-video-ratios-through-web-interface/"><u>Adapt Video Ratios Through Web Interface</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calculating-best-podcast-debut-days/"><u>Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-gif-potential-creating-animated-summaries-of-vimeo-videos/"><u>In 2024, Unlock GIF Potential Creating Animated Summaries of Vimeo Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-motorola-moto-g73-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Motorola Moto G73 5G has been deleted.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-locating-recorded-sounds-of-wolf-vocalizations/"><u>Updated In 2024, Locating Recorded Sounds of Wolf Vocalizations</u></a></li>
 </ul></div>
 
