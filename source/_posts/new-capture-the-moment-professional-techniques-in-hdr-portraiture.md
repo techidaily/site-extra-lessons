@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture the Moment  Professional Techniques in HDR Portraiture\""
-date: 2024-07-26T22:03:27.279Z
-updated: 2024-07-27T22:03:27.279Z
+date: 2024-11-17T19:14:59.213Z
+updated: 2024-11-21T22:07:25.166Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ People often find it challenging to shoot a perfect HDR photograph from a phone 
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -59,6 +56,10 @@ The first and most crucial part of your camera setting is to choose between two 
 
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
 
 ##### Step2Bracketing
@@ -71,9 +72,6 @@ So almost all DSLRs come with this beneficial feature of bracketing. You can che
 
 Usually, three shots are ideal for HDR portraits as the chances of moving decrease. Nowadays, many latest DSLRs have the option of automatic exposure bracketing as it provides the photographer with different levels of exposure in a single click without spending valuable time adjusting camera settings.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![moving decrease](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-2.jpg)
 
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
@@ -102,9 +100,6 @@ Of course, everyone can't use a DSLR camera for shooting HDR portraits as the pr
 
 Now that you know how to shoot still HDR portraits, let's put some light on shooting HDR moving portraits.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Moving HDR Portraits?
 
 People usually ask, " _Can I shoot moving subjects in HDR?_" or "_What is the basic method to get sharp-looking HDR photos of moving people?_"
@@ -117,6 +112,10 @@ Shooting moving portraits in HDR can get a bit difficult because of blurring and
 
 **Solution 3\.** DSLRs with high-quality exposure and depth sensors can also help shoot HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Edit and Merge Images to Create an HDR Portrait?
 
 After you have shot the images, the next step is to merge and edit them on photoshop or any other software to create a single perfect portrait.
@@ -127,24 +126,15 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
 * Before clicking the OK button, you can tick on the **Attempt to Automatically Align Source Images** option so that minor artifacts introduced while shooting the images can be removed by photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![removed by photoshop](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-5.jpg)
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.
@@ -173,6 +163,10 @@ How to Shoot HDR Portraits?
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -188,10 +182,11 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
 
@@ -205,12 +200,17 @@ So almost all DSLRs come with this beneficial feature of bracketing. You can che
 
 Usually, three shots are ideal for HDR portraits as the chances of moving decrease. Nowadays, many latest DSLRs have the option of automatic exposure bracketing as it provides the photographer with different levels of exposure in a single click without spending valuable time adjusting camera settings.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![moving decrease](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you are done with your bracketing settings, all you have to do is press and hold the shutter, and your specified number of photos will be taken, each with a different exposure value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some Useful Tips to Remember
 
@@ -229,6 +229,10 @@ Same is the case for your camera. You have to use a tripod stand to avoid camera
 You should adjust the focus manually instead of autofocus, as it may shift the focus accidentally while pressing the shutter.
 
 ![autofocus should be off](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### HDR Effects on Phone Camera
 
@@ -258,25 +262,24 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on **Browse** and select the images you want to merge.
 * Before clicking the OK button, you can tick on the **Attempt to Automatically Align Source Images** option so that minor artifacts introduced while shooting the images can be removed by photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![removed by photoshop](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-5.jpg)
 
 * After the images are loaded, a dialogue box will appear on the right side with all the tools you need to edit your HDR portrait.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit hdr portrait](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Tick on the option of **Remove ghosts** to avoid any halos in the editing process.
 * For regular HDR portraits, select **16 Bit** mode in the first section.
@@ -290,9 +293,6 @@ Once you are done with all the adjustments, you'll finally have your perfect HDR
 
 If you are not satisfied with your resulting portrait image, you can further edit it in Lightroom or Photoshop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Words
 
 HDR portraits are way better than conventional portrait images as they bring out the photograph's fine details that are impossible to achieve otherwise.
@@ -325,7 +325,22 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-perfect-screen-recording-made-simple-and-orderly-for-2024/"><u>[New] Perfect Screen Recording Made Simple & Orderly for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-assessing-vlcs-competitors-and-contenders/"><u>2024 Approved Assessing VLC's Competitors and Contenders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-augment-creativity-a-compreenas-of-best-android-drawing-tools/"><u>2024 Approved Augment Creativity A Compreenas of Best Android Drawing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>2024 Approved Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-analysis-of-video-editing-powerdirector-pro-suite-review/"><u>2024 Approved Comprehensive Analysis of Video Editing PowerDirector Pro Suite Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/astonishing-combination-top-tier-oled-display-and-webcam-on-acer-laptop-the-latest-test-results-revealed/"><u>Astonishing Combination: Top-Tier OLED Display & Webcam on Acer Laptop - The Latest Test Results Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoiding-edgenuitys-grasp-tips-for-quickly-skipping-video-lessons/"><u>Avoiding Edgenuity's Grasp Tips for Quickly Skipping Video Lessons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breezy-blogging-quick-video-concept-ideas-for-2024/"><u>Breezy Blogging Quick Video Concept Ideas for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/free-visual-storytelling-tools-intro-templates/"><u>Free Visual Storytelling Tools - Intro Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-in-corsair-void-headset-microphone/"><u>How to Restore Functionality in Corsair Void Headset Microphone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/image-rotation-techniques-with-movavi-photo-editor-and-the-second-one-means-easy-guide-for-flipping-and-rotating-images-with-movavi/"><u>Image Rotation Techniques with Movavi Photo Editor, and the Second One Means Easy Guide for Flipping and Rotating Images with Movavi.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>In 2024, Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-insta-archivists-playbook-for-mastery/"><u>In 2024, The Insta Archivist's Playbook for Mastery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g-5g-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G 5G (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sleek-skill-using-watch-to-unlock-mac-for-2024/"><u>Sleek Skill Using Watch to Unlock Mac for 2024</u></a></li>
+</ul></div>
 

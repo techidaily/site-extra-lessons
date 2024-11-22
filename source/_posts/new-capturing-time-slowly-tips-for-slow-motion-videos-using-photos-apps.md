@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-11-04T20:49:51.761Z
-updated: 2024-11-12T09:34:58.014Z
+date: 2024-11-20T16:07:32.874Z
+updated: 2024-11-22T03:06:27.276Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -40,14 +44,11 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
-If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
 ## Part 2：Customizing the Slow Motion Effect
 
@@ -64,13 +65,6 @@ We recommend that you save your video file under a new name when you are done ma
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Edit in Slow Motion Online
 
@@ -89,10 +83,7 @@ Click on the “upload video” button so that it can be added into the database
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Output**
@@ -102,10 +93,7 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,6 +101,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -129,15 +121,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-an-insider-look-at-vegaspro-2019/"><u>2024 Approved An Insider Look at VegasPro 2019</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-excellence-top-10-free-drawing-tools-for-mac/"><u>2024 Approved Craft Excellence Top 10 Free Drawing Tools for Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tips-and-tricks-for-effective-google-meet-capture/"><u>2024 Approved Tips and Tricks for Effective Google Meet Capture</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blur-out-not-into-discovering-photo-clarity-web-tools-for-2024/"><u>Blur Out, Not Into! Discovering Photo Clarity Web Tools for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/delving-into-digital-overlay-technologies/"><u>Delving Into Digital Overlay Technologies</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a24-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A24 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Bootloader Easily</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/maximizing-video-impact-with-zoom-in-tiktok-for-2024/"><u>Maximizing Video Impact with Zoom in TikTok for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/navigating-keyword-optimization-in-podcast-seo-for-2024/"><u>Navigating Keyword Optimization in Podcast SEO for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-elite-eight-a-guide-to-the-best-mobile-games-on-the-market-now/"><u>The Elite Eight: A Guide to the Best Mobile Games on the Market Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-halt-and-rewind-mastering-live-streams-on-twitch/"><u>2024 Approved Halt & Rewind Mastering Live Streams on Twitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/auf-usb-ubertragen-schnell-lernen-mit-6-tipps-fotos-von-deinem-ipad-auf-einen-speicherstick-zu-kopieren/"><u>Auf USB Übertragen: Schnell Lernen Mit 6 Tipps, Fotos Von Deinem iPad Auf Einen Speicherstick Zu Kopieren</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cold-games-2022s-ultimate-snowboard-dueling-display/"><u>Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-premier-free-overlay-tools-to-elevate-images/"><u>Explore the Premier Free Overlay Tools to Elevate Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-captivate-with-these-14-astonishing-text-animations/"><u>In 2024, Captivate with These 14 Astonishing Text Animations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-multimedia-for-iphone-users/"><u>Integrating Multimedia for iPhone Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/luminance-hd-evaluation-the-ultimate-decision/"><u>Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-periscope-a-comprehensive-tutorial-for-2024/"><u>Mastering Periscope A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-tech-specials-for-this-years-amazon-prime-day-sale/"><u>Must-Have Tech Specials for This Year’s Amazon Prime Day Sale</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uniting-zooms-power-with-facebook-live-streaming/"><u>Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
 </ul></div>
 

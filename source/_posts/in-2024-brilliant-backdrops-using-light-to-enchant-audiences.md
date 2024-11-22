@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-11-07T21:19:44.743Z
-updated: 2024-11-12T10:09:23.982Z
+date: 2024-11-15T01:35:03.432Z
+updated: 2024-11-21T17:34:56.998Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -68,13 +72,25 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -86,18 +102,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -133,14 +146,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-comedy-and-emotions-the-cutest-instagram-meme-groups/"><u>[New] 2024 Approved Comedy & Emotions The Cutest Instagram Meme Groups</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-insights-into-vitas-video-editing-world-review-and-tutorial-2024/"><u>[New] Comprehensive Insights Into Vita's Video Editing World Review & Tutorial, 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[New] Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726220210600-flacmp3-movavi/"><u>免費網路FLAC到MP3格式转换 - 使用Movavi媒体转换器</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a54-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A54 5G FRP Locks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-picks-essential-websites-for-free-text-enhancements/"><u>In 2024, Best Picks Essential Websites for Free Text Enhancements</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-metaverse-awaits-gear-up-with-these-tools/"><u>In 2024, The Metaverse Awaits Gear Up with These Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-mystery-of-slug-line-formats/"><u>Unveiling the Mystery of Slug Line Formats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-your-guide-to-stellar-igtv-talent/"><u>[New] Your Guide to Stellar IGTV Talent</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-building-an-online-empire-ramp-up-video-views-for-2024/"><u>[Updated] Building an Online Empire Ramp Up Video Views for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-empowering-your-business-communication-google-meet-to-youtube-steps/"><u>2024 Approved Empowering Your Business Communication Google Meet to YouTube Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premiere-guide-uploading-vids-for-youtube/"><u>2024 Approved Premiere Guide Uploading Vids for YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-steps-to-record-films-on-computersmacs-and-phones/"><u>Essential Steps to Record Films on Computers/Macs & Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/experience-the-future-of-home-entertainment-with-apple-tv-4k-2021-in-depth-review/"><u>Experience the Future of Home Entertainment with Apple TV 4K - 2021 In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-spreadsheet-struggles-to-success-utilizing-chatgpt-in-excel/"><u>From Spreadsheet Struggles to Success: Utilizing ChatGPT in Excel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-cinema-boosted-list-of-the-best-15-luts/"><u>GoPro Cinema Boosted List of the Best 15 LUTs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-se-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone SE 3 Ways To Unlock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-camon-30-pro-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hunt-for-best-ringtone-deals-on-pixel-phones/"><u>Hunt for Best Ringtone Deals on Pixel Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-memetic-design-innovators-choices/"><u>In 2024, 10 Memetic Design Innovators' Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-quick-image-text-alteration-online-resources/"><u>Learn Quick Image Text Alteration Online Resources</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-balancing-act-managing-your-off-facebook-activity-displays/"><u>The Balancing Act Managing Your Off-Facebook Activity Displays</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pick-windows-10s-cutting-edge-apps-and-games/"><u>Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2024-11-08T03:46:05.426Z
-updated: 2024-11-11T18:18:44.213Z
+date: 2024-11-17T16:02:27.932Z
+updated: 2024-11-21T17:47:05.472Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 ![Forza Horizon 5 FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/11/Forza-Horizon-5-FPS-drops.png)
 
  With the improvement of the graphics and vehicle sounds, Forza Horizon 5 is obviously the best Forza Horizon game to date. However, just like any other games released this month, Forza Horizon 5 still has some performance issues. If**Forza Horizon 5**   **FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix it on your own easily after reading this article!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -63,13 +71,6 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
@@ -87,23 +88,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -144,6 +135,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -159,10 +154,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
@@ -184,20 +176,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -224,22 +206,22 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-action-camera-face-off-comparing-pro-3-models-on-market/"><u>[New] Action Camera Face-Off Comparing Pro 3 Models on Market</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beginners-blueprint-optimal-gopro-extras/"><u>[Updated] Beginner’s Blueprint Optimal GoPro Extras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-cheat-sheet-perfectly-timed-memes/"><u>[Updated] Chuckle Cheat Sheet Perfectly Timed Memes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pristine-visionary-storytelling-system/"><u>[Updated] Pristine Visionary Storytelling System</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-text-tilt-treasures/"><u>[Updated] Top Text Tilt Treasures</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/can-llife-thrive-in-the-dawn-of-the-metaverse/"><u>Can LLife Thrive in the Dawn of The Metaverse?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/determining-if-review-vlogs-involve-payments/"><u>Determining if Review Vlogs Involve Payments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-entertainment-vrs-utility/"><u>In 2024, Beyond Entertainment VR's Utility</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts/"><u>In 2024, Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/insider-tips-for-fixing-audio-problems-in-resident-evil-village-title/"><u>Insider Tips for Fixing Audio Problems in Resident Evil Village Title</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/internet-jesters-arsenal/"><u>Internet Jester's Arsenal</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-the-way-in-color-grading-adobes-top-10-luts-for-lightroom/"><u>Leading the Way in Color Grading Adobe's Top 10 LUTs for LightRoom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/toggle-picture-in-picture-youtube-viewing-tips-for-ios-users/"><u>Toggle Picture In Picture YouTube Viewing Tips for iOS Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-csr8510-a10-motherboard-drivers-in-windows-easily-resolved/"><u>Troubleshooting and Fixing CSR8510 A10 Motherboard Drivers in Windows Easily [RESOLVED]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-full-potential-of-zoom-in-windows-10/"><u>Unlock Full Potential of Zoom in Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-videos-the-best-5-tech-aids/"><u>[New] Boosting Videos The Best 5 Tech Aids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-art-of-fast-instagram-videos/"><u>[New] In 2024, Master the Art of Fast Instagram Videos</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999625745-solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won’t Launch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[Updated] 2024 Approved Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-complete-manual-for-instagram-selfies/"><u>[Updated] 2024 Approved The Complete Manual for Instagram Selfies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-comprehensive-analysis-mycams-video-capture-technology/"><u>2024 Approved A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/big-sur-breakdown-understanding-the-latest-macos-update/"><u>Big Sur Breakdown Understanding the Latest macOS Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/guide-saving-pptx-images-as-pdf-from-word/"><u>Guide: Saving PPTX Images as PDF From Word</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/image-improvement-masterclass-top-apps-decoded/"><u>Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/picshot-transforming-photographs-into-artistic-tapestries/"><u>Picshot Transforming Photographs Into Artistic Tapestries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seven-superior-cameras-defy-the-elements-waterproof/"><u>Seven Superior Cameras Defy the Elements (Waterproof)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/superior-3d-viewing-playback-on-android/"><u>Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essence-of-elongated-images-through-iphone-writings/"><u>The Essence of Elongated Images Through iPhone’ Writings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-color-correctors-handbook/"><u>The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/through-virtual-lenses-a-historical-view/"><u>Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-simplicity-your-guide-to-direct-signup-buttons-for-2024/"><u>Unlocking Simplicity Your Guide to Direct Signup Buttons for 2024</u></a></li>
 </ul></div>
 

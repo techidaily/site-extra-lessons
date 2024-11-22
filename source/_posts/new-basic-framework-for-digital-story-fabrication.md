@@ -1,7 +1,7 @@
 ---
 title: "[New] Basic Framework for Digital Story Fabrication"
-date: 2024-07-26T22:06:14.078Z
-updated: 2024-07-27T22:06:14.078Z
+date: 2024-11-16T18:47:33.935Z
+updated: 2024-11-21T17:32:03.597Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
 The manner in wherein stories are shared, however, has altered. **Digital storytelling** **video** has become a potent tool for connecting and communicating with others in a way that was before unimaginable because of the combination of media creation technologies and the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![knowledge and power of a digital story](https://images.wondershare.com/filmora/article-images/2022/11/knowledge-and-power-of-digital-story-1.jpg)
 
 This article will focus on digital storytelling, including the development and practices that can help you create digital storytelling videos quickly and easily.
@@ -35,18 +32,12 @@ This article will focus on digital storytelling, including the development and p
 
 Additionally, digital storytelling can include a variety of digital narratives. A rising number of businesses are taking note and investigating the potential applications of a digital story. It is frequently employed to refer to filmmaking in general, and it has recently been used to describe commercial and non-profit advertising and promotion efforts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part II. Development of Digital Storytelling
 
 Dana Atchley and Joe Lambert of the Center for Digital Storytelling started the digital storytelling advancement in 1994 by teaching others how to create digital stories. Although the power of storytelling has existed for thousands of years, it has only recently become possible for storytellers to **"become digital"** because of the advancement of personal computers and friendly modern communications.
 
 High goals and outdated technologies coexisted throughout this period. Browsers were quite straightforward at the time, and dial-up remained still in use. There were no devices for accessing the internet, and most individuals read the digital narrative on their desktop computers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tools and tips for virtual storytelling](https://images.wondershare.com/filmora/article-images/2022/11/tools-and-tips-virtual-storytelling-2.jpg)
 
 In this regard, the Center for Digital Storytelling developed a digital story that emphasized first-person narratives that framed memories as potent stories using visuals, audio, and music. The capacity to add graphics and narration to stories gives them a unique significance for both the author and the audience of virtual storytelling.
@@ -57,11 +48,23 @@ Compared to traditional storytelling, digital storytelling is far more integrati
 
 ![online view of modern storytelling](https://images.wondershare.com/filmora/article-images/2022/11/online-modern-storytelling-view-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 While oral and written stories in traditional storytelling will only focus on listening and reading abilities, digital storytelling will emphasize other skills like interaction by encouraging knowledge acquisition and technology literacy by interacting with technological sources, thus possessing the power of storytelling.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Note:_** Visit [**Wondershare Filmora9: Discover the Power of Storytelling**](https://youtu.be/eryg29f294U) if you're interested in learning how to create a digital storytelling video example.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III. Practices of Digital Storytelling
 
@@ -77,10 +80,11 @@ The ability to convey a digital story is essential in today's schools since it a
 
 Digital storytelling creates online connections with students and provides feedback on their comprehension and progress. Students can learn crucial literacy skills like first-person viewpoint and narrative voice by telling personal experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![school session of digital narrative](https://images.wondershare.com/filmora/article-images/2022/11/school-session-digital-narrative-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Further than language arts and media studies, digital storytelling is utilized to teach other curricular topics. To assist themselves and their audience in understanding better why a famous person behaved the way they did, students could, for instance, recount an incident from their lives.
 
@@ -94,6 +98,10 @@ Utilizing cutting-edge contemporary tools and the potency of an effective market
 
 ![the power of storytelling in the marketing world](https://images.wondershare.com/filmora/article-images/2022/11/the-power-of-storytelling-marketing-world-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Using specialized storylines, you may utilize brand storytelling to enhance your company's appeal, humanize it, and highlight its core values. Virtual storytelling was once primarily used to describe filmmaking. It has developed to stand for marketing, promotion, and advertising by businesses and marketing teams.
 
 **Uses in Social Networks**
@@ -102,22 +110,24 @@ The power of storytelling is the cornerstone of all effective social media netwo
 
 ![the art of modern storytelling in social networks](https://images.wondershare.com/filmora/article-images/2022/11/art-of-modern-storytelling-in-social-networks-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Social networking platforms can also convey stories about your company, products, or anything else to engage your audience through digital storytelling. Regardless of how simple or insignificant it may seem, each piece of data you publish supports the digital narrative you're trying to tell.
 
 **Uses Everywhere**
 
 Digital storytelling is utilized in numerous contexts, such as when victims of abuse or war share their stories to heal and enlighten others or when people with different developmental disabilities use graphics and music to tell their stories when text-based storytelling isn't an option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![youtube digital storytelling video examples in public](https://images.wondershare.com/filmora/article-images/2022/11/public-youtube-digital-storytelling-video-examples-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Additionally, youtube digital storytelling in public relations campaigns is crucial because it enables businesses to better engage with their target market and ultimately sway their opinions toward their marketing objectives. Another illustration would be that immigrants and newcomers are sharing their stories or the stories of their families to promote advocacy.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part IV. Essential Techniques for Making an Effective Digital Storytelling Video
 
 Digital storytelling, at its best, can be a potent tool for democratizing the record by involving individuals and groups whose views may otherwise go unheard.
@@ -140,9 +150,6 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 (DOWNLOAD ICONS - Try it free)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **_Note:_** Visit [**Filmora**](https://www.prnewswire.com/news-releases/boost-video-storytelling-with-wondershare-filmora-11-5-through-powerful-features-and-a-community-to-inspire-301598990.html) for more information on creating a digital storytelling video.
@@ -173,9 +180,6 @@ The ability to convey a digital story is essential in today's schools since it a
 
 Digital storytelling creates online connections with students and provides feedback on their comprehension and progress. Students can learn crucial literacy skills like first-person viewpoint and narrative voice by telling personal experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![school session of digital narrative](https://images.wondershare.com/filmora/article-images/2022/11/school-session-digital-narrative-4.jpg)
 
 Further than language arts and media studies, digital storytelling is utilized to teach other curricular topics. To assist themselves and their audience in understanding better why a famous person behaved the way they did, students could, for instance, recount an incident from their lives.
@@ -188,10 +192,6 @@ Through several chances for engagement, a strong digital story encourages viewer
 
 Utilizing cutting-edge contemporary tools and the potency of an effective marketing tale, youtube digital storytelling may connect with an intended audience on a whole new level. Examples of digital storytelling videos about your brand draw in and engage your target market.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![the power of storytelling in the marketing world](https://images.wondershare.com/filmora/article-images/2022/11/the-power-of-storytelling-marketing-world-5.jpg)
 
 Using specialized storylines, you may utilize brand storytelling to enhance your company's appeal, humanize it, and highlight its core values. Virtual storytelling was once primarily used to describe filmmaking. It has developed to stand for marketing, promotion, and advertising by businesses and marketing teams.
@@ -208,9 +208,6 @@ Social networking platforms can also convey stories about your company, products
 
 Digital storytelling is utilized in numerous contexts, such as when victims of abuse or war share their stories to heal and enlighten others or when people with different developmental disabilities use graphics and music to tell their stories when text-based storytelling isn't an option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube digital storytelling video examples in public](https://images.wondershare.com/filmora/article-images/2022/11/public-youtube-digital-storytelling-video-examples-7.jpg)
 
 Additionally, youtube digital storytelling in public relations campaigns is crucial because it enables businesses to better engage with their target market and ultimately sway their opinions toward their marketing objectives. Another illustration would be that immigrants and newcomers are sharing their stories or the stories of their families to promote advocacy.
@@ -239,15 +236,16 @@ With the most recent improvements, [Wondershare Filmora](https://tools.techidail
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Note:_** Visit [**Filmora**](https://www.prnewswire.com/news-releases/boost-video-storytelling-with-wondershare-filmora-11-5-through-powerful-features-and-a-community-to-inspire-301598990.html) for more information on creating a digital storytelling video.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
 Everybody has a narrative, but the craft of digital storytelling can transform a story into something profound. Digital storytelling inevitably becomes a more potent and crucial instrument for engagement, provision of services, and social impact as more people use social media to keep informed and engaged.
@@ -278,7 +276,21 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-30-dynamic-metaverse-insights-with-arvr-themes/"><u>[New] 30 Dynamic Metaverse Insights with AR/VR Themes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-techniques-to-improve-mp4-soundtracks-using-srt-2024s-best-practices/"><u>[New] Comprehensive Techniques to Improve MP4 Soundtracks Using SRT (2024'S Best Practices)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-captivating-content-for-a-consistent-climb-in-subscribers/"><u>[New] Crafting Captivating Content for a Consistent Climb in Subscribers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-hide-and-seek-with-fb-episodes-for-2024/"><u>[New] Hide-and-Seek with FB Episodes for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-slash-and-save-how-to-edit-youtube-videos-quickly-for-2024/"><u>[Updated] Slash and Save How to Edit YouTube Videos Quickly for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-combine-videos-on-iphone/"><u>2024 Approved How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/efficient-revenue-streams-the-guide-to-making-money-from-youtube-mobile/"><u>Efficient Revenue Streams The Guide to Making Money From YouTube Mobile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-user-friendly-srt-services-ranked-1-to-8/"><u>Free, User-Friendly SRT Services – Ranked #1 to #8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-se-2022-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone SE (2022)?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-astonishing-critique-and-substitutes-guide/"><u>In 2024, Astonishing Critique & Substitutes Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/samsung-bd-j5900-overhaul-whats-new-in-2024/"><u>Samsung BD-J5900 Overhaul What's New , In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapchats-highlight-an-in-depth-look/"><u>Snapchat's Highlight An In-Depth Look</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-youtube-to-mp4-blueprint/"><u>The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-hidden-gems-for-enhancing-canva-images-for-2024/"><u>Top 10 Hidden Gems for Enhancing Canva Images for 2024</u></a></li>
+</ul></div>
 

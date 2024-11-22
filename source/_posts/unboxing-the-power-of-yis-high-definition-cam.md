@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Power of YI's High Definition Cam"
-date: 2024-11-10T05:50:09.399Z
-updated: 2024-11-11T19:13:20.348Z
+date: 2024-11-16T16:39:08.471Z
+updated: 2024-11-22T01:26:23.478Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Specifications
 
@@ -74,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Features
 
@@ -131,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -146,31 +162,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-unable-to-contact-your-dhcp-server/"><u>[SOLVED] Unable to Contact Your DHCP Server</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-top-15-science-youtube-channels-to-expand-knowledge/"><u>[Updated] In 2024, Top 15 Science YouTube Channels to Expand Knowledge</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-control-over-your-youtube-viewing-experience/"><u>2024 Approved Complete Control Over Your YouTube Viewing Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-slogan-generator-for-virtual-events/"><u>Best Slogan Generator for Virtual Events</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-and-conserve-top-picks-for-affordable-cloud-photo-storage/"><u>Capture and Conserve Top Picks for Affordable Cloud Photo Storage</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/celestialinforescue-center/"><u>CelestialInfoRescue Center</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-chrome-os-upgrade-how-chromebooks-now-echo-windows-11-features/"><u>Exploring the Latest Chrome OS Upgrade: How Chromebooks Now Echo Windows 11 Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978985139-get-the-newest-geforce-rtx-3090-driver-for-your-system-win-11-8-and-7/"><u>Get the Newest GeForce RTX 3090 Driver for Your System - Win 11, 8 & 7!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-iphones-shutter-speed-for-motion-blurs/"><u>Harness the Power of iPhone’s Shutter Speed for Motion Blurs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-giroptic-camera-experience/"><u>In 2024, Comprehensive Giroptic Camera Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-painting-programs-beyond-the-procreate-window-experience/"><u>Leading Painting Programs Beyond the Procreate Window Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972410165-maroon-5-their-modern-pop-rock-sound-has-many-feel-good-songs-such-as-sunday-morning-and-the-classic-this-love/"><u>Maroon 5 – Their Modern Pop-Rock Sound Has Many Feel-Good Songs Such as Sunday Morning and the Classic This Love</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-5-high-resolution-film-makers/"><u>Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs-for-2024/"><u>Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/shopping-guide-to-top-10-mystery-boxes-purchase-sites/"><u>Shopping Guide to Top 10 Mystery Boxes Purchase Sites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spirited-account-creation-steps/"><u>Spirited Account Creation Steps</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-premiere-elements-not-cutting-it-discover-these-10-alternative-video-editors/"><u>Updated Premiere Elements Not Cutting It? Discover These 10 Alternative Video Editors</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-air-vs-pro-with-m1-optimal-laptop-for-your-needs/"><u>[New] Air Vs. Pro with M1 Optimal Laptop for Your Needs?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-building-your-hyperlapse-filmmaking-toolkit/"><u>[New] Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-close-up-clarity-mastering-teammate-focus/"><u>[Updated] Close-Up Clarity Mastering Teammate Focus</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-fan-count-decline-identify-losses/"><u>[Updated] Instagram Fan Count Decline Identify Losses</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-manual-for-instagram-selfies-for-2024/"><u>[Updated] The Complete Manual for Instagram Selfies for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightroom-lut-wonders-your-go-to-selection-of-10-titles/"><u>2024 Approved LightRoom LUT Wonders Your Go-To Selection of 10 Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>2024 Approved Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-on-films-leveraging-chatgpts-ai-wisdom/"><u>Deciding on Films: Leveraging ChatGPT's AI Wisdom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-draft-to-delightful-storyboarding-animations-in-movie-maker/"><u>From Draft to Delightful Storyboarding Animations in Movie Maker</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immersive-android-viewer-for-high-quality-3d/"><u>Immersive Android Viewer for High-Quality 3D</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>Mac's Visionary Picks The #10 Elite Monitors with 4K</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-multimedia-content-putting-photos-together-on-insta-story/"><u>Mastering Multimedia Content Putting Photos Together on Insta Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-and-utilizing-steams-creative-workshop-space/"><u>Navigating and Utilizing Steam’s Creative Workshop Space</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-dynamic-duo-of-yi-and-4k-in-action-video/"><u>The Dynamic Duo of Yi and 4K in Action Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-test-for-every-sports-fan-polaroids-xs-100i-review/"><u>The Ultimate Test for Every Sports Fan - Polaroid's XS 100I Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbiased-aeiusny-portable-solar-generator-analysis-ensuring-safety-with-pure-sine-wave-for-critical-health-gear/"><u>Unbiased Aeiusny Portable Solar Generator Analysis: Ensuring Safety with Pure Sine Wave for Critical Health Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-ping-optimization-techniques-for-faster-gameplay-tips-and-tricks/"><u>Warzone 2.0 Ping Optimization Techniques for Faster Gameplay - Tips & Tricks</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

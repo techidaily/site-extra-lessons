@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Achieving Perfect Soundscape  Essential Equipment Guide for Podcasters\""
-date: 2024-11-09T04:47:34.353Z
-updated: 2024-11-11T18:53:30.774Z
+date: 2024-11-20T01:28:36.253Z
+updated: 2024-11-22T02:17:42.099Z
 tags: 
   - screen-recording
   - ai video
@@ -90,6 +90,10 @@ No, since without an audio interface, the recording could be done manually throu
 
 **This means an audio interface is not needed to record a podcast or voiceover but is recommended.** With any audio editing or recording, you must ensure that your audio interfaces work in tandem with your computer sound card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What types of recording setups require an audio interface?
 
 For example, record an acoustic guitar to hear the difference between the various pickup types (strings, bridge, neck, etc.).
@@ -99,13 +103,6 @@ You can’t do this without an audio interface. Or, If you plan on making music 
 ## Part 4\. Does an audio interface improve sound quality?
 
  Most people were left to wonder whether or not an audio interface made any difference in the sound quality of their recordings. The answer is a resounding yes. An audio interface makes it easier to create better-sounding music, and the equipment is essential to recording high-quality music for distribution.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What does “better audio quality” mean?
 
@@ -133,13 +130,25 @@ The lowest bit depth you should use for professional recordings is 16-bit, but m
 
 ![bit depth](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. Which audio interface should you get for podcasts?
 
 If you’re looking for an audio interface for podcasting, you’re in luck—many options are available. Which is best for your needs and budget, from USB interfaces to standalone Bluetooth audio systems? Here are some of the most popular options in the industry right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Focusrite Scarlett 2i2](https://store.focusrite.com/en-gb/product/scarlett-2i2-3rd-gen/MOSC0025?%5Fgl=1%2A15hgfah%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDA3NC4wLjAuMA..)
 
 ![focusrite scarlett 2i2](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Focusrite Scarlett 2i2 Studio recording bundle gives you a great recording experience with all the essentials. It’s packed with powerful upgrades, including two upgraded Scarlett mic preamps and high-performance AD/DA converters. The Scarlett 2i2 also offers preamp emulation named ‘Air’ for a clearer, open and brighter sound. That makes this interface a perfect choice for small project studios.
 
@@ -154,13 +163,6 @@ The Focusrite Scarlett 2i2 Studio recording bundle gives you a great recording e
 ### PreSonus AudioBox USB 96
 
 ![presonus audiobox usb 96](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to add a USB audio interface to your studio, check out the AudioBox USB 96\. With a two-front panel mic input and great performance, this microphone is a great fit for singers, podcasters, and guitar-bass collaborations.
 
@@ -177,6 +179,10 @@ This interface is one of a kind that delivers impressive results for a low cost.
 ### [Focusrite Scarlett Solo](https://store.focusrite.com/en-gb/product/scarlett-solo-3rd-gen/MOSC0024?%5Fgl=1%2A14jl3bp%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDE4MC4wLjAuMA..)
 
 ![focusrite scarlett solo](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Focusrite Scarlett Solo 3rd Gen is the best recording interface for beginners looking to start making their studio. This audio interface looks nice, and the design is straightforward.
 
@@ -207,6 +213,10 @@ The microphone stand is also one of the essential pieces of audio equipment, as 
 
 ![mixer](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The mixer is the most important piece of equipment for a podcast because it is used for recording and mixing audio. It allows you to adjust the volume of individual mics, which makes it possible to add multiple mics to your podcast. It also allows you to adjust the volume of the overall podcast.
 
 ### Headphones
@@ -214,6 +224,10 @@ The mixer is the most important piece of equipment for a podcast because it is u
 ![headphones](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-9.jpg)
 
 Headphones are required if you want to listen to podcasts during your commute. And the best ones for you depend on what kind of audio quality you prefer. A good pair of headphones will last you a long time. They are either wired or wireless; we recommend choosing wired over wireless because they offer low latency and are cheaper than wireless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Sound Card
 
@@ -274,13 +288,6 @@ To convert your podcast audio into text, you need to use the ‘Speech to Text�
 This feature is used if you want to add a voiceover to your podcast using a text file. To use this, right-click on the text timeline and select ‘Text to Speech. Select language and choose Filmora AI voice name e.g., Bob, Mark, Lucy, etc.
 
 ![text-to-speech parameter](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Audio Visualizer**
 
@@ -336,10 +343,7 @@ You can’t do this without an audio interface. Or, If you plan on making music 
 Listening to someone speaking over the phone while trying to talk to them in person, their voice may sound garbled. Because noise surrounds the person’s mouth, creating a distortion in their voice that makes it impossible to decipher who is saying what.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Which parameters determine “better audio quality”?
@@ -362,16 +366,13 @@ The lowest bit depth you should use for professional recordings is 16-bit, but m
 
 ![bit depth](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. Which audio interface should you get for podcasts?
 
 If you’re looking for an audio interface for podcasting, you’re in luck—many options are available. Which is best for your needs and budget, from USB interfaces to standalone Bluetooth audio systems? Here are some of the most popular options in the industry right now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Focusrite Scarlett 2i2](https://store.focusrite.com/en-gb/product/scarlett-2i2-3rd-gen/MOSC0025?%5Fgl=1%2A15hgfah%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDA3NC4wLjAuMA..)
 
@@ -402,13 +403,6 @@ This interface is one of a kind that delivers impressive results for a low cost.
 * Onboard +48-volt phantom
 * Internal analog mixer
 * Dual preamplifiers
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Focusrite Scarlett Solo](https://store.focusrite.com/en-gb/product/scarlett-solo-3rd-gen/MOSC0024?%5Fgl=1%2A14jl3bp%2A%5Fga%2AMTg0Mzg2ODMwMC4xNjY2NTM4OTU0%2A%5Fga%5F1S9T2JGT6Z%2AMTY2NjYyNDA2My4yLjEuMTY2NjYyNDE4MC4wLjAuMA..)
 
@@ -451,6 +445,10 @@ The mixer is the most important piece of equipment for a podcast because it is u
 
 Headphones are required if you want to listen to podcasts during your commute. And the best ones for you depend on what kind of audio quality you prefer. A good pair of headphones will last you a long time. They are either wired or wireless; we recommend choosing wired over wireless because they offer low latency and are cheaper than wireless.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Sound Card
 
 ![sound-card](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-10.jpg)
@@ -472,13 +470,6 @@ With a user base of over 60 million users, Filmora is a video editing suite that
 It’s easy to use, offering features including motion effects, transitions, text overlays, voiceovers, and color correction. It’s a perfect tool for quickly creating quality audio and video content, especially when it comes to making episodes.
 
 ![podcast editing](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Some of its audio features for editing and adjusting are
 
@@ -517,13 +508,6 @@ To convert your podcast audio into text, you need to use the ‘Speech to Text�
 This feature is used if you want to add a voiceover to your podcast using a text file. To use this, right-click on the text timeline and select ‘Text to Speech. Select language and choose Filmora AI voice name e.g., Bob, Mark, Lucy, etc.
 
 ![text-to-speech parameter](https://images.wondershare.com/filmora/article-images/2022/12/what-is-audio-interface-for-podcasting-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Audio Visualizer**
 
@@ -567,24 +551,19 @@ There is so much information on the internet. But sometimes, it’s hard to find
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-art-of-piecing-together-digital-images/"><u>[New] The Art of Piecing Together Digital Images</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-breaking-ground-in-editing-an-examination-of-the-vida-app/"><u>[Updated] Breaking Ground in Editing An Examination of the Vida App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoid-unsolicited-podcast-selections-by-spotify/"><u>2024 Approved Avoid Unsolicited Podcast Selections by Spotify</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-windows-instant-scrutiny-a-manual/"><u>2024 Approved Window's Instant Scrutiny A Manual</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-practical-approach-to-hymnal-phone-tones/"><u>A Practical Approach to Hymnal Phone Tones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/blender-software-stability-troubleshooting-fix-crashes-on-windows-and-macos/"><u>Blender Software Stability Troubleshooting: Fix Crashes on Windows and MacOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embrace-the-future-now-transforming-your-mobile-device-for-vr/"><u>Embrace the Future Now Transforming Your Mobile Device for VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-best-10-no-cost-srt-converters/"><u>Essential Guide to Best 10 No-Cost Srt Converters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellence-in-dialogue-maker-land/"><u>Excellence in Dialogue Maker Land</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/extended-review-uncomplicated-hdr-approach/"><u>Extended Review Uncomplicated HDR Approach</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-block-someone-on-instagram/"><u>How to Block Someone on Instagram?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-streaming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>In 2024, Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-techniques-for-epochal-transition-scenes/"><u>In 2024, Techniques for Epochal Transition Scenes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/kinemaster-guide-to-seamless-green-screen-implementation/"><u>Kinemaster Guide to Seamless Green Screen Implementation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/minute-movie-narrative-blueprint-for-2024/"><u>Minute Movie Narrative Blueprint for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spectral-imagery-phantasmal-camera-analysis/"><u>Spectral Imagery Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-beginner-secrets-to-mastering-photoshop-edits/"><u>[New] 5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-blueprint-mastering-movie-maker-with-windows-8/"><u>[New] Beginner's Blueprint Mastering Movie Maker with Windows 8</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mediamasher-deluxe/"><u>[New] In 2024, MediaMasher Deluxe</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-launched-visuals-review-synopsis/"><u>[Updated] 2024 Approved Launched Visuals Review Synopsis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-spotify-turning-off-automatic-podcast-recommendations-for-2024/"><u>[Updated] Spotify Turning Off Automatic Podcast Recommendations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-precise-shadows-with-adobe-curves/"><u>Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-use-ceiling-for-facebooks-neighborhood-users/"><u>Decoding the Use Ceiling for Facebook's Neighborhood Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-temus-one-layer-security-a-warning-sign-for-consumers-zdnet-analysis/"><u>Evaluating Temu's One-Layer Security: A Warning Sign for Consumers | ZDNet Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-potential-how-to-excel-on-spotify-ads/"><u>Harnessing Potential How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ignite-creativity-with-the-best-android-drawing-app-selection-for-2024/"><u>Ignite Creativity with the Best Android Drawing App Selection for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-5-essential-sites-revolutionizing-how-we-style-text/"><u>In 2024, 5 Essential Sites Revolutionizing How We Style Text</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-video-editor-works-on-m1-chip/"><u>In 2024, Video Editor Works on M1 Chip</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-graphics-cards-drivers-available-now-download-the-latest-rtx-2080-for-windows-10-7-and-8/"><u>New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-differences-showing-why-pc-is-superior-to-mac/"><u>Top 9 Differences Showing Why PC Is Superior to Mac</u></a></li>
 </ul></div>
 

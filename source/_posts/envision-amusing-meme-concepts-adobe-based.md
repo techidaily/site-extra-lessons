@@ -1,7 +1,7 @@
 ---
 title: "\"Envision Amusing Meme Concepts, Adobe-Based\""
-date: 2024-11-09T06:50:14.258Z
-updated: 2024-11-11T17:43:11.697Z
+date: 2024-11-19T22:23:20.223Z
+updated: 2024-11-21T22:23:43.551Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ Step3 There are a number of actions that can be applied on the template, in the 
 
 ![video templates adobe express](https://images.wondershare.com/filmora/article-images/2022/07/video-templates-adobe-express.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Even if you do not download it, it will be stored in the Adobe cloud and you can retrieve it anywhere using your email login.
 
 ## Part 2: Using Photoshop for Meme Making
@@ -60,26 +64,20 @@ Step1 Launch a new Photoshop project. Set your image's dimensions to any appropr
 
 ![open new docs ps](https://images.wondershare.com/filmora/article-images/2022/07/open-new-docs-ps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Download the image you want to use and drag it onto the Photoshop workspace. Select your image in the layer panel after that, then adjust the image's size to fit in the appropriate location. Create the text and place it above the picture. Use the Duplicate Layer option to duplicate the top text rather than writing the bottom content.
 
 ![drag image to workplace ps](https://images.wondershare.com/filmora/article-images/2022/07/drag-image-to-workplace-ps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 The meme can then be enhanced by applying different actions after selection. Any layer can be accessed. By double clicking on a specific layer, you can select blending parameters like outer glow, stroke, drop shadow, etc.
 
 Step4 Finally, save the meme. Go to file and choose "save". Select any extension you want and save.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Create Meme with After Effects
@@ -87,13 +85,6 @@ Step4 Finally, save the meme. Go to file and choose "save". Select any extension
 Adobe After Effects is normally used for staging of a film, video game, and television production. The key objectives behind making after effects were to make a motion graphics, digital visual effects, and compositing technology. Keying, tracking, compositing, and animation are some of the tasks that can be performed with the help of After Effects. A basic media transcoder, non-linear editor and audio editor are also included in its list of capabilities.
 
 ![create meme in after effects](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-in-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Steps to Use Adobe After Effects as Meme Maker**
 
@@ -108,10 +99,7 @@ Step3 Select your image in the layer panel and then change its size to fit in th
 ![change image size ae](https://images.wondershare.com/filmora/article-images/2022/07/change-image-size-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 After embellishments, you can save the file in your desired extension: By clicking on the file button and saving it.
@@ -136,9 +124,17 @@ Step2 After downloading the selected image, drag it onto the Premiere pro worksp
 
 ![adjust image premiere](https://images.wondershare.com/filmora/article-images/2022/07/adjust-image-premiere.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Create the project by clicking on ‘create’ which will complete the work.
 
 ![start creating meme premiere](https://images.wondershare.com/filmora/article-images/2022/07/start-creating-meme-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Adobe Alternative to Create Memes - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -163,10 +159,7 @@ Step2 Add your desired text and put it in the right position.
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Complete your meme and download it.
@@ -174,10 +167,7 @@ Step3 Complete your meme and download it.
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -194,27 +184,17 @@ Step1 Open the Filmora meme maker on your browser. Drag or upload your file on t
 
 ![open filmora meme maker](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Add your desired text and put it in the right position.
 
 ![add desired text](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -244,21 +224,20 @@ There are a number of different tools available on internet for meme making. And
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-dynamic-image-narration-toolbox/"><u>[New] 2024 Approved Dynamic Image Narration Toolbox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>[Updated] Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-accidental-tiktok-refresh-recover-your-content/"><u>[Updated] In 2024, Accidental TikTok Refresh - Recover Your Content?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-wipe-out-facebook-story-desktopmobile-tips/"><u>[Updated] Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-to-repair-dell-speaker-problems-under-windows-7-os/"><u>DIY Solutions to Repair Dell Speaker Problems Under Windows 7 OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-curated-animated-type-library/"><u>Expertly Curated Animated Type Library</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-15plus-destinations-for-cost-free-imagery-harvesting/"><u>In 2024, 15+ Destinations for Cost-Free Imagery Harvesting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-unboxing-content-top-tips/"><u>In 2024, Crafting Captivating Unboxing Content Top Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-appropriate-to-use-good-manners-with-digital-companebots-such-as-chatgpt-alexa-or-siri/"><u>Is It Appropriate to Use Good Manners With Digital Companebots Such as ChatGPT, Alexa, or Siri?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-11-proplus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme 11 Pro+ Screen | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/simple-updates-to-graphics-drivers-in-win7/"><u>Simple Updates to Graphics Drivers in Win7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stellar-sparks-top-ten-threads-that-captivated-reddit-users/"><u>Stellar Sparks Top Ten Threads that Captivated Reddit Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-experts-manual-to-windows-10-prowess/"><u>The Expert's Manual to WINDOWS 10 Prowess</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-se-2020-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE (2020) screen lock without data loss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-facebook-lives-demystified-the-best-ways-to-record-a-stream/"><u>[Updated] 2024 Approved Facebook Lives Demystified The Best Ways to Record a Stream</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-powerful-relationships-through-strategic-social-media-engagement/"><u>[Updated] Building Powerful Relationships Through Strategic Social Media Engagement</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-bite-sized-content-on-youtube/"><u>2024 Approved Bite-Sized Content on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-leading-6-fiscal-sensible-options-in-high-res-projection/"><u>2024 Approved Leading 6 Fiscal Sensible Options in High-Res Projection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>2024 Approved Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-microsoft-bluetooth-drivers-for-windows-compatible-with-win10-win11-win8-and-win7/"><u>Get the Latest Microsoft Bluetooth Drivers for Windows - Compatible with Win10, Win11, Win8, and Win7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>In 2024, Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-pacing-with-macos-a-specialists-guide-to-srt-editing/"><u>Perfect Pacing with macOS A Specialist's Guide to SRT Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-file-handling-simplified-on-pcmac/"><u>SRT File Handling Simplified on PC/Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stepwise-methods-for-captivating-collage-compositions/"><u>Stepwise Methods for Captivating Collage Compositions</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-xs-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone XS Location | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-claude-2-functions-and-applications/"><u>Understanding Claude 2: Functions and Applications</u></a></li>
 </ul></div>
 

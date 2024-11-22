@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing 3D Text  A Photoshop Technique\""
-date: 2024-11-11T04:07:50.873Z
-updated: 2024-11-12T09:20:51.345Z
+date: 2024-11-18T16:06:29.669Z
+updated: 2024-11-22T00:44:03.179Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
@@ -38,9 +42,17 @@ Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen.
 
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
@@ -60,18 +72,15 @@ Step9 We're almost done. The next step is to go back to the **Layers** tab → r
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
 
 There you have it. You can now export your 3D text image from Photoshop and you're done. Congratulations on learning how to make a 3D text effect in Photoshop.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Easier Way to Create a 3D Text Effect or Animation
 
@@ -85,6 +94,10 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -106,13 +119,6 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -122,6 +128,10 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -134,35 +144,22 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -193,18 +190,20 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format/"><u>[New] Best in Class Top 8 Software Turning Subtitles Into Simplified SRT Format</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-premier-solutions-highest-rated-vimeo-downloaders/"><u>[New] In 2024, Premier Solutions Highest Rated Vimeo Downloaders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-post-vlc-media-player-landscape-analysis-for-2024/"><u>[Updated] Post-VLC Media Player Landscape Analysis for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-best-video-zoom-editor/"><u>10 Best Video Zoom Editor</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-11f-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 11F 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ding-youtube-videos-tips-for-a-smooth-ppt-transition/"><u>Embedding YouTube Videos Tips for a Smooth PPT Transition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iconic-stop-motion-animations-15-best-ever/"><u>Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>In 2024, A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-steps-to-convert-macs-image-file-types-for-2024/"><u>Quick Steps to Convert Mac's Image File Types for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oppo-find-x7-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Find X7 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-experience-the-next-wave-watching-fb-live-on-roku/"><u>[New] 2024 Approved Experience the Next Wave Watching FB Live on Roku</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techniques-to-perfectly-transcribe-ppts-for-2024/"><u>[New] Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-updated-user-manual-for-navigating-facebook/"><u>[Updated] 2024 Approved The Updated User Manual for Navigating Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-5-prime-photo-tools-ultimate-editing-companion/"><u>[Updated] Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audacitys-guide-to-fading-sounds-invisibly/"><u>2024 Approved Audacity's Guide to Fading Sounds Invisibly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/crackling-noise-woes-heres-how-to-fix-them-asap-with-headphones/"><u>Crackling Noise Woes? Here's How to Fix Them ASAP with Headphones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dimming-dynamics-stepwise-sound-dissipation-in-adobe-premiere/"><u>Dimming Dynamics Stepwise Sound Dissipation in Adobe Premiere</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726030662968-dvd-dvd/"><u>DVDヘルスケア : 家庭用DVD修復ガイド - 手軽なレシピ</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-for-success-metaverse-sales-strategies/"><u>Innovating for Success Metaverse Sales Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lens-leaders-showcase-unveiling-the-best-6-4k-dslrs-for-2024/"><u>Lens Leaders Showcase Unveiling the Best 6 4K DSLRs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-craft-professional-gopro-video-creation/"><u>Mastering the Craft Professional GoPro Video Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-iphone-multimedia-magic/"><u>The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-performing-a-complete-system-restore-on-your-macbook-airpro-and-other-mac-models/"><u>Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vlc-vs-mpc-decoding-the-best-free-media-player/"><u>VLC Vs. MPC Decoding the Best Free Media Player</u></a></li>
 </ul></div>
 

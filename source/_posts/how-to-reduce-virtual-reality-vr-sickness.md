@@ -1,7 +1,7 @@
 ---
 title: "How to Reduce Virtual Reality (VR) Sickness"
-date: 2024-11-05T07:22:22.309Z
-updated: 2024-11-12T06:47:39.186Z
+date: 2024-11-18T22:32:59.977Z
+updated: 2024-11-21T19:54:34.488Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Virtual reality sickness?
@@ -60,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why virtual reality make people sickness
@@ -73,16 +71,7 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -100,24 +89,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ace-your-laughs-kinemaster-for-top-memes/"><u>[New] Ace Your Laughs KineMaster for Top Memes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boost-engagement-with-these-premier-html5-players/"><u>[Updated] Boost Engagement with These Premier HTML5 Players</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-exporting-mp3-files-from-watched-facebook-vids/"><u>[Updated] Exporting MP3 Files From Watched Facebook Vids</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-c-span-a-legal-grey-area-explored/"><u>2024 Approved Grasping C-Span A Legal Grey Area Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bypass-the-hurdle-5-proven-methods-when-zoom-starts-up-without-video/"><u>Bypass the Hurdle: 5 Proven Methods When Zoom Starts Up Without Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-humorous-memes-with-giphy-for-2024/"><u>Craft Humorous Memes with Giphy for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embracing-authenticity-in-video-marketing-through-clients-words/"><u>Embracing Authenticity in Video Marketing Through Clients' Words</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-guide-to-the-best-10-vector-images-online/"><u>Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-conversion-how-to-change-wmv-files-into-mp4-format-for-windows-11-and-macos-users/"><u>Free Conversion: How to Change WMV Files Into MP4 Format for Windows 11 and macOS Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>Harnessing Social Potential A Compreenasculated Blueprint for SMM Mastery</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-record-audio-on-windows-10/"><u>How To Record Audio on Windows 10?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-narzo-60x-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme Narzo 60x 5G without App | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30t-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme V30T PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-gt-5-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme GT 5 Pro FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-iphone-photography-mastering-image-cropping/"><u>The Art of iPhone Photography Mastering Image Cropping</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-ordinary-pictures-into-art-using-pixlr-secrets/"><u>Transform Ordinary Pictures Into Art Using Pixlr Secrets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-lenovos-latest-innovation-a-revolutionary-tablet-focused-on-core-performance/"><u>Unveiling Lenovo's Latest Innovation: A Revolutionary Tablet Focused on Core Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bringing-realities-closer-google-cardboard-vs-samsung-gear/"><u>[New] Bringing Realities Closer Google Cardboard Vs. Samsung Gear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-ultra-panoramic-video-cameras/"><u>[New] Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>[New] In 2024, From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-instantaneously-record-and-image-on-the-go-iphone-edition-for-2024/"><u>[New] Instantaneously Record & Image on the Go - iPhone Edition for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-17-transformative-metaverse-trials-explained/"><u>[Updated] 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-overpower-vs-streamlabs-supremacy/"><u>[Updated] 2024 Approved OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-explore-the-ultimate-list-of-comedy-tears-on-instagram/"><u>[Updated] In 2024, Explore the Ultimate List of Comedy-Tears On Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-ethernet-issues-in-windows-11-windows-navigating-to-os-7/"><u>Diagnosing and Solving Ethernet Issues in Windows 11 / Windows Navigating to OS 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-quality-on-a-budget-with-paww-series-3-review/"><u>Discovering Quality on a Budget with Paww Series 3 Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expertise-required-for-mastery-of-ios-11s-camera/"><u>Expertise Required for Mastery of iOS 11'S Camera</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/face-off-evaluating-wireless-router-showdown-archer-ax6000-against-the-nighthawk-ax12/"><u>Face Off: Evaluating Wireless Router Showdown - Archer AX6000 Against the Nighthawk AX12</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-tecno-camon-20-frp-by-drfone-android/"><u>How Can We Bypass Tecno Camon 20 FRP?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aurora-hdr-assessment-excellence-or-overkill/"><u>In 2024, Aurora HDR Assessment Excellence or Overkill?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-core-principles-in-internet-story-development/"><u>In 2024, Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-switch-sharp-and-durable-with-easy-steps/"><u>Keep Your Switch Sharp & Durable with Easy Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-of-stream-quality-nine-must-try-video-filters/"><u>Pinnacle of Stream Quality Nine Must-Try Video Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-5-cameras-for-precision-slow-mo/"><u>Prime 5 Cameras for Precision Slow-Mo</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/"><u>Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Radiant Renderings  Perfecting Video Light Quality\""
-date: 2024-07-26T22:05:00.747Z
-updated: 2024-07-27T22:05:00.747Z
+date: 2024-11-14T19:28:19.243Z
+updated: 2024-11-21T22:25:19.370Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -51,14 +48,19 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -74,11 +76,12 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -89,27 +92,26 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,7 +144,23 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-on-inserting-captions-into-youtube-videos/"><u>[New] In 2024, Expert Tips on Inserting Captions Into YouTube Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-ultimate-checklist-for-video-praise-mastery/"><u>[New] In 2024, The Ultimate Checklist for Video Praise Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/treamlining-sound-systems-uploads-for-your-youtube-hub/"><u>[New] Streamlining Sound Systems Uploads for Your Youtube Hub</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-deep-dive-into-exceptional-screen-recording-using-adobe-captivity-for-2024/"><u>[Updated] A Deep Dive Into Exceptional Screen Recording Using Adobe Captivity for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-post-a-video-from-youtube-on-instagram-for-2024/"><u>[Updated] How to Post a Video From YouTube on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-charting-a-course-to-a-million-fans-with-this-tutorial/"><u>2024 Approved Charting a Course to a Million Fans with This Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-clarity-best-webcams-to-elevate-your-podcasts-for-2024/"><u>Capture Clarity Best Webcams to Elevate Your Podcasts for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/celebrating-a-successful-decade-at-mondlyback/"><u>Celebrating a Successful Decade at MondlyBack</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-asus-proart-ff04-case-by-xiwi-superior-cooling-for-powerful-cpus-and-gpus-within-a-9l-footprint/"><u>Compact Asus ProArt FF04 Case by Xiwi: Superior Cooling for Powerful CPUs & GPUs Within a 9L Footprint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>From Filters to Fun Factors Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckle-clips-for-iphone/"><u>In 2024, Chuckle Clips for iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-online-fame-essential-instagram-tips-for-star-status/"><u>In 2024, Crafting Online Fame Essential Instagram Tips for Star Status</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-potential-lenovo-bt-driver-for-win10/"><u>Unlocking Potential: Lenovo BT Driver for Win10</u></a></li>
+</ul></div>
 

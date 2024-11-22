@@ -1,7 +1,7 @@
 ---
 title: "\"Pictorial Humor  Ranking #10 Memes by Creativity\""
-date: 2024-11-07T22:38:29.370Z
-updated: 2024-11-12T08:27:41.751Z
+date: 2024-11-17T16:08:22.545Z
+updated: 2024-11-22T02:25:36.089Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,7 @@ What more effective approach to convey a point than via a meme? Using this templ
 ![they cant read](https://images.wondershare.com/filmora/article-images/2022/07/they-cant-read.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. I Am Once Again Asking
@@ -63,13 +60,6 @@ What more effective approach to convey a point than via a meme? Using this templ
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
 
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Draw 25
 
@@ -90,10 +80,7 @@ This Gossip Girl-inspired meme template combines some intriguing questions with 
 ![gossip girl](https://images.wondershare.com/filmora/article-images/2022/07/gossip-girl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Return To Monke
@@ -101,6 +88,10 @@ This Gossip Girl-inspired meme template combines some intriguing questions with 
 If we were all monkeys, this epidemic would not have occurred. Absolutely, I say. Because of this, I and a vast majority of people think that we need to abandon a million years of development and go back to being monks.
 
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. They Don’t Know
 
@@ -115,10 +106,7 @@ In a year when everything remained same at all times, we were certainly preoccup
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10\. Doge vs. Cheems
@@ -128,10 +116,7 @@ We all know that the only individuals who have positive attitudes are those that
 ![doge vs cheems](https://images.wondershare.com/filmora/article-images/2022/07/doge-vs-cheems.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Create Your Own Meme
@@ -182,6 +167,10 @@ A year without a new SpongeBob meme is nothing. In this meme, SpongeBob may be s
 
 ![burning paper](https://images.wondershare.com/filmora/article-images/2022/07/burning-paper.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. They Can’t Read
 
 What more effective approach to convey a point than via a meme? Using this template, you may express a strong or unpopular stance while simultaneously making snide remarks about others who disagree with you.
@@ -193,19 +182,6 @@ What more effective approach to convey a point than via a meme? Using this templ
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
 
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Draw 25
 
@@ -232,10 +208,7 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. They Don’t Know
@@ -243,6 +216,10 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 When you're at a party and people don't realize how much superior you are to them, isn't that upsetting? Everyone believes that it's okay, and this meme is proof of that.
 
 ![they dont know](https://images.wondershare.com/filmora/article-images/2022/07/they-dont-know.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. How It Started
 
@@ -272,6 +249,10 @@ Open the Filmora video meme maker and choose "New project" to begin a new meme p
 
 ![launch filmora and import meme content](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Spruce up the Meme Content Further
 
 The timeline should then include the video file. Select the text style you want to use by clicking the "Title" tab. Enter the text, then change the font, color, and size of the caption. Playing well-known music in the background is an additional choice. You can do this by dragging and dropping the music file onto the timeline's audio track within the application.
@@ -289,10 +270,7 @@ In the next step, you can use the Editor’s menu bar to add titles, texts, anim
 After designing your own meme, you should thus spread it across all platforms. You may download it in many formats and share it on all of your social media platforms. Therefore, when you capture a funny photo or video, think of a strange and funny description and share it across the board. Your video meme will now be immediately posted to Vimeo or YouTube after you click the "Export" button as shown below:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -323,20 +301,16 @@ In summary, without some of the internet's funniest memes, there would be an une
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-pocketsized-skies-budget-large-data-haven/"><u>[New] 2024 Approved PocketSized Skies - Budget Large Data Haven</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chroma-chronicles-expertise-in-color-crafting/"><u>[New] Chroma Chronicles Expertise in Color Crafting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effective-team-videos-boosting-channelnode-growth-rate/"><u>[Updated] 2024 Approved Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-360-degree-retail-exploration-tech/"><u>[Updated] 360-Degree Retail Exploration Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-starting-with-a-bang-building-a-youtube-presence/"><u>[Updated] Starting with a Bang Building a YouTube Presence</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders-for-2024/"><u>[Updated] The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728482688996-windows-live/"><u>失われたメールを取り戻せます:Windows Liveメール・バックアップ復活法</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avoid-unwanted-news-alerts-disabling-the-live-tile-in-windows-11-explained/"><u>Avoid Unwanted News Alerts: Disabling the Live Tile in Windows 11 Explained</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-blurred-to-clean-picsarts-background-elimination/"><u>From Blurred to Clean Picsart's Background Elimination</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-monochrome-to-vivid-mastering-the-sdr-to-hdr-video-transition/"><u>From Monochrome to Vivid Mastering the SDR-to-HDR Video Transition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-activate-windows-xp-movie-creation-toolkit/"><u>In 2024, Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows/"><u>In 2024, Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows</u></a></li>
-<li><a href="https://games-able.techidaily.com/stylus-syncopation-tablet-triumphs-over-mice/"><u>Stylus Syncopation: Tablet Triumphs Over Mice</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/transition-de-clonage-hdd-vers-ssd-avec-memoire-flash-guide-de-configuration-kingston/"><u>Transition De Clonage HDD Vers SSD Avec Mémoire Flash - Guide De Configuration Kingston</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-adobe-issues-overcoming-startup-error-0xc00n0000022/"><u>Troubleshooting Adobe Issues: Overcoming Startup Error 0Xc00n0000022</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exclusive-list-general-knowledge-quiz-channels-24-for-2024/"><u>[New] Exclusive List General Knowledge Quiz Channels '24 for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-integrating-spotify-and-discord-a-complete-guide/"><u>[New] In 2024, Integrating Spotify & Discord A Complete Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review/"><u>[Updated] A Visionary Leap to 4K The EIZO ColorEdge Monitor Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-asmr-and-wellness-what-are-its-promising-side-effects/"><u>[Updated] ASMR & Wellness What Are Its Promising Side-Effects?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-most-reliable-skype-recorders-ranked/"><u>2024 Approved The Most Reliable Skype Recorders Ranked</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-user-experience-in-vivavideo/"><u>Dissecting the User Experience in VivaVideo</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-assistance-how-to-add-and-customize-ringtones-and-sounds-in-android/"><u>Step-by-Step Assistance How To Add and Customize Ringtones & Sounds in Android</u></a></li>
 </ul></div>
 

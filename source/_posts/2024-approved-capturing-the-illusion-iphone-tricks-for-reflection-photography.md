@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing the Illusion  IPhone Tricks for Reflection Photography\""
-date: 2024-07-26T22:06:41.195Z
-updated: 2024-07-27T22:06:41.195Z
+date: 2024-11-17T18:02:07.761Z
+updated: 2024-11-21T22:30:43.585Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 # Reflection Photography Tips for iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,14 +28,15 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Have you ever seen those stunning photos, taken at just the right moment, where the subject is reflected onto something perfectly? This article will show you how to take amazing reflective photographs with just your iPhone. Apple has really invested in improving the quality of it's in-built lenses in their latest models of the iPhone. Much of the advertising now concerns the stunning photos it's users can take. Historically this was reserved to those who had powerful SLR cameras. Of course they also want to compete with other manufacturers to be the phone that takes the best selfie!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
 
  Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
 
  So let's get snapping!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips For Perfect Reflective Photography With Your iPhone
 
@@ -48,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  A Well Polished Table
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
  A Crystal/Glass Ball
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
  Water in a wine glass (turns everything upside down too!)
@@ -86,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  Good
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
  Awful
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 #### 4\.  Reality and Reflection
@@ -106,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
 
 #### 5\.  Texture
@@ -119,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -141,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
@@ -151,28 +135,18 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -187,9 +161,6 @@ Follow @Ollie Mattison
 
  Have you ever seen those stunning photos, taken at just the right moment, where the subject is reflected onto something perfectly? This article will show you how to take amazing reflective photographs with just your iPhone. Apple has really invested in improving the quality of it's in-built lenses in their latest models of the iPhone. Much of the advertising now concerns the stunning photos it's users can take. Historically this was reserved to those who had powerful SLR cameras. Of course they also want to compete with other manufacturers to be the phone that takes the best selfie!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![reflection-photography-for-iphone](https://images.wondershare.com/filmora/article-images/reflection-photography-for-iphone.jpg)
 
  Reflective photography is an ever growing trend on social media, so you want your images to stand out… This handy guide tells you everything you need to know, and even how to create reflective photos in post production!
@@ -210,6 +181,10 @@ Follow @Ollie Mattison
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
@@ -224,9 +199,6 @@ Follow @Ollie Mattison
 
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
@@ -239,21 +211,14 @@ Follow @Ollie Mattison
 
  Good
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Awful
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 #### 4\.  Reality and Reflection
@@ -293,13 +258,14 @@ Follow @Ollie Mattison
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
@@ -339,17 +305,9 @@ Follow @Ollie Mattison
  So let's get snapping!
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -362,16 +320,10 @@ Follow @Ollie Mattison
 
  A Crystal/Glass Ball
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
  Water in a wine glass (turns everything upside down too!)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
 #### 2\.  Pay Attention to Composition
@@ -398,11 +350,12 @@ Follow @Ollie Mattison
 
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Awful
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 #### 4\.  Reality and Reflection
@@ -440,28 +393,22 @@ Follow @Ollie Mattison
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -474,9 +421,6 @@ Follow @Ollie Mattison
 
  The app also has a large library of free and premium templates for you to use...
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -539,6 +483,10 @@ Follow @Ollie Mattison
 
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Awful
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
@@ -551,10 +499,11 @@ Follow @Ollie Mattison
 
  All you need to do is hold down the shutter/take photo button and burst mode automatically takes lots of photos until you release.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reality-and-reflection](https://images.wondershare.com/filmora/article-images/reality-and-reflection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\.  Texture
 
@@ -581,45 +530,30 @@ Follow @Ollie Mattison
 
 #### 1\. [Reflect Mirror Camera](https://itunes.apple.com/us/app/reflect-mirror-camera/id898143628?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. [Reflection](https://itunes.apple.com/us/app/reflection-create-water-reflection-photo-arts/id672111257?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. [Photo Reflection](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -650,7 +584,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-connecting-with-the-world-how-to-use-roku-for-fb-live/"><u>[New] 2024 Approved Connecting With The World How to Use Roku for FB Live</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-best-slow-motion-cameras-for-2024/"><u>[New] Best Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>[New] The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-meme-text-generators-to-use/"><u>[Updated] Best Meme Text Generators to Use</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>2024 Approved Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathe-life-into-photos-using-blur-effects-in-illustrator-for-2024/"><u>Breathe Life Into Photos Using Blur Effects in Illustrator for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-cams-what-to-look-for/"><u>Budget-Friendly Cams: What to Look For</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/commencing-a-community-benefit-contest-online-for-2024/"><u>Commencing a Community Benefit Contest Online for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-live-performance-dynamics/"><u>Enhancing Live Performance Dynamics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-samsung-galaxy-z-fold-5-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Samsung Galaxy Z Fold 5 using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V29 Phone Without Password?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram/"><u>Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-alerts-downloading-and-altering-tamil-tunes/"><u>Melodic Alerts Downloading and Altering Tamil Tunes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-creativity-transformative-techniques-with-snapchat-photos/"><u>Unleash Creativity Transformative Techniques with Snapchat Photos</u></a></li>
+</ul></div>
 

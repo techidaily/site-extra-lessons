@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-11-09T05:44:36.675Z
-updated: 2024-11-11T19:32:44.581Z
+date: 2024-11-20T23:42:15.574Z
+updated: 2024-11-21T20:40:55.580Z
 tags: 
   - screen-recording
   - ai video
@@ -42,14 +42,26 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -62,13 +74,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -80,19 +85,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -100,19 +99,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -129,16 +115,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-exclusive-software-gamers-streaming-companions/"><u>[Updated] In 2024, Exclusive Software Gamers' Streaming Companions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-the-download-of-youtubes-default-thumbnails-effortlessly/"><u>[Updated] Mastering the Download of YouTube's Default Thumbnails Effortlessly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-enhancing-classroom-learning-through-recorders/"><u>2024 Approved Enhancing Classroom Learning Through Recorders</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/black-friday-blowout-save-big-with-this-deal-250-off-the-versatile-power-packed-dell-inspiron-16-inch-2-in-1-laptop/"><u>Black Friday Blowout! Save Big with This Deal: $250 Off the Versatile, Power-Packed Dell Inspiron 16-Inch 2-in-1 Laptop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/create-your-own-whatsapp-ringtone-a-comprehensive-guide-to-ios-and-android/"><u>Create Your Own WhatsApp Ringtone - A Comprehensive Guide to iOS & Android</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-mx492-printer-drivers-on-windows-complete-guide/"><u>Download & Install Canon MX492 Printer Drivers on Windows: Complete Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c12-plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Plus Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/improving-frame-rate-in-warped-web-videos/"><u>Improving Frame Rate in Warped Web Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-googles-flat-cube-and-samsungs-headset/"><u>In 2024, Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-patches-selecting-shots-for-social-media/"><u>Premium Patches Selecting Shots for Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[New] Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-elongated-iphone-photography/"><u>[New] Techniques for Elongated iPhone Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mental-gymnastics-at-the-best-puzzle-halls/"><u>[Updated] 2024 Approved Mental Gymnastics at the Best Puzzle Halls</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>[Updated] Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-verification-how-to-verify-facebook-page-easily/"><u>2024 Approved Facebook Verification How to Verify Facebook Page Easily</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-qr-scanning-in-the-windows-arena/"><u>Demystifying QR Scanning in the Windows Arena</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-develop-and-download-your-own-instagram-alerts/"><u>How to Develop & Download Your Own Instagram Alerts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-7-best-drone-gimbals-in-the-market/"><u>Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-latest-in-sony-blu-ray-s6700/"><u>Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
 </ul></div>
 

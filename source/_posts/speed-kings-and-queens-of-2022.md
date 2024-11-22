@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-11-09T07:54:51.080Z
-updated: 2024-11-11T18:41:06.247Z
+date: 2024-11-18T23:44:43.508Z
+updated: 2024-11-22T00:54:14.081Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -45,10 +49,7 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
@@ -63,35 +64,16 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -107,6 +89,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -125,13 +111,6 @@ For macOS 10.12 or later
 Step 1: Download and install Filmora on your computer. Launch the application and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
@@ -156,14 +135,14 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-the-extraordinary-tips-for-spectacular-slow-motion-video-on-mobile/"><u>[Updated] Capture the Extraordinary Tips for Spectacular Slow Motion Video on Mobile</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-engaging-podcast-summaries-techniques-and-examples/"><u>[Updated] Crafting Engaging Podcast Summaries Techniques & Examples</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-guide-to-prime-livestream-sites/"><u>Exclusive Guide to Prime Livestream Sites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-good-to-great-unveiling-video-enhance-22-secrets/"><u>From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/master-raw-photography-on-macoslinux-using-the-powerful-gratis-darktable-app/"><u>Master RAW Photography on macOS/Linux Using the Powerful, Gratis Darktable App</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-moto-g-5g-2023-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola Moto G 5G (2023) won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://some-approaches.techidaily.com/passos-faceis-para-extrair-audio-de-um-filme-em-formato-mkv/"><u>Passos Fáceis Para Extrair Audio De Um Filme Em Formato MKV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-youtube-comment-insights-a-comprehensible-guide/"><u>Unlock YouTube Comment Insights A Comprehensible Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] 2024 Approved Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>[Updated] Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-business-with-proven-social-techniques/"><u>Elevating Your Business with Proven Social Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-finest-camcorders-of-2024-our-choice-countdown/"><u>Explore the Finest Camcorders of 2024 – Our Choice Countdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprerancial-ranking-top-8-srt-translation-websites/"><u>In 2024, A Comprerancial Ranking Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-youtube-distortion-for-better-playback/"><u>In 2024, Overcoming YouTube Distortion for Better Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-guide-to-finding-exceptional-pexels-visuals/"><u>Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-heart-of-a-tablet-pc-a-comprehensive-review-based-on-cpu-specs-and-power/"><u>The Heart of a Tablet PC: A Comprehensive Review Based on CPU Specs and Power</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-instant-and-simple-connection-guide-for-scansnap-s510-scanner/"><u>Update: Instant and Simple Connection Guide for ScanSnap S510 Scanner</u></a></li>
 </ul></div>
 
