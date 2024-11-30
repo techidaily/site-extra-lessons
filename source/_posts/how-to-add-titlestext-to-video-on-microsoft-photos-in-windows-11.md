@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-11-20T23:42:15.574Z
-updated: 2024-11-21T20:40:55.580Z
+date: 2024-11-23T07:32:13.646Z
+updated: 2024-11-30T07:20:12.288Z
 tags: 
   - screen-recording
   - ai video
@@ -42,26 +42,18 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -74,24 +66,28 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,6 +95,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,15 +115,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[New] Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-elongated-iphone-photography/"><u>[New] Techniques for Elongated iPhone Photography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mental-gymnastics-at-the-best-puzzle-halls/"><u>[Updated] 2024 Approved Mental Gymnastics at the Best Puzzle Halls</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>[Updated] Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-verification-how-to-verify-facebook-page-easily/"><u>2024 Approved Facebook Verification How to Verify Facebook Page Easily</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-qr-scanning-in-the-windows-arena/"><u>Demystifying QR Scanning in the Windows Arena</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-develop-and-download-your-own-instagram-alerts/"><u>How to Develop & Download Your Own Instagram Alerts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-7-best-drone-gimbals-in-the-market/"><u>Top 7 Best Drone Gimbals in the Market</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-latest-in-sony-blu-ray-s6700/"><u>Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>[New] A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-video-with-professional-voice-overs-for-2024/"><u>[New] Enhancing Your Video with Professional Voice Overs for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-download-youtube-videos-directly/"><u>[Updated] 2024 Approved Download YouTube Videos Directly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boost-visibility-with-customized-channel-names-in-2024/"><u>[Updated] Boost Visibility with Customized Channel Names, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ice-arena-intensity-the-fastest-moments-in-olympics-for-2024/"><u>[Updated] Ice Arena Intensity The Fastest Moments in Olympics for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-pinnacle-top-5-ultra-light-action-camera-list-for-2024/"><u>[Updated] Pinnacle Top 5 Ultra-Light Action Camera List for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-perfection-a-deep-dive-into-nikon-d7500/"><u>In 2024, Capturing Perfection A Deep Dive Into Nikon D7500</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smartphone-lighting-kits-for-improved-footage/"><u>Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-insertion-of-videos-into-your-custom-youtube-shelves/"><u>Smooth Insertion of Videos Into Your Custom YouTube Shelves</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-smart-buyers-guide-to-drones-crucial-info-upfront/"><u>The Smart Buyer's Guide to Drones Crucial Info Upfront</u></a></li>
 </ul></div>
 

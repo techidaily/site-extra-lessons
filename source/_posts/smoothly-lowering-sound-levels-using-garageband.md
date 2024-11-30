@@ -1,7 +1,7 @@
 ---
 title: "Smoothly Lowering Sound Levels Using Garageband"
-date: 2024-07-26T22:02:17.871Z
-updated: 2024-07-27T22:02:17.871Z
+date: 2024-11-27T23:30:31.723Z
+updated: 2024-11-29T16:36:40.946Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In the music production industry, an element that is often used in a song is fad
 
 In the article, we will educate you on various topics related to GarageBand; if you are new in the field of music production, then this article will benefit you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. How to Fade Audio with Garageband on Mac?
 
 We all know that Garageband is a program that allows its users to produce music and podcasts on iOS, macO, and ipadOS devices. It has many in-built audio effects that can enhance your music. Fade-out and fade-in are two of the most used products in Garageband. Many beginners face trouble on **how to fade out in Garageband** as it is not a popular feature that everyone practices.
@@ -40,9 +44,6 @@ Step3 Choose the mix> produce volume fade out on the main output option.
 
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
@@ -66,8 +67,9 @@ Step4 Hit the done icon.
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
 
 One of the worst jobs is searching for an excellent MP3 editor, as most offer paid services. It can save time searching for a suitable alternative to Garageband to fade out audio. According to a survey, people usually interact with the MP3 editor that offers an excellent interface. Moreover, one of the essential requirements is multi-track editing, and you can't use multiple tabs for editing complex tracks. Apart from **fade-in on Garageband**, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best alternatives.
@@ -78,10 +80,11 @@ Suppose you are searching for a great MP3 editor that offers various file format
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![use filmora editor](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This application also offers many features that make the users curious about the application. This application can easily add background music to any video file. You can also change the media file with benefits like split audio, volume adjustment, and adjusting audio. This application also offers audio denoise and equalizer features. You can gather more information by exploring the application.
 
@@ -97,23 +100,18 @@ After the installation procedure, select the import icon from the menu. Choose t
 
 After the drag and drop procedure, double click on the file and direct yourself to the audio column; there, you will get numerous settings that include volume, fade-out, fade-in, and pitch. Adjust as per your need until and unless you get the desired clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 According to the survey, one of the most searched topics is **how to fade music in Garageband**. If you are also facing the same issue, this article will offer you a simple guide on the topic related to fade-in and fade-out features. You can also browse the internet to search for other benefits, and you can explore the application to learn more about its uses.
@@ -138,13 +136,14 @@ After the drag and drop procedure, double click on the file and direct yourself 
 
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Save the video
 
 Choose the create option to save the new file if you are done with the adjusting part. You can save your file in several formats such as MP3, MKV, WMV, AVI, etc. you can play the track on various devices like iPad, iPod, iPhone, Zune, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ## Conclusion
@@ -173,7 +172,26 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-iphone-hdr-captures/"><u>[Updated] Advanced Techniques for iPhone HDR Captures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-spectrum-of-hdr-with-asus-professional-screen/"><u>[Updated] Analyzing the Spectrum of HDR with ASUS Professional Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chortlecraft-funny-visuals-for-social-engagement-for-2024/"><u>[Updated] ChortleCraft Funny Visuals for Social Engagement for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-classic-14-animation-designs-with-text/"><u>[Updated] Classic 14 Animation Designs with Text</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-video-studio-analysis-comprehensive-xreview-guide-for-2024/"><u>[Updated] In-Depth Video Studio Analysis Comprehensive XReview Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-viewer-discussions-on-youtube/"><u>[Updated] Mastering Viewer Discussions on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-windows-innovations-a-fresh-perspective-on-10/"><u>2024 Approved Windows Innovations A Fresh Perspective on 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/begin-animation-ease-in-transition/"><u>Begin Animation Ease-In Transition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-xs-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone XS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-ios-18-update-for-eligible-iphones-step-by-step-download-instructions/"><u>Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-fetch-the-latest-version-of-logitech-g910-drivers-for-a-windows-computer/"><u>How to Fetch the Latest Version of Logitech G910 Drivers for a Windows Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-meizu-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Meizu Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-study-alert-inshot-vs-standard-editors/"><u>In 2024, Comparative Study Alert InShot vs Standard Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-the-cheapest-cloud-storage-service-for-mass-file/"><u>In 2024, The Cheapest Cloud Storage Service for Mass File</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/movavis-enhanced-toolset-examining-plus-edition-2024/"><u>Movavi's Enhanced Toolset Examining Plus Edition 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shades-and-tones-mastering-the-visual-spectrum/"><u>Shades and Tones Mastering the Visual Spectrum</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/trasforma-i-tuoi-archivi-caf-in-wav-su-internet-gratuitamente-utilizzando-movavi-guida-passo-passo/"><u>Trasforma I Tuoi Archivi CAF in WAV Su Internet Gratuitamente Utilizzando Movavi - Guida Passo-Passo</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g14-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G14 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

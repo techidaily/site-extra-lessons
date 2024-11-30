@@ -1,7 +1,7 @@
 ---
 title: "The Role of Visual Aids in Pedagogy"
-date: 2024-07-26T22:02:29.443Z
-updated: 2024-07-27T22:02:29.443Z
+date: 2024-11-26T06:43:14.204Z
+updated: 2024-11-30T03:34:26.382Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -40,25 +37,20 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -111,7 +103,16 @@ More and more research supporting the advantages of blended learning will suppor
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-innovative-and-inexpensive-the-best-free-youtube-name-generators/"><u>[New] 2024 Approved Innovative & Inexpensive The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beyond-vlc-a-comprehensive-look-at-streaming-software/"><u>[Updated] Beyond VLC A Comprehensive Look at Streaming Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y77t-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y77t FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exclusive-software-gamers-streaming-companions/"><u>Exclusive Software Gamers' Streaming Companions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia G22 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-interface-key-win11-tricks/"><u>Mastering the Interface Key Win11 Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-tips-for-using-luts-in-adobe-after-effects/"><u>Professional Tips for Using LUTs in Adobe After Effects</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-undoing-ransomware-attacks-and-retrieving-your-files/"><u>Step-by-Step Guide: Undoing Ransomware Attacks & Retrieving Your Files</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nubia-red-magic-8s-proplus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nubia Red Magic 8S Pro+ Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

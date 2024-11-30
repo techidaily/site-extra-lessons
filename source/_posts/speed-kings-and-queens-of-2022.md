@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-11-18T23:44:43.508Z
-updated: 2024-11-22T00:54:14.081Z
+date: 2024-11-24T21:23:49.909Z
+updated: 2024-11-30T10:21:26.932Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -32,25 +36,25 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -64,17 +68,13 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -91,7 +91,7 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -135,14 +135,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] 2024 Approved Inside the Secrets of Quantum HDR Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>[Updated] Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-your-business-with-proven-social-techniques/"><u>Elevating Your Business with Proven Social Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-finest-camcorders-of-2024-our-choice-countdown/"><u>Explore the Finest Camcorders of 2024 – Our Choice Countdown</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprerancial-ranking-top-8-srt-translation-websites/"><u>In 2024, A Comprerancial Ranking Top 8 SRT Translation Websites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-youtube-distortion-for-better-playback/"><u>In 2024, Overcoming YouTube Distortion for Better Playback</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quick-guide-to-finding-exceptional-pexels-visuals/"><u>Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-heart-of-a-tablet-pc-a-comprehensive-review-based-on-cpu-specs-and-power/"><u>The Heart of a Tablet PC: A Comprehensive Review Based on CPU Specs and Power</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-instant-and-simple-connection-guide-for-scansnap-s510-scanner/"><u>Update: Instant and Simple Connection Guide for ScanSnap S510 Scanner</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-deck-of-cards-youtubes-milestone-challenges/"><u>[Updated] Digital Deck of Cards YouTube's Milestone Challenges</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist-for-2024/"><u>[Updated] Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-video-mastery-leading-text-manipulations-for-2024/"><u>[Updated] Video Mastery Leading Text Manipulations for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared-for-2024/"><u>Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-s18e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo S18e to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XR Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bright-horizons-pioneering-light-in-video-production/"><u>In 2024, Bright Horizons Pioneering Light in Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/macs-best-choices-for-mkv-file-viewing/"><u>Mac's Best Choices for MKV File Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-hand-gesture-recognition-for-2024/"><u>Navigating the World of Hand Gesture Recognition for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-duration-analysis-for-a-20mb-file-size/"><u>Video Duration Analysis For a 20Mb File Size</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-s18-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo S18 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
