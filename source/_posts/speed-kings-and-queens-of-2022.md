@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-11-24T21:23:49.909Z
-updated: 2024-11-30T10:21:26.932Z
+date: 2024-12-07T16:29:52.723Z
+updated: 2024-12-08T17:26:17.560Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,14 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -36,10 +40,6 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
@@ -48,13 +48,13 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -68,13 +68,13 @@ The last leg of competition among skaters before reaching the finishing line at 
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -89,10 +89,6 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -122,6 +118,10 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -135,18 +135,16 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-digital-deck-of-cards-youtubes-milestone-challenges/"><u>[Updated] Digital Deck of Cards YouTube's Milestone Challenges</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist-for-2024/"><u>[Updated] Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-video-mastery-leading-text-manipulations-for-2024/"><u>[Updated] Video Mastery Leading Text Manipulations for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared-for-2024/"><u>Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-s18e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo S18e to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XR Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bright-horizons-pioneering-light-in-video-production/"><u>In 2024, Bright Horizons Pioneering Light in Video Production</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/macs-best-choices-for-mkv-file-viewing/"><u>Mac's Best Choices for MKV File Viewing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-hand-gesture-recognition-for-2024/"><u>Navigating the World of Hand Gesture Recognition for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-duration-analysis-for-a-20mb-file-size/"><u>Video Duration Analysis For a 20Mb File Size</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-s18-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo S18 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-avoid-distraction-with-firm-footage-capture/"><u>[New] Avoid Distraction with Firm Footage Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>[New] Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-change-time-lapse-on-samsung-smartphones/"><u>[New] Capturing Change Time-Lapse on Samsung Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exciting-possibilities-the-best-12-clickers-for-pc-gamers/"><u>[New] Exciting Possibilities The Best 12 Clickers for PC Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capture-and-store-fb-conversations-best-methods-summarized/"><u>[Updated] In 2024, Capture & Store FB Conversations - Best Methods Summarized</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-geforce-0x0001-in-windows-1011-environment/"><u>Addressing GeForce 0X0001 in Windows 10/11 Environment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-music-and-image-in-the-web-for-2024/"><u>Bridging Music & Image in the Web for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 7 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-remove-default-podcasts-from-your-spotify-feed/"><u>In 2024, Remove Default Podcasts From Your Spotify Feed</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/les-4-solutions-essentielles-pour-reconstituer-la-cle-de-securite-du-disque-dur-sous-windows-11-10-et-v7/"><u>Les 4 Solutions Essentielles Pour Reconstituer La Clé De Sécurité Du Disque Dur Sous Windows 11, 10 Et V7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-spark-10c-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 10C Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
 

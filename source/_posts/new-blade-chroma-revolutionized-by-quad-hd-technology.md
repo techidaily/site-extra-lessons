@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Blade Chroma Revolutionized by Quad-HD Technology\""
-date: 2024-07-26T21:54:35.215Z
-updated: 2024-07-27T21:54:35.215Z
+date: 2024-12-01T17:35:58.919Z
+updated: 2024-12-08T16:15:19.106Z
 tags: 
   - screen-recording
   - ai video
@@ -20,77 +20,7 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 
 # Blade Chroma with 4k Camera Review
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
-
- The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
-
-## Pros and cons of Blade Chroma
-
- **Pros:**
-
-1. One of the best parts of using this style of drone is that it comes with a wealth of repair parts and a fantastic range for both the battery as well as for control. Horizon Hobby has always been known for producing performance drones as well as offering some of the best customer service in the market. You will always be able to find parts for this drone as well as instructions on how to repair it and this can really improve the longevity of the device.
-2. The camera that comes with this drone is also fairly competitive. Although it may not be able to compete with the latest go pro models, it can deliver close to the same image quality with a fair resiliency in several different types of weather.
-3. The device has some of the best battery life out of any quad copter on the market currently with a flight time rated at up to 30 min.
- **Cons:**
-1. One of the drawbacks to using this device firstly is that this may not be a drone that you can afford a second battery for. Because the developers used such a large battery to improve flight time, a secondary battery will cost you several hundred dollars.
-2. Flight times also begin to drop off considerably especially when recording in 4K. Although the replacement parts are easy to source they also grow quite expensive due to the high quality performance of this drone.
-3. Unlike some other drones in the same price point this one also doesn't feature anything like GPS Waypoint or some of the collision detection and control features that can be found on similar drones in the price point.
-**Verdict**
-
- Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
-
-## Complete Review for Blade Chroma Drone
-
- With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
-
-#### 1\.  Battery
-
- The battery life on this drone is fairly decent. The 6300mAH battery is one of the largest available on a quad copter today. It takes just under two hours to charge but the replacement batteries are additional batteries can get quite expensive at $120 each minimum. The three cell battery does often keep this drone in flight for 25+ minutes at a time but with the prices for replacement or additional batteries, you may find yourself charging it often.
-
-#### 2\.  Flight Performance
-
- There are several different flight modes including Smart Mode, Aerial Photography Mode, Follow Me/Tracking Mode as well as Return to Home Mode:
-
- Smart mode is made for beginners while the AP mode is best for the more experienced pilots. The Follow Me mode allows you to focus on lining up the perfect shot as the drone follows you from a distance you preset. Tracking Mode makes the quadcopter follow and keeps the camera focused on whoever is carrying the controller, and the Return Home feature ensures safe landings with just one flip of a switch.
-
-#### 3\.  Controller
-
-![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
-
- ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
-
-#### 4\.  Camera
-
-![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
-
- The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
-
- Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
 
 ##### Max Wales
 
@@ -117,6 +47,10 @@ Follow @Max Wales
 
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review for Blade Chroma Drone
 
  With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
@@ -135,22 +69,20 @@ Follow @Max Wales
 
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
 
  Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -167,12 +99,12 @@ Follow @Max Wales
 
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Pros and cons of Blade Chroma
 
  **Pros:**
@@ -187,6 +119,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 **Verdict**
 
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Complete Review for Blade Chroma Drone
 
@@ -204,9 +140,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 #### 3\.  Controller
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
@@ -219,9 +152,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -256,8 +186,9 @@ Follow @Max Wales
  Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Complete Review for Blade Chroma Drone
 
  With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
@@ -274,28 +205,92 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
 
 #### 4\.  Camera
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
 
  The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
 
  Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
+
+![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
+
+ The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Pros and cons of Blade Chroma
+
+ **Pros:**
+
+1. One of the best parts of using this style of drone is that it comes with a wealth of repair parts and a fantastic range for both the battery as well as for control. Horizon Hobby has always been known for producing performance drones as well as offering some of the best customer service in the market. You will always be able to find parts for this drone as well as instructions on how to repair it and this can really improve the longevity of the device.
+2. The camera that comes with this drone is also fairly competitive. Although it may not be able to compete with the latest go pro models, it can deliver close to the same image quality with a fair resiliency in several different types of weather.
+3. The device has some of the best battery life out of any quad copter on the market currently with a flight time rated at up to 30 min.
+ **Cons:**
+1. One of the drawbacks to using this device firstly is that this may not be a drone that you can afford a second battery for. Because the developers used such a large battery to improve flight time, a secondary battery will cost you several hundred dollars.
+2. Flight times also begin to drop off considerably especially when recording in 4K. Although the replacement parts are easy to source they also grow quite expensive due to the high quality performance of this drone.
+3. Unlike some other drones in the same price point this one also doesn't feature anything like GPS Waypoint or some of the collision detection and control features that can be found on similar drones in the price point.
+**Verdict**
+
+ Overall this device is fairly easy to use and the camera can be fairly good when compared to other 4K experiences in the same price point. If you are a beginner with drones or you are looking for a device that can fly with autonomous GPS precision, this may not be the right drone for you to pick however. Pilots that want full control at all times are going to enjoy the performance of this drone however.
+
+## Complete Review for Blade Chroma Drone
+
+ With a drone that's designed to be extremely versatile and balanced, the Chroma line of drones is designed for his resiliency and it really resembles the look of a [Yuneec Typhoon](https://tools.techidaily.com/wondershare/filmora/download/) style quad copter. The battery is extremely light weight but also quite powerful and this can improve the speed and performance of the drone while maximizing its weight balanced. The stabilization on this drone for image quality is quite easy to predict and this can be helpful on a drone especially when there is very little in the way of GPS waypoint.
+
+#### 1\.  Battery
+
+ The battery life on this drone is fairly decent. The 6300mAH battery is one of the largest available on a quad copter today. It takes just under two hours to charge but the replacement batteries are additional batteries can get quite expensive at $120 each minimum. The three cell battery does often keep this drone in flight for 25+ minutes at a time but with the prices for replacement or additional batteries, you may find yourself charging it often.
+
+#### 2\.  Flight Performance
+
+ There are several different flight modes including Smart Mode, Aerial Photography Mode, Follow Me/Tracking Mode as well as Return to Home Mode:
+
+ Smart mode is made for beginners while the AP mode is best for the more experienced pilots. The Follow Me mode allows you to focus on lining up the perfect shot as the drone follows you from a distance you preset. Tracking Mode makes the quadcopter follow and keeps the camera focused on whoever is carrying the controller, and the Return Home feature ensures safe landings with just one flip of a switch.
+
+#### 3\.  Controller
+
+![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
+
+ ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
+
+#### 4\.  Camera
+
+![blade chroma 4k camera](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The camera can produce some fairly decent images the UHD quality is great with 4K at 30 frames per second. If you want to get the most out of zoomed shots however, the images on this drone can start to show a bit of rough edges. It's not great in darker conditions or with shadows especially when compared to the GoPro as well.
+
+ Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -325,7 +320,23 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-rules-for-a-positive-youtube-experience-for-2024/"><u>[New] Essential Rules for a Positive YouTube Experience for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-artisans-guide-to-animation-enchantment/"><u>[New] The Artisan's Guide to Animation Enchantment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-seekers-showdown-hero-4-meets-ghost-s-drifting/"><u>2024 Approved Action Seekers' Showdown Hero 4 Meets Ghost-S Drifting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporate-tunes-into-ppt-slides/"><u>2024 Approved Incorporate Tunes Into PPT Slides</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>2024 Approved Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-streamlabs-obs-setup-and-configuration-manual/"><u>2024 Approved Ultimate Streamlabs OBS Setup and Configuration Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-pathway-to-grasping-hd-content-standards-for-2024/"><u>Beginner’s Pathway to Grasping HD Content Standards for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-look-ups-for-gopro-movies-select-15-luts/"><u>Best Look-Ups for GoPro Movies Select 15 LUTs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart-for-2024/"><u>Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cybernetic-salvation-reuniting-with-your-fb-world/"><u>Cybernetic Salvation Reuniting with Your FB World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/direct-route-watching-popular-reactions-in-a-flash-on-youtube/"><u>Direct Route Watching Popular Reactions in a Flash on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-circle-camera-unboxing-and-tests/"><u>Full Circle Camera Unboxing & Tests</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-screen-clarity-is-ultrawide-or-uhd-4k-better/"><u>In 2024, Choosing Screen Clarity Is UltraWide or UHD 4K Better?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei Phone that is Locked?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/prime-8-virtual-vision-composition-program/"><u>Prime 8 Virtual Vision Composition Program</u></a></li>
+</ul></div>
 

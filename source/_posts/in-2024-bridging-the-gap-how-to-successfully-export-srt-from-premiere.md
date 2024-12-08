@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bridging the Gap  How to Successfully Export SRT From Premiere\""
-date: 2024-11-09T17:59:42.367Z
-updated: 2024-11-11T21:27:26.533Z
+date: 2024-12-05T17:58:35.130Z
+updated: 2024-12-08T17:59:52.779Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ Step1 Firstly, right-click on the SRT file from the Premiere pro software projec
 
 ![select export media](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Once you click on “Export Media” you’ll notice different options. Ignore the video export options (or tick off 'video' if you like), then navigate down to the “Captions tab”.
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
@@ -61,6 +65,10 @@ Step3 Click on “Create Sidecar File” under 'Export Options.
 ![click on create sidecar file](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-2.jpg)
 
 Step4 Finally, navigate to 'File Format' and select SubRip Subtitle Format (.srt). Then hit the “Export” button to complete the operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Export SRT as Sidecar File
 
@@ -84,15 +92,16 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 ![open export settings](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** for this to work, the video must be on one video layer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Easiest & Actionable Fix: Edit and Export SRT Files Only with Wondershare Filmora
@@ -119,34 +128,13 @@ Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it the
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
 ![edit text color](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -167,10 +155,7 @@ Yes, when you’re exporting SRT, if you fail to select the caption file before 
 If, unfortunately, you select the wrong settings for your file during the exportation of SRT, there's a high chance that you'll not be able to complete the export action successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fix Premiere Pro Export SRT Subtitles Fail
@@ -185,6 +170,10 @@ Step1 Firstly, right-click on the SRT file from the Premiere pro software projec
 
 ![select export media](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Once you click on “Export Media” you’ll notice different options. Ignore the video export options (or tick off 'video' if you like), then navigate down to the “Captions tab”.
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
@@ -192,10 +181,7 @@ Step3 Click on “Create Sidecar File” under 'Export Options.
 ![click on create sidecar file](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Finally, navigate to 'File Format' and select SubRip Subtitle Format (.srt). Then hit the “Export” button to complete the operation.
@@ -224,6 +210,10 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** for this to work, the video must be on one video layer.
 
 ## Part 3: Easiest & Actionable Fix: Edit and Export SRT Files Only with Wondershare Filmora
@@ -251,26 +241,20 @@ Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it the
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
 ![edit text color](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -302,15 +286,17 @@ That being said, if you want to save yourself from unwanted errors during the ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-controlling-playback-rate-the-netflix-speedy-guide/"><u>[New] Controlling Playback Rate The Netflix Speedy Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/apping-into-youtubes-creative-commons-for-video-creators/"><u>[New] Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-ai-powered-podcast-names-the-ultimate-selection-list/"><u>[Updated] AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-amplify-your-earnings-universal-strategies-for-youtube-revenue/"><u>[Updated] In 2024, Amplify Your Earnings Universal Strategies for YouTube Revenue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-clear-up-your-photos-best-10-online-image-enhancers-revealed/"><u>2024 Approved Clear Up Your Photos Best 10 Online Image Enhancers Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-motorola-moto-g24-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Motorola Moto G24 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-14-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 14 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-25-top-rated-gratis-online-photography-tools/"><u>In 2024, 25 Top-Rated, Gratis Online Photography Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-y36i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo Y36i to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v27s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V27s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visual-monologue-engineer/"><u>[New] Visual Monologue Engineer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-assessing-your-needs-selecting-the-optimal-4k-camera-lens-for-2024/"><u>[Updated] Assessing Your Needs Selecting the Optimal 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-by-step-tutorial-download-youtube-videos-in-pieces/"><u>[Updated] In 2024, Step-by-Step Tutorial Download YouTube Videos in Pieces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-your-vision-leading-tablet-art-tools/"><u>Capture Your Vision Leading Tablet Art Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-image-change-the-finest-online-transformer-tools/"><u>Effortless Image Change The Finest Online Transformer Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-typography-expansion-in-after-effects/"><u>Effortless Typography Expansion in After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-sphere-photos-and-video-on-apple-devices/"><u>Full-Sphere Photos and Video on Apple Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks/"><u>In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210503030-9781633412293-the-ufo-hotspot-compendium/"><u>The UFO Hotspot Compendium | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-c02-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia C02 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-wit-a-guide-to-making-memes-shine/"><u>Visual Wit A Guide to Making Memes Shine</u></a></li>
 </ul></div>
 

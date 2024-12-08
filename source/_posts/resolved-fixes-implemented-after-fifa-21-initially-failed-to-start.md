@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes Implemented After FIFA 21 Initially Failed to Start"
-date: 2024-10-26T19:19:05.606Z
-updated: 2024-11-02T23:53:50.472Z
+date: 2024-12-03T17:12:22.180Z
+updated: 2024-12-08T17:06:09.201Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  But don’t worry. The following methods have helped many players fix the won’t launch issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check if you meet the minimum specifications
 
  If you’re pretty sure about the specifications, you can jump to[fixes](https://tools.techidaily.com/drivereasy/download/) .
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 | **RAM**          | 6 GB                                                                           |
 | **Video Card**   | NVIDIA GeForce GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2 GB           |
 | **Hard Drive**   | 105 GB                                                                         |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recommended **System Requirement**
 
@@ -51,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 4. [Reinstall your game/ Battle.net client](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change the compatibility and Run as administrator
@@ -68,14 +73,15 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 4. In the same tab, check**Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ad-in-compatible.jpg)
 5. Click**Apply > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Run Destiny 2 and check the issue is solved or not.
 
@@ -108,13 +114,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd-1.jpg)
 4. Relaunch the game and check to see if it could launch properly.
@@ -131,13 +130,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/end-task.jpg)
 3. Reboot Destiny 2.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall your game/ Battle.net client
 
  If none of the fixes above worked for you, reinstalling your game and/or Battle.net is very likely the solution to your problem. It’s not ideal at all but a way to try.
@@ -147,16 +139,7 @@ OR
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/uninstall-1.jpg)
@@ -187,17 +170,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-watch-youtube-green-screen-videos-and-get-your-green-screen-ideas/"><u>[New] Watch Youtube Green Screen Videos and Get Your Green Screen Ideas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-perfect-shots-the-ultimate-list-of-zooming-editors/"><u>[Updated] Crafting Perfect Shots The Ultimate List of Zooming Editors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-creating-skype-chats-for-pc-and-mac-users/"><u>[Updated] Creating Skype Chats for PC & Mac Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>2024 Approved A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session-for-2024/"><u>Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobes-guide-to-memetic-artistry-for-2024/"><u>Adobe's Guide to Memetic Artistry for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-x-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone X without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-peak-performance-with-these-top-8-planning-tools/"><u>In 2024, Instagram's Peak Performance with These Top 8 Planning Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-presentations-with-an-in-depth-slideshow-toolkit/"><u>Mastering Presentations with an In-Depth Slideshow Toolkit</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-setup-swift-and-simple-surface-dock-driver-update-process/"><u>Seamless Setup: Swift and Simple Surface Dock Driver Update Process</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/secure-hassle-free-passport-images-top-10-choices/"><u>Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-itel-p55-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Itel P55 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ascending-the-podium-in-drone-racing-plus-essential-fpv-brands/"><u>[New] Ascending the Podium in Drone Racing + Essential FPV Brands</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-apple-podcasts-downloading-made-easy/"><u>[Updated] Apple Podcasts Downloading Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-emotionally-enhanced-youtube-commentary-for-2024/"><u>[Updated] Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-for-successful-hulu-capturing-on-various-platforms-for-2024/"><u>[Updated] Essential Tips for Successful Hulu Capturing on Various Platforms for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-youtube-livestreaming-screen-recorders/"><u>Best YouTube Livestreaming Screen Recorders</u></a></li>
+<li><a href="https://facebook.techidaily.com/bring-back-the-buzz-tactics-to-reactivate-a-dormant-facebook-account/"><u>Bring Back the Buzz: Tactics to Reactivate a Dormant Facebook Account</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-colors-in-photos-a-ps-masterclass/"><u>Captivating Colors in Photos A PS Masterclass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/contrast-in-colors-crafting-cinematic-moods-for-2024/"><u>Contrast in Colors Crafting Cinematic Moods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-20-anime-series-opener-tunes/"><u>Elite 20 Anime Series Opener Tunes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-gionee-f3-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Gionee F3 Pro Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-iphone-image-management-ordered-album-setups-and-icloud-integration/"><u>Optimal iPhone Image Management Ordered Album Setups & iCloud Integration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/venturing-into-new-realities-best-metaverse-headsets-guide/"><u>Venturing Into New Realities Best Metaverse Headsets Guide</u></a></li>
 </ul></div>
 

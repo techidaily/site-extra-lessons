@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving the Manor Lords Sudden Shutdowns on PC"
-date: 2024-11-05T16:02:44.009Z
-updated: 2024-11-11T17:46:59.029Z
+date: 2024-12-03T17:17:16.192Z
+updated: 2024-12-08T18:15:11.842Z
 tags:
   - win11
   - win10
@@ -26,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 5. **[Check your network’s problem](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest Adobe Flash Player
 
@@ -66,13 +53,6 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962b812b921.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
 
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
@@ -80,6 +60,10 @@ Here’s how you can do it:
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -100,10 +84,7 @@ You can update your video driver either manually or automatically.
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -111,10 +92,7 @@ Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer and re-play the YouTube to see if it plays smoothly.
@@ -135,14 +113,15 @@ Here we take Chrome as an example to giving a step-by-step guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f3a665d9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Chrome will check for updates automatically.
 
@@ -183,18 +162,20 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-speech-clarity-mastering-googles-translation-technology-for-2024/"><u>[New] Speech Clarity Mastering Google’s Translation Technology for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-prolonging-snapstreak-excellence-top-10-advice/"><u>[Updated] 2024 Approved Prolonging Snapstreak Excellence Top 10 Advice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m14-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M14 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-sound-top-5-apps-for-windows-beyond-maxed-volume/"><u>Elevate Sound: Top 5 Apps for Windows Beyond Maxed Volume</u></a></li>
-<li><a href="https://win-blog.techidaily.com/final-fixes-deployed-overcoming-launch-hurdles-for-death-stranding-game/"><u>Final Fixes Deployed - Overcoming Launch Hurdles for Death Stranding Game</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-axon-40-lite-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Axon 40 Lite to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>In 2024, BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-conscious-shooters-7-best-4k-cameras/"><u>In 2024, Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-the-color-grading-revolution-with-lightrooms-best-10-luts/"><u>Leading the Color Grading Revolution with LightRoom’s Best 10 LUTs</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-failed-task-runner-in-windows/"><u>Overcoming Failed Task Runner in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20-must-have-mp4-devices/"><u>[Updated] 20 Must-Have MP4 Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-examining-performance-of-dji-raptor-eyewear/"><u>[Updated] In 2024, Examining Performance of DJI Raptor Eyewear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-previewing-facebooks-hidden-activities/"><u>2024 Approved A Comprehensive Guide to Previewing Facebook's Hidden Activities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-analyzing-huawei-p10s-impact-on-mobile-photography-trends/"><u>2024 Approved Analyzing Huawei P10's Impact on Mobile Photography Trends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-techniques-for-a-perfectly-setup-zoom-room/"><u>2024 Approved Cutting-Edge Techniques for a Perfectly Setup Zoom Room</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-xr-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone XR in Lost Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-adolescent-adventure-movies-available-on-netflix/"><u>Best Adolescent Adventure Movies Available on Netflix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-choosing-background-scores-for-vlogs/"><u>Best Practices for Choosing Background Scores for Vlogs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/get-43-off-macx-dvd-ripper-pro-exclusive-discount-codes/"><u>Get 43% Off MacX DVD Ripper Pro: Exclusive Discount Codes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gripping-gospels-intros-that-draw-ears-for-2024/"><u>Gripping Gospels Intros That Draw Ears for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-sfpr-settings-for-leisurely-scenes/"><u>In 2024, Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instructors-resource-for-enhancing-learning-via-video/"><u>Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smoothly-alter-color-grades-with-luts-abroad/"><u>Smoothly Alter Color Grades with LUTs, Abroad</u></a></li>
 </ul></div>
 

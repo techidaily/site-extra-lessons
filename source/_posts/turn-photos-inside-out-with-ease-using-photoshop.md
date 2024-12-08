@@ -1,7 +1,7 @@
 ---
 title: "Turn Photos Inside Out with Ease Using Photoshop"
-date: 2024-11-07T22:34:12.104Z
-updated: 2024-11-12T02:46:19.128Z
+date: 2024-12-07T16:31:56.333Z
+updated: 2024-12-08T17:46:34.701Z
 tags: 
   - screen-recording
   - ai video
@@ -34,11 +34,19 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
@@ -50,13 +58,25 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
@@ -67,13 +87,6 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -109,14 +122,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>2024 Approved Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-treasures-15-incredible-stop-motion-films/"><u>Cinematic Treasures 15 Incredible Stop-Motion Films</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tricks-for-bringing-up-command-prompt-in-the-desired-directory/"><u>Easy Tricks for Bringing Up Command Prompt in the Desired Directory</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-photo-integration-for-personal-use/"><u>Effortless Photo Integration for Personal Use</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-s18-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo S18 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-x9b-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor X9b Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mac-users-check-your-hardware-for-big-sur/"><u>Mac Users, Check Your Hardware for Big Sur</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-mobile-and-desktop-video-player/"><u>[New] Best Mobile and Desktop Video Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-analysis-mastering-video-production-with-xmedia-suite/"><u>[New] Comprehensive Analysis Mastering Video Production with XMedia Suite</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-techniques-for-logitech-webcam-videos/"><u>[New] Essential Techniques for Logitech Webcam Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-exploring-updates-to-sonys-s6500-model-for-2024/"><u>[New] Exploring Updates to Sony's S6500 Model for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-closer-look-at-the-vegaspro-19-makeover/"><u>[Updated] A Closer Look at the VegasPro '19 Makeover</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-picsart-2024-analysis-and-tutorial/"><u>[Updated] Comprehensive PicsArt 2024 Analysis & Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-power-of-voice-notes-masterclass/"><u>[Updated] Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-excellent-4k-televisions-ranked/"><u>10 Excellent 4K Televisions Ranked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-troubleshooting-tactics-for-non-functional-firefox-in-windows/"><u>7 Troubleshooting Tactics for Non-Functional Firefox in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/s-of-exploration-your-step-by-step-blueprint-to-becoming-a-travel-vlogger/"><u>Echoes of Exploration Your Step-by-Step Blueprint to Becoming a Travel Vlogger</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>In 2024, Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-converting-images-into-harmonious-videography/"><u>In 2024, Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-speeding-up-snapchat-media-video/"><u>In 2024, Step-by-Step Speeding Up Snapchat Media (Video)</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-steps-to-clearing-your-iphones-entire-inbox/"><u>Simple Steps to Clearing Your iPhone's Entire Inbox</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>Skyrocket with Telegram Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbox-and-discover-samsungs-ue590-4k-freesync-marvel/"><u>Unbox and Discover Samsung's UE590 4K, FreeSync Marvel</u></a></li>
 </ul></div>
 

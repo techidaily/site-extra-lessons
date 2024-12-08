@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Breakdown of Yi's Ultra HD Action"
-date: 2024-11-06T04:26:29.294Z
-updated: 2024-11-12T02:30:30.120Z
+date: 2024-12-07T18:10:51.097Z
+updated: 2024-12-08T17:36:48.570Z
 tags: 
   - screen-recording
   - ai video
@@ -114,11 +114,19 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -135,27 +143,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-insiders-guide-to-creating-viral-instagram-reels/"><u>[New] 2024 Approved The Insider’s Guide to Creating Viral Instagram Reels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>[New] Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-recording-software-to-enrich-your-online-collaboration/"><u>[Updated] 2024 Approved Ideal Recording Software to Enrich Your Online Collaboration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-8-premier-ios-sketch-tools/"><u>[Updated] 8 Premier iOS Sketch Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-professional-mac-strategies-for-classroom-audio-recording/"><u>[Updated] In 2024, Professional Mac Strategies for Classroom Audio Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-aspects-in-inshot-video-creation/"><u>2024 Approved Auditory Aspects in InShot Video Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-video-resolution-converter-for-windowsmaconline/"><u>2024 Approved Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/childhood-wings-5-best-drone-companions/"><u>Childhood Wings 5 Best Drone Companions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-fs-view-strategies-for-premiere-pro-for-2024/"><u>Comprehensive FS View Strategies for Premiere Pro for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-phantom-v-flip-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Phantom V Flip Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-stunning-iphone-hdr-results/"><u>In 2024, Achieving Stunning iPhone HDR Results</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-create-and-schedule-a-google-meet/"><u>In 2024, How to Create and Schedule A Google Meet?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 3 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-toolkit-3d-video-entrances-ranked-for-2024/"><u>The Essential Toolkit 3D Video Entrances Ranked for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-guide-to-capturing-web-radio-frequencies-flawlessly-for-2024/"><u>The Guide to Capturing Web Radio Frequencies Flawlessly for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-premium-image-editing-overlays-free-for-android-and-iphone-users-for-2024/"><u>10 Premium Image Editing Overlays Free for Android & iPhone Users for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-most-viewed-vids-worldwide-roundup/"><u>2024 Approved Most Viewed Vids Worldwide Roundup</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows-for-2024/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beat-the-standard-a-complete-tutorial-for-adding-ringtones-and-sounds-to-android-for-2024/"><u>Beat the Standard A Complete Tutorial for Adding Ringtones & Sounds to Android for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhance-your-listeners-experience-with-great-summaries/"><u>Enhance Your Listeners' Experience with Great Summaries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/finding-the-best-prices-on-vr-headsets-from-china/"><u>Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y36i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y36i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-srt-to-xmlssa-transformation-guide/"><u>In 2024, Comprehensive SRT to XML/SSA Transformation Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-watchers-unveiling-who-sees-your-content/"><u>Instagram Watchers Unveiling Who Sees Your Content</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pixelperfect-video-creator/"><u>PixelPerfect Video Creator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-speed-the-complete-handbook-on-srt-to-txt-transformation/"><u>Unlock Speed The Complete Handbook on SRT to TXT Transformation</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-11-24T05:41:08.818Z
-updated: 2024-11-29T22:54:14.737Z
+date: 2024-12-03T16:32:23.629Z
+updated: 2024-12-08T16:02:20.878Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -72,6 +68,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -81,7 +81,7 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -91,16 +91,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -109,7 +105,11 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -146,19 +146,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-change-the-destination-where-screenshots-are-saved-on-your-mac/"><u>[New] 2024 Approved How to Change the Destination Where Screenshots Are Saved on Your Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-vr-games-for-oculus-users-of-all-ages-for-2024/"><u>[New] Essential VR Games for Oculus Users of All Ages for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-melodic-content-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Melodic Content on Instagram</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools-for-2024/"><u>[Updated] Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-prime-6-sleek-designs-in-virtual-houses/"><u>2024 Approved Prime 6 Sleek Designs in Virtual Houses</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-a59-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo A59 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-14-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 14 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-humor-picture-processor-for-2024/"><u>Best Humor Picture Processor for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/edge-of-entertainment-advanced-tiktok-editing-hacks/"><u>Edge of Entertainment Advanced TikTok Editing Hacks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/eyeview-scrutiny-exploration/"><u>Eyeview Scrutiny Exploration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a18-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A18 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-the-pack-the-premier-camera-lenses-of-2024-in-order/"><u>Leading the Pack The Premier Camera Lenses of 2024, in Order</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-mkv-player-for-windows-devices/"><u>Premium MKV Player for Windows Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-audio-files-new-world-how-to-convert-srt-effortlessly/"><u>The Audio Files' New World How to Convert SRT Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[New] 2024 Approved Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-fierce-fortifications-top-laptops-crafting-4k-videos/"><u>[New] Fierce Fortifications Top Laptops Crafting 4K Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premium-live-screenbackscapes-2023/"><u>[New] Premium Live Screenbackscapes 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>2024 Approved Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/branding-breakthrough-constructing-logos-for-podcasts/"><u>Branding Breakthrough Constructing Logos for Podcasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-14-plus-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 14 Plus to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-compact-mobile-smoothie-recorder-gadget/"><u>In 2024, Compact Mobile Smoothie Recorder Gadget</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-automatic-speech-conversion-into-powerpoint-presentations/"><u>Integrating Automatic Speech Conversion Into PowerPoint Presentations</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-linux-nobara-offers-effortless-game-and-stream-setup-at-no-cost-with-a-minor-drawback-insights-from-zdnet/"><u>Mastering Linux: Nobara Offers Effortless Game & Stream Setup at No Cost, With a Minor Drawback – Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
 </ul></div>
 

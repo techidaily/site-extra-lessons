@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist for Starting a Live Feed"
-date: 2024-11-05T06:37:17.368Z
-updated: 2024-11-11T16:44:48.497Z
+date: 2024-12-05T17:59:51.788Z
+updated: 2024-12-08T18:35:06.585Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ There are many different things to keep in mind and in this article, we will tal
 
 Now you know the basics, let's get started!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What camera do you need?
 
 When you're just starting out, you can live stream from your phone or laptop's camera, there are also good webcams available for not a lot of money. If you do have a budget a high-end camera, for example around $2000, you can invest in the following cameras:
@@ -37,10 +41,7 @@ Panasonic LUMIX GH4
 A camcorder or webcam will work perfectly for live streaming as long as the camera able to shoot at a minimum of 720p HD, 24fps. It's totally fine to start off with the webcam on your laptop, or a better webcam. I have used the Logitech C922 for streaming and it works like a charm. The Mevo Plus helps you on great quality when you use a mobile device. After that you run your program into a software such as OBS where you can apply filters to improve your image, which you will be using to also live stream onto the actual platform such as YouTube or Twitch. A plus is that you don't need a memory card for streaming as you're not recording on the camera itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. What microphone do you need?
@@ -50,13 +51,6 @@ When talking about audio, it's one of the most important elements of your overal
 USB microphones are the best choice for at-home streaming. Fanatics will rather use XLR microphones because of its sound quality. Good XLR microphones are a lot of the times way more expensive than regular USB microphones. XLRs also need an external sound card/audio interface to be powered to your computer, like the Focusrite Scarlett Solo, starting at around $130.
 
 Budget microphones give you great streaming quality. The only downside is that they lack certain features like a mute button and voltage/gain controls, which forces you to find another solution to make up for that such as using plugins in your streaming software to give more gain to your microphone and or use hotkeys to mute.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. What streaming software do you need?
 
@@ -69,10 +63,7 @@ OBS Studio is open-source software used for recording and streaming. It is free 
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are prepared to devote time to learning its functionality, OBS Studio has a lot more strength than most of the other free software, that's why it is so popular under content creators. You will also find other plugins that people have created to add to OBS Studio's functionality and flexibility to enhance your recording or streaming experience.
@@ -83,18 +74,15 @@ Streamlabs was originally a live streaming tool that streamers use with other li
 
 ![streamlabs](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Nvidia ShadowPlay**
 
 Nvidia ShadowPlay is designed for gamers and comes combined with Nvidia GeForce graphics cards. It allows people to stream high-quality livestreams and videos. It's suitable for platforms such as Facebook Live, YouTube and Twitch.
 
 ![nivdia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ShadowPlay's DVR-style Instant Replay mode can be used by pressing a hotkey to save the last 30 seconds of your content to your hard drive or share to Twitch or YouTube. You can manually record videos for as long as you like because ShadowPlay is hardware accelerated. You can make up to a 15-second GIFs from your ShadowPlay video to ceate highlights, edit them afterwards with color grading effects, adding music, text, and upload it to Facebook, YouTube or Vimeo.
 
@@ -132,6 +120,10 @@ You likely have heard about this program. Restream is a complete and professiona
 
 The most significant of all features is the Ecamm Live integration. This allows you to read the chat of different platforms from the same place. The video quality that Restream employs is the best with barely any latency and delay!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrapping it up
 
 Live streaming is quite a wide topic, and each streaming experience is different as well. We made this article to give you a very neutral feel how to go live stream. Understanding the basics together with some test runs and practice will help make your live streams way more better and valuable for the viewers.
@@ -166,24 +158,19 @@ Live streaming is quite a wide topic, and each streaming experience is different
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-top-choice-video-capture-apps-iphone/"><u>[New] Top Choice Video Capture Apps iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-20-visionary-metaverse-projects-with-educational-value/"><u>[Updated] 20 Visionary Metaverse Projects with Educational Value</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-ios-slideshow-software-from-x-to-ios13/"><u>[Updated] Best iOS Slideshow Software From X to IOS13</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-exclusive-look-at-zooms-prime-transcription-software-choices-for-2024/"><u>[Updated] Exclusive Look at Zoom's Prime Transcription Software Choices for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-gaming-pros-choice-of-5-microphones/"><u>[Updated] YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/avidemux-sound-repair-expert-solutions-for-2024/"><u>Avidemux Sound Repair Expert Solutions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choreographing-content-and-music-in-powerpoint/"><u>Choreographing Content and Music in PowerPoint</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-editing-professional-kinemaster-transition-tactics/"><u>Elevate Editing Professional Kinemaster Transition Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-recent-discovered-windows-11-update-databank-flaw-solutions-included/"><u>How to Overcome the Recent Discovered Window's 11 Update Databank Flaw - Solutions Included!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-achieving-perfect-silence-swaps-with-reaper/"><u>In 2024, Achieving Perfect Silence Swaps with Reaper</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-enhance-clear-speech-on-skype-calls/"><u>In 2024, Enhance Clear Speech on Skype Calls</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G84 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instagram-meets-tiktok-syncing-social-media/"><u>Instagram Meets TikTok Syncing Social Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-navigating-telegram-web-applications/"><u>Mastering the Art of Navigating Telegram Web Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-various-audio-and-video-files-with-easy-methods/"><u>Step-by-Step Guide: Converting Various Audio and Video Files with Easy Methods</u></a></li>
-<li><a href="https://driver-error.techidaily.com/tackling-base-system-glitches-via-dm/"><u>Tackling Base System Glitches via DM</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-subtlety-garagebands-audio-softening/"><u>The Art of Subtlety Garageband's Audio Softening</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-verdict-on-inshot-master-editor/"><u>The Verdict on InShot Master Editor?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-8-youtube-to-avi-convertors-explained-for-2024/"><u>Top 8 YouTube-to-AVI Convertors Explained for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-download-facebook-story-5-methods/"><u>[New] 2024 Approved How to Download Facebook Story [5 Methods]</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-framework-for-targeted-ad-messaging-on-fb-for-2024/"><u>[Updated] Essential Framework for Targeted Ad Messaging on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spoofing-success-the-path-to-parody-proficiency/"><u>[Updated] Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>2024 Approved BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>2024 Approved From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>2024 Approved Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-saturation-and-contrast-hdrs-role-in-quality-enhancement-for-2024/"><u>Beyond Saturation and Contrast HDR's Role in Quality Enhancement for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-vibes-photos-with-a-soundtrack-twist-for-2024/"><u>Cinematic Vibes Photos with a Soundtrack Twist for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-finest-free-luts-of-the-year/"><u>Explore the Finest FREE LUTs of the Year</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-12-hacks-to-find-and-download-the-best-free-stock-photography/"><u>In 2024, 12 Hacks to Find and Download the Best Free Stock Photography</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-12-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus 12 Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-no-audio-on-your-hp-laptop-running-windows-10/"><u>Troubleshooting: Fixing No Audio on Your HP Laptop Running Windows 10</u></a></li>
 </ul></div>
 
