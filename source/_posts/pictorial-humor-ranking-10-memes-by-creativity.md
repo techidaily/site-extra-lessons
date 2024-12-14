@@ -1,7 +1,7 @@
 ---
 title: "\"Pictorial Humor  Ranking #10 Memes by Creativity\""
-date: 2024-12-07T17:10:09.750Z
-updated: 2024-12-08T16:37:12.153Z
+date: 2024-12-11T18:44:34.012Z
+updated: 2024-12-14T18:52:40.131Z
 tags: 
   - screen-recording
   - ai video
@@ -46,7 +46,7 @@ A year without a new SpongeBob meme is nothing. In this meme, SpongeBob may be s
 ![burning paper](https://images.wondershare.com/filmora/article-images/2022/07/burning-paper.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. They Can’t Read
@@ -55,17 +55,29 @@ What more effective approach to convey a point than via a meme? Using this templ
 
 ![they cant read](https://images.wondershare.com/filmora/article-images/2022/07/they-cant-read.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. I Am Once Again Asking
 
 This priceless meme was lifted from one of Bernie Sanders' campaign materials. This example just demonstrates how desperate people would do anything, no matter how humiliating. And we apologize to Bernie personally for our shortcomings.
 
 ![im once again asking](https://images.wondershare.com/filmora/article-images/2022/07/im-once-again-asking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Draw 25
 
 You know that feeling you get in the game of Uno when you just have one card and simply can't seem to obtain the card you need, so you keep drawing? This example only demonstrates the fact that certain choices aren't worthwhile at any price.
 
 ![draw 25](https://images.wondershare.com/filmora/article-images/2022/07/draw-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. I Pretend I Do Not See It
 
@@ -85,21 +97,25 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. They Don’t Know
 
 When you're at a party and people don't realize how much superior you are to them, isn't that upsetting? Everyone believes that it's okay, and this meme is proof of that.
 
 ![they dont know](https://images.wondershare.com/filmora/article-images/2022/07/they-dont-know.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. How It Started
 
 In a year when everything remained same at all times, we were certainly preoccupied with looking for signs of advancement. Unfortunately, a lot of the time it felt like things were just getting worse.
 
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. Doge vs. Cheems
 
@@ -135,10 +151,6 @@ In the next step, you can use the Editor’s menu bar to add titles, texts, anim
 
 ![shape up the meme](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Share or Save Your Video Meme
 
 After designing your own meme, you should thus spread it across all platforms. You may download it in many formats and share it on all of your social media platforms. Therefore, when you capture a funny photo or video, think of a strange and funny description and share it across the board. Your video meme will now be immediately posted to Vimeo or YouTube after you click the "Export" button as shown below:
@@ -148,6 +160,10 @@ After designing your own meme, you should thus spread it across all platforms. Y
 In summary, without some of the internet's funniest memes, there would be an unenjoyable blank of continual news alerts, dubious research, and self-aggrandizing social media postings. Their influence has permeated society, and they have achieved worldwide success. Owing to the prevalence of amusing memes, which won't be going out of vogue anytime soon. The funniest memes ever have been compiled here. Pick your favorite and complete the task using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 </article
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Top 10 Meme Template Ideas
 
@@ -159,15 +175,15 @@ A year without a new SpongeBob meme is nothing. In this meme, SpongeBob may be s
 
 ![burning paper](https://images.wondershare.com/filmora/article-images/2022/07/burning-paper.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. They Can’t Read
 
 What more effective approach to convey a point than via a meme? Using this template, you may express a strong or unpopular stance while simultaneously making snide remarks about others who disagree with you.
 
 ![they cant read](https://images.wondershare.com/filmora/article-images/2022/07/they-cant-read.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. I Am Once Again Asking
 
@@ -180,10 +196,6 @@ This priceless meme was lifted from one of Bernie Sanders' campaign materials. T
 You know that feeling you get in the game of Uno when you just have one card and simply can't seem to obtain the card you need, so you keep drawing? This example only demonstrates the fact that certain choices aren't worthwhile at any price.
 
 ![draw 25](https://images.wondershare.com/filmora/article-images/2022/07/draw-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. I Pretend I Do Not See It
 
@@ -203,19 +215,11 @@ If we were all monkeys, this epidemic would not have occurred. Absolutely, I say
 
 ![return to monke](https://images.wondershare.com/filmora/article-images/2022/07/return-to-monke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. They Don’t Know
 
 When you're at a party and people don't realize how much superior you are to them, isn't that upsetting? Everyone believes that it's okay, and this meme is proof of that.
 
 ![they dont know](https://images.wondershare.com/filmora/article-images/2022/07/they-dont-know.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. How It Started
 
@@ -224,7 +228,7 @@ In a year when everything remained same at all times, we were certainly preoccup
 ![how it started](https://images.wondershare.com/filmora/article-images/2022/07/how-it-started.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10\. Doge vs. Cheems
@@ -234,11 +238,7 @@ We all know that the only individuals who have positive attitudes are those that
 ![doge vs cheems](https://images.wondershare.com/filmora/article-images/2022/07/doge-vs-cheems.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Create Your Own Meme
@@ -301,18 +301,24 @@ In summary, without some of the internet's funniest memes, there would be an une
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-binge-worthy-content-crafting-episodes-that-viewers-love/"><u>[Updated] 2024 Approved Binge-Worthy Content Crafting Episodes That Viewers Love</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-history-securely-saving-old-printed-images/"><u>Capturing History Securely Saving Old Printed Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-pc-wont-exit-windows-10-properly/"><u>Effective Fixes for When Your PC Won't Exit Windows 10 Properly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guide-understanding-digital-narrative-creation/"><u>Essential Guide Understanding Digital Narrative Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-undersea-gopro-enhancements/"><u>In 2024, Best Undersea Gopro Enhancements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-cheapest-entry-level-4k-systems/"><u>In 2024, Cheapest Entry-Level 4K Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>In 2024, Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-narzo-n55-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme Narzo N55 Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-video-avi-into-graphic-image-gif-filmoras-complete-guide/"><u>Mastering Video (AVI) Into Graphic Image (GIF) Filmora's Complete Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-troubles-heres-how-to-get-tekken-8-up-and-running-smoothly-again/"><u>PC Troubles? Here's How to Get Tekken 8 Up and Running Smoothly Again!</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/professionelle-bewertung-der-besten-funf-uhd-4k-videoplayer-unter-windowsmac-kompakte-download-tipps/"><u>Professionelle Bewertung Der Besten Fünf UHD 4K Videoplayer Unter Windows/Mac: Kompakte Download-Tipps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-pc-playthroughs-stop-halo-3-from-unexpectedly-crashing/"><u>Resolve PC Playthroughs: Stop Halo 3 From Unexpectedly Crashing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simple-steps-turn-off-the-lock-screen-in-windows-10-without-hitches/"><u>Simple Steps: Turn Off the Lock Screen in Windows 10 Without Hitches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-leveraging-youtubes-features-to-improve-visuals/"><u>[New] Leveraging YouTube's Features to Improve Visuals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-colorful-canvas-basic-adobe-corrections-guide/"><u>[Updated] Colorful Canvas Basic Adobe Corrections Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-core-strategies-for-tailoring-compelling-social-media-promotions/"><u>[Updated] In 2024, Core Strategies for Tailoring Compelling Social Media Promotions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategize-music-mixes-your-guide-to-youtube-playlists-for-2024/"><u>[Updated] Strategize Music Mixes Your Guide to YouTube Playlists for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-diy-filming-fixes-the-top-5-hacks-to-try-now/"><u>2024 Approved Quick DIY Filming Fixes The Top 5 Hacks to Try Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-blueprint-to-buzzing-video-success-on-insta/"><u>2024 Approved The Blueprint to Buzzing Video Success on Insta</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlimited-view-of-youtube-cover-pics-no-payment-required/"><u>2024 Approved Unlimited View of YouTube Cover Pics No Payment Required</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-together-top-metaverse-multiplayer-joints/"><u>Exploring Together Top Metaverse Multiplayer Joints</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gopro-video-faceoff-expert-review-of-max-360-and-hero-11-capabilities/"><u>GoPro Video Faceoff Expert Review of Max 360 & Hero 11 Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gaming-addressing-the-f1-2020-crash-problems-on-your-pc/"><u>How to Ensure Smooth Gaming - Addressing the F1 2020 Crash Problems on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-cards-for-ultra-hd-content-creation/"><u>Ideal Cards for Ultra-HD Content Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/imovie-sound-design-made-simple/"><u>IMovie Sound Design Made Simple</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-note-30i-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Note 30i</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>In 2024, Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audible-illusion-how-does-this-voice-change-application-work-alternatives-awaits/"><u>In 2024, Audible Illusion How Does This Voice Change Application Work? Alternatives Awaits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chasing-victories-olympics-year-2022/"><u>In 2024, Chasing Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-asus-zenbook-pro/"><u>In-Depth Analysis of the Asus Zenbook Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightweight-travel-bags-with-camera-integration/"><u>Lightweight Travel Bags with Camera Integration</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c12-plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C12 Plus | Dr.fone</u></a></li>
 </ul></div>
 

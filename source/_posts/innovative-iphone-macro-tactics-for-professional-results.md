@@ -1,7 +1,7 @@
 ---
 title: "Innovative iPhone Macro Tactics for Professional Results"
-date: 2024-12-07T16:26:04.509Z
-updated: 2024-12-08T16:18:06.141Z
+date: 2024-12-09T17:34:09.066Z
+updated: 2024-12-14T17:24:28.409Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ You May Also Like: [How to Take Underwater Photos with your iPhone 7](https://to
 
 You May Also Like: [Resizing a Photo without Losing Quality](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Section 1. What is close-up and macro photography?
 
 Close-up photography and macro photography are all about photographing things in a way that makes them appear larger than they are in real life. It lets us look in detail at the things around us and can be an exciting and dramatic way to shoot images. But is there a difference between close up and macro in photography terms?
@@ -59,10 +63,6 @@ Shooting in the macro range requires decent lighting, so consider when and how y
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image source: Urdu-Mag.com
 
 If you do want to snap some macro images in bright sunlight, try positioning your shadow to create a more indirect lighting of the subject. You can also move your own orientation so that the sun is shining into your shot, rather than behind it.
@@ -74,7 +74,7 @@ With any photo, focus is crucial to an awesome result. But when you're creating 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-focus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: PicMonkey
@@ -109,10 +109,6 @@ If you've researched photography in general, you'll already have heard of the �
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image source: SmashingHub
 
 The rule states that if the image were divided into thirds horizontally and vertically, the most important objects in the image should be placed at the points where the lines intersect. This is easy on iPhone, as you can switch on the gridlines and instantly see where to place the subject in the photos. When shooting macro images, place your focal point at one of the intersections to give your photo the professional touch.
@@ -124,7 +120,7 @@ iPhone macro photography is all about looking at the world in a different way. T
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: Flickr
@@ -154,10 +150,14 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -174,22 +174,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-timely-team-setups-adjusting-backdrop-beforeafter-calls-for-2024/"><u>[New] Timely Team Setups Adjusting Backdrop Before/After Calls for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-assessment-experiencing-the-world-in-360-with-samsung/"><u>[Updated] In 2024, Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-blueprint-for-boosting-business-results-with-better-offices/"><u>2024 Approved A Blueprint for Boosting Business Results with Better Offices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-cost-cutting-options-for-purchasing-gopros/"><u>2024 Approved Cost-Cutting Options for Purchasing GoPros</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-activity-inspection-guide-for-2024/"><u>Complete Activity Inspection Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-a-compelling-metaverse-presence-with-these-tools-for-2024/"><u>Craft a Compelling Metaverse Presence with These Tools for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ensuring-easy-download-of-youtubes-srt-subs/"><u>Ensuring Easy Download of YouTube's SRT Subs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-loot-solutions-for-borderlands-3-audio-issues-on-pc/"><u>Fixing Silent Loot: Solutions for 'Borderlands 3' Audio Issues on PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-capability-assessment-of-sony-fdr-x1000-videography/"><u>Full Capability Assessment of Sony FDR-X1000 Videography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-craft-an-effortless-facebook-photo-mosaic/"><u>How to Craft an Effortless Facebook Photo Mosaic</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-carryminati-unmasked-the-monetary-milestones/"><u>In 2024, CarryMinati Unmasked The Monetary Milestones</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/increasing-interior-vibrancy-suns-role-inside-for-2024/"><u>Increasing Interior Vibrancy Sun's Role Inside for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphones-video-reduction-and-adjustment-tools-for-2024/"><u>Mastering iPhone's Video Reduction and Adjustment Tools for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavimkvm4a/"><u>Movaviを使って簡単にMKVとM4Aフォーマットへ自由な変換 – ウェブベースのオプション</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-online-audio-enhancement-a-step-by-step-guide-to-adjusting-speed-and-pitch/"><u>New 2024 Approved Online Audio Enhancement A Step-by-Step Guide to Adjusting Speed & Pitch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-to-get-outriders-running-smoothly-on-windows/"><u>Resolved! Troubleshooting Steps to Get Outriders Running Smoothly on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[New] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-assimilation-for-inshot-projects/"><u>[New] Audio Assimilation for InShot Projects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>[New] In 2024, Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>[Updated] Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-for-obtaining-copyright-free-imagery/"><u>[Updated] Secrets for Obtaining Copyright-Free Imagery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bring-your-library-to-life-in-inshot-app/"><u>Bring Your Library to Life in InShot App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-samsung-galaxy-s8s-4k-superiority/"><u>Exploring Samsung Galaxy S8's 4K Superiority</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online-for-2024/"><u>Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-raw-footage-to-instagram-gold-top-10-editor-shortlists/"><u>From Raw Footage to Instagram Gold - Top 10 Editor Shortlists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-effective-sky-gadgets-frugal-flight-devices-ranking/"><u>In 2024, Cost-Effective Sky Gadgets Frugal Flight Devices Ranking</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mythos-makers-circle-top-ten-tales/"><u>In 2024, Mythos Makers Circle – Top Ten Tales</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snappy-movement-capturing-blur-with-iphone-photos/"><u>Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
 </ul></div>
 

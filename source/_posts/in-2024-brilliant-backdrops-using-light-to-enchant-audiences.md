@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-12-03T16:32:23.629Z
-updated: 2024-12-08T16:02:20.878Z
+date: 2024-12-08T17:40:37.451Z
+updated: 2024-12-14T16:39:06.136Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -54,6 +58,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -69,7 +77,7 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -81,7 +89,7 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -90,27 +98,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,16 +146,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[New] 2024 Approved Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-fierce-fortifications-top-laptops-crafting-4k-videos/"><u>[New] Fierce Fortifications Top Laptops Crafting 4K Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-live-screenbackscapes-2023/"><u>[New] Premium Live Screenbackscapes 2023</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>2024 Approved Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/branding-breakthrough-constructing-logos-for-podcasts/"><u>Branding Breakthrough Constructing Logos for Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-14-plus-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 14 Plus to Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-compact-mobile-smoothie-recorder-gadget/"><u>In 2024, Compact Mobile Smoothie Recorder Gadget</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-automatic-speech-conversion-into-powerpoint-presentations/"><u>Integrating Automatic Speech Conversion Into PowerPoint Presentations</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-linux-nobara-offers-effortless-game-and-stream-setup-at-no-cost-with-a-minor-drawback-insights-from-zdnet/"><u>Mastering Linux: Nobara Offers Effortless Game & Stream Setup at No Cost, With a Minor Drawback – Insights From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-android-guide-to-enjoy-virtual-reality/"><u>Step-by-Step Android Guide to Enjoy Virtual Reality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-free-high-quality-streaming-tools-for-webm-video-files/"><u>[Updated] Best Free, High-Quality Streaming Tools for WebM Video Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-digital-renaissance-spotlight-on-six-trailblazers-of-nfts-for-2024/"><u>[Updated] Digital Renaissance Spotlight on Six Trailblazers of NFTs for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-leverage-longer-vids-on-instagram-effectively-for-2024/"><u>[Updated] How to Leverage Longer Vids on Instagram Effectively for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-fast-track-your-tiktok-video-creation-process/"><u>[Updated] In 2024, Fast-Track Your TikTok Video Creation Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-flow-streamlining-sound-segments/"><u>2024 Approved Audio Flow Streamlining Sound Segments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-novice-to-pro-mastering-the-art-of-editing-via-polarr/"><u>2024 Approved From Novice to Pro Mastering the Art of Editing via Polarr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-guide-to-whatsapps-audio-chat-features/"><u>Detailed Guide to WhatsApp's Audio Chat Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-optimize-your-next-4k-camera-lens-purchase/"><u>How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-celebrating-soundtracks-the-ultimate-anime-list/"><u>In 2024, Celebrating Soundtracks The Ultimate Anime List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-converting-and-sharing-h-videos-on-igtv/"><u>In 2024, The Ultimate Guide to Converting and Sharing H-Videos on IGTV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-your-macbook-awake-tips-on-preventing-sleep-mode-with-closed-lid/"><u>Keeping Your MacBook Awake: Tips on Preventing Sleep Mode with Closed Lid</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-to-exciting-windows-11-gaming-world/"><u>Navigate to Exciting Windows 11 Gaming World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>Unraveling Virtual-Physical Coexistence What Is Mixed Reality?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-download-vn-video-editor-for-mac-or-explore-alternative-options/"><u>Updated In 2024, Download VN Video Editor for Mac or Explore Alternative Options</u></a></li>
 </ul></div>
 

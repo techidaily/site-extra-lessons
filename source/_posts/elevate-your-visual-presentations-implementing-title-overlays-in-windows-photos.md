@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Visual Presentations  Implementing Title Overlays in Windows Photos\""
-date: 2024-12-02T18:09:42.831Z
-updated: 2024-12-08T16:32:16.640Z
+date: 2024-12-07T16:14:22.220Z
+updated: 2024-12-14T16:47:32.217Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -47,13 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -67,7 +71,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -76,22 +80,14 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,6 +95,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,17 +115,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-complete-methodology-for-sharing-srt-content-on-instagram-and-youtube/"><u>[New] Complete Methodology for Sharing SRT Content on Instagram and YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-techniques-to-master-telegram-web-interface/"><u>[New] Comprehensive Techniques to Master Telegram Web Interface</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-world-of-spotify-marketing/"><u>[Updated] Navigating the World of Spotify Marketing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-sharing-audio-with-youtube-for-2024/"><u>[Updated] The Ultimate Guide to Sharing Audio with YouTube for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chroma-mastering-toolkit/"><u>2024 Approved Chroma Mastering Toolkit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprelevant-listings-best-free-tools-to-watch-webm-videos/"><u>2024 Approved Comprelevant Listings Best Free Tools to Watch WebM Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-effective-tricks-to-restore-natural-colors-to-yellowish-iphone-displays/"><u>9 Effective Tricks to Restore Natural Colors to Yellowish iPhone Displays</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-apps-and-sites-mastering-photo-framing-for-2024/"><u>Best Practices Apps & Sites - Mastering Photo Framing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hdr-techniques-for-photoshop-pros-a-step-by-step-guide/"><u>HDR Techniques for Photoshop Pros A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>In 2024, Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-job-applications-write-cover-letters-via-chatai/"><u>Transform Your Job Applications: Write Cover Letters via ChatAI</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-webm-video-optimization-best-online-compression-software-for-2024/"><u>Updated WebM Video Optimization Best Online Compression Software for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-illuminating-imagery-pro-level-tips-for-spectacular-photos-for-2024/"><u>[New] Illuminating Imagery Pro-Level Tips for Spectacular Photos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-rx-fanfare-update-pack-for-2024/"><u>[Updated] RX Fanfare Update Pack for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-expert-endorsed-gpus-for-top-quality-online-video-playback/"><u>2024 Approved Expert-Endorsed GPUs for Top Quality Online Video Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginning-virtual-conversations-zoom-meeting-setup-for-android-users/"><u>Beginning Virtual Conversations Zoom Meeting Setup for Android Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-tutorial-setting-up-hp-zbook-15-g3-drivers-in-windows/"><u>Complete Tutorial: Setting up HP ZBook 15 G3 Drivers in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/contrasting-streamers-realms-twitch-vs-youtube/"><u>Contrasting Streamers' Realms Twitch Vs YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/securing-your-windows-server-understanding-the-benefits-of-differential-and-incremental-backups/"><u>Securing Your Windows Server: Understanding the Benefits of Differential and Incremental Backups</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlining-design-with-new-fonts-in-after-effects/"><u>Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-text-in-after-effects-top-10/"><u>The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
 </ul></div>
 

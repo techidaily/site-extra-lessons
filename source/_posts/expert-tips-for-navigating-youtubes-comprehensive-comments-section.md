@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Navigating YouTube's Comprehensive Comments Section"
-date: 2024-12-06T17:56:55.712Z
-updated: 2024-12-08T17:08:37.227Z
+date: 2024-12-13T19:03:32.401Z
+updated: 2024-12-14T18:36:59.418Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -45,7 +49,7 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
@@ -61,7 +65,7 @@ Step1 Below the video itself, find the comment section.
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -83,12 +87,16 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
@@ -96,17 +104,9 @@ Step4 On the right side under the “Manage all history” section, click on “
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -170,16 +170,19 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>[New] Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-captivating-reels-syncing-audio-to-images/"><u>[Updated] 2024 Approved Crafting Captivating Reels Syncing Audio to Images</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>[Updated] 2024 Approved Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-approach-for-telegram-web-success-for-2024/"><u>A Step-By-Step Approach for Telegram Web Success for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-techniques-for-moving-media-from-iphones-for-2024/"><u>Comprehensive Techniques for Moving Media From iPhones for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-video-with-pre-made-tracks-in-premiere-pro/"><u>Enhance Video With Pre-Made Tracks in Premiere Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-c55-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco C55 Through Google Earth?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-download-tool-facebook-videos-for-all-oses/"><u>New Download Tool Facebook Videos for All OSes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-premier-percussive-pace-collaboration-software-for-videos-2023-edition-for-2024/"><u>New Premier Percussive Pace Collaboration Software for Videos, 2023 Edition for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-your-photos-with-text-tips-for-adding-titles-in-microsoft-photos/"><u>Perfect Your Photos with Text Tips for Adding Titles in Microsoft Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-gaming-monitors-for-xbox-series-x-a-buyers-guide-for-2024/"><u>Top Gaming Monitors for Xbox Series X - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigating-twitter-and-facebook-integration/"><u>[New] 2024 Approved Navigating Twitter & Facebook Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-leading-techniques-for-youtube-mpeg-migration/"><u>[New] In 2024, Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-xbox-screen-recorder-how-to-guide/"><u>[New] Xbox Screen Recorder How-To Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>[Updated] 2024 Approved Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-360-degree-view-transformative-media-experience/"><u>[Updated] A 360-Degree View Transformative Media Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-reverse-a-video-on-iphone/"><u>2024 Approved How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-mobile-video-assembly-software-for-smartphones/"><u>2024 Approved Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-20-non-copyrighted-pubg-image-gems/"><u>Best 20 Non-Copyrighted PUBG Image Gems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-installation-of-movie-maker-6/"><u>Mastering the Installation of Movie Maker 6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastermind-mind-games-trivia-channel-hunt-for-24/"><u>Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/samsung-ssds-ultimate-guide-to-secure-erasure-top-techniques-making-deletion-unrecoverable/"><u>Samsung SSD's Ultimate Guide to Secure Erasure: Top Techniques Making Deletion Unrecoverable</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-capturing-imagination-best-shot-tips/"><u>The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>The Ultimate Guide Top 8 Online Places for Free 3D Text Files</u></a></li>
 </ul></div>
 

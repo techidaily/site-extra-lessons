@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2024-12-06T17:33:13.515Z
-updated: 2024-12-08T17:49:29.115Z
+date: 2024-12-09T18:30:27.101Z
+updated: 2024-12-14T19:11:28.746Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  With the improvement of the graphics and vehicle sounds, Forza Horizon 5 is obviously the best Forza Horizon game to date. However, just like any other games released this month, Forza Horizon 5 still has some performance issues. If**Forza Horizon 5**   **FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix it on your own easily after reading this article!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other PC players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 5. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -90,10 +82,14 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -110,6 +106,10 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -135,11 +135,11 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -154,10 +154,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -174,11 +170,15 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -206,16 +206,19 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-video-recording-gear-guide/"><u>[New] Best Video Recording Gear Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/astering-youtube-list-mix-a-step-by-step-guide/"><u>[New] Mastering YouTube List Mix A Step-by-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-picks-for-free-virtual-conferencing-and-screensharing-software-for-2024/"><u>[New] Top Picks for FREE Virtual Conferencing & Screensharing Software for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-c12-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia C12 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/aomei-windows/"><u>AOMEI 自由版快速複製設備：適合所有 Windows 用家的備份軟件選擇</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clarity-cluster-essential-gadgets-for-pixels/"><u>Clarity Cluster Essential Gadgets for Pixels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-compelling-cinematic-snippet/"><u>In 2024, Building a Compelling Cinematic Snippet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-save-350-on-the-hp-victus-15-laptop-at-best-buy-this-labor-day-exclusive-deals/"><u>Limited Time Offer: Save $350 on the HP Victus 15 Laptop at Best Buy This Labor Day – Exclusive Deals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-multitask-media-consumption-employing-picture-in-picture-functionality/"><u>Master Multitask Media Consumption Employing Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/understanding-azure-speech-to-text-functionality-for-2024/"><u>Understanding Azure Speech to Text Functionality for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-best-lipos-a-drone-buyers-bible/"><u>Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-airborne-tenacity-top-10-longest-flying-drones-for-2024/"><u>[New] Airborne Tenacity Top 10 Longest-Flying Drones for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>2024 Approved Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bringing-to-life-advanced-color-correction-guide/"><u>2024 Approved Bringing to Life Advanced Color Correction Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-interpreting-instagrams-per-video-timeframe-rule/"><u>2024 Approved Interpreting Instagram's Per-Video Timeframe Rule</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/cracking-the-code-expert-strategies-for-identifying-and-resolving-cryptic-hardware-issues-in-windows-10-systems/"><u>Cracking the Code: Expert Strategies for Identifying and Resolving Cryptic Hardware Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-beats-10-ideal-tracks-for-podcast-intro-sounds/"><u>Discovering Beats 10 Ideal Tracks for Podcast Intro Sounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>In 2024, Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>In 2024, Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-network-management-wi-fi-removal-guide/"><u>Mastering Network Management: Wi-Fi Removal Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-chatgpt-record-keeping-methods/"><u>Secure ChatGPT Record Keeping Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>The Fine Art of Focusing Enhanced Zoom on Roblox Games</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/transform-your-content-into-engaging-ebooks-a-complete-tutorial-for-creating-realistic-flipbooks-using-flipbuildercom/"><u>Transform Your Content Into Engaging eBooks: A Complete Tutorial for Creating Realistic Flipbooks Using FlipBuilder.com</u></a></li>
 </ul></div>
 

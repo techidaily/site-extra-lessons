@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-12-03T17:42:36.402Z
-updated: 2024-12-08T17:26:32.659Z
+date: 2024-12-09T19:51:26.368Z
+updated: 2024-12-14T19:28:51.192Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -47,7 +43,7 @@ Navigate to the folder where your video file is located and right click on it. Y
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2：Customizing the Slow Motion Effect
@@ -60,22 +56,22 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -96,6 +92,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
@@ -103,7 +103,7 @@ Now that you have understood how to add the effect of slow motion in Windows 10 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -121,24 +121,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-best-playstation-5-and-xbox-series-x-games-consoles-ranked-for-2024/"><u>[New] Best PlayStation 5 & Xbox Series X Games Consoles Ranked for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quickest-online-platforms-transforming-gif-into-video/"><u>[New] Quickest Online Platforms Transforming GIF Into Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-controlling-video-flow-on-your-screens-window-netflix/"><u>[Updated] Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maestro-of-visual-and-sonic-harmony-creation/"><u>[Updated] Maestro of Visual & Sonic Harmony Creation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>[Updated] Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-a-unified-brand-presence-on-youtube/"><u>2024 Approved Crafting a Unified Brand Presence on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-treasure-trove-of-e-commerce-the-hottest-sites-for-mystery-boxes-for-2024/"><u>A Treasure Trove of E-Commerce The Hottest Sites for Mystery Boxes for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clipcomposer-critique-full-report-for-2024/"><u>ClipComposer Critique – Full Report for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-insight-a-detailed-walkthrough-of-facetune-app-for-2024/"><u>Complete Insight A Detailed Walkthrough of Facetune App for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-human-capital-layouts-that-leverage-team-synergy/"><u>Harnessing Human Capital Layouts That Leverage Team Synergy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>In 2024, A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>In 2024, Behind the Curtain Detailed Guide to Import Tasks W11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-ipad-screen-recording-techniques-a-comprehensive-manual-for-professionals-and-enthusiasts/"><u>Mastering iPad Screen Recording Techniques: A Comprehensive Manual for Professionals and Enthusiasts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/secure-and-authentic-telemundo-video-collection-safe-downloads-from-telemundos-website/"><u>Secure and Authentic Telemundo Video Collection - Safe Downloads From Telemundo's Website</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplified-method-to-tag-chapters-on-youtube-clips/"><u>Simplified Method to Tag Chapters on YouTube Clips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques/"><u>The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-guide-to-the-best-9-video-call-apps-androidios-for-2024/"><u>Ultimate Guide to the Best 9 Video Call Apps Android/iOS for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-shorts-a-deep-dive-into-content-creation-and-revenue-for-2024/"><u>YouTube's Shorts A Deep Dive Into Content Creation and Revenue for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>[New] In 2024, Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-media-professionals-recommendations-best-5-web-video-recorders/"><u>[New] Media Professionals' Recommendations Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-20-anime-song-opens-in-ranking/"><u>[Updated] Best 20 Anime Song Opens in Ranking</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-practices-in-selecting-premium-hdr-cameras/"><u>[Updated] Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-revealing-the-ultimate-collection-of-youtube-beauty-experts/"><u>[Updated] In 2024, Revealing the Ultimate Collection of YouTube Beauty Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-visuals-in-powerpoint-engagement/"><u>Accelerating Visuals in PowerPoint Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chime-chronicles-mastering-the-art-of-tamil-ringtones-for-2024/"><u>Chime Chronicles Mastering the Art of Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format-for-2024/"><u>Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foremost-6-social-sites-for-corporate-relationships/"><u>Foremost 6 Social Sites for Corporate Relationships</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g23-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G23</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-electronics-your-guide-to-hardware-and-software-insights/"><u>Inside Tom's Electronics: Your Guide to Hardware and Software Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ters-legacy-the-process-of-parody-film-making-for-2024/"><u>Laughter's Legacy The Process of Parody Film-Making for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-free-livestream-technology-a-comprehensive-review-for-all-systems/"><u>Leading Free Livestream Technology A Comprehensive Review for All Systems</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-7-free-apps-to-get-emojis-on-android-and-iphone/"><u>New 7 Free Apps to Get Emojis on Android and iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steps-to-prevent-windows-11-photos-app-failures/"><u>Steps to Prevent Windows 11 Photos App Failures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/twitch-vs-youtube-a-complete-comparison/"><u>Twitch Vs. Youtube – A Complete Comparison</u></a></li>
 </ul></div>
 

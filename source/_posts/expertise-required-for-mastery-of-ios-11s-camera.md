@@ -1,7 +1,7 @@
 ---
 title: "Expertise Required for Mastery of iOS 11'S Camera"
-date: 2024-12-02T16:58:26.578Z
-updated: 2024-12-08T17:52:24.600Z
+date: 2024-12-08T18:46:10.886Z
+updated: 2024-12-14T19:33:12.180Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  Each iPhone photographer has to ask themselves the same question: 'Am I really using the full capacity of my camera?'If the answer is no, maybe these iPhone camera features can help you improve the quality of your photos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 iPhone Camera Features You Should Know in iOS 11
 
  The quality of your photos is in direct relation to your level of familiarity with the camera's features because the more you know about the camera the better you will be at finding the proper use for those features.
@@ -47,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 #### 2\. Set the Focus and Exposure manually
 
 ![](https://images.wondershare.com/filmora/article-images/set-focus-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: iPhone Photography School
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.wondershare.com/filmora/article-images/use-timer-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iPhone X weighs only 174 grams, which makes it nearly impossible to hold perfectly still. This complicates things even further in difficult light conditions, but the Timer feature on iPhone X can help you solve this problem. You can compose your shot and set the Timer for 3 or 10 seconds and the device will take ten photos in a row, which will enable you to select the sharpest photo and delete the others.
 
 #### 5\. Edit Live Photos
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.wondershare.com/filmora/article-images/qr-detection-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: 9to5Mac
 
  QR codes are actually quite convenient because they save you the trouble of typing the URL by yourself. The iOS 11 is the first iPhone OS with the ability to read QR codes. All you need to do is open your camera app and point it in the direction of the QR code you want to view, and your iPhone X will do the rest.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 ![](https://images.wondershare.com/filmora/article-images/selfie-portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: Tom's Guide
@@ -106,15 +106,15 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![](https://images.wondershare.com/filmora/article-images/dual-image-stabilization-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keeping the moving objects in focus is a major concern regardless of the camera you are using. We were excited about the [dual camera feature in iPhone 7](https://tools.techidaily.com/wondershare/filmora/download/), now the Dual Optical Image Stabilization feature in iOS 11 reduces motion blur and it also decreases the impact the camera shakes have on your photos. iPhone 8's Optical Image Stabilization has been improved on iPhone X and it works alongside the image sensor to ensure that all pictures taken with this device are razor sharp.
 
 #### 10\. Portrait Lighting Lets You Adjust Light to Best Fit Your Subject - iPhone X/8
 
 ![](https://images.wondershare.com/filmora/article-images/portrait-lighting-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
@@ -124,11 +124,11 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -145,19 +145,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-androids-leading-downloader-choice-the-ultimate-top-10-list-of-fb-video-tools/"><u>[New] 2024 Approved Android's Leading Downloader Choice The Ultimate Top 10 List of FB Video Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-club-vibes-best-dj-template-video-selections/"><u>[New] 2024 Approved Club Vibes Best DJ Template Video Selections</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-loop-youtube-videos-on-tv/"><u>[Updated] How to Loop YouTube Videos on TV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brilliant-question-bank-to-entice-audio-enthusiasts/"><u>2024 Approved Brilliant Question Bank to Entice Audio Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-navigating-the-best-lipo-cells-for-quality-flight-time/"><u>2024 Approved Navigating the Best LiPo Cells for Quality Flight Time</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-air-4-and-ipad-air-cued-by-apple-which-one-deserves-your-upgrade-gadget-flow-insights/"><u>Comparing iPad Air 4 and iPad Air Cued by Apple, Which One Deserves Your Upgrade? | Gadget Flow Insights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/create-captivating-content-engaging-windows-movie-maker-on-w11-for-2024/"><u>Create Captivating Content Engaging Windows Movie Maker on W11 for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audiextractoreview-free-audio-tools-new-horizon/"><u>In 2024, AudiExtractoReview Free Audio Tool's New Horizon</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>In 2024, Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-googles-podcast-publishing-process/"><u>Mastering Google's Podcast Publishing Process</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prepare-for-the-metaverse-the-7-indispensable-tools/"><u>Prepare for the Metaverse - The 7 Indispensable Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/saving-gameplay-moments-for-the-web/"><u>Saving Gameplay Moments for the Web</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/who-wins-in-the-streamers-arena-twitch-vs-youtube-reviewed/"><u>Who Wins in the Streamer's Arena? Twitch vs YouTube Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-photo-editing-canvas-backdrop-eradication/"><u>[Updated] Advanced Photo Editing Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crafting-the-ideal-mc-village-abode/"><u>[Updated] In 2024, Crafting the Ideal MC Village Abode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-2023s-best-device-compatible-entry-editor-solutions/"><u>2024 Approved 2023'S Best Device-Compatible Entry Editor Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-above-and-beyond-vertical-panoramas-made-easy/"><u>2024 Approved Above and Beyond Vertical Panoramas Made Easy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-ringtones-roundup-essential-sites/"><u>Best Ringtones Roundup Essential Sites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-facial-obscurity-in-photos/"><u>Effortless Facial Obscurity in Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-cam-faceoff-the-best-of-both-worlds-hero5-black-and-hero4-silver/"><u>In 2024, Action Cam Faceoff The Best of Both Worlds – Hero5 Black & Hero4 Silver</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-13-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 13 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/innovating-photography-with-stellars-new-recovery-solution/"><u>Innovating Photography with Stellar's New Recovery Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-top-picks-and-tips-from-toms-hardware-experts/"><u>Mastering Technology: Top Picks and Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-iphone-silhouette-mastery/"><u>The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transcending-visual-limits-with-hdr-technology/"><u>Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/turn-off-youtube-previews-on-all-devices/"><u>Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles-for-2024/"><u>Ultimate Techniques for Enhancing Vimeo Videos with Subtitles for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-economics-of-music-sharing-on-facebook/"><u>Unveiling The Economics of Music Sharing on Facebook</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-tivo-or-comcast-which-dvr-is-right-for-you/"><u>Updated 2024 Approved TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
 </ul></div>
 

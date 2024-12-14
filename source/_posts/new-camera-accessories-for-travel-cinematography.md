@@ -1,7 +1,7 @@
 ---
 title: "[New] Camera Accessories for Travel Cinematography"
-date: 2024-12-06T18:16:22.268Z
-updated: 2024-12-08T16:11:32.634Z
+date: 2024-12-11T17:28:16.438Z
+updated: 2024-12-14T16:23:50.984Z
 tags: 
   - screen-recording
   - ai video
@@ -28,19 +28,11 @@ Is it worth it? Is it really necessary to upgrade a travel video? Will my money 
 
 ![travel gear review](https://images.wondershare.com/filmora/article-images/2022/07/travel-gear-review.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## My Equipments for Travel Vlogging
 
 First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tripod, selfie stick, pack of batteries, a camera bag, laptop, and some stuff.
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
@@ -48,20 +40,12 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Gimbal
@@ -77,7 +61,7 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
@@ -87,7 +71,7 @@ In any case, we needed a few accessories to support our equipment better. Simple
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Laptop, desktop, or phone for editing
@@ -100,6 +84,10 @@ In my own experience, every time I go out and visit different places, I always h
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ##### Step1NEW PROJECT
@@ -107,6 +95,10 @@ In my own experience, every time I go out and visit different places, I always h
 click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2IMPORT FILES
 
@@ -121,7 +113,7 @@ just drag and drop simple as that
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
@@ -152,6 +144,10 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
@@ -163,6 +159,10 @@ from there you can choose and select which video you would like to import
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -206,22 +206,22 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-steps-for-documenting-online-meetings-for-2024/"><u>[New] Advanced Steps for Documenting Online Meetings for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>[New] Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-the-light-filmographys-five-essential-camera-techniques-of-24/"><u>[New] Capture the Light Filmography's Five Essential Camera Techniques of '24</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ey-elements-in-asmr-video-content-for-2024/"><u>[New] Key Elements in ASMR Video Content for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-android-audio-recording-tips-no-root-required/"><u>[Updated] 2024 Approved Android Audio Recording Tips - No Root Required</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-audio-anomaly-top-disruptive-music-apps-for-iosandroid-for-2024/"><u>[Updated] Audio Anomaly Top Disruptive Music Apps for iOS/Android for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-view-enabling-fb-videos-to-play-by-themselves/"><u>[Updated] Instant View Enabling FB Videos to Play By Themselves</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-8-montage-apps-for-your-androidiphone/"><u>2024 Approved Top 8 Montage Apps for Your Android/iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-seamless-journey-from-blurred-borders-to-sharp-focus/"><u>A Seamless Journey From Blurred Borders to Sharp Focus</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aerial-imaging-face-off-dji-fpv-vs-gopro-max-x-for-2024/"><u>Aerial Imaging Face-Off DJi FPV vs GoPro Max X for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/big-sur-essentials-system-and-hardware-upgrade/"><u>Big Sur Essentials System and Hardware Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-myths-is-chatgpt-trustworthy/"><u>Debunking Myths: Is ChatGPT Trustworthy?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ideal-set-best-8-macbook-themes-and-skins/"><u>Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-psd-shadow-gradient/"><u>In 2024, Ultimate PSD Shadow Gradient</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-timestamps-into-your-images/"><u>Integrating Timestamps Into Your Images</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/why-does-instagram-keep-flipping-my-videos/"><u>Why Does Instagram Keep Flipping My Videos?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-pinnacle-of-funny-photo-artistry/"><u>[New] Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-upgrading-to-big-sur-know-your-hardware-standards/"><u>[New] Upgrading to Big Sur? Know Your Hardware Standards</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-core-definitions-of-cyber-storytelling/"><u>[Updated] Core Definitions of Cyber Storytelling</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-a-bold-statement-adding-neon-borders-to-youtubes/"><u>[Updated] Making a Bold Statement Adding Neon Borders to YouTubes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beginners-backstage-pass-to-photo-tricks/"><u>2024 Approved Beginner's Backstage Pass to Photo Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-mobile-ocr-software-revolutionizes-portable-loan-verification-fun-and-fast/"><u>ABBYY Mobile OCR Software Revolutionizes Portable Loan Verification - Fun and Fast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tips-and-tricks-for-speech-transcription-with-gdoc-for-2024/"><u>Advanced Tips and Tricks for Speech Transcription with GDoc for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y200e-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y200e 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-mixer-broadcasting-on-macos-systems/"><u>Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-aspect-ratio-discrepanrances-in-windows-10/"><u>Correcting Aspect Ratio Discrepanrances in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/getting-started-in-the-world-of-online-product-evaluation-channels/"><u>Getting Started in the World of Online Product Evaluation Channels</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-motion-in-imovie-editing-mastery/"><u>Melodic Motion in iMovie Editing Mastery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-chatgpt-widget-setup-effortlessly/"><u>Navigate ChatGPT Widget Setup Effortlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-new-horizons-discovering-the-top-10-pc-virtual-playback-devices/"><u>Navigate New Horizons Discovering the Top 10 PC Virtual Playback Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/razones-para-evitar-la-copia-de-un-dvd-directo-a-su-disco-duro-sin-archivo-ripearlo-primero/"><u>Razones Para Evitar La Copia De Un DVD Directo a Su Disco Duro Sin Archivo Ripearlo Primero</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-classics-a-win-11-reboot-plan/"><u>Reclaiming Classics: A Win 11 Reboot Plan</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-80s-effects-compendium-for-professional-editors/"><u>Top 80S Effects Compendium for Professional Editors</u></a></li>
 </ul></div>
 
