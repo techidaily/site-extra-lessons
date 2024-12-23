@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Under $100 HD Cams for Adventure and Action"
-date: 2024-12-03T18:21:56.590Z
-updated: 2024-12-08T16:00:48.271Z
+date: 2024-12-17T18:46:54.495Z
+updated: 2024-12-23T19:25:31.477Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
  If you are planning to buy a new action camera then probably you have a big list to choose from. Presently, almost all big brands like Sony and GoPro etc. are launching their classic and feature rich action cameras so you may find it little difficult to choose the best one that can suit your needs. The article below will help you to collect some useful information about best action cameras that are priced below $100 and still offer Full HD content quality with frame rate ranging somewhere between 60 to 30 fps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top 5 Best Full HD Action Cameras Below $100
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/aef9f8cb7b85429cf28cb38f2d49cc0528e1c43a7
 #### 1. Drift Innovation STEALTH-2
 
 ![drift ghost s](//images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00MCWWL0G/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MCWWL0G&linkId=18467dac61fdbb82717c78990474d825)
 
@@ -53,6 +57,10 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 ![polaroid xs 100i](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
 **Max Video Resolution:** 1080P/720P | **Weight:**  136g | **Battery life:**  1200 mAh | **Stills resolution:** 16MP | **1080:**  30fps | **Waterproof:** Yes, up to 30’ |
@@ -68,10 +76,6 @@ This device copies so many features from the all time favorite Ghost-S action ca
 
 ![polaroid cube plus](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
 
 **Max Video Resolution:** 1440P, 1080p and 720p | **Weight:**  97g | **Battery life:** 107 minutes | **Stills resolution:** 8MP | **1080:** 30/25fps | **Weatherproof:** Yes | **Image Stabilization:** Yes|
@@ -86,10 +90,6 @@ This device copies so many features from the all time favorite Ghost-S action ca
 #### 4. Xiaomi Yi
 
 ![yi action amera](https://images.wondershare.com/filmora/article-images/yi-action-camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
 
@@ -107,7 +107,7 @@ This device copies so many features from the all time favorite Ghost-S action ca
 ![ino airpro2](https://images.wondershare.com/filmora/article-images/ino-air-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00CKPMHSQ/ref=as%5Fli%5Fqf%5Fsp%5Fasin%5Fil%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CKPMHSQ&linkId=10f82ce1fa07ee60640f908cfbf0d05c)
@@ -124,7 +124,7 @@ This device copies so many features from the all time favorite Ghost-S action ca
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -142,22 +142,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>[Updated] Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eliminate-cacophony-perfecting-sound-quality-for-youtube-for-2024/"><u>[Updated] Eliminate Cacophony Perfecting Sound Quality for YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-acclaimed-pioneers-premier-instragram-highlight-makers/"><u>[Updated] In 2024, Acclaimed Pioneers Premier Instragram Highlight Makers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>[Updated] Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-learn-to-record-mi-11s-display-effortlessly/"><u>2024 Approved Learn to Record Mi 11'S Display Effortlessly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/7-types-of-color-grading-that-worth-trying-for-2024/"><u>7 Types of Color Grading that Worth Trying for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adjust-your-screen-with-confidence-and-ease-iphone/"><u>Adjust Your Screen with Confidence and Ease (iPhone)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-free-video-powerhouses-who-will-you-choose-vlc-or-mpc-in-2024/"><u>Comparing Free Video Powerhouses Who Will You Choose, VLC or MPC, In 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-the-future-revolutionary-tools-for-3d-modelers/"><u>In 2024, Crafting the Future Revolutionary Tools for 3D Modelers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-facebooks-video-evolution/"><u>In 2024, Navigating Facebook’s Video Evolution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/key-cutting-strategies-in-modern-cinema/"><u>Key Cutting Strategies in Modern Cinema</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/minimizing-vr-nausea-effective-strategies/"><u>Minimizing VR Nausea Effective Strategies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209846035-9789186613303-the-tale-of-the-truth/"><u>the Tale of the Truth | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgraded-apple-technology-deciding-between-m1-and-m2-ipad-pros-which-suits-you-better-tech-advice/"><u>Upgraded Apple Technology: Deciding Between M1 & M2 iPad Pros – Which Suits You Better? | Tech Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-class-registration-fix-ultimate-guide-for-a-smooth-run/"><u>Windows 11 Class Registration Fix - Ultimate Guide for a Smooth Run</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zipping-up-the-journey-to-subrip-text-files/"><u>Zipping Up The Journey to SubRip Text Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-must-know-elements-of-influential-titles/"><u>[New] 5 Must-Know Elements of Influential Titles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-extinguish-your-discord-access/"><u>[New] Extinguish Your Discord Access</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>[Updated] 5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-access-unlimited-12-stream-livestream-content/"><u>[Updated] Access Unlimited 12-Stream Livestream Content</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-add-meaningful-context-a-guide-to-video-captions-on-tiktok/"><u>[Updated] In 2024, Add Meaningful Context A Guide to Video Captions on TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-moviemakermag-extreme-review-complete-take-on-androvid-editor-for-2024/"><u>[Updated] MovieMakerMag Extreme Review – Complete Take on AndroVid Editor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakdown-of-essential-video-effects-in-tiktok-editing/"><u>Breakdown of Essential Video Effects in TikTok Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensively-guide-to-collecting-visual-backgrounds-for-2024/"><u>Comprehensively Guide to Collecting Visual Backgrounds for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-t2x-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo T2x 5G FRP Bypass</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elegant-volume-attenuation-using-lumafusion/"><u>In 2024, Elegant Volume Attenuation Using Lumafusion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-upcoming-xbox-vr-experience-pricing-guesses-and-expected-launch-date/"><u>Inside Scoop on the Upcoming Xbox VR Experience - Pricing Guesses and Expected Launch Date</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-mobvoi-ticwatch-e2-on-a-budget-is-it-really-cheap-enough-to-ignore-its-flaws/"><u>The Mobvoi TicWatch E2 on a Budget - Is It Really Cheap Enough to Ignore Its Flaws?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
 </ul></div>
 

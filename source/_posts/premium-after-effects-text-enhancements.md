@@ -1,7 +1,7 @@
 ---
 title: "Premium After Effects Text Enhancements"
-date: 2024-12-07T16:09:29.277Z
-updated: 2024-12-14T17:26:58.140Z
+date: 2024-12-19T17:46:12.400Z
+updated: 2024-12-23T16:43:30.076Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/B4KfDNM2Gr1PuD_gwNipX4k71Vk=/540x405/fi
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -27,6 +31,10 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TextExploder
 
@@ -37,7 +45,7 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iExpressions 2
@@ -57,11 +65,7 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Font Manager
@@ -73,7 +77,11 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -84,19 +92,11 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -106,6 +106,10 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -113,10 +117,6 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -160,20 +160,24 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ai-assisted-creativity-the-best-name-makers-for-pods/"><u>[New] AI-Assisted Creativity The Best Name Makers for Pods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>[New] Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed/"><u>[New] Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-check-your-channels-revenue-flow-for-2024/"><u>[New] Check Your Channel's Revenue Flow for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-visual-vibes-humor-through-kapwing/"><u>[New] In 2024, Visual Vibes Humor Through Kapwing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/20plus-humorous-metaverse-memes-and-diy-creation-guide-for-2024/"><u>20+ Humorous Metaverse Memes & DIY Creation Guide for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-awaken-the-warrior-within-with-these-10-films/"><u>2024 Approved Awaken the Warrior Within with These 10 Films</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-digital-sculptors-playground-essential-tools-for-every-animator/"><u>2024 Approved Digital Sculptors’ Playground Essential Tools for Every Animator</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-perfect-virtual-screens-choosing-best-meet-backgrounds/"><u>2024 Approved Perfect Virtual Screens Choosing Best Meet Backgrounds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hitachis-cutting-edge-screen-experience-superior-4k-clarity-combined-with-convenient-built-in-roku-features/"><u>Hitachi's Cutting-Edge Screen Experience: Superior 4K Clarity Combined with Convenient Built-In Roku Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/react-material-kit-complimentary-material-ui-themed-user-interface-collection-by-creative-tim/"><u>React Material Kit: Complimentary Material-UI Themed User Interface Collection by Creative Tim</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-art-of-retention-capturing-gifs-from-social-media/"><u>The Art of Retention Capturing GIFs From Social Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-criteria-when-expanding-your-4k-setup/"><u>Top 8 Criteria When Expanding Your 4K Setup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-15-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 15 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cloud-savings-guide-comparing-costs-and-top-deals/"><u>[New] Cloud Savings Guide Comparing Costs & Top Deals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-art-of-itunes-video-capture-for-2024/"><u>[New] Unveiling the Art of iTunes Video Capture for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-fantasy-villas-with-oriental-elegance-mc-edition-for-2024/"><u>[Updated] Fantasy Villas with Oriental Elegance, MC Edition for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>2024 Approved Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/combining-visual-and-auditory-elements-in-the-windows-photos-app-for-2024/"><u>Combining Visual and Auditory Elements in the Windows Photos App for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-survey-lightroom-app-unpacked-android/"><u>Complete Survey Lightroom App Unpacked (Android)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cost-effective-high-performance-asmr-microphones-guide-for-2024/"><u>Cost-Effective, High-Performance ASMR Microphones Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-how-to-tailor-your-snapchat-videos-speed-and-tempo/"><u>Discover How To Tailor Your Snapchat Videos' Speed & Tempo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/giant-among-machines-discover-the-surprising-raw-power-packed-in-this-compact-alienware-workhorse-zdnet/"><u>Giant Among Machines: Discover the Surprising Raw Power Packed in This Compact Alienware Workhorse | ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-10-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 10 4G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-corporate-cloud-vault-selection/"><u>Leading Corporate Cloud Vault Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-selection-freepluspaid-iphone-cinema-apps-reviewed/"><u>Premier Selection FREE+Paid iPhone Cinema Apps Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/slow-motion-showcase-top-cameras-with-unparalleled-snapshot-power/"><u>Slow-Motion Showcase Top Cameras with Unparalleled Snapshot Power</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-blueprint-to-fullscreen-brilliance-in-adobe-premiere/"><u>The Ultimate Blueprint to Fullscreen Brilliance in Adobe Premiere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-hd-cameras-for-big-game-capture/"><u>Top 5 HD Cameras for Big Game Capture</u></a></li>
 </ul></div>
 

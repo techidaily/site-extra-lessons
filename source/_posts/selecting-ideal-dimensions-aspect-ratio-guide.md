@@ -1,7 +1,7 @@
 ---
 title: "\"Selecting Ideal Dimensions  Aspect Ratio Guide\""
-date: 2024-12-01T16:00:24.317Z
-updated: 2024-12-08T16:31:34.406Z
+date: 2024-12-20T17:49:24.268Z
+updated: 2024-12-23T18:36:02.195Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ With that said, let's dive right into it!
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
@@ -48,21 +44,17 @@ This resolution is originally used in older television screens, which transforme
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Facebook
 
@@ -107,7 +99,7 @@ When talking about Instagram, which is very similar to Facebook, use these aspec
 9:16 for IGTV
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### TikTok
@@ -120,12 +112,16 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 1:1; 16:9 or 9:16 for TikTok advertisements
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Black bars
@@ -135,6 +131,10 @@ When editing your video, adding black bars is not changing the aspect ratio as y
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -172,19 +172,17 @@ Having your video tested on multiple devices will allow you to see a preview of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-design-channels-get-free-visuals-now/"><u>[New] 2024 Approved Design Channels - Get Free Visuals Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-ai-powered-frame-refactoring-suite/"><u>[New] AI-Powered Frame Refactoring Suite</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chronology-conundrum-best-podcast-times/"><u>[New] Chronology Conundrum Best Podcast Times</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>[New] Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-screen-capture-mastery-in-windows-os/"><u>[New] Unlocking Screen Capture Mastery in Windows OS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-effective-techniques-for-youtube-video-thumbnail-designs/"><u>[New] Unveiling Effective Techniques for YouTube Video Thumbnail Designs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[Updated] In 2024, Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-of-screenshotting-your-android-device/"><u>[Updated] Unlocking the Potential of Screenshotting Your Android Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-blur-it-out-simplified-identity-obscuration-techniques/"><u>2024 Approved Blur It Out Simplified Identity Obscuration Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-fact-to-fable-the-top-8-ai-shifts/"><u>From Fact to Fable: The Top 8 AI Shifts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-v30-lite-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V30 Lite 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>The Underdog's Playbook Livestream YouTube on Smartphones, No Million Followers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-tablets-for-photo-editing-worth-a-try/"><u>Top 8 Tablets for Photo Editing Worth a Try</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-optimize-rl-recording-hardware-and-software/"><u>[New] 2024 Approved How to Optimize RL Recording Hardware & Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-best-free-downloaders-download-youtube-thumbnail-for-freeonlinewinmac/"><u>[New] In 2024, Best Free Downloaders Download YouTube Thumbnail for Free[Online/Win/Mac]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-7-essential-secrets-for-delectable-cooking-clips/"><u>[Updated] 7 Essential Secrets for Delectable Cooking Clips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[Updated] Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[Updated] In 2024, Bringing Anime Characters to Life Jujutsu Kaisen for TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-standout-literary-book-videos-for-2024/"><u>[Updated] Standout Literary Book Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clockwise-chronicles-apples-video-reversal-method/"><u>2024 Approved Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-in-choosing-tiktok-wallpapers-for-2024/"><u>Best Practices in Choosing TikTok Wallpapers for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/error-404-the-missing-webpage-saga/"><u>Error 404: The Missing Webpage Saga</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-15-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 15 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-13-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 13 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
 </ul></div>
 

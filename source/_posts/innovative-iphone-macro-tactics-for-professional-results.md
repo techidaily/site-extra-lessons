@@ -1,7 +1,7 @@
 ---
 title: "Innovative iPhone Macro Tactics for Professional Results"
-date: 2024-12-09T17:34:09.066Z
-updated: 2024-12-14T17:24:28.409Z
+date: 2024-12-21T18:16:36.951Z
+updated: 2024-12-23T17:15:00.537Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ You May Also Like: [How to Take Underwater Photos with your iPhone 7](https://to
 
 You May Also Like: [Resizing a Photo without Losing Quality](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Section 1. What is close-up and macro photography?
 
 Close-up photography and macro photography are all about photographing things in a way that makes them appear larger than they are in real life. It lets us look in detail at the things around us and can be an exciting and dramatic way to shoot images. But is there a difference between close up and macro in photography terms?
@@ -73,10 +69,6 @@ With any photo, focus is crucial to an awesome result. But when you're creating 
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-focus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image source: PicMonkey
 
 If you're not ready to go fully manual, you could try using the iPhone's locking feature to lock the focus into place and avoid the photo being ruined by a little wobble on your part. To use this, simply tap and hold the screen at the part of the image you want to be in focus, and you'll see AE/EF Lock appear at the bottom. This means both focus and lighting are fixed until you tap elsewhere on the screen to release it.
@@ -99,6 +91,10 @@ When you're shooting macro images with your iPhone, the intention is to make the
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image source: GCFLearnFree
 
 Make the subject center stage by positioning your composition to give the least cluttered background possible. Use the sky if you can, or experiment with textured backgrounds such as a wall or fence. Think about how far your subject is from the background, as the further away the background is, the more blurry it will become and the greater the contrast of focus on your subject will appear.
@@ -108,6 +104,10 @@ Make the subject center stage by positioning your composition to give the least 
 If you've researched photography in general, you'll already have heard of the ‘rule of thirds'. This rule is super simple to apply when using an iPhone and is just as relevant in macro photography as it is when shooting landscapes or any other composition.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image source: SmashingHub
 
@@ -120,7 +120,7 @@ iPhone macro photography is all about looking at the world in a different way. T
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image source: Flickr
@@ -150,13 +150,13 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -174,20 +174,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-microphone-for-different-youtube-channel-types/"><u>[New] 2024 Approved Best Microphone for Different YouTube Channel Types</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-assimilation-for-inshot-projects/"><u>[New] Audio Assimilation for InShot Projects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>[New] In 2024, Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>[Updated] Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-for-obtaining-copyright-free-imagery/"><u>[Updated] Secrets for Obtaining Copyright-Free Imagery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bring-your-library-to-life-in-inshot-app/"><u>Bring Your Library to Life in InShot App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-samsung-galaxy-s8s-4k-superiority/"><u>Exploring Samsung Galaxy S8's 4K Superiority</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online-for-2024/"><u>Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-raw-footage-to-instagram-gold-top-10-editor-shortlists/"><u>From Raw Footage to Instagram Gold - Top 10 Editor Shortlists</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-cost-effective-sky-gadgets-frugal-flight-devices-ranking/"><u>In 2024, Cost-Effective Sky Gadgets Frugal Flight Devices Ranking</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mythos-makers-circle-top-ten-tales/"><u>In 2024, Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/snappy-movement-capturing-blur-with-iphone-photos/"><u>Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-assessing-acid-pro-top-alternative-software/"><u>[New] 2024 Approved Assessing ACID Pro Top Alternative Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-vsdc-vs-alternatives-a-comprehensive-evaluation/"><u>[New] 2024 Approved VSDC vs Alternatives A Comprehensive Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-cropping-and-focus-mastery/"><u>[New] Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-calmly-quieten-your-computers-audio-output/"><u>[New] Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>[New] Cinema at a New Frontier The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhanced-online-storefronts-in-3d/"><u>[New] Enhanced Online Storefronts in 3D</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-superior-sound-recognizers-in-education/"><u>2024 Approved Superior Sound Recognizers in Education</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-drones-leap-into-clarity-q500-reviewed-for-2024/"><u>A Drone's Leap Into Clarity - Q500 Reviewed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calculating-costs-in-youtube-advertising-campaigns/"><u>Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-iphone-photography-by-perfecting-motion-capture/"><u>Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easily-resize-your-widescreen-videos-to-standard-43-ratio/"><u>Easily Resize Your Widescreen Videos to Standard 4:3 Ratio</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/multi-format-ebook-converter-seamless-transformation-from-kfx-to-epub-mobi-and-more/"><u>Multi-Format eBook Converter - Seamless Transformation From KFX to EPUB, MOBI & More!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-tips-crafting-amazing-time-lapse-on-android-2024/"><u>Pro Tips Crafting Amazing Time-Lapse on Android 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/protect-your-apple-device-with-these-6-superior-antivirus-apps/"><u>Protect Your Apple Device with These 6 Superior Antivirus Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nubia-z50-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-control-video-pace-in-instagram/"><u>Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-friendly-metaverse-gaming/"><u>The Ultimate Guide to Friendly Metaverse Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-drawing-apps-for-android-that-will-boost-your-creativity/"><u>Top 10 Drawing Apps for Android That Will Boost Your Creativity</u></a></li>
 </ul></div>
 

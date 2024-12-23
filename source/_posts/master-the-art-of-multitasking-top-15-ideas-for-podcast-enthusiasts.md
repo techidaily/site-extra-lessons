@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Multitasking  Top 15 Ideas for Podcast Enthusiasts\""
-date: 2024-12-11T16:15:41.323Z
-updated: 2024-12-14T18:14:13.942Z
+date: 2024-12-21T21:11:14.037Z
+updated: 2024-12-23T19:08:55.603Z
 tags: 
   - screen-recording
   - ai video
@@ -25,7 +25,7 @@ Using podcasts to learn and entertain is a great idea. Multitasking is also poss
 So, to make the most of your time spent listening to podcasts, here are some ideas on what you can do while listening! Keep reading to find out more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Listening to a Podcast, What Is Appropriate To Do?
@@ -35,7 +35,7 @@ You do not need to dedicate a specific time to listen to podcasts. The entire id
 It allows you to fill those moments by learning new things and improving cognitive skills. Plus, it is a side-effect of doing things like driving, walking the dog, and commuting to work. Basically, all these tasks should meet all these or one of these criteria:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ● No need to use your brain
@@ -52,17 +52,9 @@ Moreover, some things like when you are driving with someone or you are on a roa
 
 You can tune in to the podcasts for repetitive tasks like doing the dishes, gardening, etc. The idea is to complement the repetitive task with something useful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 15 Things To Do While Listening To Podcasts
 
 That said, here's a short list of things to do while listening to a podcast. It is important to note that not all of you might be doing these tasks, but you must be doing something along these lines. So, it is all about familiarizing you with mindless tasks and how you can make the most of that activity by complementing it with a podcast episode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Yoga or stretch
 
@@ -70,7 +62,15 @@ As surprising as this might sound, listening to a podcast during Yoga or stretch
 
 ![yoga podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides, once you learn the stretch or yoga positions, it becomes a subconscious process. So, chances are, you might not need music to do the stretches or exercises you've already learned. Overall, a good yoga podcast will help improve your knowledge of the yoga field!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Jogging
 
@@ -79,10 +79,6 @@ Jogging appeals for its mindlessness is prominent among people. Just one foot in
 ![jogging podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-3.jpg)
 
 Listening to podcasts is a mindful activity, so when you run or jog with a podcast episode playing in your ears, it is easy to get distracted. So, it is vital to jog or run in a safe environment while listening to podcasts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Fishing
 
@@ -94,15 +90,15 @@ If you go fishing often and listen to music or sit with your friends, you can in
 
 Moreover, listening to a podcast while fishing does not mean you should start the podcast only when you sit near the lake or pond to fish. It is the entire process; you can start your podcast episodes right from when you take your car, the breaks you take, and while returning too. Try this one when you go fishing and dedicate all the time you set for fishing to listening to podcasts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Organize your photos or files
 
 If you often take time to organize your photos or files, you can combine that process with listening to your favorite podcasts. As mentioned, listening to a podcast is about concentrating on it and understanding the ideas discussed. So, you can do that with any mindless activities.
 
 ![organizing podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The benefit of combining listening to a podcast while organizing your photos or files is that you can learn new things and simplify your life by organizing your folders filled with countless images and files you always want to manage. It is to be noted that you can also listen to podcast episodes while managing your mail, scrolling through social media pages, or editing photos.
 
@@ -115,7 +111,7 @@ Do you cook daily? Or maybe once or twice a week? Well, you can tune into your f
 Chopping vegetables or meat, the washing process, and food preparation are some activities that consume a lot of time of people, so filling this with information-rich podcasts is a good substitute for your time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Driving
@@ -123,10 +119,6 @@ Chopping vegetables or meat, the washing process, and food preparation are some 
 Driving to work and from work takes a lot of time, and you often get tired of being in the car. It is best to substitute this time with your favorite podcasts daily. This way, you will be able to make the most of the time that you waste daily.
 
 ![drive podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It is important to retain that information-filled podcasts often grab all your attention, so you might focus on something other than driving itself. So, ensure that you know your routes well and listen to causal podcasts you can divert from while driving on the roads. It is best to listen to podcasts with a friend or colleague, as podcasts at such times create a perfect ebb and flow throughout the drive.
 
@@ -146,13 +138,13 @@ Gardening is a set of activities that often are mindless. Additionally, this is 
 
 ![gardening podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Basically, if you are thinking about all the stuff to do while listening to podcasts, compile a list of mindless activities you regularly engage in and see if you can substitute such activities; in this case, gardening with podcasts should feel comfortable to you.
 
 For instance, if you cannot focus on both, then it is best not to chase two rabbits simultaneously. The process only works if you can combine both tasks without compromising on one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 9\. Walk the dog
 
@@ -171,7 +163,7 @@ If we have to inform this, it means you are not having fun while doing the dishe
 The fun, the learning, and the sense of doing something different hits differently when you combine podcasts with doing dishes; not to forget, you made something of the time that you hate the most of your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 11\. Paint your nails
@@ -181,6 +173,10 @@ Painting nails is once again one of those processes that are initially elegant a
 ### 12\. Take a bath
 
 ![taking a bath podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Many people take baths for granted. It is one of the best ways to reset, relax, and recharge yourself after a tiresome day. You should always make your bathes meditative or go really far into a spiritual process.
 
@@ -205,6 +201,10 @@ Most people ignore these beautiful tasks of the day, thinking they will be wasti
 A haircut is a time that you give to your barber. It is all about sitting on the chair and letting the masters do their work. And putting on earphones for listening to music and podcast can be disastrous, as one snip and your costly earphones will be gone for good.
 
 ![haircut podcast](https://images.wondershare.com/filmora/article-images/2023/01/things-to-do-while-listening-to-podcasts-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 However, you can make the time of everyone sitting at the saloon beautiful by simply asking the barber to play one of the podcasts they like or you like. This will also allow you to experience new podcasts you aren't familiar with and initiate a good conversation with your client.
 
@@ -231,18 +231,19 @@ So, to make the most of your time spent listening to podcasts, here are some ide
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[Updated] Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beat-zoom-audio-disruptions-strategic-solutions/"><u>[Updated] Beat Zoom Audio Disruptions Strategic Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-circumventing-virtual-classroom-videos-without-hesitation/"><u>[Updated] Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-proven-strategies-for-professional-lut-making/"><u>[Updated] In 2024, Proven Strategies for Professional LUT Making</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-decades-best-anime-opening-songs-compiled/"><u>A Decade's Best Anime Opening Songs Compiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessment-report-toolwiz-app-for-imaging-aficionados-for-2024/"><u>Assessment Report Toolwiz App for Imaging Aficionados for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-years-must-see-makeup-vloggers-on-the-web/"><u>In 2024, Year's Must-See Makeup Vloggers on the Web</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/um-download-experience-best-youtube-playlist-extractors-reviewed-for-2024/"><u>Premium Download Experience Best YouTube Playlist Extractors Reviewed for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-site-visibility-how-artificer-intelligence-is-shaping-search-engine-results/"><u>Revolutionizing Site Visibility: How Artificer Intelligence Is Shaping Search Engine Results</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211441850--shamanic-healing-for-toxic-relationships/"><u>Shamanic Healing for Toxic Relationships | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/snap-up-on-details-with-videoleaps-advanced-zooming-for-2024/"><u>Snap Up on Details with VideoLeap's Advanced Zooming for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/snapseed-101-easy-steps-to-photo-perfection/"><u>Snapseed 101 Easy Steps to Photo Perfection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-seamless-shift-in-music-production/"><u>The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adobe-audition-tutorial-managing-sound-curves/"><u>[Updated] Adobe Audition Tutorial Managing Sound Curves</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-to-vanish-obscuring-elements-and-sharpen-your-images-in-affinity-photo/"><u>[Updated] How to Vanish Obscuring Elements and Sharpen Your Images in Affinity Photo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-a18-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo A18 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ae-lifesavers-budget-friendly-template-assortment/"><u>AE Lifesavers Budget-Friendly Template Assortment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-issues-when-modern-warfares-voice-communication-wont-connect/"><u>How to Resolve Issues When Modern Warfare's Voice Communication Won't Connect</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-astro-a50-headset-detection-error-in-command-center-setup/"><u>How to Solve Astro A50 Headset Detection Error in Command Center Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-palette-perfected-the-finest-4k-panels-for-artists/"><u>In 2024, A Palette Perfected The Finest 4K Panels for Artists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ancestral-creations-public-domain-masterpieces/"><u>In 2024, Ancestral Creations Public Domain Masterpieces</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone SE (2022)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-5-toy-drones-reviewed/"><u>Prime 5 Toy Drones Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-storytelling-schools-1-8-rankings-and-insights/"><u>Top Storytelling Schools #1-#8 Rankings & Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m34s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy M34s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-blueprint-for-an-instantaneously-crafted-virtual-avatar/"><u>Your Blueprint for an Instantaneously Crafted Virtual Avatar</u></a></li>
 </ul></div>
 

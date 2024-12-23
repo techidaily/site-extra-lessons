@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Breakdown of Yi's Ultra HD Action"
-date: 2024-12-07T18:10:51.097Z
-updated: 2024-12-08T17:36:48.570Z
+date: 2024-12-21T20:42:00.811Z
+updated: 2024-12-23T17:25:26.809Z
 tags: 
   - screen-recording
   - ai video
@@ -115,7 +115,7 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,7 +125,7 @@ Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolutio
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,22 +143,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/10-premium-image-editing-overlays-free-for-android-and-iphone-users-for-2024/"><u>10 Premium Image Editing Overlays Free for Android & iPhone Users for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-most-viewed-vids-worldwide-roundup/"><u>2024 Approved Most Viewed Vids Worldwide Roundup</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows-for-2024/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beat-the-standard-a-complete-tutorial-for-adding-ringtones-and-sounds-to-android-for-2024/"><u>Beat the Standard A Complete Tutorial for Adding Ringtones & Sounds to Android for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhance-your-listeners-experience-with-great-summaries/"><u>Enhance Your Listeners' Experience with Great Summaries</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/finding-the-best-prices-on-vr-headsets-from-china/"><u>Finding the Best Prices on VR Headsets From China</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y36i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y36i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-srt-to-xmlssa-transformation-guide/"><u>In 2024, Comprehensive SRT to XML/SSA Transformation Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-watchers-unveiling-who-sees-your-content/"><u>Instagram Watchers Unveiling Who Sees Your Content</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>New In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixelperfect-video-creator/"><u>PixelPerfect Video Creator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-speed-the-complete-handbook-on-srt-to-txt-transformation/"><u>Unlock Speed The Complete Handbook on SRT to TXT Transformation</u></a></li>
-<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-clipcomposer-critique-full-report/"><u>[Updated] ClipComposer Critique – Full Report</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensively-understanding-youtubes-aspect-ratio-ecosystem-for-2024/"><u>[Updated] Comprehensively Understanding YouTube's Aspect Ratio Ecosystem for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-strategies-for-effortless-audio-merging-in-adobe-premiere-for-2024/"><u>[Updated] Strategies for Effortless Audio Merging in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-for-capturing-stunning-details-on-film/"><u>[Updated] The Complete Guide for Capturing Stunning Details on Film</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comical-connections-top-websites-for-funny-phone-sounds/"><u>Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conhecer-gritos-de-saudade-todas-as-formas-do-portugues/"><u>Conhecer Gritos De Saudade: Todas as Formas Do Português</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-ar-projects-with-custom-downloadable-luts/"><u>Elevating Your AR Projects with Custom, Downloadable LUTS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-x-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone X by restoring it to factory settings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-g24-power-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola G24 Power Phone? Unlock It Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-tripod-path-to-flawless-images-for-2024/"><u>The No-Tripod Path to Flawless Images for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-potential-vr-innovations-for-fun-and-games/"><u>Unleashing Potential VR Innovations for Fun & Games</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-glitch-art-video-editing-apps-for-ios-and-android/"><u>Updated The Ultimate List of Glitch Art Video Editing Apps for iOS and Android</u></a></li>
 </ul></div>
 

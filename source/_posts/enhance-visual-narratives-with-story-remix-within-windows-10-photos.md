@@ -1,7 +1,7 @@
 ---
 title: "Enhance Visual Narratives with Story Remix Within Windows 10 Photos"
-date: 2024-12-11T17:18:44.239Z
-updated: 2024-12-14T19:34:44.468Z
+date: 2024-12-17T20:10:12.581Z
+updated: 2024-12-23T16:49:48.809Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Moreover, creating own videos is also possible with this tool.
 * [**Part5: How to add 3D effects to a Story Remix project**](#part5)
 * [**Part6: How to export a Story Remix video**](#part6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to download Story Remix in Windows
 
 In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
@@ -54,6 +50,10 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to create Story Remix automatically and randomly
 
@@ -73,11 +73,7 @@ How to create a Story Remix project automatically –
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to create a Story Remix project from scratch
@@ -90,18 +86,22 @@ Here is the guide –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
 
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adding a new theme
 
@@ -112,10 +112,6 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -123,6 +119,10 @@ While adding media to the timeline in Story Mix, you will see that there is a de
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adding custom text
 
@@ -132,6 +132,10 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -139,17 +143,13 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to add 3D effects to a Story Remix project
@@ -161,6 +161,10 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to export a Story Remix video
 
@@ -189,10 +193,6 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -208,22 +208,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unified-video-ventures-selecting-an-mcn/"><u>[Updated] In 2024, Unified Video Ventures Selecting an MCN</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>2024 Approved 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-8-popular-oculus-rift-games-you-should-try/"><u>2024 Approved 8 Popular Oculus Rift Games You Should Try</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-video-grabbers-for-windows-10-users/"><u>2024 Approved Essential Video Grabbers for Windows 10 Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-downloading-apple-podcasts/"><u>2024 Approved Step-by-Step Guide Downloading Apple Podcasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/9-crucial-aspects-you-shouldnt-overlook-before-investing-in-a-dash-cam/"><u>9 Crucial Aspects You Shouldn't Overlook Before Investing in a Dash Cam</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/copyright-free-game-audio-repositories-for-2024/"><u>Copyright-Free Game Audio Repositories for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-fixes-for-the-roblox-memory-warning-problem-on-iphones/"><u>Effective Fixes for the Roblox Memory Warning Problem on iPhones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-visual-storytelling-advanced-zooming-on-snapchat/"><u>Elevate Your Visual Storytelling Advanced Zooming on Snapchat</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-uses-for-vcplusplus-redistribution/"><u>Essential Uses for VC++ Redistribution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-extraordinary-realms-metaverse-vs-omniverse-analyzed/"><u>Exploring Extraordinary Realms Metaverse Vs. Omniverse Analyzed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-11-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 11 Pro After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-chat-and-quest-in-the-virtual-society/"><u>In 2024, 10 Chat & Quest in the Virtual Society</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-linux-windows-and-mac-10-budget-video-player-options/"><u>In 2024, Linux, Windows & Mac 10 Budget Video Player Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photo-and-video-edits-made-easy-select-the-best-8-apps-for-android-ios/"><u>Photo & Video Edits Made Easy Select the Best 8 Apps for Android, iOS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-fixes-for-the-persistent-blue-screen-caused-by-volsnapsys-in-windows-environments/"><u>Step-by-Step Fixes for the Persistent Blue Screen Caused by Volsnap.sys in Windows Environments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-insight-into-high-end-hdr-cameras/"><u>[New] Comprehensive Insight Into High-End HDR Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>[New] In 2024, Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-reach-twitch-streams-via-facebook/"><u>[Updated] Maximizing Reach Twitch Streams via Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-prime-free-images-hosts-ensure-picture-longevity/"><u>2024 Approved 10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-creative-uses-for-home-webcams/"><u>2024 Approved Creative Uses for Home Webcams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>Assessing Virtual Reality’s Dual Facets Pros & Cons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/finding-the-affordable-cloud-storage-of-2024/"><u>Finding the Affordable Cloud Storage of 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/how-to-design-a-sturdy-hardcover-flipbook-using-flipbuilder-a-comprehensive-guide/"><u>How to Design a Sturdy Hardcover Flipbook Using FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>In 2024, Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-masking-15-tips-to-hide-faces-in-photos/"><u>Masterful Masking 15 Tips to Hide Faces in Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/set-the-atmosphere-musical-statuses/"><u>Set the Atmosphere Musical Statuses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-new-tech-horizon-with-microsofts-hololens-review/"><u>The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-10-games-like-ghost-of-tsushima-you-must-try/"><u>Top 10 Games Like Ghost of Tsushima You Must Try</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-make-a-movie-on-your-mac-tips-and-tricks-for-success/"><u>Updated Make a Movie on Your Mac Tips and Tricks for Success</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/yl-computings-guide-effective-strategies-for-accelerating-your-pcs-efficiency/"><u>YL Computing's Guide: Effective Strategies for Accelerating Your PC's Efficiency</u></a></li>
 </ul></div>
 

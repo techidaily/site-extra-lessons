@@ -1,7 +1,7 @@
 ---
 title: "\"Iconic Imagery Stories  A Peek Inside\""
-date: 2024-07-26T21:44:48.988Z
-updated: 2024-07-27T21:44:48.988Z
+date: 2024-12-21T17:09:18.899Z
+updated: 2024-12-23T17:09:46.418Z
 tags: 
   - screen-recording
   - ai video
@@ -22,14 +22,8 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -37,15 +31,11 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
 * The stock photo meme guy conducted a TEDx talk in his native Ukraine in September 2018\. During the talk, Mr. Andras Arato, a 73-year-old retired electrical engineer, speaks on his fame as a meme-personality and his profession. Currently, the video has nearly 7.87 million views on TEDx's official YouTube channel.
@@ -58,27 +48,22 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -91,18 +76,16 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part3: I Bet He's Thinking About Other Women
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -115,9 +98,6 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -126,16 +106,21 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part4: Bonjour Bear
 
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
 
@@ -151,6 +136,10 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 * A Reddit post by Poonswoggle from April 2020 received 36,500 points within three months. In this version, the user references his struggle with sleeping because of repressed memories.
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part5: FAQs
 
@@ -198,7 +187,23 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-14-dynamic-text-animation-samples/"><u>[New] 2024 Approved Unveiling 14 Dynamic Text Animation Samples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>[New] Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ai-integration-for-vr-marketplaces/"><u>[New] AI Integration for VR Marketplaces</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uperior-microphones-for-livestreaming/"><u>[New] Superior Microphones for Livestreaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-crafting-sound-saturated-instagram-visuals/"><u>[Updated] 2024 Approved Crafting Sound-Saturated Instagram Visuals</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-audiovisual-perfection-leading-audio-enhancement-apps/"><u>[Updated] Audiovisual Perfection Leading Audio Enhancement Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-brief-blueprints-iphone-content-for-desktop/"><u>2024 Approved Brief Blueprints IPhone Content for Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-giroptic-camera-experience/"><u>2024 Approved Comprehensive Giroptic Camera Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-c67-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from C67 5G</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-iphone-11-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the iPhone 11 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-11-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 11?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Smart 8 HD Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/introduction-to-swift-video-streaming-on-snapchat/"><u>Introduction to Swift Video Streaming on Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/keyboard-shortcuts-that-power-up-win11/"><u>Keyboard Shortcuts That Power Up Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-best-photo-watermarking-software-you-should-try/"><u>Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
+</ul></div>
 

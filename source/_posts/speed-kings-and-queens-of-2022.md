@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-12-13T19:23:36.946Z
-updated: 2024-12-14T19:43:58.556Z
+date: 2024-12-22T20:09:35.712Z
+updated: 2024-12-23T19:01:09.730Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -37,19 +33,23 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -63,6 +63,10 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
@@ -86,6 +90,10 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -104,10 +112,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -117,10 +121,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,17 +135,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-what-happens-to-your-facebook-live-if-its-flagged-for-copyright/"><u>[Updated] In 2024, What Happens to Your Facebook Live if It’s Flagged for Copyright?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>[Updated] The Art of Audio Finesse Advanced Editing Strategies for Podcasters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-rendering-gpus-for-4k-experience/"><u>2024 Approved Advanced Rendering GPUs for 4K Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-audiophiles-top-picks-for-high-quality-window-based-podcasts-8/"><u>2024 Approved Audiophile's Top Picks for High-Quality Window-Based Podcasts (#8)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-compelling-video-content-using-windows-photos-and-story-remix-for-2024/"><u>Craft Compelling Video Content Using Windows Photos & Story Remix for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-setting-and-changing-personalized-iphone-tones/"><u>In 2024, Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-video-zoom-on-the-youtube-stage/"><u>Optimizing Video Zoom on the YouTube Stage</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/strategie-di-risoluzione-dei-problemi-recupero-della-cartella-mancante-su-sistemi-operativi-windows-1110/"><u>Strategie Di Risoluzione Dei Problemi: Recupero Della Cartella Mancante Su Sistemi Operativi Windows 11/10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tiktokplusinstagram-social-media-fusion-guide/"><u>TikTok+Instagram Social Media Fusion Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-9-best-french-video-translators-online-and-download-options/"><u>Updated 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[New] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones-for-2024/"><u>[New] Digital Footprint How to Share Your Short Videos on Computers & Phones for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[New] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-peculiar-picasso-creating-quirky-quick-memes/"><u>[New] In 2024, Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[New] In 2024, Sleeper Coupons in Instagram The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-insight-into-final-cut-pro-editing/"><u>[New] In-Depth Insight Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>[Updated] Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>2024 Approved A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro/"><u>2024 Approved Advanced Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-unboxing-video-series-the-ultimate-2024-watchlist/"><u>Best Unboxing Video Series - The Ultimate 2024 Watchlist</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-cloud-space-charges-methods-and-results-for-2024/"><u>Comparing Cloud Space Charges Methods and Results for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-steps-alter-clownespeak-through-windows-interface/"><u>Easy Steps Alter Clown'espeak Through Windows Interface</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>In 2024, Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-common-issues-essential-windows-10-fixes/"><u>In 2024, Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/introduction-to-basic-animation-in-graphic-design/"><u>Introduction to Basic Animation in Graphic Design</u></a></li>
 </ul></div>
 

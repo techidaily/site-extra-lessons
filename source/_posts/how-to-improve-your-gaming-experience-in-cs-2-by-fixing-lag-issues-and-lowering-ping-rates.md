@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2024-12-09T18:30:27.101Z
-updated: 2024-12-14T19:11:28.746Z
+date: 2024-12-19T19:53:19.285Z
+updated: 2024-12-23T20:29:25.650Z
 tags:
   - win11
   - win10
@@ -60,6 +60,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -67,6 +71,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -82,14 +90,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -106,10 +110,6 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -135,10 +135,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -159,6 +155,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -170,17 +170,17 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -206,19 +206,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-airborne-tenacity-top-10-longest-flying-drones-for-2024/"><u>[New] Airborne Tenacity Top 10 Longest-Flying Drones for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[Updated] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>2024 Approved Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bringing-to-life-advanced-color-correction-guide/"><u>2024 Approved Bringing to Life Advanced Color Correction Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-interpreting-instagrams-per-video-timeframe-rule/"><u>2024 Approved Interpreting Instagram's Per-Video Timeframe Rule</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/cracking-the-code-expert-strategies-for-identifying-and-resolving-cryptic-hardware-issues-in-windows-10-systems/"><u>Cracking the Code: Expert Strategies for Identifying and Resolving Cryptic Hardware Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-beats-10-ideal-tracks-for-podcast-intro-sounds/"><u>Discovering Beats 10 Ideal Tracks for Podcast Intro Sounds</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>In 2024, Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>In 2024, Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-network-management-wi-fi-removal-guide/"><u>Mastering Network Management: Wi-Fi Removal Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximize-your-hd-vids-experience-the-ultimate-android-apps-list/"><u>Maximize Your Hd Vids Experience The Ultimate Android Apps List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-chatgpt-record-keeping-methods/"><u>Secure ChatGPT Record Keeping Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>The Fine Art of Focusing Enhanced Zoom on Roblox Games</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/transform-your-content-into-engaging-ebooks-a-complete-tutorial-for-creating-realistic-flipbooks-using-flipbuildercom/"><u>Transform Your Content Into Engaging eBooks: A Complete Tutorial for Creating Realistic Flipbooks Using FlipBuilder.com</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-sierra-icloud-drives-a-complete-overview/"><u>[New] Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-one-to-another-mastering-playlists-pivoting/"><u>[New] From One to Another Mastering Playlists Pivoting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>[Updated] 2024 Approved Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[Updated] 2024 Approved The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-experience-with-the-right-music-for-vids/"><u>Elevating Experience with the Right Music for Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-the-user-interface-aesthetics-of-huawei-p10/"><u>Evaluating the User Interface Aesthetics of Huawei P10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-critical-gameplay-interruptions-in-hearts-of-iron-iv-resolved/"><u>Guide to Fixing Critical Gameplay Interruptions in Hearts of Iron IV - Resolved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-iphones-power-for-dynamic-range-shots/"><u>Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-much-do-podcasters-make-for-2024/"><u>How Much Do Podcasters Make for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chromatic-magic-for-your-digital-photography/"><u>In 2024, Chromatic Magic for Your Digital Photography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-anticipated-apple-car-tracking-developments-in-price-estimations-scheduled-debut-and-engineering-innovations/"><u>Inside Scoop on the Anticipated Apple Car: Tracking Developments in Price Estimations, Scheduled Debut, and Engineering Innovations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac/"><u>Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meditative-harmony-the-top-10-legally-accessible-chants-and-tracks/"><u>Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-camera-gimbals-summary-1-10-iphoneandroiddslr-compared/"><u>Optimal Camera Gimbals Summary #1-#10 iPhone/Android/DSLR Compared</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebuilding-dotnet-windows-fixes-to-remember-max-156/"><u>Rebuilding DotNet: Windows Fixes to Remember (Max 156)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revolutionary-additions-to-windows-11-for-2024/"><u>Revolutionary Additions to Windows 11 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-must-have-tools-and-utilities-for-windowsmac-users-featured-on-zdnet/"><u>Top 11 Must-Have Tools & Utilities for Windows/Mac Users - Featured on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
 </ul></div>
 

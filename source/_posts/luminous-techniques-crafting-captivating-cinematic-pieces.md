@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Techniques  Crafting Captivating Cinematic Pieces\""
-date: 2024-07-26T21:44:58.051Z
-updated: 2024-07-27T21:44:58.051Z
+date: 2024-12-22T17:03:12.453Z
+updated: 2024-12-23T18:26:10.416Z
 tags: 
   - screen-recording
   - ai video
@@ -46,27 +46,22 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -77,22 +72,31 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -102,14 +106,12 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,7 +144,17 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-seconds-extended-a-comprehensive-review-of-slomo-2024/"><u>[New] Capturing Seconds Extended A Comprehensive Review of SloMo, 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-zero-fee-techniques-for-vibrant-video-text-effects/"><u>[Updated] Zero-Fee Techniques for Vibrant Video Text Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-2023-guide-to-lg-360-cam-tech/"><u>2024 Approved Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-use-system-file-checker-sfc-and-deployment-image-servicing-tool-dism-in-windows-10-recovery/"><u>How to Use System File Checker (SFC) and Deployment Image Servicing Tool (DISM) in Windows 10 Recovery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-avi-and-gif-with-filmoras-seamless-conversion-tools/"><u>In 2024, Bridging AVI & GIF with Filmora's Seamless Conversion Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo Phone without Google Account?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-cartoon-video-creation-made-easy-top-10-online-and-pc-tools/"><u>New 2024 Approved Cartoon Video Creation Made Easy Top 10 Online and PC Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-influence-elevating-messaging-on-telegram/"><u>The Art of Influence Elevating Messaging on Telegram</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/windows-111087mbr/"><u>Windows 11/10/8/7用のMBRバックアップ手順</u></a></li>
+</ul></div>
 

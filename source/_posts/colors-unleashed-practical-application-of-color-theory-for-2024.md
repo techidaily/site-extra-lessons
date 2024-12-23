@@ -1,7 +1,7 @@
 ---
 title: "\"Colors Unleashed  Practical Application of Color Theory for 2024\""
-date: 2024-07-26T21:46:49.833Z
-updated: 2024-07-27T21:46:49.833Z
+date: 2024-12-20T17:07:55.832Z
+updated: 2024-12-23T19:15:56.512Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -32,27 +29,34 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -66,28 +70,16 @@ The corners of the black rectangle land on what is known as tetradic complement 
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
@@ -124,7 +116,23 @@ By including this into your thought process when creating videos with [Filmora](
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[New] 2024 Approved Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-a-visual-journey-through-pc-games-snapping-the-best/"><u>[New] A Visual Journey Through PC Games - Snapping the Best</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-best-drawing-apps-for-chromebook/"><u>[New] FREE Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-discovering-top-30-steadicam-models-for-premium-dslr-cinematography-for-2024/"><u>[Updated] Discovering Top 30 Steadicam Models for Premium DSLR Cinematography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-celebrating-creators-top-notch-otu-designs/"><u>2024 Approved Celebrating Creators Top-Notch OTU Designs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-imagery-unboxing-analysis/"><u>2024 Approved Premier Imagery Unboxing Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capacity-of-64128gb-in-video-storage-an-overview-for-2024/"><u>Capacity of 64/128GB in Video Storage - An Overview for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-recreer-une-partition-de-sysntfs-sur-un-hdd-dans-windows-78-ou-10/"><u>Comment Recréer Une Partition De SysNTFS Sur Un HDD Dans Windows 7,8 Ou 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-digital-laughter-kapwing-meme-maker-for-2024/"><u>Craft Digital Laughter – Kapwing Meme Maker for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-content-with-video-enhance-v22-for-2024/"><u>Crafting Cinematic Content with Video Enhance V2.2 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guide-to-adding-audio-files-to-inshots-library/"><u>Guide to Adding Audio Files to InShot's Library</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/investigating-financial-gains-from-product-reviews/"><u>Investigating Financial Gains From Product Reviews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/streamlining-your-creative-process-with-vsco-app-for-2024/"><u>Streamlining Your Creative Process with VSCO App for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-driver-load-problem-in-battleye-service-with-error-message-1450/"><u>Troubleshooting Steps for 'Driver Load Problem' In BattlEye Service with Error Message (1450)</u></a></li>
+</ul></div>
 

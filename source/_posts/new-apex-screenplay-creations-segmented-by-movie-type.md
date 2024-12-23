@@ -1,7 +1,7 @@
 ---
 title: "[New] Apex Screenplay Creations, Segmented By Movie Type"
-date: 2024-10-09T22:20:36.255Z
-updated: 2024-10-16T22:23:44.019Z
+date: 2024-12-18T18:57:32.261Z
+updated: 2024-12-23T16:12:28.041Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,10 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ![annabelle](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Writer:** Gary Dauberman
 
 Of course, horror scripts aren't all about gore and shocks. You have to know how to write even the quieter moments, like this great scene from the first Conjuring spin-off: Annabelle.
@@ -94,6 +98,10 @@ How this amazing comedy drama script came about is a good example of a writer wh
 That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikipedia.org/wiki/Kelly%5FFremon%5FCraig) did when she sent a copy of the script to James L. Brooks, and he eventually became her mentor. As she says, “It was a crazy longshot I took at the beginning! And I never thought it would work. But I sent him the script and he ended up taking on the project.”
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Christmas play scripts
 
@@ -143,13 +151,6 @@ A short video (usually animated) that explains ideas, products, or services in a
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best short drama scripts
 
 _**1\. A GIFT – TEN MINUTE PLAY FOR TWO ACTORS**_
@@ -192,23 +193,9 @@ Level of difficulty: _6/10 – conversational, easy lines to remember and that a
 
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best action scripts
 
@@ -232,18 +219,15 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best thriller scripts
 
 **_1\. PRIMER_**
 
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Writer:** Shane Carruth
 
@@ -323,16 +307,13 @@ When you look at the top-grossing movies at the box office, it's no surprise tha
 
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Scripts examples from 8 genre
 
@@ -354,6 +335,10 @@ The screenplay was written by [**Gary Dauberman**](https://en.wikipedia.org/wiki
 
 ![halloween](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Writer:** John Carpenter and Debra Hill
 
 This script was written by **John Carpenter and Debra Hill** in just ten days (or three weeks, depending on which version you hear). Either way, it's a very short amount of time to create one of the greatest horror scripts of all time.
@@ -362,6 +347,10 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
@@ -369,10 +358,7 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -417,23 +403,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**1\. Announcement**_
 
@@ -531,6 +503,10 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Writer:** Shane Carruth
 
 Probably the least known of the thriller scripts on this list, this low-budget sci-fi thriller from 2004 has a plot so convoluted that most people need a schematic to unravel it, but that's what makes it so impressive.
@@ -553,6 +529,10 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
@@ -570,6 +550,10 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
@@ -625,20 +609,24 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-are-paid-reviews-common-amongst-online-reviewers/"><u>[New] Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-verdict-on-the-m1-powered-macbook-for-editors/"><u>[New] In 2024, The Verdict on the M1-Powered MacBook for Editors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-dark-moments-bright-shots-a-photographers-nighttime-guide/"><u>[Updated] Dark Moments, Bright Shots A Photographer’s Nighttime Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-it-all-webcams-to-transform-podcasts/"><u>2024 Approved Capture It All Webcams to Transform Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/affordable-action-cam-tech-maximizing-your-moneys-worth/"><u>Affordable Action Cam Tech - Maximizing Your Money's Worth</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effective-solutions-to-overcome-realtek-wireless-connectivity-issues-on-microsoft-windows-platforms/"><u>Effective Solutions to Overcome Realtek Wireless Connectivity Issues on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>From Catalina to Big Sur A Comprehensive Mac OS Shift Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-free-avi-merger-tools-to-combine-avi-videos-seamlessly/"><u>In 2024, 10 Free AVI Merger Tools to Combine AVI Videos Seamlessly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-3-ways-to-record-switch-gameplay/"><u>In 2024, 3 Ways to Record Switch Gameplay</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-bridge-iphone-android-and-pc-timelines-for-syncing-zoom/"><u>In 2024, Bridge iPhone, Android, and PC Timelines for Syncing Zoom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/masterful-color-grading-explore-these-7-methods/"><u>Masterful Color Grading Explore These 7 Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-quality-sd-card-for-sony-alpha-7s-ii-for-2024/"><u>Top Quality SD Card for Sony Alpha 7S II for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-wearable-showdown-apple-watch-ultra-versus-series-8-determining-the-ideal-purchase-for-you-zdnet/"><u>Ultimate Wearable Showdown: Apple Watch Ultra Versus Series #8 – Determining The Ideal Purchase for You | ZDNET.</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/evelopment-hacks-embedding-youtubes-playlists-effortlessly/"><u>Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-add-fade-inout-premiere-pro/"><u>[New] Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clarity-catalysts-selecting-online-video-aids/"><u>[New] Clarity Catalysts Selecting Online Video Aids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cloud-price-wars-best-value-allocation/"><u>[New] Cloud Price Wars Best Value Allocation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>[Updated] From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamings-new-leaders-1-ranked-4k-laptops/"><u>[Updated] Gaming's New Leaders #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-m14-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy M14 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artful-expression-on-tablets-leading-ios-drawers-for-2024/"><u>Artful Expression on Tablets Leading iOS Drawers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/asmr-excellence-superior-performance-for-less-money/"><u>ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-dell-xps-16-macbook-pro-windows-laptop-techzn/"><u>Comprehensive Dell XPS 지인구 16 평가: MacBook Pro에게 질주하는 신세계의 Windows Laptop | TechZN</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/data-in-the-cloud-select-five-titans-of-storage-and-safety/"><u>Data in the Cloud Select Five Titans of Storage & Safety</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-samsung-galaxy-s24-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Samsung Galaxy S24</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-windows-11-webcam-recording-selections-for-2024/"><u>Elite Windows 11 Webcam Recording Selections for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-peek-at-cinematic-magic-in-vr-worlds/"><u>In 2024, A Peek at Cinematic Magic in VR Worlds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-crafters-guide-to-kinemaster/"><u>Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/rediscover-androids-intended-experience-through-google-pixel-3-insights/"><u>Rediscover Android's Intended Experience Through Google Pixel 3 Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-quickstart-to-srt-to-txt-file-alteration-for-2024/"><u>The Essential Quickstart to SRT to TXT File Alteration for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-180hz-titan-army-p27a2r-a-top-contender-for-gamers-performance-needs/"><u>The Ultimate Guide to the 180Hz Titan Army P27A2R - A Top Contender for Gamers' Performance Needs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-c67-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme C67 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-excellence-with-these-leading-grid-software/"><u>Visual Excellence with These Leading Grid Software</u></a></li>
 </ul></div>
 
