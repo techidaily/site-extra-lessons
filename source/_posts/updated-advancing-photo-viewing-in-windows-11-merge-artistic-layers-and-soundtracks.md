@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks\""
-date: 2024-12-22T20:48:24.819Z
-updated: 2024-12-23T20:26:35.161Z
+date: 2024-12-26T01:52:50.552Z
+updated: 2024-12-28T18:22:51.650Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,10 +49,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -58,7 +58,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -74,7 +74,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -84,7 +84,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -94,7 +94,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,24 +112,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>[New] In 2024, Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-navigating-the-nuances-of-streaming-and-saving-on-facebook/"><u>[New] Navigating the Nuances of Streaming and Saving on Facebook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bridging-art-and-technology-a-comprehensive-guide-to-the-top-10-websites-for-graffiti-fonts/"><u>[Updated] Bridging Art and Technology A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-the-cloudline-in-your-backyard-the-revolutionary-dji-spark-unveiled/"><u>2024 Approved Capturing the Cloudline in Your Backyard The Revolutionary DJI Spark Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromatic-shift-strategies-for-skilled-alteration/"><u>2024 Approved Chromatic Shift Strategies for Skilled Alteration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-in-action-chatgpts-transformative-use-cases/"><u>AI in Action: ChatGPT's Transformative Use Cases</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-online-workshop-title-author/"><u>Expert Online Workshop Title Author</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-to-samsung-photography-suite-2023/"><u>In 2024, Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>In 2024, Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-links.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/"><u>IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-iphone-and-ipad-video-montage-makers/"><u>New In 2024, Top iPhone and iPad Video Montage Makers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revamp-voice-output-with-ease-for-ps5ps4-gamers/"><u>Revamp Voice Output with Ease for PS5/PS4 Gamers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-download-of-newest-dell-sound-card-device-drivers-with-hassle-free-update-feature/"><u>Step-by-Step Download of Newest Dell Sound Card Device Drivers with Hassle-Free Update Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-itunes-radio-downloading-blueprint/"><u>The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-intricacies-of-high-dynamic-range-quantum-hdr/"><u>The Intricacies of High Dynamic Range (Quantum HDR)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-roadmap-to-making-money-with-personal-videos-for-2024/"><u>The Roadmap to Making Money with Personal Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-techniques-to-preserve-webcam-dialogues-for-2024/"><u>[New] Efficient Techniques to Preserve Webcam Dialogues for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-media-to-enhance-content/"><u>2024 Approved Adding Media to Enhance Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>2024 Approved Chromebook Voice Overhaul Guide Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>2024 Approved Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-primary-and-b-roll-for-smooth-transitions/"><u>Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-tecno-spark-10-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Tecno Spark 10 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y100i-power-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y100i Power 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-video-plus-comprehensive-live-channel-access/"><u>Prime Video Plus Comprehensive Live Channel Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-rpcrt4dll-file-unavailable-mishaps/"><u>Solutions for Resolving 'RPCRT4.DLL' File Unavailable Mishaps</u></a></li>
 </ul></div>
 

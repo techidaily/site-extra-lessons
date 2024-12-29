@@ -1,7 +1,7 @@
 ---
 title: "Trim Videos with Flair in Windows 11 Photo Apps"
-date: 2024-12-22T18:38:10.771Z
-updated: 2024-12-23T18:47:08.789Z
+date: 2024-12-22T05:26:11.469Z
+updated: 2024-12-29T08:23:02.125Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to trim video in Windows 10 Photos
@@ -50,7 +50,7 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
@@ -58,6 +58,10 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
 
@@ -72,7 +76,7 @@ Here comes the step by step guide to trim video in VLC –
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
@@ -81,21 +85,17 @@ Here comes the step by step guide to trim video in VLC –
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we found that **trimming video in VLC and Windows 10 Photos** has its own set of advantages. While in Windows 10 Photos, you get the ease of operation for trimming the clip, VLC is a bit time taking. But, when it comes to more features in video editing, VLC certainly has better brownie points. But finally, it's your call to pick what suits you for your video editing needs. If you want to trim video easily, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,22 +112,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-10-best-online-photo-background-changers-filmora/"><u>[New] 10 Best Online Photo Background Changers - Filmora</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reflex-product-assembly/"><u>[Updated] 2024 Approved Reflex Product Assembly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>[Updated] Ace Your Project Advanced SRT Tweaks on a Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bigger-captures-intact-detail-quality/"><u>[Updated] Bigger Captures, Intact Detail Quality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-compact-guide-to-windows-11s-best-screen-grabbers-for-2024/"><u>[Updated] Compact Guide to Windows 11'S Best Screen Grabbers for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/6-cddvd/"><u>上位6つの優れたソフトウェア: CD/DVDへのファイル書き込みツール</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/creating-captivating-reels-the-role-of-background-music/"><u>Creating Captivating Reels The Role of Background Music</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/enhancing-your-garden-wifi-experience-an-in-depth-look-at-netgear-orbi-rbs50y/"><u>Enhancing Your Garden WiFi Experience: An In-Depth Look at Netgear Orbi RBS50Y</u></a></li>
-<li><a href="https://fox-info.techidaily.com/humorous-editing-apps-and-tools-a-comprehensive-list-iosandroid/"><u>Humorous Editing Apps & Tools A Comprehensive List (iOS/Android)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smart-solutions-for-gathering-visual-assets/"><u>Smart Solutions for Gathering Visual Assets</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stabilized-snapshots-best-tripods-for-iphonesandroids/"><u>Stabilized Snapshots Best Tripods for iPhones/Androids</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-to-retrieving-files-from-a-nonfunctional-hard-drive/"><u>Step-by-Step Guide to Retrieving Files From a Nonfunctional Hard Drive</u></a></li>
-<li><a href="https://fox-info.techidaily.com/streammastery-101-the-beginners-path-to-livestrancing-podcasts/"><u>StreamMastery 101 The Beginner's Path to Livestrancing Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-subtle-sound-dimming-in-productions/"><u>The Art of Subtle Sound Dimming in Productions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/upgrading-from-windows-eighth-to-windows-11-step-by-step-guide-to-the-latest-os/"><u>Upgrading From Windows ˈEIGHTH to Windows 11 – Step-by-Step Guide to the Latest OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-electorate-engagement-experience-top-gaming-selections/"><u>[New] Electorate Engagement Experience Top Gaming Selections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleashing-the-potential-of-fb-videos-for-2024/"><u>[New] Unleashing the Potential of FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engaging-subjects-for-consistent-vlogging/"><u>[Updated] 2024 Approved Engaging Subjects for Consistent Vlogging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-set-17-software-solutions-for-clear-picture-edits/"><u>[Updated] Ideal Set 17 Software Solutions for Clear Picture Edits</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/composing-captivating-podcast-narratives/"><u>Composing Captivating Podcast Narratives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-recommendations-for-maximum-data-keep/"><u>Essential Recommendations for Maximum Data Keep</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary/"><u>Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-revealed-maximizing-your-wireless-experience-with-the-linksys-ac1900-router/"><u>The Ultimate Revealed: Maximizing Your Wireless Experience with the Linksys AC1900 Router</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-instagrams-reverse-video-phenomenon/"><u>Understanding Instagram's Reverse Video Phenomenon</u></a></li>
 </ul></div>
 

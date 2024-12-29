@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Visual Magic  The Power of LUTs in AR Environments\""
-date: 2024-12-18T17:57:53.455Z
-updated: 2024-12-23T19:17:58.478Z
+date: 2024-12-22T02:11:50.491Z
+updated: 2024-12-29T02:15:00.519Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -27,14 +31,6 @@ To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-st
 To develop AR effects for mobile cameras, you can use the Mac and Windows augmented reality platform Spark AR Studio. Imagine it like Sketch or Photoshop for augmented reality. The color values of the camera texture are mapped to the x, y, and z coordinates of the location in the color LUT. This location contains a corresponding output color that is drawn over the scene to create a color gradient effect.
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
 
@@ -62,6 +58,10 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
@@ -72,6 +72,10 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
@@ -79,7 +83,11 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fur
@@ -95,23 +103,11 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Transition Curves
 
@@ -119,21 +115,25 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Rainbow Glitter
 
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -169,22 +169,18 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ace-subtitles-conversion-the-best-free-services-listed/"><u>[New] Ace Subtitles Conversion The Best Free Services Listed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-av1-vs-vp9-which-video-codec-wins/"><u>[New] AV1 Vs. VP9 Which Video Codec Wins?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-to-essential-photo-edits-in-ps/"><u>[New] Beginner's Guide to Essential Photo Edits in PS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-close-up-cinematography-secrets-with-kinemaster/"><u>[New] Close-Up Cinematography Secrets with Kinemaster</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>[New] Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-classic-stop-motion-animations-ranking-the-best-15/"><u>[Updated] Classic Stop-Motion Animations Ranking the Best 15</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-business-slide-show-essentials-free-access-and-customization/"><u>2024 Approved Business Slide Show Essentials Free Access & Customization</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-transforming-videos-with-unprecedented-clarity-using-vce-22/"><u>2024 Approved Transforming Videos with Unprecedented Clarity Using VCE 2.2</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Tecno Camon 20 Pro 5G.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-tech-line-up-cards-for-4k-videography/"><u>Elite Tech Line-Up Cards for 4K Videography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/intel-bluetooth-driver-update-quickly-and-easily/"><u>Intel Bluetooth Driver Update Quickly & Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-release-download-updated-canon-pixma-ts3322-driver-for-smooth-printing/"><u>New Release: Download Updated Canon PIXMA TS3322 Driver for Smooth Printing</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-installation-microsoft-works-for-modern-windows/"><u>Precision Installation: Microsoft Works for Modern Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-concealed-countenance-the-most-effective-blur-methods/"><u>[New] Concealed Countenance The Most Effective Blur Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-techniques-youtube-trailers-through-filmoras-lens/"><u>[New] In 2024, Cutting Edge Techniques YouTube Trailers Through Filmora's Lens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-drone-shopping-simplified-key-takeaways-for-beginners/"><u>[New] In 2024, Drone Shopping Simplified Key Takeaways for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bridging-the-gap-between-youtube-and-instagram-stories-effectively-for-2024/"><u>[Updated] Bridging the Gap Between YouTube & Instagram Stories Effectively for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-g54-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola G54 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerating-your-creative-process-high-quality-3d-models-tools/"><u>Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-terrain-excellence-reviewed-unveiling-the-top-race-rc-rock-crawler-features-and-performance/"><u>All-Terrain Excellence Reviewed: Unveiling the Top Race RC Rock Crawler Features and Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cutting-edge-approaches-to-crafting-top-fb-cover-videos-for-2024/"><u>Cutting-Edge Approaches to Crafting Top FB Cover Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engineering-an-impactful-storyboard-fragment/"><u>Engineering an Impactful Storyboard Fragment</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y100t-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y100t Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-civi-3-disney-100th-anniversary-edition-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-cameraphone-trackers-precision-power-performance/"><u>Top Camera/Phone Trackers Precision, Power, Performance</u></a></li>
 </ul></div>
 

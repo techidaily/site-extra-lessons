@@ -1,7 +1,7 @@
 ---
 title: "\"Beyond Basics  Professional Tips From Vida's Features\""
-date: 2024-07-26T21:38:49.529Z
-updated: 2024-07-27T21:38:49.529Z
+date: 2024-12-26T19:58:55.240Z
+updated: 2024-12-29T03:29:22.095Z
 tags: 
   - screen-recording
   - ai video
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf24
 | No Watermark (You can add if you want) | Heating issues on some older devices |
 | Various Features                       | Copyright Issues In Music Library    |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. What is Vita Video Editor App?
 
 On Android and iOS, the Vita Video Editor is a helpful tool for free video editing. Vita is giving you a great bargain compared to other programs that are charged or have in-app purchases. It offers every capability a sophisticated video editor might want. Start with one of the many ready-made templates in the library if you're a beginner. Use features like the Chroma key for editing that requires a higher level of skill. A full array of filters and effects is available.
@@ -40,27 +37,21 @@ The device supports two main mobile operating systems, you can click the link be
 [iOS](https://apps.apple.com/us/app/vita-video-editor-maker/id1488430631) | [Android](https://play.google.com/store/apps/details?id=com.snowcorp.vita)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Price:**
 
 We all know that Vita Video Editor is a free app, so there is no need to discuss the cost. Also, no annoying adverts appear when you select any choice because it is also ad-free. It doesn't have any in-app purchases, and you may remove the watermark. There aren't any plugins, but you may add alternative music, effects, and so on using the app's free shop.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. Key features of Vita Video Editor App
 
 It's now time to discuss some key features in detail of the Vita Video Editor App:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Removable Watermark
 
 By default, the first time, the watermark will appear on your videos when you export them. But don't worry, this is removable without any purchase. All you have to do is to turn it off in the settings. Although the watermark will be visible in your edited video. You may disable the watermark feature in the settings menu without using any additional premium services.
@@ -69,17 +60,14 @@ By default, the first time, the watermark will appear on your videos when you ex
 
 In Vita App, there are many free templates you can choose from. Instead of starting editing from scratch, these premade templates offer you a significant advantage.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### 3\. Free Store
 
 It is available in the Vita App. You can use it to get different effects, texts, stickers, filters, etc., and all are free to use in your projects.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Premium Editing Tools
 
 Vita Video Editor provides you with various professional editing tools. You can do anything from essential to advanced-level editing.
@@ -88,10 +76,11 @@ Vita Video Editor provides you with various professional editing tools. You can 
 
 After editing your video is completed, you can export it smoothly in different resolutions ranging from 360p to 2K HD. Moreover, you can also decide the frame rate according to your need.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hd exporting](https://images.wondershare.com/filmora/article-images/2022/09/vita-video-editor-app-review-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to use Vita Video Editor App?
 
@@ -119,16 +108,10 @@ So, now our video is fully ready. It's time to export it. Now click the export o
 
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/09/vita-video-editor-app-review-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Advantages and Disadvantages of Vita Video Editor App
 
 Let's look into the advantages and disadvantages of Vita Video Editor more deeply:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Advantages
 
 #### **1\. Easy to Use**
@@ -154,8 +137,9 @@ Some users have faced hanging issues in Vita App while exporting, adding media, 
 There are also some complaints regarding the music available on Vita. People think it is royalty-free, but one YouTuber complained that he used the music from Vita in his video but got a copyright claim. This issue tends that the music is not royalty free.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5\. Best Vita App Alternative on Desktop
 
 Vita App is an excellent way to edit videos on mobile devices. However, we all know desktop apps are even more advanced than any mobile app. One of these beneficial apps is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -166,9 +150,6 @@ Filmora offers various basic to professional-level features. Whether you want to
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, the conclusion is that Vita App is a great free tool to make your videos more fabulous on mobile devices without any watermark. However, like every app, it has some drawbacks, like stuck issues and music copyright issues. But after all, getting all these features conveniently makes it attractive for many users. Moreover, if you want more advanced desktop features, Wondershare Filmora can help you with that. Thanks for reading.
@@ -195,24 +176,14 @@ It's now time to discuss some key features in detail of the Vita Video Editor Ap
 
 By default, the first time, the watermark will appear on your videos when you export them. But don't worry, this is removable without any purchase. All you have to do is to turn it off in the settings. Although the watermark will be visible in your edited video. You may disable the watermark feature in the settings menu without using any additional premium services.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 2\. Premade Templates
 
 In Vita App, there are many free templates you can choose from. Instead of starting editing from scratch, these premade templates offer you a significant advantage.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 3\. Free Store
 
 It is available in the Vita App. You can use it to get different effects, texts, stickers, filters, etc., and all are free to use in your projects.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 4\. Premium Editing Tools
 
 Vita Video Editor provides you with various professional editing tools. You can do anything from essential to advanced-level editing.
@@ -221,10 +192,11 @@ Vita Video Editor provides you with various professional editing tools. You can 
 
 After editing your video is completed, you can export it smoothly in different resolutions ranging from 360p to 2K HD. Moreover, you can also decide the frame rate according to your need.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![hd exporting](https://images.wondershare.com/filmora/article-images/2022/09/vita-video-editor-app-review-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to use Vita Video Editor App?
 
@@ -234,6 +206,10 @@ Now we will discuss some steps on how to use Vita Video editor, but one main thi
 
 When you have opened a new project in the Vita App, you can import your media from your phone. You can import the videos and images as needed because there is no limit. If you want to start with a stock video, they are also available in the built-in library during import. However, remember that the more your selected videos, the more time Vita will consume to load up your project.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Basic Editing tools
 
 Once you've completed the import, you can start with the essential editing tools like resizing, trimming, adding text, and many more. You have to choose the desired option at the bottom. To resize, you can use your fingers to adjust and trim the video by dragging the timeline player and selecting the desirable trimming option. There are also tools to change the video's brightness, contrast, saturation, etc.
@@ -242,35 +218,24 @@ Once you've completed the import, you can start with the essential editing tools
 
 You can also add effects and stickers to your video. To do so, click the free store button at the top of the editing interface, then select any effect, sticker, or anything you want to add. There are different filters available in Vita Video Editor App. You can use them by clicking the Filters option at the bottom. To get more filters, you can visit the free store. There is also a good variety of music in the free store.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Chroma Key
 
 To use the Chroma Key option in Vita App, add any video and select the PIP option from the bottom. Now select any green screen video from the gallery, or you can also choose from the stock library. Tap the green screen video and then tap the Chroma key option. Using this feature, you can add different green screen effects to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Export
 
 So, now our video is fully ready. It's time to export it. Now click the export options at the top, then select the preferable resolution and frame rate. Tap the export button to save it to your gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/09/vita-video-editor-app-review-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4\. Advantages and Disadvantages of Vita Video Editor App
 
 Let's look into the advantages and disadvantages of Vita Video Editor more deeply:
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Advantages
 
 #### **1\. Easy to Use**
@@ -285,6 +250,10 @@ You're getting premium tools at no cost when using Vita App. The free features i
 
 Only a few video editing apps offer more detailed Exporting, especially on mobile phones. Thankfully, Vita is one of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disadvantages
 
 #### **1\. Stuck and Heating Problem**
@@ -294,6 +263,10 @@ Some users have faced hanging issues in Vita App while exporting, adding media, 
 #### **2\. Music Copyright Issue**
 
 There are also some complaints regarding the music available on Vita. People think it is royalty-free, but one YouTuber complained that he used the music from Vita in his video but got a copyright claim. This issue tends that the music is not royalty free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5\. Best Vita App Alternative on Desktop
 
@@ -331,7 +304,20 @@ So, the conclusion is that Vita App is a great free tool to make your videos mor
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-crafting-inspiring-interview-experiences/"><u>[New] Crafting Inspiring Interview Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bokeh-beauty-tips-for-engaging-instagram-stories/"><u>[Updated] Bokeh Beauty Tips for Engaging Instagram Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>[Updated] Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/deciphering-digital-coin-values-with-expert-tips-from-yl-software/"><u>Deciphering Digital Coin Values with Expert Tips From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-vlogger-top-tips-to-enhance-your-tiktok-videos/"><u>From Novice to Vlogger Top Tips to Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>In 2024, A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>In 2024, Expert Tips Control Your Volume with Precision on Lumafusion</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-depth-look-at-lowest-and-highest-priced-cloud-options-2024/"><u>In-Depth Look at Lowest and Highest Priced Cloud Options, 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-video-productions-by-adding-youtube-music/"><u>Perfecting Video Productions by Adding YouTube Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streaming-on-win10-post-update-a-newfound-comfort/"><u>Streaming on Win10 Post-Update: A Newfound Comfort</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g84-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G84 5G Users</u></a></li>
+</ul></div>
 

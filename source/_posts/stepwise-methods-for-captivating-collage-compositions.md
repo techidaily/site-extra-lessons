@@ -1,7 +1,7 @@
 ---
 title: "Stepwise Methods for Captivating Collage Compositions"
-date: 2024-12-21T20:15:03.269Z
-updated: 2024-12-23T16:59:42.489Z
+date: 2024-12-24T18:02:09.788Z
+updated: 2024-12-28T18:18:28.797Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,10 @@ You can also categorize mosaic pictures according to how complicated it is to se
 
 Each specific zone or portion of the target image is narrowed down to a few average colors. All images in your gallery are scanned to match a color that suits any single shortlisted color. These images are then placed in the place of the pixels whose color matches that of the pictures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 02Advanced Composition
 
 A more advanced approach to photographic mosaics is when the matching is done pixel by pixel and the library images are then placed after much scrutiny. This takes more time than your usual average.
@@ -88,317 +92,9 @@ Unlike other mosaic software on the market, Fotor’s approach in creating colla
 
 ![picosaic](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-3.jpg)
 
-If you are in search of free mosaic software while having zero ideas on how to create your mosaic collage, then download PictoSaic.
-
-You can use it online and can produce several collages in just minutes. This software has features similar to the editing tools on Easy Moza but with more in-depth results in terms of quality. You should also take note that the limit to the number of pictures you can include has no limit. You can create stunning Photomosaic pictures on PictoSaic.
-
-**●** **WidsMob Montage**
-
-**Rating:** 4.5 on G2.
-
-![widsmob montage](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-4.jpg)
-
-Considered a favorite among casual photo editors, WidsMob is an exceptional software with an intuitive interface. It is probably the only one on this list that can predict your choices for you and provide a suggestion. You access this program on both Mac and Windows.
-
-You can primarily download results in both JPEG and PNG. So what you need to use is a PNG photo with a transparent background so that you can create your own mosaic template. You also have at your disposal several fantastic editing features. You can edit tiles of various sizes.
-
-**●** **Mozaus**
-
-**Rating:** 4.8 on G2.
-
-![mozaus](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-5.jpg)
-
-Finally, the most feature abundant free program you can use for Photomosaic collages. The results are absolutely mesmerizing. The process only involves four simple steps to create creative mosaics with hundreds of images and thousands of fragments.
-
-If you wish to make your mosaic collage stand out you can definitely give Mozaus a try. It does not degrade the quality of your final result, keeping the details sharps and precise. Although, this might mean that the final file may be heavier. You are assured quick results though its interface may feel complicated at times.
-
-### 02How to Create a Photo Mosaic in Lightroom & Photoshop
-
-Not interested in the easy way and wish to take full control of your editing? Get started on Lightroom. Using both PhotoShop and Lightroom is a very lethal combination. You can create gorgeous albums and collages.
-
-Adobe original software offers a lot of approaches you can to create any type of photomosaic composition.
-
-**Here are brief and easy steps you can use on Lightroom:**
-
-**●** Download all Sample Images you wish to Add to your Collage.
-
-**●** Import Sample Images to Lightroom by clicking ‘Add’ then ‘Import’.
-
-**●** Select a Target Image and crop it in Lightroom to Square foot format.
-
-**●** Sync all images in Gallery by selecting all images and clicking ‘synchronize’ in settings.
-
-**●** Export all cropped images to a separate folder.
-
-**●** Open exported images in Photoshop.
-
-**●** In the ‘Layers’ option, apply the ‘Photomosaic Option’ to the main image.
-
-**●** By adjusting the ‘Scale’ to 40%, allows the image ratios to self-adjust.
-
-**●** Change the Blending Mode to a lighter tone in the Layer’s panel.
-
-**●** Select a suitable contrast level for the image to blend in with the collage.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### 03How to Make a Photo Mosaic in Canvas
-
-Canva is probably the easiest most known Digital Design software available online. You can also create interesting photomosaic collages on Canva with a few simple steps. There are fantastic drag and drop features available with Canva along with thousands of templates to try out.
-
-**●** Open Canva.
-
-**●** Browse Templates for the appropriate collage style.
-
-**●** Personalize the design with different font and grid combinations.
-
-**●** Add amazing elements and illustrations to your design.
-
-**●** Edit the image using crop, blur, and filter features.
-
-**●** Save the file in either PNG or JPG.
-
-## **●** Key Takeaways from This Episode **→**
-
-**●** Creating a **mosaic photo collage** can be quite refreshing and fun from an artistic point of view.
-
-**●** There are an infinite number of combinations you can try with every image.
-
-**●** Photo mosaics can be designed with different techniques and any one of them can result in eye-popping collages.
-
-**●** If you attempt at making a collage from scratch, you would need to warm up your skills on independent software like.
-
-**●** There are several easy free-to-use use applications online that make the process easier for you.
-
-**●** Many of them only take a few minutes. You can select hundreds of pictures and add them pixel by pixel to your target image.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Originally, mosaics refer to a unique style of placing broken tiles together to make a composition. But, in pictures, mosaics are digital images where the tiles are replaced by smaller images.
-
-Making mosaic collages aren’t that hard once you have discovered the right **mosaic collage maker**. After that, it’s all a matter of selecting the right pictures.
-
-#### In this article
-
-01 [Types of Photo Mosaic Collage](#Part 1)
-
-02 [How Do You Make a Mosaic Collage?](#Part 2)
-
-## Part 1 Types of Photo Mosaic Collage
-
-The art of mosaic has been around for a while and is now slowly making its digital transition into photomosaic art. There are various types of **photo mosaics** out there but not all of them can seem appealing to first-timers. Some of them are quite distinct while others are harder to recognize.
-
-**●** **Individual Photos:** Usually, individual photos and portraits can look amazing as a photo mosaic. The chaotic effect it has on an image can be quite aesthetic. They are easier to create and gorgeous to look at.
-
-**●** **Landscape Photos**: Landscapes are more complex. They involve a multitude of different colors it can get harder to match. Then again you can experiment with its multiple possibilities.
-
-You can also categorize mosaic pictures according to how complicated it is to segregate the images within the collage. In these terms, there are two types of photomosaic collages;
-
-### 01Single Color Composition
-
-Each specific zone or portion of the target image is narrowed down to a few average colors. All images in your gallery are scanned to match a color that suits any single shortlisted color. These images are then placed in the place of the pixels whose color matches that of the pictures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 02Advanced Composition
-
-A more advanced approach to photographic mosaics is when the matching is done pixel by pixel and the library images are then placed after much scrutiny. This takes more time than your usual average.
-
-## Part 2 How Do You Make a Mosaic Collage?
-
-### 015 Awesome Mosaic Makers You Need to Know
-
-**●** **Easy Moza**
-
-**Rating:** 5.0 on App Store
-
-![easy moza](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-As the name suggests, Easy Moza is here to help you make your photo mosaic experience easier. The program is free to use and can be downloaded online. Install it on your computer so that you can use it to edit your pictures.
-
-With Easy Mosaic you can increase your number of mosaic uploads to 50 pieces. By clicking on ‘select photo’, you can upload a main picture as the centerpiece. This will be the image that will be reconstructed with the other pixelated images.
-
-Moza has a pretty easy-to-navigate interface. You can also take photos with its inbuilt camera to fill up the gaps your library isn’t able to provide images for.
-
-**●** **Fotor**
-
-**Rating:** 4.1 on GetApp.
-
-![fotor](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-2.jpg)
-
-Fotor is a photo collage maker and editor. This software boasts of having more features than any other photo mosaic application. You can use Fotor to edit images online, so there is no need to download it separately.
-
-Unlike other mosaic software on the market, Fotor’s approach in creating collages is slightly different. It pixelates your target image in order to synchronize the colors in the final result. It also enables you to add your own abstract effects. Many users actually prefer this method due to its convenience. Just select a photo and add the pixelated mosaic effect.
-
-**●** **PictoSaic**
-
-**Rating:** 2.5 by CuteStat.
-
-![picosaic](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-3.jpg)
-
-If you are in search of free mosaic software while having zero ideas on how to create your mosaic collage, then download PictoSaic.
-
-You can use it online and can produce several collages in just minutes. This software has features similar to the editing tools on Easy Moza but with more in-depth results in terms of quality. You should also take note that the limit to the number of pictures you can include has no limit. You can create stunning Photomosaic pictures on PictoSaic.
-
-**●** **WidsMob Montage**
-
-**Rating:** 4.5 on G2.
-
-![widsmob montage](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-4.jpg)
-
-Considered a favorite among casual photo editors, WidsMob is an exceptional software with an intuitive interface. It is probably the only one on this list that can predict your choices for you and provide a suggestion. You access this program on both Mac and Windows.
-
-You can primarily download results in both JPEG and PNG. So what you need to use is a PNG photo with a transparent background so that you can create your own mosaic template. You also have at your disposal several fantastic editing features. You can edit tiles of various sizes.
-
-**●** **Mozaus**
-
-**Rating:** 4.8 on G2.
-
-![mozaus](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-5.jpg)
-
-Finally, the most feature abundant free program you can use for Photomosaic collages. The results are absolutely mesmerizing. The process only involves four simple steps to create creative mosaics with hundreds of images and thousands of fragments.
-
-If you wish to make your mosaic collage stand out you can definitely give Mozaus a try. It does not degrade the quality of your final result, keeping the details sharps and precise. Although, this might mean that the final file may be heavier. You are assured quick results though its interface may feel complicated at times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 02How to Create a Photo Mosaic in Lightroom & Photoshop
-
-Not interested in the easy way and wish to take full control of your editing? Get started on Lightroom. Using both PhotoShop and Lightroom is a very lethal combination. You can create gorgeous albums and collages.
-
-Adobe original software offers a lot of approaches you can to create any type of photomosaic composition.
-
-**Here are brief and easy steps you can use on Lightroom:**
-
-**●** Download all Sample Images you wish to Add to your Collage.
-
-**●** Import Sample Images to Lightroom by clicking ‘Add’ then ‘Import’.
-
-**●** Select a Target Image and crop it in Lightroom to Square foot format.
-
-**●** Sync all images in Gallery by selecting all images and clicking ‘synchronize’ in settings.
-
-**●** Export all cropped images to a separate folder.
-
-**●** Open exported images in Photoshop.
-
-**●** In the ‘Layers’ option, apply the ‘Photomosaic Option’ to the main image.
-
-**●** By adjusting the ‘Scale’ to 40%, allows the image ratios to self-adjust.
-
-**●** Change the Blending Mode to a lighter tone in the Layer’s panel.
-
-**●** Select a suitable contrast level for the image to blend in with the collage.
-
-### 03How to Make a Photo Mosaic in Canvas
-
-Canva is probably the easiest most known Digital Design software available online. You can also create interesting photomosaic collages on Canva with a few simple steps. There are fantastic drag and drop features available with Canva along with thousands of templates to try out.
-
-**●** Open Canva.
-
-**●** Browse Templates for the appropriate collage style.
-
-**●** Personalize the design with different font and grid combinations.
-
-**●** Add amazing elements and illustrations to your design.
-
-**●** Edit the image using crop, blur, and filter features.
-
-**●** Save the file in either PNG or JPG.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## **●** Key Takeaways from This Episode **→**
-
-**●** Creating a **mosaic photo collage** can be quite refreshing and fun from an artistic point of view.
-
-**●** There are an infinite number of combinations you can try with every image.
-
-**●** Photo mosaics can be designed with different techniques and any one of them can result in eye-popping collages.
-
-**●** If you attempt at making a collage from scratch, you would need to warm up your skills on independent software like.
-
-**●** There are several easy free-to-use use applications online that make the process easier for you.
-
-**●** Many of them only take a few minutes. You can select hundreds of pictures and add them pixel by pixel to your target image.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Originally, mosaics refer to a unique style of placing broken tiles together to make a composition. But, in pictures, mosaics are digital images where the tiles are replaced by smaller images.
-
-Making mosaic collages aren’t that hard once you have discovered the right **mosaic collage maker**. After that, it’s all a matter of selecting the right pictures.
-
-#### In this article
-
-01 [Types of Photo Mosaic Collage](#Part 1)
-
-02 [How Do You Make a Mosaic Collage?](#Part 2)
-
-## Part 1 Types of Photo Mosaic Collage
-
-The art of mosaic has been around for a while and is now slowly making its digital transition into photomosaic art. There are various types of **photo mosaics** out there but not all of them can seem appealing to first-timers. Some of them are quite distinct while others are harder to recognize.
-
-**●** **Individual Photos:** Usually, individual photos and portraits can look amazing as a photo mosaic. The chaotic effect it has on an image can be quite aesthetic. They are easier to create and gorgeous to look at.
-
-**●** **Landscape Photos**: Landscapes are more complex. They involve a multitude of different colors it can get harder to match. Then again you can experiment with its multiple possibilities.
-
-You can also categorize mosaic pictures according to how complicated it is to segregate the images within the collage. In these terms, there are two types of photomosaic collages;
-
-### 01Single Color Composition
-
-Each specific zone or portion of the target image is narrowed down to a few average colors. All images in your gallery are scanned to match a color that suits any single shortlisted color. These images are then placed in the place of the pixels whose color matches that of the pictures.
-
-### 02Advanced Composition
-
-A more advanced approach to photographic mosaics is when the matching is done pixel by pixel and the library images are then placed after much scrutiny. This takes more time than your usual average.
-
-## Part 2 How Do You Make a Mosaic Collage?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 015 Awesome Mosaic Makers You Need to Know
-
-**●** **Easy Moza**
-
-**Rating:** 5.0 on App Store
-
-![easy moza](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-1.jpg)
-
-As the name suggests, Easy Moza is here to help you make your photo mosaic experience easier. The program is free to use and can be downloaded online. Install it on your computer so that you can use it to edit your pictures.
-
-With Easy Mosaic you can increase your number of mosaic uploads to 50 pieces. By clicking on ‘select photo’, you can upload a main picture as the centerpiece. This will be the image that will be reconstructed with the other pixelated images.
-
-Moza has a pretty easy-to-navigate interface. You can also take photos with its inbuilt camera to fill up the gaps your library isn’t able to provide images for.
-
-**●** **Fotor**
-
-**Rating:** 4.1 on GetApp.
-
-![fotor](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-2.jpg)
-
-Fotor is a photo collage maker and editor. This software boasts of having more features than any other photo mosaic application. You can use Fotor to edit images online, so there is no need to download it separately.
-
-Unlike other mosaic software on the market, Fotor’s approach in creating collages is slightly different. It pixelates your target image in order to synchronize the colors in the final result. It also enables you to add your own abstract effects. Many users actually prefer this method due to its convenience. Just select a photo and add the pixelated mosaic effect.
-
-**●** **PictoSaic**
-
-**Rating:** 2.5 by CuteStat.
-
-![picosaic](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-3.jpg)
 
 If you are in search of free mosaic software while having zero ideas on how to create your mosaic collage, then download PictoSaic.
 
@@ -522,8 +218,168 @@ A more advanced approach to photographic mosaics is when the matching is done pi
 
 ![easy moza](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-1.jpg)
 
+As the name suggests, Easy Moza is here to help you make your photo mosaic experience easier. The program is free to use and can be downloaded online. Install it on your computer so that you can use it to edit your pictures.
+
+With Easy Mosaic you can increase your number of mosaic uploads to 50 pieces. By clicking on ‘select photo’, you can upload a main picture as the centerpiece. This will be the image that will be reconstructed with the other pixelated images.
+
+Moza has a pretty easy-to-navigate interface. You can also take photos with its inbuilt camera to fill up the gaps your library isn’t able to provide images for.
+
+**●** **Fotor**
+
+**Rating:** 4.1 on GetApp.
+
+![fotor](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-2.jpg)
+
+Fotor is a photo collage maker and editor. This software boasts of having more features than any other photo mosaic application. You can use Fotor to edit images online, so there is no need to download it separately.
+
+Unlike other mosaic software on the market, Fotor’s approach in creating collages is slightly different. It pixelates your target image in order to synchronize the colors in the final result. It also enables you to add your own abstract effects. Many users actually prefer this method due to its convenience. Just select a photo and add the pixelated mosaic effect.
+
+**●** **PictoSaic**
+
+**Rating:** 2.5 by CuteStat.
+
+![picosaic](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-3.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+If you are in search of free mosaic software while having zero ideas on how to create your mosaic collage, then download PictoSaic.
+
+You can use it online and can produce several collages in just minutes. This software has features similar to the editing tools on Easy Moza but with more in-depth results in terms of quality. You should also take note that the limit to the number of pictures you can include has no limit. You can create stunning Photomosaic pictures on PictoSaic.
+
+**●** **WidsMob Montage**
+
+**Rating:** 4.5 on G2.
+
+![widsmob montage](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Considered a favorite among casual photo editors, WidsMob is an exceptional software with an intuitive interface. It is probably the only one on this list that can predict your choices for you and provide a suggestion. You access this program on both Mac and Windows.
+
+You can primarily download results in both JPEG and PNG. So what you need to use is a PNG photo with a transparent background so that you can create your own mosaic template. You also have at your disposal several fantastic editing features. You can edit tiles of various sizes.
+
+**●** **Mozaus**
+
+**Rating:** 4.8 on G2.
+
+![mozaus](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-5.jpg)
+
+Finally, the most feature abundant free program you can use for Photomosaic collages. The results are absolutely mesmerizing. The process only involves four simple steps to create creative mosaics with hundreds of images and thousands of fragments.
+
+If you wish to make your mosaic collage stand out you can definitely give Mozaus a try. It does not degrade the quality of your final result, keeping the details sharps and precise. Although, this might mean that the final file may be heavier. You are assured quick results though its interface may feel complicated at times.
+
+### 02How to Create a Photo Mosaic in Lightroom & Photoshop
+
+Not interested in the easy way and wish to take full control of your editing? Get started on Lightroom. Using both PhotoShop and Lightroom is a very lethal combination. You can create gorgeous albums and collages.
+
+Adobe original software offers a lot of approaches you can to create any type of photomosaic composition.
+
+**Here are brief and easy steps you can use on Lightroom:**
+
+**●** Download all Sample Images you wish to Add to your Collage.
+
+**●** Import Sample Images to Lightroom by clicking ‘Add’ then ‘Import’.
+
+**●** Select a Target Image and crop it in Lightroom to Square foot format.
+
+**●** Sync all images in Gallery by selecting all images and clicking ‘synchronize’ in settings.
+
+**●** Export all cropped images to a separate folder.
+
+**●** Open exported images in Photoshop.
+
+**●** In the ‘Layers’ option, apply the ‘Photomosaic Option’ to the main image.
+
+**●** By adjusting the ‘Scale’ to 40%, allows the image ratios to self-adjust.
+
+**●** Change the Blending Mode to a lighter tone in the Layer’s panel.
+
+**●** Select a suitable contrast level for the image to blend in with the collage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 03How to Make a Photo Mosaic in Canvas
+
+Canva is probably the easiest most known Digital Design software available online. You can also create interesting photomosaic collages on Canva with a few simple steps. There are fantastic drag and drop features available with Canva along with thousands of templates to try out.
+
+**●** Open Canva.
+
+**●** Browse Templates for the appropriate collage style.
+
+**●** Personalize the design with different font and grid combinations.
+
+**●** Add amazing elements and illustrations to your design.
+
+**●** Edit the image using crop, blur, and filter features.
+
+**●** Save the file in either PNG or JPG.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## **●** Key Takeaways from This Episode **→**
+
+**●** Creating a **mosaic photo collage** can be quite refreshing and fun from an artistic point of view.
+
+**●** There are an infinite number of combinations you can try with every image.
+
+**●** Photo mosaics can be designed with different techniques and any one of them can result in eye-popping collages.
+
+**●** If you attempt at making a collage from scratch, you would need to warm up your skills on independent software like.
+
+**●** There are several easy free-to-use use applications online that make the process easier for you.
+
+**●** Many of them only take a few minutes. You can select hundreds of pictures and add them pixel by pixel to your target image.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Originally, mosaics refer to a unique style of placing broken tiles together to make a composition. But, in pictures, mosaics are digital images where the tiles are replaced by smaller images.
+
+Making mosaic collages aren’t that hard once you have discovered the right **mosaic collage maker**. After that, it’s all a matter of selecting the right pictures.
+
+#### In this article
+
+01 [Types of Photo Mosaic Collage](#Part 1)
+
+02 [How Do You Make a Mosaic Collage?](#Part 2)
+
+## Part 1 Types of Photo Mosaic Collage
+
+The art of mosaic has been around for a while and is now slowly making its digital transition into photomosaic art. There are various types of **photo mosaics** out there but not all of them can seem appealing to first-timers. Some of them are quite distinct while others are harder to recognize.
+
+**●** **Individual Photos:** Usually, individual photos and portraits can look amazing as a photo mosaic. The chaotic effect it has on an image can be quite aesthetic. They are easier to create and gorgeous to look at.
+
+**●** **Landscape Photos**: Landscapes are more complex. They involve a multitude of different colors it can get harder to match. Then again you can experiment with its multiple possibilities.
+
+You can also categorize mosaic pictures according to how complicated it is to segregate the images within the collage. In these terms, there are two types of photomosaic collages;
+
+### 01Single Color Composition
+
+Each specific zone or portion of the target image is narrowed down to a few average colors. All images in your gallery are scanned to match a color that suits any single shortlisted color. These images are then placed in the place of the pixels whose color matches that of the pictures.
+
+### 02Advanced Composition
+
+A more advanced approach to photographic mosaics is when the matching is done pixel by pixel and the library images are then placed after much scrutiny. This takes more time than your usual average.
+
+## Part 2 How Do You Make a Mosaic Collage?
+
+### 015 Awesome Mosaic Makers You Need to Know
+
+**●** **Easy Moza**
+
+**Rating:** 5.0 on App Store
+
+![easy moza](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As the name suggests, Easy Moza is here to help you make your photo mosaic experience easier. The program is free to use and can be downloaded online. Install it on your computer so that you can use it to edit your pictures.
@@ -537,10 +393,6 @@ Moza has a pretty easy-to-navigate interface. You can also take photos with its 
 **Rating:** 4.1 on GetApp.
 
 ![fotor](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Fotor is a photo collage maker and editor. This software boasts of having more features than any other photo mosaic application. You can use Fotor to edit images online, so there is no need to download it separately.
 
@@ -571,14 +423,166 @@ You can primarily download results in both JPEG and PNG. So what you need to use
 **Rating:** 4.8 on G2.
 
 ![mozaus](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Finally, the most feature abundant free program you can use for Photomosaic collages. The results are absolutely mesmerizing. The process only involves four simple steps to create creative mosaics with hundreds of images and thousands of fragments.
+
+If you wish to make your mosaic collage stand out you can definitely give Mozaus a try. It does not degrade the quality of your final result, keeping the details sharps and precise. Although, this might mean that the final file may be heavier. You are assured quick results though its interface may feel complicated at times.
+
+### 02How to Create a Photo Mosaic in Lightroom & Photoshop
+
+Not interested in the easy way and wish to take full control of your editing? Get started on Lightroom. Using both PhotoShop and Lightroom is a very lethal combination. You can create gorgeous albums and collages.
+
+Adobe original software offers a lot of approaches you can to create any type of photomosaic composition.
+
+**Here are brief and easy steps you can use on Lightroom:**
+
+**●** Download all Sample Images you wish to Add to your Collage.
+
+**●** Import Sample Images to Lightroom by clicking ‘Add’ then ‘Import’.
+
+**●** Select a Target Image and crop it in Lightroom to Square foot format.
+
+**●** Sync all images in Gallery by selecting all images and clicking ‘synchronize’ in settings.
+
+**●** Export all cropped images to a separate folder.
+
+**●** Open exported images in Photoshop.
+
+**●** In the ‘Layers’ option, apply the ‘Photomosaic Option’ to the main image.
+
+**●** By adjusting the ‘Scale’ to 40%, allows the image ratios to self-adjust.
+
+**●** Change the Blending Mode to a lighter tone in the Layer’s panel.
+
+**●** Select a suitable contrast level for the image to blend in with the collage.
+
+### 03How to Make a Photo Mosaic in Canvas
+
+Canva is probably the easiest most known Digital Design software available online. You can also create interesting photomosaic collages on Canva with a few simple steps. There are fantastic drag and drop features available with Canva along with thousands of templates to try out.
+
+**●** Open Canva.
+
+**●** Browse Templates for the appropriate collage style.
+
+**●** Personalize the design with different font and grid combinations.
+
+**●** Add amazing elements and illustrations to your design.
+
+**●** Edit the image using crop, blur, and filter features.
+
+**●** Save the file in either PNG or JPG.
+
+## **●** Key Takeaways from This Episode **→**
+
+**●** Creating a **mosaic photo collage** can be quite refreshing and fun from an artistic point of view.
+
+**●** There are an infinite number of combinations you can try with every image.
+
+**●** Photo mosaics can be designed with different techniques and any one of them can result in eye-popping collages.
+
+**●** If you attempt at making a collage from scratch, you would need to warm up your skills on independent software like.
+
+**●** There are several easy free-to-use use applications online that make the process easier for you.
+
+**●** Many of them only take a few minutes. You can select hundreds of pictures and add them pixel by pixel to your target image.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Originally, mosaics refer to a unique style of placing broken tiles together to make a composition. But, in pictures, mosaics are digital images where the tiles are replaced by smaller images.
+
+Making mosaic collages aren’t that hard once you have discovered the right **mosaic collage maker**. After that, it’s all a matter of selecting the right pictures.
+
+#### In this article
+
+01 [Types of Photo Mosaic Collage](#Part 1)
+
+02 [How Do You Make a Mosaic Collage?](#Part 2)
+
+## Part 1 Types of Photo Mosaic Collage
+
+The art of mosaic has been around for a while and is now slowly making its digital transition into photomosaic art. There are various types of **photo mosaics** out there but not all of them can seem appealing to first-timers. Some of them are quite distinct while others are harder to recognize.
+
+**●** **Individual Photos:** Usually, individual photos and portraits can look amazing as a photo mosaic. The chaotic effect it has on an image can be quite aesthetic. They are easier to create and gorgeous to look at.
+
+**●** **Landscape Photos**: Landscapes are more complex. They involve a multitude of different colors it can get harder to match. Then again you can experiment with its multiple possibilities.
+
+You can also categorize mosaic pictures according to how complicated it is to segregate the images within the collage. In these terms, there are two types of photomosaic collages;
+
+### 01Single Color Composition
+
+Each specific zone or portion of the target image is narrowed down to a few average colors. All images in your gallery are scanned to match a color that suits any single shortlisted color. These images are then placed in the place of the pixels whose color matches that of the pictures.
+
+### 02Advanced Composition
+
+A more advanced approach to photographic mosaics is when the matching is done pixel by pixel and the library images are then placed after much scrutiny. This takes more time than your usual average.
+
+## Part 2 How Do You Make a Mosaic Collage?
+
+### 015 Awesome Mosaic Makers You Need to Know
+
+**●** **Easy Moza**
+
+**Rating:** 5.0 on App Store
+
+![easy moza](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-1.jpg)
+
+As the name suggests, Easy Moza is here to help you make your photo mosaic experience easier. The program is free to use and can be downloaded online. Install it on your computer so that you can use it to edit your pictures.
+
+With Easy Mosaic you can increase your number of mosaic uploads to 50 pieces. By clicking on ‘select photo’, you can upload a main picture as the centerpiece. This will be the image that will be reconstructed with the other pixelated images.
+
+Moza has a pretty easy-to-navigate interface. You can also take photos with its inbuilt camera to fill up the gaps your library isn’t able to provide images for.
+
+**●** **Fotor**
+
+**Rating:** 4.1 on GetApp.
+
+![fotor](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-2.jpg)
+
+Fotor is a photo collage maker and editor. This software boasts of having more features than any other photo mosaic application. You can use Fotor to edit images online, so there is no need to download it separately.
+
+Unlike other mosaic software on the market, Fotor’s approach in creating collages is slightly different. It pixelates your target image in order to synchronize the colors in the final result. It also enables you to add your own abstract effects. Many users actually prefer this method due to its convenience. Just select a photo and add the pixelated mosaic effect.
+
+**●** **PictoSaic**
+
+**Rating:** 2.5 by CuteStat.
+
+![picosaic](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-3.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+If you are in search of free mosaic software while having zero ideas on how to create your mosaic collage, then download PictoSaic.
+
+You can use it online and can produce several collages in just minutes. This software has features similar to the editing tools on Easy Moza but with more in-depth results in terms of quality. You should also take note that the limit to the number of pictures you can include has no limit. You can create stunning Photomosaic pictures on PictoSaic.
+
+**●** **WidsMob Montage**
+
+**Rating:** 4.5 on G2.
+
+![widsmob montage](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-4.jpg)
+
+Considered a favorite among casual photo editors, WidsMob is an exceptional software with an intuitive interface. It is probably the only one on this list that can predict your choices for you and provide a suggestion. You access this program on both Mac and Windows.
+
+You can primarily download results in both JPEG and PNG. So what you need to use is a PNG photo with a transparent background so that you can create your own mosaic template. You also have at your disposal several fantastic editing features. You can edit tiles of various sizes.
+
+**●** **Mozaus**
+
+**Rating:** 4.8 on G2.
+
+![mozaus](https://images.wondershare.com/filmora/article-images/2022/02/how-to-create-stunning-mosaic-photo-collage-5.jpg)
+
 Finally, the most feature abundant free program you can use for Photomosaic collages. The results are absolutely mesmerizing. The process only involves four simple steps to create creative mosaics with hundreds of images and thousands of fragments.
 
 If you wish to make your mosaic collage stand out you can definitely give Mozaus a try. It does not degrade the quality of your final result, keeping the details sharps and precise. Although, this might mean that the final file may be heavier. You are assured quick results though its interface may feel complicated at times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 02How to Create a Photo Mosaic in Lightroom & Photoshop
 
@@ -607,10 +611,6 @@ Adobe original software offers a lot of approaches you can to create any type of
 **●** Change the Blending Mode to a lighter tone in the Layer’s panel.
 
 **●** Select a suitable contrast level for the image to blend in with the collage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 03How to Make a Photo Mosaic in Canvas
 
@@ -666,20 +666,24 @@ Canva is probably the easiest most known Digital Design software available onlin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-free-video-credits-pro-the-best-suggestions-1-6/"><u>[New] Free Video Credits Pro - The Best Suggestions #1-6</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>[Updated] High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] In 2024, Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-insta-exiting-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Insta Exiting A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-rapidly-finding-friends-on-facebooks-network/"><u>[Updated] In 2024, Rapidly Finding Friends on Facebook's Network</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-brightness-on-android-devices/"><u>2024 Approved Boosting Brightness on Android Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beyond-adjustments-the-influence-of-luts-on-art/"><u>Beyond Adjustments The Influence of LUTs on Art</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-boundaries-chatgpts-groundbreaking-features-revealed/"><u>Beyond Boundaries: ChatGPT’s Groundbreaking Features Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-4-wont-start-solved/"><u>Call of Duty Black Ops 4 Won't Start - Solved!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>In 2024, Analyzing Livestream Giants Twitch Vs YouTube Breakdown</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-proven-audacity-strategies-for-top-quality-recordings/"><u>In 2024, Proven Audacity Strategies for Top-Quality Recordings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/render-blur-effect-on-digital-snaps-in-ps/"><u>Render Blur Effect on Digital Snaps in PS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-av1-encoding-insights/"><u>Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-minecraft-recordings-on-apple-devices-for-2024/"><u>[New] Streamlining Minecraft Recordings on Apple Devices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-voice-to-text-applications/"><u>[New] Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-over-light-and-shadow-with-hdr-software/"><u>[Updated] 2024 Approved Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-photography-iphones-leading-object-cutting-tools-revealed/"><u>[Updated] Advanced Photography IPhone's Leading Object Cutting Tools Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-mastered-entry-editor-for-multi-platform-devices/"><u>2023'S Mastered Entry Editor for Multi-Platform Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/battle-of-smart-speakers-distinguishing-the-echo-dot-from-homepod-mini/"><u>Battle of Smart Speakers: Distinguishing the Echo Dot From HomePod Mini</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beats-and-boundaries-breaking-barriers-in-music-videos/"><u>Beats & Boundaries Breaking Barriers in Music Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-friendly-sky-vault-optimal-large-file-haven/"><u>Budget-Friendly Sky Vault Optimal Large File Haven</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/close-up-mastery-in-video-production-via-videoleap-for-2024/"><u>Close-Up Mastery in Video Production via Videoleap for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-recouvrer-un-fichier-excel-egalement-supprime-par-erreur/"><u>Comment Recouvrer Un FICHIER EXCEL ÉGALEMENT SUPPRIMÉ PAR ERREUR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-to-windows-movie-maker-60-downloading-for-2024/"><u>Complete Guide to Windows Movie Maker 6.0 Downloading for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-6-urban-designs-in-mc-for-2024/"><u>Cutting-Edge 6 Urban Designs in MC for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-pratique-annuler-la-protection-anti-copie-de-votre-disque-dur-windowsmac/"><u>Guide Pratique : Annuler La Protection Anti-Copie De Votre Disque Dur Windows/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-modify-image-scale-on-both-windows-and-macos-effortlessly/"><u>How to Modify Image Scale on Both Windows & macOS Effortlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-guide-to-interoperable-playlists/"><u>In 2024, A Comprehensive Guide to Interoperable Playlists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-image-integration-software-for-visual-enthusiasts/"><u>Innovative Image Integration Software for Visual Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maintaining-optimal-performance-determining-cpu-thermal-readings-with-windows-nx/"><u>Maintaining Optimal Performance: Determining CPU Thermal Readings with Windows nX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/one-voice-many-listeners-a-solo-podcast-blueprint/"><u>One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/tecnicas-acessiveis-para-recuperacao-de-arquivos-excluidos-em-discos-rigidos-externos-facil-de-seguir-sem-custo-algum/"><u>Técnicas Acessíveis Para Recuperação De Arquivos Excluídos Em Discos Rígidos Externos - Fácil De Seguir Sem Custo Algum!</u></a></li>
 </ul></div>
 

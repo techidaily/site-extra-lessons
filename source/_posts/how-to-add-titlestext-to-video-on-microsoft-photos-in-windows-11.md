@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2024-12-19T16:27:31.189Z
-updated: 2024-12-23T17:16:24.599Z
+date: 2024-12-22T22:19:49.652Z
+updated: 2024-12-29T09:45:28.893Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -46,10 +42,18 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
@@ -67,7 +71,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -77,28 +81,24 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,18 +115,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-dji-flying-tech-experiment-with-color-luts-at-no-extra-charge/"><u>[New] 2024 Approved DJI Flying Tech Experiment with Color LUTs at No Extra Charge</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-remedying-obs-fullscreen-disruption-for-2024/"><u>[Updated] Remedying OBS Fullscreen Disruption for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-practices-procuring-stock-visuals-for-projects/"><u>Best Practices Procuring Stock Visuals for Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-guide-selecting-high-quality-ringtone-downloads/"><u>Elite Guide Selecting High-Quality Ringtone Downloads</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-card-problem-43-cleared-up/"><u>Graphics Card Problem 43 Cleared Up</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Y28 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>In 2024, Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/inject-photos-with-focal-spread-outer-radius-adobe-psx-for-2024/"><u>Inject Photos with Focal Spread Outer Radius Adobe PSX for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-sound-disruptions-a-comprehensive-solution-for-windows-7-8-and-11-users/"><u>Resolving Sound Disruptions: A Comprehensive Solution for Windows 7, 8, and 11 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spiritual-soundtracks-where-to-find-christian-tunes/"><u>Spiritual Soundtracks Where to Find Christian Tunes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-pc-speeds-choosing-the-right-extension-software/"><u>Top PC Speeds Choosing the Right Extension Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/updating-the-software-on-your-apple-studio-display-a-step-by-step-guide-insights-from-zdnet/"><u>Updating the Software on Your Apple Studio Display: A Step-by-Step Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-captivating-cinematic-experiences-exploring-top-6-genres/"><u>[New] Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-storytelling-success-planning-a-dynamic-marketing-strategy/"><u>[Updated] 2024 Approved Instagram Storytelling Success Planning a Dynamic Marketing Strategy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-a-trailers-soundtrack-a-guide-for-2024/"><u>[Updated] Crafting a Trailer's Soundtrack A Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-coding-techniques-using-codegpt-within-vs-code/"><u>Advanced Coding Techniques Using CodeGPT Within VS Code</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-directors-toolkit-powerdirector-24-for-2024/"><u>Advanced Directors' Toolkit PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-professional-edits-with-story-remix-in-windows-photos-app/"><u>Craft Professional Edits with Story Remix in Windows Photos App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-the-ultimate-documentary-experience-for-2024/"><u>Crafting the Ultimate Documentary Experience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-iphone-visuals-select-camera-extensions-for-quality/"><u>Elevate iPhone Visuals Select Camera Extensions for Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>In 2024, Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-speed-skaters-showcase-at-the-olympics-2022-edition/"><u>In 2024, Speed Skaters' Showcase at the Olympics, 2022 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hogwarts-legacy-in-2nd4-the-definitive-list-of-6-stutter-fixes/"><u>Mastering Hogwarts Legacy in 2nD4: The Definitive List of 6 Stutter Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-milestones-from-linguistic-patchwork-to-unity/"><u>Multilingual Milestones: From Linguistic Patchwork to Unity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-matters-discovering-why-your-phones-internet-is-dragging-behind-on-wi-fi/"><u>Speed Matters: Discovering Why Your Phone's Internet Is Dragging Behind on Wi-Fi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
 </ul></div>
 

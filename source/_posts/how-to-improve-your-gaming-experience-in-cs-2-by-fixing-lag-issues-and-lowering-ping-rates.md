@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2024-12-19T19:53:19.285Z
-updated: 2024-12-23T20:29:25.650Z
+date: 2024-12-25T09:28:35.864Z
+updated: 2024-12-28T22:24:25.577Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -61,7 +65,7 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -73,7 +77,7 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
@@ -88,13 +92,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -151,13 +155,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -170,17 +174,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -206,24 +206,22 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-sierra-icloud-drives-a-complete-overview/"><u>[New] Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-one-to-another-mastering-playlists-pivoting/"><u>[New] From One to Another Mastering Playlists Pivoting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>[Updated] 2024 Approved Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-compreeved-guide-to-optimizing-space-and-pc-for-vr/"><u>[Updated] 2024 Approved The Compreeved Guide to Optimizing Space & PC for VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-experience-with-the-right-music-for-vids/"><u>Elevating Experience with the Right Music for Vids</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/evaluating-the-user-interface-aesthetics-of-huawei-p10/"><u>Evaluating the User Interface Aesthetics of Huawei P10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-fixing-critical-gameplay-interruptions-in-hearts-of-iron-iv-resolved/"><u>Guide to Fixing Critical Gameplay Interruptions in Hearts of Iron IV - Resolved</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-iphones-power-for-dynamic-range-shots/"><u>Harnessing iPhone's Power for Dynamic Range Shots</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-much-do-podcasters-make-for-2024/"><u>How Much Do Podcasters Make for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chromatic-magic-for-your-digital-photography/"><u>In 2024, Chromatic Magic for Your Digital Photography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-anticipated-apple-car-tracking-developments-in-price-estimations-scheduled-debut-and-engineering-innovations/"><u>Inside Scoop on the Anticipated Apple Car: Tracking Developments in Price Estimations, Scheduled Debut, and Engineering Innovations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac/"><u>Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/meditative-harmony-the-top-10-legally-accessible-chants-and-tracks/"><u>Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimal-camera-gimbals-summary-1-10-iphoneandroiddslr-compared/"><u>Optimal Camera Gimbals Summary #1-#10 iPhone/Android/DSLR Compared</u></a></li>
-<li><a href="https://windows11.techidaily.com/rebuilding-dotnet-windows-fixes-to-remember-max-156/"><u>Rebuilding DotNet: Windows Fixes to Remember (Max 156)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revolutionary-additions-to-windows-11-for-2024/"><u>Revolutionary Additions to Windows 11 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-11-must-have-tools-and-utilities-for-windowsmac-users-featured-on-zdnet/"><u>Top 11 Must-Have Tools & Utilities for Windows/Mac Users - Featured on ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/omedy-channel-guide-your-best-15-youtube-sources-for-2024/"><u>[New] Comedy Channel Guide Your Best 15 YouTube Sources for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-recording-revelry-capturing-the-thrill-of-sports-games-for-2024/"><u>[New] Recording Revelry Capturing the Thrill of Sports Games for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nveiling-the-must-have-gear-for-new-youtubers-for-2024/"><u>[New] Unveiling the Must-Have Gear for New YouTubers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adding-depth-with-3d-text-in-photoshop-workflows/"><u>[Updated] Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-exploring-hand-tracking-an-in-depth-look-for-2024/"><u>[Updated] Exploring Hand Tracking An In-Depth Look for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-the-best-essential-themes-for-animes-for-2024/"><u>Best of the Best Essential Themes for Animes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-podcasts-on-google-podcasts-for-2024/"><u>Best Podcasts on Google Podcasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-excel-improving-efficiency-and-accuracy/"><u>ChatGPT-Powered Excel: Improving Efficiency and Accuracy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-the-perfect-first-touch-redefining-unboxing-for-2024/"><u>Crafting the Perfect First Touch Redefining Unboxing for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizable-ai-revolution-crafting-unique-gpt-models-via-chatgpt-upgrade/"><u>Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Razr 40 Ultra FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977902338-intel-hd-graphics-520-driver-update-enhance-your-system-with-just-a-few-clicks/"><u>Intel HD Graphics 520 Driver Update - Enhance Your System with Just a Few Clicks!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-smartphototech-ai-edition-advantages/"><u>Leading SmartPhotoTech AI Edition Advantages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-unusual-upward-turning-of-ig-video-images/"><u>The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-leading-4k-uhd-blu-ray-devices/"><u>Ultimate Guide Leading 4K UHD Blu-Ray Devices</u></a></li>
 </ul></div>
 

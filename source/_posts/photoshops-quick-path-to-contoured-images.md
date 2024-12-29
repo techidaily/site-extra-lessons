@@ -1,7 +1,7 @@
 ---
 title: "Photoshop's Quick Path to Contoured Images"
-date: 2024-07-26T21:42:05.821Z
-updated: 2024-07-27T21:42:05.821Z
+date: 2024-12-25T02:49:42.504Z
+updated: 2024-12-28T16:52:50.701Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -35,10 +32,11 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
@@ -46,45 +44,49 @@ Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking 
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -118,7 +120,19 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-clearview-recorder-xtreme-win10/"><u>[New] 2024 Approved ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-reels-and-stories-differences/"><u>[New] Decoding Instagram's Reels and Stories Differences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-digital-dominance-the-top-global-youtube-creators/"><u>[Updated] 2024 Approved Digital Dominance The Top Global YouTube Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-obs-masterclass-for-beginners-stream-to-youtube-flawlessly/"><u>[Updated] OBS Masterclass for Beginners Stream to YouTube Flawlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-artistry-in-motion-compelling-selection-of-3d-animation-software/"><u>2024 Approved Artistry in Motion Compelling Selection of 3D Animation Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8-for-2024/"><u>Artful Animation of Adventures Exploring the Top 8 Narrative Universities (Top 8) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chucklechasm-exciting-places-to-get-comical-calls-for-2024/"><u>ChuckleChasm Exciting Places to Get Comical Calls for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>Cinema at a New Frontier The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/competing-visions-of-virtual-space-google-against-samsung-for-2024/"><u>Competing Visions of Virtual Space Google Against Samsung for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-cutting-costs-on-cam-recording-a-compreited-analysis-and-recommendations/"><u>In 2024, Cutting Costs on Cam Recording – A Compreited Analysis & Recommendations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164790-9781644625019-my-walk-of-faith/"><u>My Walk of Faith | Free Book</u></a></li>
+</ul></div>
 

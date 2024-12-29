@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2024-12-22T20:09:35.712Z
-updated: 2024-12-23T19:01:09.730Z
+date: 2024-12-27T17:26:45.689Z
+updated: 2024-12-28T17:24:19.703Z
 tags: 
   - screen-recording
   - ai video
@@ -32,25 +32,17 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
@@ -65,16 +57,24 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -91,7 +91,7 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -135,22 +135,14 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[New] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones-for-2024/"><u>[New] Digital Footprint How to Share Your Short Videos on Computers & Phones for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[New] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-peculiar-picasso-creating-quirky-quick-memes/"><u>[New] In 2024, Peculiar Picasso Creating Quirky, Quick Memes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[New] In 2024, Sleeper Coupons in Instagram The Underrated Tips and Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-insight-into-final-cut-pro-editing/"><u>[New] In-Depth Insight Into Final Cut Pro Editing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>[Updated] Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>2024 Approved A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-techniques-in-final-cut-pro/"><u>2024 Approved Advanced Techniques in Final Cut Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-unboxing-video-series-the-ultimate-2024-watchlist/"><u>Best Unboxing Video Series - The Ultimate 2024 Watchlist</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparing-cloud-space-charges-methods-and-results-for-2024/"><u>Comparing Cloud Space Charges Methods and Results for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-steps-alter-clownespeak-through-windows-interface/"><u>Easy Steps Alter Clown'espeak Through Windows Interface</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>In 2024, Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-common-issues-essential-windows-10-fixes/"><u>In 2024, Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/introduction-to-basic-animation-in-graphic-design/"><u>Introduction to Basic Animation in Graphic Design</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge-for-2024/"><u>[New] Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-peak-meme-smile-crafting-program-for-2024/"><u>[New] Peak Meme Smile Crafting Program for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instant-accessibility-the-simplest-way-to-ifunny-memes/"><u>[Updated] Instant Accessibility The Simplest Way to iFunny Memes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[Updated] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-assessing-dji-phantom-3-professionals-performance/"><u>2024 Approved Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/breathe-easy-with-knowledge-of-asmr-advantages/"><u>Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-captivating-podcast-highlights-for-2024/"><u>Creating Captivating Podcast Highlights for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-tips-for-adding-effects-on-digital-videos/"><u>In 2024, Advanced Tips for Adding Effects on Digital Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-vr-equipment-enhancing-flight-control/"><u>In 2024, Best VR Equipment Enhancing Flight Control</u></a></li>
 </ul></div>
 

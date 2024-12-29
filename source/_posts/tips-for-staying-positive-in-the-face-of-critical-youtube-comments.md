@@ -1,7 +1,7 @@
 ---
 title: "Tips for Staying Positive in the Face of Critical YouTube Comments"
-date: 2024-07-26T21:39:45.535Z
-updated: 2024-07-27T21:39:45.535Z
+date: 2024-12-27T00:32:26.534Z
+updated: 2024-12-29T06:19:35.907Z
 tags: 
   - screen-recording
   - ai video
@@ -29,8 +29,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -75,14 +76,11 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
@@ -92,14 +90,19 @@ Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -110,8 +113,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -128,14 +132,8 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -170,7 +168,23 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-captureit-all-revisiting-recordmax-users-for-2024/"><u>[New] CaptureIt All! Revisiting 'RecordMax' Users for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[Updated] In 2024, Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-reliability-of-chatgpt-and-bard-in-providing-solid-financial-recommendations/"><u>Evaluating the Reliability of ChatGPT and Bard in Providing Solid Financial Recommendations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-insight-on-sierras-icloud-drive-accessibility/"><u>Expert Insight on Sierra's iCloud Drive Accessibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-zero-5g-2023-turbo-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Zero 5G 2023 Turbo Pattern Lock Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-zooms-potential-with-key-conversion-techniques/"><u>Harnessing Zoom's Potential with Key Conversion Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-social-media-optimal-video-converters-for-twitters/"><u>In 2024, Conquer Social Media Optimal Video Converters for Twitters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-rounded-overview-googles-podcast-application-demystified/"><u>In 2024, Rounded Overview Google's Podcast Application Demystified</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-english-grammar-complexities-top-insights-from-an-esteemed-esl-speaker/"><u>Navigating English Grammar Complexities: Top Insights From an Esteemed ESL Speaker</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-snapchat-pins-with-ease-for-2024/"><u>Navigating Snapchat Pins with Ease for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-basics-of-zoom-meeting-setup/"><u>Navigating the Basics of Zoom Meeting Setup</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210365846-9780983285410-self-belonging/"><u>Self Belonging | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transformative-srt-to-txt-guide-for-time-saving/"><u>Transformative SRT to TXT Guide for Time-Saving</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fix-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Steps: Fix HP Laptop's Malfunctioning USB Port</u></a></li>
+</ul></div>
 

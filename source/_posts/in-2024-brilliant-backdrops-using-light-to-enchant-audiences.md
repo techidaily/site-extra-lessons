@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-12-19T19:44:53.491Z
-updated: 2024-12-23T18:57:18.314Z
+date: 2024-12-28T03:02:41.163Z
+updated: 2024-12-29T02:37:24.010Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
@@ -53,7 +53,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -81,7 +81,7 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -89,7 +89,7 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -102,15 +102,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,14 +146,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-overcoming-youtube-copyright-strikes-expert-advice-revealed/"><u>[New] 2024 Approved Overcoming YouTube Copyright Strikes Expert Advice Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-choosing-google-pixel-music-matches-online/"><u>[New] Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-are-feedbacks-on-items-monetized-in-videos/"><u>In 2024, Are Feedbacks on Items Monetized in Videos?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>In 2024, Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-the-top-7-voice-customization-applications/"><u>In 2024, Exploring the Top 7 Voice Customization Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-vs-yi-4k-the-latest-in-action-cam-showdown/"><u>In 2024, Hero5 Black Vs. Yi 4K The Latest in Action Cam Showdown</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrating-luts-into-film-colorwork/"><u>Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-fixing-non-responsive-pc-gamepad-issues/"><u>Tips for Fixing Non-Responsive PC Gamepad Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-video-editing-made-simple-using-windows-10s-built-in-features-easily/"><u>[New] 2024 Approved Video Editing Made Simple Using Windows 10'S Built-In Features Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-5-web-based-titling-aces-identified/"><u>2024 Approved Best 5 Web-Based Titling Aces Identified</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-software-for-live-broadcasting/"><u>2024 Approved Best Software for Live Broadcasting</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-setting-up-logitech-g51er-mouse-drivers-for-your-pc-win-7-10/"><u>Complete Guide to Downloading and Setting Up Logitech G51er Mouse Drivers for Your PC (Win 7-10)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-13-mini-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 mini with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>In 2024, [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-windows-10-top-5-recording-techniques/"><u>Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-privacy-modify-your-proton-vpn-email-and-spot-fake-microsoft-apps/"><u>Navigating Privacy: Modify Your Proton VPN Email & Spot Fake Microsoft Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-effective-use-of-classroom-media/"><u>Strategies for Effective Use of Classroom Media</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-x5-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco X5 Pro FRP</u></a></li>
 </ul></div>
 
