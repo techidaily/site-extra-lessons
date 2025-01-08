@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2024-12-28T03:02:41.163Z
-updated: 2024-12-29T02:37:24.010Z
+date: 2025-01-03T16:58:26.032Z
+updated: 2025-01-08T02:18:41.943Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -53,7 +49,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -61,6 +57,10 @@ The key light is the main light that illuminates the subject. You can place it i
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -76,21 +76,17 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -98,19 +94,23 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,16 +146,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-video-editing-made-simple-using-windows-10s-built-in-features-easily/"><u>[New] 2024 Approved Video Editing Made Simple Using Windows 10'S Built-In Features Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-5-web-based-titling-aces-identified/"><u>2024 Approved Best 5 Web-Based Titling Aces Identified</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-software-for-live-broadcasting/"><u>2024 Approved Best Software for Live Broadcasting</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-setting-up-logitech-g51er-mouse-drivers-for-your-pc-win-7-10/"><u>Complete Guide to Downloading and Setting Up Logitech G51er Mouse Drivers for Your PC (Win 7-10)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-13-mini-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 13 mini with iTunes | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>In 2024, [Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximize-windows-10-top-5-recording-techniques/"><u>Maximize Windows 10 Top 5 Recording Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-privacy-modify-your-proton-vpn-email-and-spot-fake-microsoft-apps/"><u>Navigating Privacy: Modify Your Proton VPN Email & Spot Fake Microsoft Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-for-effective-use-of-classroom-media/"><u>Strategies for Effective Use of Classroom Media</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-x5-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco X5 Pro FRP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asmrs-role-in-better-nights-expert-vocal-guides/"><u>[New] ASMR's Role in Better Nights Expert Vocal Guides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics-for-2024/"><u>[New] Winning Windows Animation The Best 9 Apps to Record Dynamic Graphics for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-virtual-world-games-on-ios-and-android/"><u>[Updated] Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughter-legends-reviewing-goofy-in-the-vhs-era/"><u>2024 Approved 'Laughter Legends' Reviewing Goofy in the VHS Era</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher/"><u>2024 Approved Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/samsung-ssd/"><u>完全なクローニングで起動ディスクをSamsung SSDに移行する究極のソフトウェアガイド</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-video-changer-tools-reviewed-8-of-the-best-for-iphones-and-pcs-for-2024/"><u>Best Video Changer Tools Reviewed 8 of the Best for iPhones and PCs for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-dynamic-action-sequences-on-iphone-for-2024/"><u>Capturing Dynamic Action Sequences on iPhone for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-power-of-yi-4k-cameras/"><u>Exploring the Power of YI 4K Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-life-in-high-definition-on-a-budget-(1k/"><u>In 2024, Capture Life in High Definition on a Budget (<$1K)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/personalize-vr-gear-with-homemade-google-headgear/"><u>Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-battlefield-4-audio-issues-expert-guide-to-restoring-game-sounds/"><u>Solving Battlefield 4 Audio Issues: Expert Guide to Restoring Game Sounds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creativity-with-canons-time-lapse-capabilities/"><u>Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Visual Presentations  Implementing Title Overlays in Windows Photos\""
-date: 2024-12-21T18:23:10.153Z
-updated: 2024-12-29T00:46:42.705Z
+date: 2025-01-01T20:59:13.367Z
+updated: 2025-01-07T19:50:36.308Z
 tags: 
   - screen-recording
   - ai video
@@ -42,25 +42,17 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -74,6 +66,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -85,10 +81,14 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -97,7 +97,7 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -115,24 +115,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>[New] Easy-to-Follow Guide Leveraging Mobizen Screensaver</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-pro-level-pc-webcam-recorders-tested-in-windows-11/"><u>[New] In 2024, Pro-Level PC Webcam Recorders Tested in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-streamlining-captioning-processes-on-vimeo-videos/"><u>[Updated] Streamlining Captioning Processes on Vimeo Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>2024 Approved Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-a-strong-introduction-url/"><u>2024 Approved Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities-for-2024/"><u>29 Visionary Metaverse Projects Elucidating Potentialities for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-eyes-groundbreaking-respiration-tracking-capability-for-the-upcoming-vision-pro-smartwatch-sources-say-detailed-report/"><u>Apple Eyes Groundbreaking 'Respiration Tracking' Capability for the Upcoming Vision Pro Smartwatch, Sources Say - Detailed Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-boy-mastery-through-linux-scripting-and-commands/"><u>Game Boy Mastery Through Linux Scripting and Commands</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-the-full-potential-of-luts-in-adobe-premiere-pro/"><u>Harnessing the Full Potential of LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-many-seconds-is-a-20mb-video/"><u>How Many Seconds Is a 20Mb Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-budget-friendly-chinese-innovations-in-vr/"><u>In 2024, Budget-Friendly Chinese Innovations in VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-full-screen-in-ppro/"><u>Navigating Full Screen in PPro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nurturing-ai-relationships-our-top-choices-for-exceptional-prompt-makers/"><u>Nurturing AI Relationships: Our Top Choices for Exceptional Prompt Makers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/undamentals-of-income-for-t-series-on-youtube/"><u>The Fundamentals of Income for T-Series on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-x50-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor X50 Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precisioncapture-w10-pro/"><u>[New] 2024 Approved PrecisionCapture W10 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blissful-onboarding-guide-for-new-users/"><u>[New] Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>[New] Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-artful-depth-of-field-with-modern-tools/"><u>[Updated] Crafting Artful Depth of Field with Modern Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-moments-tips-for-creating-captivating-slow-motion-on-android/"><u>Enhancing Moments Tips for Creating Captivating Slow Motion on Android</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fast-track-to-fluency-dive-into-urdu-for-10-minsday/"><u>Fast Track to Fluency: Dive Into Urdu for 10 Mins/Day</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoid-blurry-scenes-zooming-in-on-google-meet/"><u>In 2024, Avoid Blurry Scenes Zooming In on Google Meet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-mp4-extraction-your-fb-video-fix/"><u>In 2024, Seamless MP4 Extraction – Your FB Video Fix</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-seamless-transition-from-skype-to-zoom-quick-tips/"><u>In 2024, Seamless Transition From Skype to Zoom Quick Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-x5-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco X5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-huawei-nova-y91-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Huawei Nova Y91 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Trim Videos with Flair in Windows 11 Photo Apps"
-date: 2024-12-22T05:26:11.469Z
-updated: 2024-12-29T08:23:02.125Z
+date: 2025-01-05T23:53:02.920Z
+updated: 2025-01-08T04:09:32.158Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -50,17 +46,21 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -76,7 +76,7 @@ Here comes the step by step guide to trim video in VLC –
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
@@ -94,7 +94,7 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,15 +112,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-electorate-engagement-experience-top-gaming-selections/"><u>[New] Electorate Engagement Experience Top Gaming Selections</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unleashing-the-potential-of-fb-videos-for-2024/"><u>[New] Unleashing the Potential of FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engaging-subjects-for-consistent-vlogging/"><u>[Updated] 2024 Approved Engaging Subjects for Consistent Vlogging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-set-17-software-solutions-for-clear-picture-edits/"><u>[Updated] Ideal Set 17 Software Solutions for Clear Picture Edits</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/composing-captivating-podcast-narratives/"><u>Composing Captivating Podcast Narratives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-recommendations-for-maximum-data-keep/"><u>Essential Recommendations for Maximum Data Keep</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photoshop-shake-control-necessary-tool-or-unnecessary/"><u>Photoshop Shake Control Necessary Tool or Unnecessary?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-revealed-maximizing-your-wireless-experience-with-the-linksys-ac1900-router/"><u>The Ultimate Revealed: Maximizing Your Wireless Experience with the Linksys AC1900 Router</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-instagrams-reverse-video-phenomenon/"><u>Understanding Instagram's Reverse Video Phenomenon</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-soundbanks-access-anytime-anywhere/"><u>[New] In 2024, FB Soundbanks Access Anytime, Anywhere</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calculating-best-podcast-debut-days/"><u>[Updated] Calculating Best Podcast Debut Days</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-easy-snapchat-videos-with-multiple-snaps/"><u>[Updated] In 2024, Step-by-Step Easy Snapchat Videos with Multiple Snaps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-instant-insight-into-colour-difference-filming-methods/"><u>[Updated] Instant Insight Into Colour Difference Filming Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>2024 Approved Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-websites-and-software-to-add-frames-to-photos/"><u>2024 Approved Best Websites and Software to Add Frames to Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>2024 Approved Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-music-management-win-media-and-cds/"><u>Pioneering Digital Music Management Win, Media and Cds</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-transferring-content-from-samsung-phone-to-laptoppc/"><u>Step-by-Step Guide to Transferring Content From Samsung Phone to Laptop/PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-forcing-a-windows-reboot-into-safe-mode/"><u>Step-by-Step Guide: Forcing a Windows Reboot Into Safe Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-accessing-and-using-androids-quick-setting-features/"><u>The Ultimate How-To: Accessing and Using Android's Quick Setting Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2024-12-28T11:04:08.572Z
-updated: 2024-12-28T18:46:22.734Z
+date: 2025-01-01T02:31:11.884Z
+updated: 2025-01-07T22:44:46.404Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -43,10 +39,6 @@ There is no need to spend hundreds of dollars on a video program if you need to 
 Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
@@ -61,7 +53,7 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
@@ -75,7 +67,7 @@ You can even create multiple versions of the file with the slow motion effect ap
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
@@ -90,6 +82,10 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -97,7 +93,7 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -105,6 +101,10 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -121,17 +121,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-android-techniques-old-to-new-video-format/"><u>[New] In 2024, Android Techniques Old to New Video Format</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-key-strategies-to-stream-and-record-youtube-events-for-2024/"><u>[New] Key Strategies to Stream and Record YouTube Events for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-storage-solutions-ps5s-top-10-external-units/"><u>2024 Approved Storage Solutions PS5's Top 10 External Units</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y100 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/30plus-futuristic-metaverse-musings-arvr-for-2024/"><u>30+ Futuristic Metaverse Musings [AR/VR] for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/caramel-cam-chronicles-in-depth-analysis-and-instructions-for-ice-cream-recording/"><u>Caramel Cam Chronicles In-Depth Analysis & Instructions for Ice Cream Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choreograph-comic-characters-for-2024/"><u>Choreograph Comic Characters for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing/"><u>Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a1-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A1 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-beginners-guide-to-editing-digits-in-tiktoks/"><u>In 2024, A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>In 2024, Crafting Spectacular HDR Images Blending Tips in Adobe Lightroom</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/vob-to-mp4-converter-gratis-fur-windows-und-mac-online-umwandlung-von-dvds/"><u>VOB to MP4 Converter Gratis Für Windows Und Mac: Online-Umwandlung Von DVDs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-list-of-cost-free-game-capture-tools/"><u>[New] 2024 Approved The Ultimate List of Cost-Free Game Capture Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[New] In 2024, Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-ios-apps-the-ultimate-psp-emulators-for-2024/"><u>[Updated] Excellent iOS Apps The Ultimate PSP Emulators for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exploring-your-choices-with-youtube-tv-plans-for-2024/"><u>[Updated] Exploring Your Choices with YouTube TV Plans for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ace-10-drones-for-photography-and-cinematic-prowess/"><u>2024 Approved Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-nintendo-switch-fighters-showdown-max-156/"><u>2024 Approved Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/archive-your-albums-in-the-sky-optimal-photo-cloud-storage-compared-for-2024/"><u>Archive Your Albums in the Sky Optimal Photo Cloud Storage Compared for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>In 2024, CastWithEase How to Make Livestreaming Your Podcast Effortless</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-serenity-of-silence-premier-asmr-talents/"><u>The Serenity of Silence Premier ASMR Talents</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-a-windows-pc/"><u>Top 5 Methods for Securing a Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-duration-analysis-for-a-20mb-file-size/"><u>Video Duration Analysis For a 20Mb File Size</u></a></li>
 </ul></div>
 

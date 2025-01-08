@@ -1,7 +1,7 @@
 ---
 title: "Decoding Automatic Clips in iMovie"
-date: 2024-12-25T21:50:25.264Z
-updated: 2024-12-29T07:32:50.956Z
+date: 2025-01-06T17:48:21.793Z
+updated: 2025-01-08T04:24:22.988Z
 tags: 
   - screen-recording
   - ai video
@@ -28,29 +28,17 @@ Suppose you choose to maintain the aspect ratio of your project. In that case, i
 
 I know that you always get irritated with this automatic crop feature. Well, you won't need to worry because, in this article, I will show you the best alternatives where you can edit your videos quickly, easily, and without an automatic crop feature. Keep reading as I offer you these below:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Video Editor #1:** [Wondershare Filmora](https://filmora.wondershare.net/filmora-video-editor.html?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQKOVFfUd5GCjVXhfA5LdcXeGhsNNecqqc%5FC%5FuiHuIn3%5F9jYNR%5FigFsaAmoGEALw%5FwcB) **– Overall Best**
 
 Are you seeking for a video editor that won't automatically crop your clips? Then, you are in the right place. Wondershare Filmora instantly imports your files without restricting any resolution. You can load and start editing your clips with any of your desired aspect ratios.
 
 Follow the steps below to begin making your video with Filmora:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #1: Begin by Going to Filmora and Selecting Your Desired Aspect Ratio.**
 
 Double-click Filmora's desktop icon once you're ready to start working on a new video. The welcome screen of the application will encourage you to create a new project or open an existing one. You can also choose the aspect ratio here to save time when editing.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step #2: Create a New Project**
 
@@ -60,6 +48,10 @@ After choosing New Project on the software's welcome screen, wait for the editor
 
 Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step #3: Import Your Files**
 
 You can find the Import button in the upper left corner of the film editor; click it and select Import Media Files. Next, go to the hard drive folder containing the item you want to modify. After choosing the video, audio, or photo files, you want to use in your project, click the Import option.
@@ -68,15 +60,15 @@ You can find the Import button in the upper left corner of the film editor; clic
 
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #4: Arrange Your Clips**
 
 The documents you import into Filmora will be stored under the Media tab, which you can find beneath the Load button. Working with multiple files in a single project becomes significantly more difficult when searching for the films and photographs you want to add to the timeline. To eliminate clutter and annoyance, use the My Album tool to create folders and organize your files.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the window's top right corner, click the Add a New Folder icon at the bottom of the "My Project" section. You can organize the footage numerically or in another method to increase your productivity and save time looking through files.
 
@@ -86,6 +78,10 @@ Because raw footage frequently has incorrect orbits that you don't need in your 
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
 ### **Step #6: Insert Effects**
@@ -93,10 +89,6 @@ Press Play or use the Spacebar to examine the video clips you've added to the ti
 After eliminating all the unwanted bits from your video clips, you may now separate the audio and video files, add music, make transitions between the segments, or apply one of Filmora's many graphic effects.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click the Text /Credit icon to add opening titles, end credits, or subtitles to your video. The software comes with several text templates that you can use for various purposes. Drag and drop the theme you want to use to the appropriate location on the timeline, then add the relevant text using the software's preview box.
 
@@ -125,7 +117,7 @@ The documents you import into Filmora will be stored under the Media tab, which 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the window's top right corner, click the Add a New Folder icon at the bottom of the "My Project" section. You can organize the footage numerically or in another method to increase your productivity and save time looking through files.
@@ -136,10 +128,14 @@ Because raw footage frequently has incorrect orbits that you don't need in your 
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step #6: Insert Effects**
@@ -158,11 +154,11 @@ After choosing New Project on the software's welcome screen, wait for the editor
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-2.jpg)
 
-Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
 
 ### **Step #3: Import Your Files**
 
@@ -173,7 +169,7 @@ You can find the Import button in the upper left corner of the film editor; clic
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Step #4: Arrange Your Clips**
@@ -192,10 +188,6 @@ Because raw footage frequently has incorrect orbits that you don't need in your 
 
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #6: Insert Effects**
 
 After eliminating all the unwanted bits from your video clips, you may now separate the audio and video files, add music, make transitions between the segments, or apply one of Filmora's many graphic effects.
@@ -212,7 +204,15 @@ After choosing New Project on the software's welcome screen, wait for the editor
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step #3: Import Your Files**
 
@@ -272,18 +272,22 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-favorite-frames-socials-1-8-vids/"><u>[New] 2024 Approved Favorite Frames Social's #1-#8 Vids</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-10-de-stress-fun-titles-for-playtime/"><u>[New] Best 10 De-Stress Fun Titles for Playtime</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-brief-guide-to-obscured-faces-on-piscart-platforms/"><u>[Updated] Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>2024 Approved ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey</u></a></li>
-<li><a href="https://win-tips.techidaily.com/alternative-13-platforms-to-imovie-for-enthusiastic-filmmakers/"><u>Alternative 13 Platforms to iMovie for Enthusiastic Filmmakers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blending-images-and-audio-for-dynamic-videos/"><u>Blending Images and Audio for Dynamic Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-the-selfie-security-on-insta-for-2024/"><u>Breaking Down the Selfie Security on Insta for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-and-engage-ifunny-meme-downloads/"><u>Explore & Engage IFunny Meme Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/feast-filming-101-essential-food-videography-skills/"><u>Feast Filming 101 Essential Food Videography Skills</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/macs-best-mkv-player-vendors/"><u>Mac's Best MKV Player Vendors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-key-to-gain-likes-in-tiktok-unpack-sessions/"><u>The Key to Gain Likes in TikTok Unpack Sessions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-techniques-for-enhancing-ark-scorched-earth-gameplay-with-a-frame-rate-upgrade/"><u>Top Techniques for Enhancing ARK: Scorched Earth Gameplay with a Frame Rate Upgrade</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-soaring-high-with-q500s-4k-vision/"><u>[New] 2024 Approved Soaring High with Q500's 4K Vision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[New] Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-best-8-private-video-downloaders/"><u>[Updated] 2024 Approved Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-budget-4k-cameras-for-beginners/"><u>[Updated] Budget 4K Cameras for Beginners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-cross-platform-shares-igtv-and-facebook/"><u>[Updated] In 2024, Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-30-camcorders-front-screen-first-thought/"><u>2024 Approved Top 30 Camcorders - Front Screen First Thought</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/charting-new-territory-after-magixs-acid-pro-for-2024/"><u>Charting New Territory After Magix's ACID Pro for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-overview-of-lightroom-on-android-devices/"><u>Detailed Overview of Lightroom on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-current-amd-gpu-drivers-on-windows-systems/"><u>Download and Install Current AMD GPU Drivers on Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fraps-for-gamers-a-screen-record-review-for-2024/"><u>Fraps for Gamers A Screen Record Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-step-by-step-guide-to-elevating-your-reddit-game/"><u>In 2024, Step-by-Step Guide to Elevating Your Reddit Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-20-inspirational-tunes-for-fitness-workouts/"><u>Top 20 Inspirational Tunes for Fitness Workouts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-affordable-gopro-camera-sales/"><u>Top Affordable GoPro Camera Sales</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-perceptions-with-virtual-tour-experiences/"><u>Transforming Perceptions with Virtual Tour Experiences</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-iphone-close-up-photographic-guide/"><u>Ultimate iPhone Close-Up Photographic Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-pairing-and-using-a-samsung-smartphone-as-a-tv-remote-control/"><u>Ultimate Tutorial: Pairing and Using a Samsung Smartphone as a TV Remote Control</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-android-games-funimate-pro-apk-deep-dive/"><u>Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
 </ul></div>
 
