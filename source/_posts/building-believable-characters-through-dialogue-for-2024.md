@@ -1,7 +1,7 @@
 ---
 title: "Building Believable Characters Through Dialogue for 2024"
-date: 2024-07-26T21:26:46.043Z
-updated: 2024-07-27T21:26:46.043Z
+date: 2025-01-12T04:06:31.146Z
+updated: 2025-01-14T12:14:20.362Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ The Narrative Script is a story. It consists of the whole narration of the story
 
 Both these types of script writing are essential to writing a successful storyline. At the same time, we use Dialogues in nearly every script. The Narrative Script is a vital type, especially if you want to make your storyline even more precise and exciting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Five Tips for Writing Dialogue and Narrative Scripts
 
 Now here are some essential tips for writing fantastic Dialogue and Narrative Scripts.
@@ -50,16 +47,21 @@ Now here are some essential tips for writing fantastic Dialogue and Narrative Sc
 
 One of the best tips for good scripting is to be natural; for it, you can look and take inspiration from your real life. Just note the behavior of people and the progress of the world around you. Record these experiences, which will help you provide a natural touch in your script.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Let each character have its voice and characteristics. Not a second you
 
 Sometimes when we write, we lose our concentration and write all the characters' dialogue in the same way. But it's not good because a good script always has consistency from start to end. You must write each character's dialogues in their own way and expression.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. No meaningless or only question-and-answer type dialogue
 
 If your dialogue script is only comprised of questions and answers, keep in mind that it won't be very interesting. Moreover, we sometimes compose talks that are meaningless, which is another serious issue. Focus on writing conversation in a balanced manner with meaningful usage to overcome these problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Control the rhythm of the conversations
 
@@ -73,9 +75,6 @@ Whenever you read something, you'll lose interest in it if the writer uses full 
 
 Check out the examples below of how great dialogue has impacted movies as an essential component of the script.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### **1\. The Man from Earth**
 
 Professor John Oldman's farewell party turns into a mysterious and interesting debate among colleagues after he asked strange question. It's an audio movie, but probably more like a stage play, that is, a single scene with multiple characters. Everyone gave their opinion on a single issue.
@@ -88,16 +87,10 @@ This movie teaches you how to explore the relationship between two characters in
 
 Although sounding cinematically natural, the conversation in the movie is absolutely real. They interrupt each other. Their thoughts follow different paths through different tangents.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **3\. Pulp Fiction**
 
 Films by Quentin Tarantino are notable for their dialogue. This is because he will not really waste any words when writing. Every word spoken has a function. He builds humor without making jokes. He calmly creates tension before exploding with menacing rage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Make your dialogue script come true using Filmora
 
 If you follow the advice given above and complete a dialogue or narrative script. It’s time to move on to the next step, make your script come true using the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). First, shoot your video with best dialogue or narrative plot.
@@ -108,9 +101,6 @@ If you follow the advice given above and complete a dialogue or narrative script
 
 Step1Now **Visit** the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Website and **Click** the **Download** Make sure the installation is complete, then you can create a **New Project**.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![download filmora software](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-1.jpg)
 
 Step2After uploading your video clips, you can use the split screen feature to make your video more dynamic. To do this, **Click** the arrow (>>) button, then **select** split screen. **Select** any split collage you like, then **drag** and **drop** to add it.
@@ -119,24 +109,18 @@ Step2After uploading your video clips, you can use the split screen feature to m
 
 Step3Besides, **tap** on the Effects option to select **AI Portraits** and choose any effect to make your video more fantastic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on effects option](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-3.jpg)
 
 Step4And you can **adjust** the effects settings. Just **double-click** to open setting options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![adjust effects settings](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5Don't want to type subtitles word by word? Then try out Filmora's strong feature [**Speech-to-Text**](https://tools.techidaily.com/wondershare/filmora/download/). With just one click, you may convert voice to subtitles. By using **speech-to-text**, you can greatly reduce the time spent transcribing subtitles and increase the effectiveness of your editing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![speech to text](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-5.jpg)
 
 Up to 16 different languages can be transcribed using Filmora. Filmora can translate any language, whether you speak English, Japanese, French, or another one.
@@ -149,9 +133,6 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
 
 Part 1\. What is Dialogue and Narrative Script?
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Definition**
 
 The Narrative Script is a story. It consists of the whole narration of the story by the writer. On the other hand, Dialogue Script is the talk between the characters. So you can say that the entire story of the script is Narrative writing and the discussions between characters are Dialogues.
@@ -160,9 +141,6 @@ The Narrative Script is a story. It consists of the whole narration of the story
 
 Both these types of script writing are essential to writing a successful storyline. At the same time, we use Dialogues in nearly every script. The Narrative Script is a vital type, especially if you want to make your storyline even more precise and exciting.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Five Tips for Writing Dialogue and Narrative Scripts
 
 Now here are some essential tips for writing fantastic Dialogue and Narrative Scripts.
@@ -172,27 +150,24 @@ Now here are some essential tips for writing fantastic Dialogue and Narrative Sc
 One of the best tips for good scripting is to be natural; for it, you can look and take inspiration from your real life. Just note the behavior of people and the progress of the world around you. Record these experiences, which will help you provide a natural touch in your script.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Let each character have its voice and characteristics. Not a second you
 
 Sometimes when we write, we lose our concentration and write all the characters' dialogue in the same way. But it's not good because a good script always has consistency from start to end. You must write each character's dialogues in their own way and expression.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### 3\. No meaningless or only question-and-answer type dialogue
 
 If your dialogue script is only comprised of questions and answers, keep in mind that it won't be very interesting. Moreover, we sometimes compose talks that are meaningless, which is another serious issue. Focus on writing conversation in a balanced manner with meaningful usage to overcome these problems.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Control the rhythm of the conversations
 
 Controlling the conversation is one of the essential tips. Primarily, our actual conversation doesn't complete. It means that we mix it with other dialogues without proper punctuation. Be careful about punctuation while writing conversations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Don't use full sentences that contain too much underlying meaning
 
@@ -202,25 +177,33 @@ Whenever you read something, you'll lose interest in it if the writer uses full 
 
 Check out the examples below of how great dialogue has impacted movies as an essential component of the script.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **1\. The Man from Earth**
 
 Professor John Oldman's farewell party turns into a mysterious and interesting debate among colleagues after he asked strange question. It's an audio movie, but probably more like a stage play, that is, a single scene with multiple characters. Everyone gave their opinion on a single issue.
 
 The reason for introducing this movie as the first example is that the screenwriter provided a perfect example. He showed you how to control a debate or discussion in a movie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### **2\. Before Sunrise**
 
 This movie teaches you how to explore the relationship between two characters in a single scene and through dialogue by focusing on their interaction.
 
 Although sounding cinematically natural, the conversation in the movie is absolutely real. They interrupt each other. Their thoughts follow different paths through different tangents.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Pulp Fiction**
 
 Films by Quentin Tarantino are notable for their dialogue. This is because he will not really waste any words when writing. Every word spoken has a function. He builds humor without making jokes. He calmly creates tension before exploding with menacing rage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Make your dialogue script come true using Filmora
 
@@ -232,9 +215,6 @@ If you follow the advice given above and complete a dialogue or narrative script
 
 Step1Now **Visit** the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Website and **Click** the **Download** Make sure the installation is complete, then you can create a **New Project**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![download filmora software](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-1.jpg)
 
 Step2After uploading your video clips, you can use the split screen feature to make your video more dynamic. To do this, **Click** the arrow (>>) button, then **select** split screen. **Select** any split collage you like, then **drag** and **drop** to add it.
@@ -247,21 +227,23 @@ Step3Besides, **tap** on the Effects option to select **AI Portraits** and choos
 
 Step4And you can **adjust** the effects settings. Just **double-click** to open setting options.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adjust effects settings](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5Don't want to type subtitles word by word? Then try out Filmora's strong feature [**Speech-to-Text**](https://tools.techidaily.com/wondershare/filmora/download/). With just one click, you may convert voice to subtitles. By using **speech-to-text**, you can greatly reduce the time spent transcribing subtitles and increase the effectiveness of your editing.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speech to text](https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-5.jpg)
 
 Up to 16 different languages can be transcribed using Filmora. Filmora can translate any language, whether you speak English, Japanese, French, or another one.
 
 Step6It is typically advised to select the most basic style for movie subtitles. After you're done, click Export, pick your preferred video format, and then click **Download**. Now your fantastic script video is successfully **saved** on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -289,7 +271,18 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>[New] Comprehensive Step-by-Step for YouTube Chapters The Complete Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-add-music-to-any-snapchat-video/"><u>[New] How to Add Music to Any Snapchat Video?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-designing-short-trailers-that-tell-a-story-for-2024/"><u>[Updated] Designing Short Trailers That Tell a Story for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-3d-lut-expertise-in-a-quick-learning-journey/"><u>2024 Approved 3D LUT Expertise in a Quick Learning Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-titles-in-after-effects-best-practices/"><u>Elevating Titles in After Effects Best Practices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harness-the-power-of-on-the-go-visual-adjustments/"><u>Harness the Power of On-the-Go Visual Adjustments</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fiscal-landmarks-understanding-mr-beasts-financial-growth/"><u>In 2024, Fiscal Landmarks Understanding Mr. Beast’s Financial Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisible-steam-collection/"><u>Invisible Steam Collection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-your-presence-masterful-morphvox-techniques/"><u>Perfect Your Presence Masterful MorphVOX Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-lg-monitor-drivers-in-windows-11-7-and-81/"><u>Step-by-Step Guide: Updating LG Monitor Drivers in Windows 11, 7, and 8.1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-editing-made-easy-how-to-proficiently-use-movie-maker-in-win11/"><u>Video Editing Made Easy How to Proficiently Use Movie Maker in Win11</u></a></li>
+</ul></div>
 

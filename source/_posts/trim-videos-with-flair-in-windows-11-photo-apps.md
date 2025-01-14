@@ -1,7 +1,7 @@
 ---
 title: "Trim Videos with Flair in Windows 11 Photo Apps"
-date: 2025-01-05T23:53:02.920Z
-updated: 2025-01-08T04:09:32.158Z
+date: 2025-01-10T09:33:43.856Z
+updated: 2025-01-13T19:11:03.083Z
 tags: 
   - screen-recording
   - ai video
@@ -45,22 +45,18 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/photos-trim.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: On the bottom part of the screen, there are three circles. The start and end of the markers clips are represented by two small white circles. For chopping off the unwanted portions you need to drag and adjust the marker circles. The movement of markers shows a text denoting the total selected length of the clip over the marker. The larger marker represents the present spot of your video clip. Make sure to drag around and adjust the video for including all the important parts within the video.
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -76,7 +72,7 @@ Here comes the step by step guide to trim video in VLC –
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
@@ -91,10 +87,14 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,19 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-soundbanks-access-anytime-anywhere/"><u>[New] In 2024, FB Soundbanks Access Anytime, Anywhere</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-calculating-best-podcast-debut-days/"><u>[Updated] Calculating Best Podcast Debut Days</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-easy-snapchat-videos-with-multiple-snaps/"><u>[Updated] In 2024, Step-by-Step Easy Snapchat Videos with Multiple Snaps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-instant-insight-into-colour-difference-filming-methods/"><u>[Updated] Instant Insight Into Colour Difference Filming Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>2024 Approved Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-websites-and-software-to-add-frames-to-photos/"><u>2024 Approved Best Websites and Software to Add Frames to Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/"><u>2024 Approved Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/overcoming-challenges-in-periscope-livestreams/"><u>Overcoming Challenges in Periscope Livestreams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-music-management-win-media-and-cds/"><u>Pioneering Digital Music Management Win, Media and Cds</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-to-transferring-content-from-samsung-phone-to-laptoppc/"><u>Step-by-Step Guide to Transferring Content From Samsung Phone to Laptop/PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-forcing-a-windows-reboot-into-safe-mode/"><u>Step-by-Step Guide: Forcing a Windows Reboot Into Safe Mode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-accessing-and-using-androids-quick-setting-features/"><u>The Ultimate How-To: Accessing and Using Android's Quick Setting Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-notable-industry-players-driving-vr-growth/"><u>[New] 2024 Approved Notable Industry Players Driving VR Growth</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-amusing-registration-journey/"><u>[New] Amusing Registration Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blend-unique-web-humor-freshly-made/"><u>[New] Blend Unique Web Humor Freshly Made</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-sing-your-own-song-with-an-iphone-ringtone-for-2024/"><u>[Updated] How to Sing Your Own Song with an iPhone Ringtone for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-capture-clash-go-obs-against-shadowgl/"><u>[Updated] In 2024, Video Capture Clash Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-androids-elite-selection-of-collage-apps/"><u>2024 Approved Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-overview-and-assessment-of-imo-messenger-features/"><u>Comprehensive Overview and Assessment of Imo Messenger Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-echoes-the-windows-choice/"><u>Elite Echoes The Windows Choice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-building-visual-story-arcs/"><u>In 2024, Building Visual Story Arcs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-luminous-transformations-for-android-videos-step-by-step/"><u>In 2024, Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-revitalize-video-interactions-simple-steps-to-a-filmmakers-anime-button/"><u>In 2024, Revitalize Video Interactions Simple Steps to a Filmmaker's Anime Button</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionizing-iphone-photography-with-hdr-techniques/"><u>Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sierra-unlocking-all-access-to-icloud-files-and-desktop/"><u>Sierra Unlocking All Access to iCloud Files and Desktop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-audio-fading-in-lumafusion-software-for-2024/"><u>Step-by-Step Audio Fading in Lumafusion Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-advanced-features-of-vlc-for-mac-users/"><u>Unveiling Advanced Features of VLC for Mac Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2025-01-01T04:19:56.686Z
-updated: 2025-01-07T23:21:39.263Z
+date: 2025-01-12T06:11:04.893Z
+updated: 2025-01-14T09:43:34.290Z
 tags: 
   - screen-recording
   - ai video
@@ -23,13 +23,13 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -39,10 +39,6 @@ Here are the main highlights of 1500 meter short track speed skating held at the
 Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
@@ -56,10 +52,6 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
@@ -68,10 +60,6 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
@@ -79,6 +67,10 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -93,6 +85,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -122,6 +118,10 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -135,17 +135,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-steps-for-crafting-visually-stimulating-fb-ad-content/"><u>[New] Steps for Crafting Visually Stimulating FB Ad Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-presentation-converters-for-clips-for-2024/"><u>[New] Top Presentation Converters for Clips for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-blur-selection-for-digital-imagery/"><u>[Updated] Advanced Blur Selection for Digital Imagery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-and-preserve-sound-on-windows-10/"><u>[Updated] Capture and Preserve Sound on Windows 10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-concealed-video-streaming-background-youtube-watch/"><u>[Updated] In 2024, Concealed Video Streaming Background YouTube Watch</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>[Updated] In 2024, Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-reimagining-game-logging-with-no-fbx-technology-for-2024/"><u>[Updated] Reimagining Game Logging with No-FBX Technology for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hand-tracking-mastery-all-methods-unveiled/"><u>Hand-Tracking Mastery All Methods Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-picture-deformation-on-streamed-videos/"><u>In 2024, Overcoming Picture Deformation on Streamed Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/meme-creation-at-its-peak-10-templates-unveiled/"><u>Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-screen-saver-issues-a-complete-fix-guide/"><u>Troubleshooting Windows 11 Screen Saver Issues: A Complete Fix Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-rise-of-vidma-transforming-the-landscape-of-capture-technology/"><u>[New] In 2024, The Rise of Vidma Transforming the Landscape of Capture Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>[Updated] Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[Updated] In 2024, The Complete Process Recording YouTube Livestream on Multiple Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-construct-share-worthy-graphics-on-giphy/"><u>2024 Approved Construct Share-Worthy Graphics on Giphy</u></a></li>
+<li><a href="https://win-bits.techidaily.com/el-ranking-definitivo-de-soluciones-de-copia-de-seguridad-por-clonacion-en-servidores-windows/"><u>El Ranking Definitivo De Soluciones De Copia De Seguridad Por Clonación en Servidores Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>In 2024, Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-an-aural-experience-for-previews/"><u>In 2024, Crafting an Aural Experience for Previews</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhancing-iphone-shots-employing-leading-lines/"><u>In 2024, Enhancing iPhone Shots Employing Leading Lines</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-android-video-brilliance-easy-procedures/"><u>In 2024, Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>In 2024, Upgrade Your iPhone Cinematic Experience Must-Have Equipment</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-approach-to-3d-text-in-photoediting/"><u>Innovative Approach to 3D Text in PhotoEditing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/melodic-mastery-for-game-dominance-in-free-fire/"><u>Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-sharing-strategies-insta-tik-tok-integration/"><u>Seamless Sharing Strategies Insta-Tik Tok Integration</u></a></li>
 </ul></div>
 

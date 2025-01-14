@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2025-01-03T16:58:26.032Z
-updated: 2025-01-08T02:18:41.943Z
+date: 2025-01-13T08:22:45.383Z
+updated: 2025-01-14T10:50:17.791Z
 tags: 
   - screen-recording
   - ai video
@@ -49,7 +49,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -57,10 +57,6 @@ The key light is the main light that illuminates the subject. You can place it i
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -77,16 +73,24 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -94,23 +98,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,20 +146,17 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-asmrs-role-in-better-nights-expert-vocal-guides/"><u>[New] ASMR's Role in Better Nights Expert Vocal Guides</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics-for-2024/"><u>[New] Winning Windows Animation The Best 9 Apps to Record Dynamic Graphics for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-10-virtual-world-games-on-ios-and-android/"><u>[Updated] Best 10 Virtual World Games on iOS & Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-laughter-legends-reviewing-goofy-in-the-vhs-era/"><u>2024 Approved 'Laughter Legends' Reviewing Goofy in the VHS Era</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher/"><u>2024 Approved Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/samsung-ssd/"><u>完全なクローニングで起動ディスクをSamsung SSDに移行する究極のソフトウェアガイド</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-video-changer-tools-reviewed-8-of-the-best-for-iphones-and-pcs-for-2024/"><u>Best Video Changer Tools Reviewed 8 of the Best for iPhones and PCs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-dynamic-action-sequences-on-iphone-for-2024/"><u>Capturing Dynamic Action Sequences on iPhone for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-power-of-yi-4k-cameras/"><u>Exploring the Power of YI 4K Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-life-in-high-definition-on-a-budget-(1k/"><u>In 2024, Capture Life in High Definition on a Budget (<$1K)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalize-vr-gear-with-homemade-google-headgear/"><u>Personalize VR Gear with Homemade Google Headgear</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-battlefield-4-audio-issues-expert-guide-to-restoring-game-sounds/"><u>Solving Battlefield 4 Audio Issues: Expert Guide to Restoring Game Sounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creativity-with-canons-time-lapse-capabilities/"><u>Unleash Creativity with Canon's Time-Lapse Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-stop-fbs-persistent-video-ad-popups/"><u>[Updated] 2024 Approved How to Stop FB's Persistent Video Ad Popups</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-broadcast-impact-with-these-5-tips-for-twitch-streamers/"><u>[Updated] In 2024, Elevate Your Broadcast Impact with These 5 Tips for Twitch Streamers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leveraging-videos-with-text-a-cost-free-approach/"><u>[Updated] Leveraging Videos with Text A Cost-Free Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-screens-ever-the-ultimate-top-ten/"><u>Best Screens Ever – The Ultimate Top Ten</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enjoy-unlimited-country-beats-learn-how-to-grab-free-tracks-and-stream-hit-videos-on-youtube/"><u>Enjoy Unlimited Country Beats: Learn How to Grab Free Tracks & Stream Hit Videos on YouTube!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite/"><u>Innovative Rhythms with the Magix Groove Master Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-issue-understanding-and-improving-your-hp-laptops-sluggishness/"><u>Resolving The Issue: Understanding & Improving Your HP Laptop’s Sluggishness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamlessly-integrate-apple-podcasts-into-your-routine/"><u>Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tomtom-adventurecam-2023-a-game-changer/"><u>TomTom AdventureCam 2023 A Game-Changer?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-macos-11-big-sur-transition-tips/"><u>Understanding macOS 11 Big Sur Transition Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-the-implications-of-altering-chatgpt/"><u>What Are the Implications of Altering ChatGPT?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2025-01-02T02:11:27.749Z
-updated: 2025-01-07T21:05:15.034Z
+date: 2025-01-12T05:07:53.758Z
+updated: 2025-01-14T02:32:56.624Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -43,7 +47,7 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
@@ -67,7 +71,7 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -81,13 +85,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -95,10 +99,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -115,21 +115,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-strategies-for-constructing-mcc-homes/"><u>[New] 2024 Approved Prime Strategies for Constructing MCC Homes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] In 2024, Online TV Downloading A Complete Recording Blueprint</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>[Updated] Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cinema-in-editing-10-snippet-selections/"><u>[Updated] Cinema in Editing 10 Snippet Selections</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp-for-2024/"><u>[Updated] Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-maestro-professional-photography-and-cinematography-techniques/"><u>2024 Approved From Novice to Maestro Professional Photography & Cinematography Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-out-visuals-from-video-to-still-images-in-windows-10/"><u>Cutting Out Visuals From Video to Still Images in Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>In 2024, Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-ios-photo-editors-to-eliminate-objects-effectively/"><u>In 2024, Best iOS Photo Editors to Eliminate Objects Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/language-labyrinth-luminaries-the-battle-of-brains-and-syntax/"><u>Language Labyrinth Luminaries: The Battle of Brains and Syntax</u></a></li>
-<li><a href="https://windows11.techidaily.com/matchmaking-the-ideal-nvidia-driver-with-entertainment-goals/"><u>Matchmaking The Ideal Nvidia Driver With Entertainment Goals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photo-flexibility-perfecting-image-reshaping-for-2024/"><u>Photo Flexibility Perfecting Image Reshaping for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pixel-powerhouse-expert-review-on-top-8k-tv-models/"><u>Pixel Powerhouse Expert Review on Top 8K TV Models</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo .</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tomtom-bandit-camera-exploration-reimagined/"><u>TomTom Bandit Camera Exploration Reimagined</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-why-your-scanner-wont-connect-with-pc-solutions-from-yl-computing/"><u>Troubleshooting: Why Your Scanner Won't Connect with PC - Solutions From YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-your-easy-guide-to-youtube-downloads-on-idevices/"><u>[New] 2024 Approved Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-brief-broadcasts-unpacked/"><u>[New] Facebook's Brief Broadcasts Unpacked</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-basic-strategy-revamping-fishy-windowspeak/"><u>[Updated] Basic Strategy Revamping Fishy Windowspeak</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>2024 Approved The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cadence-captors-embrace-free-online-tempo-apps/"><u>Cadence Captors – Embrace Free Online Tempo Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-ad-forecast-2024-essentials-you-cant-ignore/"><u>FB Ad Forecast 2024 Essentials You Can't Ignore</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>In 2024, Bringing Back Windows Photo Viewer A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pro-tools-for-non-pro-youtubers-for-2024/"><u>Pro Tools for Non-Pro YouTubers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quintessential-5-add-ons-for-sea-cameras/"><u>Quintessential 5 Add-Ons for Sea Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-for-incorporating-dynamic-narrations-in-media/"><u>The Blueprint for Incorporating Dynamic Narrations in Media</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-fusing-high-fidelity-audio-into-mp4-filmmaking/"><u>The Ultimate Guide to Fusing High-Fidelity Audio Into MP4 Filmmaking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-se-2022-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-video-editing/"><u>ดูวิดี오 และการปรุงภาพได้ - Movavi Video Editing ใหม่</u></a></li>
 </ul></div>
 
