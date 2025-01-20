@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2025-01-08T00:14:48.561Z
-updated: 2025-01-14T04:10:31.970Z
+date: 2025-01-14T16:49:55.026Z
+updated: 2025-01-20T16:10:10.923Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -41,14 +45,10 @@ Navigate to the folder where your video file is located and right click on it. Y
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2：Customizing the Slow Motion Effect
 
@@ -61,7 +61,7 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
@@ -87,7 +87,7 @@ Click on the “upload video” button so that it can be added into the database
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Output**
@@ -97,7 +97,7 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,24 +121,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-webcams-for-zoom/"><u>[New] Best Webcams for Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>[New] Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-become-a-snapboom-expert-in-minutes-for-2024/"><u>[Updated] Become a SnapBoom Expert in Minutes for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-script-to-splendor-animating-effects-unbound/"><u>2024 Approved From Script to Splendor Animating Effects Unbound</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/affordable-action-cams-for-beginners/"><u>Affordable Action Cams for Beginners</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-headlines-the-most-important-unspoken-tech-news/"><u>Beyond the Headlines: The Most Important Unspoken Tech News</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-perfection-iphone-x8plus-ultimate-lens-tools/"><u>Capture Perfection IPhone X/8+ Ultimate Lens Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/charting-a-new-course-for-creative-vr-content/"><u>Charting a New Course for Creative VR Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/combining-images-for-an-engaging-picture-panorama-for-2024/"><u>Combining Images for an Engaging Picture Panorama for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/create-a-single-gif-for-free-a-step-by-step-guide/"><u>Create a Single GIF for Free: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-pathway-to-fish-chatter-alteration-within-win-environment/"><u>Easy Pathway to Fish Chatter Alteration Within Win Environment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c12-plus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C12 Plus Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 11? Find the Best Solution Here</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckles-churner-visual-composer/"><u>In 2024, Chuckles Churner Visual Composer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/punpixel-producer/"><u>PunPixel Producer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-the-lg-bp350-visual-experience/"><u>Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trusted-6-platforms-supporting-biz-success-stories/"><u>2024 Approved Trusted 6 Platforms Supporting Biz Success Stories</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-down-the-barriers-effective-rtmp-streaming-in-premiere-for-2024/"><u>Breaking Down the Barriers Effective RTMP Streaming in Premiere for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools/"><u>Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enlightened-mind-games-general-knowledge/"><u>Enlightened Mind Games - General Knowledge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-in-gopro-gear-selection/"><u>First Steps in GoPro Gear Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ideal-systems-for-recording-and-streaming-athletic-competitions/"><u>In 2024, Ideal Systems for Recording and Streaming Athletic Competitions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210347733-9782226421517-philosopher-et-mediter-avec-les-enfants-edition-2022/"><u>Philosopher et méditer avec les enfants (édition 2022) | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-faster-ppt-video-engagement/"><u>Tips for Faster PPT Video Engagement</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wood-species-and-external-drying-conditions-can-significantly-influence-the-thermal-behavior-of-wood-during-processing/"><u>Wood Species and External Drying Conditions Can Significantly Influence the Thermal Behavior of Wood During Processing.</u></a></li>
 </ul></div>
 

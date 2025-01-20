@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Visual Magic  The Power of LUTs in AR Environments\""
-date: 2025-01-11T21:46:19.769Z
-updated: 2025-01-14T00:08:44.388Z
+date: 2025-01-13T16:35:03.570Z
+updated: 2025-01-20T16:54:14.782Z
 tags: 
   - screen-recording
   - ai video
@@ -29,11 +29,7 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -62,6 +58,10 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
@@ -78,6 +78,10 @@ Client filter pieces occasionally end up on the scrap heap. It was a poor Frost 
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Fur
 
 Here are the key building principles.
@@ -91,6 +95,10 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
@@ -98,7 +106,7 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -107,10 +115,6 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
@@ -118,7 +122,7 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
@@ -128,11 +132,7 @@ Given how beautifully Glitter Rain was received, I believed it would be fitting 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Closing Thoughts
@@ -169,22 +169,14 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/21-vegas-pro-insights-an-expert-breakdown/"><u>'21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-avoiding-common-pitfalls-in-drone-battery-choices/"><u>[New] Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mac-studios-for-top-quality-recordings/"><u>[Updated] In 2024, Mac Studios for Top-Quality Recordings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-media-recorder-disassembler/"><u>[Updated] Media Recorder Disassembler</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-ae-text-and-title-styles-guide/"><u>2024 Approved AE Text & Title Styles Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ace-subtitles-conversion-the-best-free-services-listed-for-2024/"><u>Ace Subtitles Conversion The Best Free Services Listed for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-hands-on-vr-gear-lists/"><u>Essential Hands-On VR Gear Lists</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-10-prime-microphones-for-podcasting/"><u>In 2024, Discovering 10 Prime Microphones for Podcasting</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a23-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A23 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-quest-mechanics-mastered/"><u>Kratos Quest: Mechanics Mastered</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/overcoming-handheld-vibration-secure-your-gopro-movies/"><u>Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/precision-tools-17-excellent-options-for-image-edits/"><u>Precision Tools 17 Excellent Options for Image Edits</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-steps-to-check-and-validate-game-data-when-launch-error-occurs/"><u>Resolved! Steps to Check and Validate Game Data When Launch Error Occurs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/simplified-guide-to-stories-mechanics/"><u>Simplified Guide to Stories' Mechanics</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-rainbow-six-siege-keeps-failing-to-start/"><u>Solving the Issue: Why Rainbow Six Siege Keeps Failing to Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-to-restore-your-steamvr-experience-swiftly/"><u>Step-by-Step Fixes to Restore Your SteamVR Experience Swiftly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-focusing-on-roblox-elements-closeup/"><u>The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-3d-blu-ray-players/"><u>2024 Approved Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-your-unresponsive-iphone-screen-here-are-7-potential-causes/"><u>Baffled by Your Unresponsive iPhone Screen? Here Are 7 Potential Causes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/downloading-soundtrails-easily-how-to-add-apple-podcasts-on-ios/"><u>Downloading Soundtrails Easily How to Add Apple Podcasts on iOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-6-choices-for-cost-effective-4k-projection/"><u>Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ringers-paradise-top-downloads-for-skype-sounds/"><u>Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-affordable-online-passport-photo-services/"><u>The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-online-platforms-for-live-sports/"><u>Top 5 Complimentary Online Platforms for Live Sports</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
 </ul></div>
 

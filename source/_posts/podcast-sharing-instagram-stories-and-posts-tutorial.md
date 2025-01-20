@@ -1,7 +1,7 @@
 ---
 title: "\"Podcast Sharing  Instagram Stories & Posts Tutorial\""
-date: 2025-01-09T14:17:07.753Z
-updated: 2025-01-13T21:08:43.672Z
+date: 2025-01-17T17:04:19.288Z
+updated: 2025-01-20T16:55:15.979Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ In this article, you will learn the best ways to use Hashtags to blow up overnig
 ## Part 1\. Is It Possible to Upload a Podcast on Instagram?
 
 Yes, It is possible! Even though Instagram is primarily a visual social media site. There are a few techniques to use the Stories, Videos, and Pictures Instagram formats to post your podcast. This article will outline the tips to promote a podcast on Instagram successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Why Should We Post Podcast on Instagram?
 
@@ -70,7 +66,7 @@ The player screen provides all the controls for playing the episode and interact
 ![tap on the share button](https://images.wondershare.com/filmora/article-images/2023/04/share-podcast-through-spreaker-podcast-player.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3Select Instagram Story
@@ -108,10 +104,6 @@ Your Story will then add the Link and be prepared for public viewing. Your story
 **Note:** You can also share a complete podcast by checking for the share button on the podcast screen rather than the player screen.
 
 ![share instagram story](https://images.wondershare.com/filmora/article-images/2023/04/share-a-complete-podcast-on-instagram-story.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### #2 Upload a snippet of the podcast
 
@@ -161,6 +153,10 @@ Here, choosing colors for your podcast's brand will be quite helpful. Why? So wh
 
 ![color scheme for instagram feed](https://images.wondershare.com/filmora/article-images/2023/04/color-scheme-for-instagram-feed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, you may choose green and earth tones for a cottagecore podcast about rural life instead of a crime podcast, which would work well with mysterious, dark colors.
 
 **ChatGPT is Now Available in Filmora！** Filmora now offers a ChatGPT plug-in to provide a more inspirational copywriting experience.
@@ -169,17 +165,9 @@ For example, you may choose green and earth tones for a cottagecore podcast abou
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Tip 4\. Post consistently
 
 In a nutshell, consistency is important with Instagram. There is consistency when it comes to how frequently, when, and what kind of content you post. Your posts should ideally be made regularly enough for your followers to know when to expect new content from you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### #4 Post your video podcasts to IGTV
 
@@ -203,13 +191,13 @@ Include a call to action asking your followers to visit your bio and click the l
 
 **Note:** As you release each new episode, ensure the links are up to date so your fans can easily access them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. More Choices for Promoting Podcasts on IG
 
 You get almost all free-way tips. But now, it's time to reveal some top rankings tips to boot up in minutes. Scroll more, and you'll get hidden ways of Instagram to invest and enjoy the fruit. Let's start with this:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Invest in sponsored content for your podcast on Instagram
 
@@ -221,13 +209,13 @@ Depending on your goals, you can pay anywhere from 20 cents to $2 CPM (cost per 
 
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You'll note that advertisements are sold the same way ads for your podcast are sold.
 
 By making your post a sponsored commercial, you may direct visitors to your website, much like the swipe-up function of Instagram Stories.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add hashtags to spice up your IG feed for podcasts
 
@@ -236,6 +224,10 @@ By making your post a sponsored commercial, you may direct visitors to your webs
 Create a unique hashtag for your podcast and use it whenever you publish or when your guests share anything connected to it. It will compile all your material into one place, directing users to all posts mentioning your podcast whenever they click on your hashtag.
 
 ![podcast has over 9m posts on instagram](https://images.wondershare.com/filmora/article-images/2023/04/podcast-post-on-instagram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Make your hashtag**
 
@@ -273,6 +265,10 @@ While some of these tips could be more effective for you than others. Feel free 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. 5 Tested FREE Ways to Share a Podcast on Instagram
 
@@ -357,6 +353,10 @@ Select "**Share**" and then publish Link. Share the **snippet** with multiple fe
 
 ![snippet of podcast on instagram](https://images.wondershare.com/filmora/article-images/2023/04/snippet-of-podcast-on-instagram.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You can trim off any video segment**.** You may share videos longer than 60 seconds on Instagram thanks to the "**IGTV**" feature.
@@ -396,7 +396,7 @@ For example, you may choose green and earth tones for a cottagecore podcast abou
 In a nutshell, consistency is important with Instagram. There is consistency when it comes to how frequently, when, and what kind of content you post. Your posts should ideally be made regularly enough for your followers to know when to expect new content from you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### #4 Post your video podcasts to IGTV
@@ -406,10 +406,6 @@ Instagram just introduced the IGTV function, which allows users to submit movies
 You can also publish a blooper reel or other content that will support the blooper video or other content that will attract your audience to pay attention to what you have to say.
 
 ![video podcast on igtv](https://images.wondershare.com/filmora/article-images/2023/04/video-podcast-on-igtv.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Did You Know?** Most Instagram users log in regularly, and one-third of fans watch multiple times daily, making IGTV the ideal medium for promoting your podcast.
 
@@ -424,10 +420,6 @@ Include a call to action asking your followers to visit your bio and click the l
 ![note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** As you release each new episode, ensure the links are up to date so your fans can easily access them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. More Choices for Promoting Podcasts on IG
 
@@ -447,6 +439,10 @@ Depending on your goals, you can pay anywhere from 20 cents to $2 CPM (cost per 
 
 By making your post a sponsored commercial, you may direct visitors to your website, much like the swipe-up function of Instagram Stories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add hashtags to spice up your IG feed for podcasts
 
 "**Hashtag**" was a popular term during the time social media was first being started. But learning how to utilize it effectively is helpful when marketing your company or spreading your identity to a bigger audience.
@@ -462,6 +458,10 @@ Create a unique hashtag for your podcast and use it whenever you publish or when
 It can compile all of your material into one place, directing users to all posts mentioning your podcast whenever they click on your hashtag.
 
 ![a double dose includes their own hashtag on every post](https://images.wondershare.com/filmora/article-images/2023/04/podcast-hashtag-on-instagram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Use other Hashtags**
 
@@ -512,24 +512,24 @@ While some of these tips could be more effective for you than others. Feel free 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-determining-maximum-videos-on-a-64gb-device/"><u>[New] In 2024, Determining Maximum Videos on a 64GB Device</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-advanced-visual-techniques-with-version-22-vce/"><u>[New] In 2024, Mastering Advanced Visual Techniques with Version 2.2 VCE</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-superheroes-clash-black-vs-silver/"><u>[New] Superheroes Clash BLACK vs SILVER</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>[Updated] 2024 Approved A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-ambitions-scouting-the-ultimate-10-songs-for-podcasts/"><u>2024 Approved Auditory Ambitions Scouting the Ultimate 10 Songs for Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-choose-your-winner-dji-gopro-max-instax-x3/"><u>2024 Approved Choose Your Winner DJi, GoPro Max, Instax X3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-classic-14-animation-designs-with-text/"><u>2024 Approved Classic 14 Animation Designs with Text</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-in-class-androids-cloud-storage-companions-for-2024/"><u>Best in Class Android's Cloud Storage Companions for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-creative-audigy-hdmi-sound-drivers-for-optimal-performance-in-windows-10-system/"><u>Find and Install Creative Audigy HDMI Sound Drivers for Optimal Performance in Windows 10 System</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>In 2024, Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-in-class-mkv-player-for-pc-users/"><u>In 2024, Best-in-Class MKV Player for PC Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a2-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A2</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-player-guide-to-live-recording/"><u>In 2024, The Ultimate Player Guide to Live Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unnoticed-consumers-of-fb-stories/"><u>In 2024, Unnoticed Consumers of Fb Stories</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/joke-juggernauts-top-ranked-text-based-jokesters/"><u>Joke Juggernauts Top Ranked Text-Based Jokesters</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/steps-to-fix-c1900101-issue-when-installing-windows-11/"><u>Steps to Fix C1900101 Issue When Installing Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-comparison-selecting-the-perfect-tablet-by-screen-size-and-weight/"><u>Ultimate Comparison: Selecting the Perfect Tablet by Screen Size & Weight</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/wave-warriors-cam-selection-best-surf-gear-2023/"><u>Wave Warriors' Cam Selection - Best Surf Gear 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-ig-video-trends-building-your-next-marketing-plan/"><u>[New] 2024 Approved Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-websites-and-software-to-add-frames-to-photos/"><u>[New] Best Websites and Software to Add Frames to Photos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>[New] Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easy-access-guide-skype-audio-to-mp3-free-for-2024/"><u>[Updated] Easy-Access Guide Skype Audio to Mp3, Free for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur/"><u>[Updated] The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>2024 Approved Crafting Conversational Magic How to Write Podcast Scripts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoiding-unwanted-shaking-in-dynamic-gopro-footage-for-2024/"><u>Avoiding Unwanted Shaking in Dynamic GoPro Footage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-srt-mods-ultimate-upgrades-for-macwindows-for-2024/"><u>Best SRT Mods Ultimate Upgrades for Mac/Windows for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/digital-transform-adjust-aspect-ratios-easily/"><u>Digital Transform Adjust Aspect Ratios Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diversify-income-through-side-projects-like-chatgpt-and-master-pc-assembly-techniques/"><u>Diversify Income Through Side Projects Like ChatGPT, and Master PC Assembly Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-celebrated-list-top-15-classic-stop-motion-flicks/"><u>In 2024, A Celebrated List Top 15 Classic Stop-Motion Flicks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-zoom-pro-navigating-the-best-practices-for-snaps-in-snapchat/"><u>In 2024, Become a Zoom Pro Navigating the Best Practices for Snaps in Snapchat</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-your-connection-with-asus-rt-ac88u-gaming-router-an-expert-review/"><u>Mastering Your Connection with Asus RT-AC88U Gaming Router - An Expert Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-perfect-prose-exploring-apps-for-image-text-edits-for-2024/"><u>Picture Perfect Prose Exploring Apps for Image Text Edits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-touch-ups-for-your-tiktok-media/"><u>Professional Touch-Ups for Your TikTok Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-definitive-list-high-quality-costless-lut-options-explored/"><u>The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://solve-info.techidaily.com/the-story-behind-shenys-literary-journey-a-comprehensive-author-profile/"><u>The Story Behind Sheny's Literary Journey - A Comprehensive Author Profile</u></a></li>
 </ul></div>
 

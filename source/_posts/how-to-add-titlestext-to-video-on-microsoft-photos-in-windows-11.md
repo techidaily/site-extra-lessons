@@ -1,7 +1,7 @@
 ---
 title: "How to Add Titles/Text to Video on Microsoft Photos in Windows 11"
-date: 2025-01-12T05:07:53.758Z
-updated: 2025-01-14T02:32:56.624Z
+date: 2025-01-13T16:26:13.917Z
+updated: 2025-01-20T16:34:40.162Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -46,18 +42,22 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -70,28 +70,28 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -115,20 +115,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-your-easy-guide-to-youtube-downloads-on-idevices/"><u>[New] 2024 Approved Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-brief-broadcasts-unpacked/"><u>[New] Facebook's Brief Broadcasts Unpacked</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-basic-strategy-revamping-fishy-windowspeak/"><u>[Updated] Basic Strategy Revamping Fishy Windowspeak</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[Updated] Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-immersion-guide-to-lgs-360-vr-headset/"><u>2024 Approved The Ultimate Immersion Guide to LG's 360 VR Headset</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cadence-captors-embrace-free-online-tempo-apps/"><u>Cadence Captors – Embrace Free Online Tempo Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-endorsed-techniques-for-iphone-audio-retrieval/"><u>Expert-Endorsed Techniques for iPhone Audio Retrieval</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-ad-forecast-2024-essentials-you-cant-ignore/"><u>FB Ad Forecast 2024 Essentials You Can't Ignore</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>In 2024, Bringing Back Windows Photo Viewer A Quick Guide for Win 11 Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pro-tools-for-non-pro-youtubers-for-2024/"><u>Pro Tools for Non-Pro YouTubers for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quintessential-5-add-ons-for-sea-cameras/"><u>Quintessential 5 Add-Ons for Sea Cameras</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-blueprint-for-incorporating-dynamic-narrations-in-media/"><u>The Blueprint for Incorporating Dynamic Narrations in Media</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-fusing-high-fidelity-audio-into-mp4-filmmaking/"><u>The Ultimate Guide to Fusing High-Fidelity Audio Into MP4 Filmmaking</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-se-2022-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavi-video-editing/"><u>ดูวิดี오 และการปรุงภาพได้ - Movavi Video Editing ใหม่</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-5-rapid-setup-techniques-for-home-cinematography/"><u>[New] Best 5 Rapid Setup Techniques for Home Cinematography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-in-class-music-video-platforms/"><u>[New] Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-to-facebook-from-dji-drone/"><u>[New] In 2024, How to Live Stream to Facebook From DJI Drone?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premium-podcast-partners-in-academia/"><u>[New] In 2024, Premium Podcast Partners in Academia</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>[Updated] 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>[Updated] Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online-for-2024/"><u>Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-downgrade-monitor-muted/"><u>Drive Downgrade: Monitor Muted</u></a></li>
+<li><a href="https://win11.techidaily.com/how-artificial-intelligence-is-revolutionizing-windows-software/"><u>How Artificial Intelligence Is Revolutionizing Windows Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-4k-tvs-top-ten-selection/"><u>In 2024, Best 4K TVs Top Ten Selection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inshot-unpacked-editors-edition-detailed-review/"><u>InShot Unpacked Editor's Edition Detailed Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inverted-screen-changing-video-ordering/"><u>Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/logitech-g-pro-x-review-redefining-sound-in-games/"><u>Logitech G Pro X Review: Redefining Sound in Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shades-of-genius-3-proven-tricks-for-color-correction-success/"><u>Shades of Genius 3 Proven Tricks for Color Correction Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/srt-file-handling-on-cross-platform-operating-systems-for-2024/"><u>SRT File Handling on Cross-Platform Operating Systems for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swedish-sound-system-decoded-quickly/"><u>Swedish Sound System Decoded Quickly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-new-era-of-capturing-life-with-updated-lg-360-cameras/"><u>The New Era of Capturing Life with Updated LG 360 Cameras</u></a></li>
 </ul></div>
 

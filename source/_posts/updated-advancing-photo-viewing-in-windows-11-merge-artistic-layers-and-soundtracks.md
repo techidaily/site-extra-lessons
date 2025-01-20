@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks\""
-date: 2025-01-07T03:25:26.417Z
-updated: 2025-01-14T10:07:09.535Z
+date: 2025-01-19T17:04:47.660Z
+updated: 2025-01-20T16:39:13.073Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -49,17 +49,21 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
-**Step 5**: Just select one you like. Preview it and then click Done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -73,29 +77,25 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,21 +112,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-aesthetic-with-controlled-lighting-for-2024/"><u>[Updated] Crafting the Perfect Aesthetic with Controlled Lighting for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>[Updated] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-zoom-streaming-tutorial-on-youtube/"><u>2024 Approved Comprehensive Zoom Streaming Tutorial on YouTube</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/blu-ray-vs-dvd-a-comprehensive-guide-to-choosing-your-optical-media/"><u>Blu-Ray Vs. DVD - A Comprehensive Guide to Choosing Your Optical Media</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-your-phone-for-virtual-world-explorations/"><u>Harnessing Your Phone for Virtual World Explorations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/health-communication-winning-on-social-networks/"><u>Health Communication Winning on Social Networks</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x8b-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X8b Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-amplifying-obs-visual-appeal-with-free-high-quality-luts/"><u>In 2024, Amplifying OBS Visual Appeal with Free, High-Quality LUTs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-mouse-and-trackpad-configuration-expert-advice-from-yl-software-professionals/"><u>Mastering Mouse & Trackpad Configuration: Expert Advice From YL Software Professionals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/securing-privacy-efficient-blur-techniques-in-images/"><u>Securing Privacy Efficient Blur Techniques in Images</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steering-clear-of-crash-code-9999-in-win-based-audacity-software/"><u>Steering Clear of Crash Code 9999 in Win-Based Audacity Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-competition-how-mistral-ais-le-chat-stacks-up-to-chatgpt/"><u>Unveiling the Competition: How Mistral AI's Le Chat Stacks Up to ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/windows-11-microphone-use-for-high-quality-recordings/"><u>Windows 11 Microphone Use for High-Quality Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ppt-presentations-with-verbal-narration-guide-for-2024/"><u>[New] PPT Presentations with Verbal Narration Guide for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enjoy-premium-video-artwork-download-at-no-cost-today-in-2024/"><u>[Updated] Enjoy Premium Video Artwork - Download at No Cost Today, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-recording-to-revealing-uploading-high-quality-vr-on-fb/"><u>[Updated] In 2024, From Recording to Revealing Uploading High-Quality VR on FB</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-optimize-your-social-media-videos-on-fb-with-the-right-ratio-for-2024/"><u>[Updated] Optimize Your Social Media Videos on FB with the Right Ratio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stunning-celestinas-and-skies-online-directory/"><u>[Updated] Stunning Celestinas and Skies Online Directory</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-broadcast-battle-obs-against-wirecast/"><u>2024 Approved Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-feed-instagram-collages-made-simple/"><u>Boost Your Feed Instagram Collages Made Simple</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-phones-to-cameras-a-guide-to-diy-video-capturing-for-2024/"><u>From Phones to Cameras A Guide to DIY Video Capturing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-online-gif-to-tiff/"><u>Movavi가 제공하는 원금 없이 Online GIF to TIFF 변환 - 단정한 지원</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-3d-font-archives-online/"><u>Premier 3D Font Archives Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-hdr-strategies-for-photography-novices/"><u>Simplified HDR Strategies for Photography Novices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-correcting-display-abnormalities-in-computers/"><u>Step-by-Step Solutions for Correcting Display Abnormalities in Computers</u></a></li>
 </ul></div>
 

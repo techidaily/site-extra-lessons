@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Breakdown of Yi's Ultra HD Action"
-date: 2025-01-07T02:38:16.163Z
-updated: 2025-01-13T18:50:59.918Z
+date: 2025-01-13T17:24:39.096Z
+updated: 2025-01-20T17:26:57.988Z
 tags: 
   - screen-recording
   - ai video
@@ -115,7 +115,7 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,7 +125,7 @@ Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolutio
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,20 +143,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-masterpieces-come-to-life-with-top-photo-frame-tools-for-2024/"><u>[Updated] Masterpieces Come to Life with Top Photo Frame Tools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-securely-capturing-and-storing-itunes-media-content/"><u>[Updated] Securely Capturing and Storing iTunes Media Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-guide-3-step-process-to-video-talk-via-snapchat/"><u>2024 Approved Quick Guide 3-Step Process to Video Talk via Snapchat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/embarking-on-a-listening-odyssey-adding-podcasts-to-itunes-via-ios/"><u>Embarking on a Listening Odyssey Adding Podcasts to iTunes via iOS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel A70 Bootloader Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-overseas-vr-headsets-china/"><u>In 2024, Affordable Overseas VR Headsets (China)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chucklechisel-app/"><u>In 2024, ChuckleChisel App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-papal-office-of-pope-francis-equipped-with-email-services/"><u>Is the Papal Office of Pope Francis Equipped with Email Services?</u></a></li>
-<li><a href="https://facebook.techidaily.com/mass-perception-the-downside-of-online-communities/"><u>Mass Perception: The Downside of Online Communities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-srt-and-mp4-fusion-the-ultimate-guide/"><u>Seamless SRT & MP4 Fusion – The Ultimate Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/total-zen-closing-virtual-horizons/"><u>Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-memelife-top-meme-creator-tool-download/"><u>Ultimate Memelife Top Meme Creator Tool Download</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yearly-profit-numbers-for-pewdiepie/"><u>Yearly Profit Numbers for PewDiePie</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enhancing-engagement-on-video-calls-using-snap-features/"><u>[New] In 2024, Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[Updated] 2024 Approved Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-look-into-magix-graphic-designer/"><u>[Updated] A Look Into MAGIX Graphic Designer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamline-your-videos-with-these-titans/"><u>[Updated] Streamline Your Videos with These Titans</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>2024 Approved Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-every-corner-of-youtube-a-detailed-comment-guide/"><u>Exploring Every Corner of YouTube A Detailed Comment Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-graphic-design-careers-successfully/"><u>Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/online-gag-artist/"><u>Online Gag Artist</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-performance-issues-ultimate-guide/"><u>Resolving Minecraft Performance Issues: Ultimate Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-telegram-a-comprehensive-guide/"><u>Understanding Telegram: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
 </ul></div>
 
