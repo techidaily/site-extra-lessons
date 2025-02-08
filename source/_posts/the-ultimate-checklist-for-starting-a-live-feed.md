@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist for Starting a Live Feed"
-date: 2025-01-20T16:26:51.248Z
-updated: 2025-01-26T17:34:21.172Z
+date: 2025-02-04T23:06:58.963Z
+updated: 2025-02-08T06:30:37.021Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ There are many different things to keep in mind and in this article, we will tal
 Now you know the basics, let's get started!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What camera do you need?
@@ -41,7 +41,7 @@ Panasonic LUMIX GH4
 A camcorder or webcam will work perfectly for live streaming as long as the camera able to shoot at a minimum of 720p HD, 24fps. It's totally fine to start off with the webcam on your laptop, or a better webcam. I have used the Logitech C922 for streaming and it works like a charm. The Mevo Plus helps you on great quality when you use a mobile device. After that you run your program into a software such as OBS where you can apply filters to improve your image, which you will be using to also live stream onto the actual platform such as YouTube or Twitch. A plus is that you don't need a memory card for streaming as you're not recording on the camera itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. What microphone do you need?
@@ -53,7 +53,7 @@ USB microphones are the best choice for at-home streaming. Fanatics will rather 
 Budget microphones give you great streaming quality. The only downside is that they lack certain features like a mute button and voltage/gain controls, which forces you to find another solution to make up for that such as using plugins in your streaming software to give more gain to your microphone and or use hotkeys to mute.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. What streaming software do you need?
@@ -66,10 +66,6 @@ OBS Studio is open-source software used for recording and streaming. It is free 
 
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you are prepared to devote time to learning its functionality, OBS Studio has a lot more strength than most of the other free software, that's why it is so popular under content creators. You will also find other plugins that people have created to add to OBS Studio's functionality and flexibility to enhance your recording or streaming experience.
 
 **Streamlabs**
@@ -79,7 +75,7 @@ Streamlabs was originally a live streaming tool that streamers use with other li
 ![streamlabs](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Nvidia ShadowPlay**
@@ -87,6 +83,10 @@ Streamlabs was originally a live streaming tool that streamers use with other li
 Nvidia ShadowPlay is designed for gamers and comes combined with Nvidia GeForce graphics cards. It allows people to stream high-quality livestreams and videos. It's suitable for platforms such as Facebook Live, YouTube and Twitch.
 
 ![nivdia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ShadowPlay's DVR-style Instant Replay mode can be used by pressing a hotkey to save the last 30 seconds of your content to your hard drive or share to Twitch or YouTube. You can manually record videos for as long as you like because ShadowPlay is hardware accelerated. You can make up to a 15-second GIFs from your ShadowPlay video to ceate highlights, edit them afterwards with color grading effects, adding music, text, and upload it to Facebook, YouTube or Vimeo.
 
@@ -158,20 +158,16 @@ Live streaming is quite a wide topic, and each streaming experience is different
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-efficiently-establish-your-zoom-space/"><u>[New] 2024 Approved Efficiently Establish Your Zoom Space</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] In 2024, Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-combining-youtube-harmonies-in-moving-images/"><u>[Updated] Combining YouTube Harmonies in Moving Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guerrilla-marketing-for-youtube-upping-video-traffic/"><u>[Updated] In 2024, Guerrilla Marketing for YouTube Upping Video Traffic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-face-off-gemini-versus-chatgpt-plus-for-enhanced-interaction/"><u>Chatbot Face-Off: Gemini Versus ChatGPT Plus for Enhanced Interaction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/crafting-unique-snapchat-experiences-with-120plus-innovative-ideas-for-personal-stories-for-2024/"><u>Crafting Unique Snapchat Experiences with 120+ Innovative Ideas for Personal Stories for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cyber-odyssey-charting-new-territories-with-top-sci-fi-flicks/"><u>Cyber Odyssey Charting New Territories with Top Sci-Fi Flicks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-sales-opening-plans/"><u>In 2024, Boost Your Sales Opening Plans</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx930dll-file-not-detected-or-absent-issue/"><u>Resolving the d3dx9_30.dll File Not Detected or Absent Issue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/skys-best-the-ultimate-hd-collection-websites/"><u>Sky's Best - The Ultimate HD Collection Websites</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/tailored-transfer-process-for-mobile-camera-roll-on-snapchat/"><u>Tailored Transfer Process for Mobile Camera Roll on Snapchat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-best-video-editing-software-for-windows-enthusiasts-revealed/"><u>The Best Video Editing Software For Windows Enthusiasts Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-budget-friendly-high-definition-action-cams/"><u>Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chucklecrafts-create-meme-delight/"><u>[New] ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-effortless-way-to-personalize-your-youtube-channel-url/"><u>[New] In 2024, Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips/"><u>[New] In 2024, Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-guide-to-finding-clean-high-quality-images/"><u>[New] In 2024, Guide to Finding Clean, High-Quality Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchatting-humor-15-must-have-funny-gifs/"><u>[New] In 2024, Snapchatting Humor 15 Must-Have Funny GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-selective-softness-in-mobile-photography/"><u>2024 Approved Advanced Selective Softness in Mobile Photography</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-layout-layers-a-guide-to-organizing-online-videos/"><u>2024 Approved Layout Layers A Guide to Organizing Online Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-visuals-what-sets-360-apart-in-2024/"><u>Comprehensive Visuals What Sets 360° Apart, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-motorola-razr-40-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Motorola Razr 40? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-your-gametime-with-9-platforms/"><u>Streamline Your Gametime with #9 Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-10-affordable-online-communication-apps-for-video-calls/"><u>Top 10 Affordable Online Communication Apps for Video Calls</u></a></li>
 </ul></div>
 

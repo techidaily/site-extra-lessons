@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate How-To on Using Voice Input in Google Docs\""
-date: 2024-07-26T21:14:23.447Z
-updated: 2024-07-27T21:14:23.447Z
+date: 2025-02-07T11:26:28.066Z
+updated: 2025-02-08T09:49:55.141Z
 tags: 
   - screen-recording
   - ai video
@@ -45,26 +45,19 @@ Below is a full guide to Google Docs speech to text service. As you keep reading
 
 [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 1: What do you need to use google docs speech to text service?
 
 Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 1\. Google accounts
 
 Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the **Create an Account** Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Microphone
 
@@ -81,15 +74,13 @@ Do I need a Chrome Browser to use Google Docs?
 No, Google Docs work fine on Firefox and Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Use Google Docs speech to text service?
 
 Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Input with a microphone
 
 Below is how to use voice to text google docs with your microphone:
@@ -97,20 +88,17 @@ Below is how to use voice to text google docs with your microphone:
 1. Ensure your microphone is active before enabling the service. You can check this by accessing your device's **microphone settings**. These are under System Preferences for Mac users and in the Control Panel program for Windows PC users. Other device users should refer to the manual to identify the option's location.
 2. Launch your Chrome browser and access **Docs** from the **Apps**
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![launch your chrome browser](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-1.jpg)
 
 You will find it on the top left corner of your browser, below the back and forward buttons.
 
 1. Click on the + from Google Docs main page to open a new document.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![open a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Tap on Tools from the top menu bar, followed by Voice Typing from the sub menu.
 
@@ -179,9 +167,6 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
@@ -191,8 +176,9 @@ Yes, you can. Download Gboard on your android device to avail the feature. Once 
 Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q3 Is Chromebook necessary to use Google Docs?
 
 No. You can access Google Docs from any device, provided you have the chrome browser installed. In addition, you will need an active google account to access any Google services.
@@ -218,9 +204,6 @@ No. You can access Google Docs from any device, provided you have the chrome bro
 
 [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: What do you need to use google docs speech to text service?
@@ -230,6 +213,10 @@ Like all other programs, speech to text google docs service requires you to meet
 ### 1\. Google accounts
 
 Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the **Create an Account** Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Microphone
 
@@ -245,13 +232,14 @@ Do I need a Chrome Browser to use Google Docs?
 
 No, Google Docs work fine on Firefox and Safari.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Google Docs speech to text service?
 
 Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Input with a microphone
 
 Below is how to use voice to text google docs with your microphone:
@@ -265,10 +253,11 @@ You will find it on the top left corner of your browser, below the back and forw
 
 1. Click on the + from Google Docs main page to open a new document.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Tap on Tools from the top menu bar, followed by Voice Typing from the sub menu.
 
@@ -276,9 +265,6 @@ You will find it on the top left corner of your browser, below the back and forw
 
 1. The voice to text google docs service will appear as a pop-up on your document's workspace.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![a pop up on workspace](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-4.jpg)
 
 You can identify this by the big microphone symbol.
@@ -287,8 +273,9 @@ You can identify this by the big microphone symbol.
 2. Tap the microphone again once you finish your dictation.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Input with an audio file
 
 Alternatively, you can transcribe in speech to text google docs using an audio file. Follow these steps for audio file input.
@@ -304,12 +291,13 @@ Alternatively, you can transcribe in speech to text google docs using an audio f
 
 If you are not a Google Docs user, here are suitable alternatives to voice to text google docs.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Windows 10 built-in speech to text service
 
 ![in speech to text service](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Voice typing is available for Windows 10 users as a default feature. As such, you do not need to download anything additional to use the service. In addition, it allows you to transcribe your audio across all the operating system's apps and programs. For example, you can use the service for searching for items on your computer and also use it with MS Office applications. In addition, the service is free and available offline.
 
@@ -344,21 +332,16 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) speech to text is available on Windows and macOS as a subscription service. Depending on your subscription, you can transcribe up to 10 hours of audio per month. Check the Filmora speech to text website for more information on the plugin's features.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q2: Can you use Google Docs speech to text offline?
 
 Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.
@@ -393,7 +376,16 @@ No. You can access Google Docs from any device, provided you have the chrome bro
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-kinemaster-elevating-your-game-play-experience-on-android-devices-for-2024/"><u>[New] KineMaster Elevating Your Game Play Experience on Android Devices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adobe-audition-101-the-art-of-fading-on/"><u>[Updated] Adobe Audition 101 The Art of Fading On</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-compelling-podcast-intro-videos/"><u>[Updated] Crafting Compelling Podcast Intro Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-monetize-like-a-pro-how-to-use-youtube-studio-on-any-device-for-2024/"><u>[Updated] Monetize Like a Pro How to Use Youtube Studio on Any Device for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/encouraging-students-to-critically-analyze-how-periodic-trends-can-be-used-to-predict-product-formation-and-reaction-pathways-in-organic-chemistry-syntheses100/"><u>Encouraging Students to Critically Analyze How Periodic Trends Can Be Used to Predict Product Formation and Reaction Pathways in Organic Chemistry Syntheses, Such as Electrophilic Substitutions or Additions Involving Halogens (Group 17 Elements).</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s24-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S24 Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-gif-storage-and-use-in-the-digital-age-iphone/"><u>Navigating GIF Storage and Use in the Digital Age (iPhone)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/review-alert-the-genius-widecam-f1eons-performance-with-blurry-visuals-and-echoing-audio-problems/"><u>Review Alert! The Genius WideCam F1eon's Performance with Blurry Visuals and Echoing Audio Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-eliminate-audio-distortion-on-your-pc/"><u>Step-by-Step Guide to Eliminate Audio Distortion on Your PC</u></a></li>
+</ul></div>
 

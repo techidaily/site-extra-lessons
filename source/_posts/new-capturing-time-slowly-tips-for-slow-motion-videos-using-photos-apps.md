@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2025-01-24T17:47:51.521Z
-updated: 2025-01-26T17:11:43.629Z
+date: 2025-02-01T12:48:32.599Z
+updated: 2025-02-08T08:27:57.154Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -41,13 +45,13 @@ Navigate to the folder where your video file is located and right click on it. Y
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2：Customizing the Slow Motion Effect
@@ -60,19 +64,11 @@ Now you can select the beginning and end point using the bottom slider on the Ph
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
 You can even create multiple versions of the file with the slow motion effect applied in different ways. Then you can watch the videos you just created to decide on the best version.
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Edit in Slow Motion Online
 
@@ -90,6 +86,10 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -97,7 +97,7 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -121,20 +121,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-gameplay-with-obs-studio/"><u>[Updated] Record Gameplay with OBS Studio</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>2024 Approved Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-stabilized-camera-gimbals-for-iphone-android-and-dslr/"><u>2024 Approved Best Stabilized Camera Gimbals for iPhone, Android, and DSLR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-youtube-photos-an-experts-step-by-step-guide/"><u>2024 Approved Conquer YouTube Photos An Expert's Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensible-guide-to-integrating-zoom-with-win10-for-2024/"><u>A Comprehensible Guide to Integrating Zoom with Win10 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adding-unique-typography-fonts-in-ae-for-2024/"><u>Adding Unique Typography Fonts in AE for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/android-and-ios-the-finest-virtual-experiences/"><u>Android and iOS The Finest Virtual Experiences</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/canon-camera-experience-no-cost-but-pay-for-more-luts-for-2024/"><u>Canon Camera Experience No Cost, But Pay for More LUTs for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chronicle-custodians-circle-top-7-treasures/"><u>Chronicle Custodians Circle - Top 7 Treasures</u></a></li>
-<li><a href="https://win11.techidaily.com/family-fortification-the-top-5-corrections-for-safe-haven/"><u>Family Fortification: The Top 5 Corrections for Safe Haven</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-smart-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Smart 8 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722965881240-logitech-enhances-gamer-experience-check-out-the-new-extreme-3d-pro-mouse-software-version/"><u>Logitech Enhances Gamer Experience - Check Out the New Extreme 3D Pro Mouse Software Version</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sony-xbr49x900f-a-comprehensive-look-at-the-49-4k-uhd-smart-led-tv/"><u>Sony XBR49X900F - A Comprehensive Look at the 49 4K UHD Smart LED TV</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-7-most-comprehensive-cell-plans-for-elders-this-year/"><u>The Ultimate Guide to the 7 Most Comprehensive Cell Plans for Elders This Year</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-3-essential-accessories-to-maintain-the-pristine-look-of-your-iphone-13-tips/"><u>Top 3 Essential Accessories to Maintain the Pristine Look of Your iPhone 13 - Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blending-bits-volume-manipulation-mastery-with-reaper/"><u>[New] 2024 Approved Blending Bits Volume Manipulation Mastery with Reaper</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-most-popular-firefox-visual-recorders-for-2024/"><u>[New] Most Popular Firefox Visual Recorders for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-winos-bsod-dxgkrnlsys-error/"><u>[Resolved] WinOS BSOD: dxgkrnl.sys Error</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-first-rate-6-software-for-visual-text-conversion/"><u>[Updated] 2024 Approved First-Rate 6 Software for Visual Text Conversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-gradual-volume-change/"><u>[Updated] Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-how-to-be-a-good-interviewer/"><u>2024 Approved How To Be A Good Interviewer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-pro-audio-techniques-for-windows-10-users/"><u>5 Pro Audio Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-standard-video-to-immersive-vr-experiences/"><u>Comparing Standard Video to Immersive, VR Experiences</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/console-clash-evaluating-the-features-of-nintendo-switch-lite-vs-oled-display/"><u>Console Clash: Evaluating the Features of Nintendo Switch Lite Vs. OLED Display</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-hp-zbook-firefly-15-g8-top-performing-laptop-unveiled/"><u>Expert Analysis: HP ZBook Firefly 15 G8 - Top-Performing Laptop Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/professional-video-editing-simplified-with-mac-mp4-cutters-for-2024/"><u>Professional Video Editing Simplified with Mac MP4 Cutters for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-breakdown-of-12-youtubes-best-in-class-gaming-openings-for-2024/"><u>The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-tier-iphone-camera-apps-for-amateurs-and-experts-alike/"><u>Top-Tier iPhone Camera Apps for Amateurs & Experts Alike</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153500304-zuckerbergs-litecoin-louie-innovative-pet-nomenclature/"><u>Zuckerberg's 'Litecoin Louie': Innovative Pet Nomenclature</u></a></li>
 </ul></div>
 

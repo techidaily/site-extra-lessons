@@ -1,7 +1,7 @@
 ---
 title: "Trim Videos with Flair in Windows 11 Photo Apps"
-date: 2025-01-22T16:25:20.333Z
-updated: 2025-01-26T17:19:19.311Z
+date: 2025-02-07T01:57:14.074Z
+updated: 2025-02-07T18:29:57.646Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to trim video in Windows 10 Photos
@@ -53,14 +53,10 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -75,15 +71,15 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -92,10 +88,14 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,16 +112,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-grasping-the-basics-of-av1-compression/"><u>[New] 2024 Approved Grasping the Basics of AV1 Compression</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-your-quick-pathway-to-ipad-time-lapse-success/"><u>[New] In 2024, Your Quick Pathway to iPad Time-Lapse Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-easily-access-igtv-content-download-guide-for-pcmac-users/"><u>[Updated] Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[Updated] Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-audition-tutorial-managing-sound-curves/"><u>2024 Approved Adobe Audition Tutorial Managing Sound Curves</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-leveraging-b-roll-content/"><u>2024 Approved Best Practices for Leveraging B-Roll Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/action-camera-bargains-selecting-top-6-for-under-100-costs/"><u>Action Camera Bargains Selecting Top 6 for Under $100 Costs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-aesthetics-the-ultimate-guide-to-tiktok-effects-for-2024/"><u>Advanced Aesthetics The Ultimate Guide to TikTok Effects for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-the-art-of-disconnecting-from-your-old-linkedin-account-for-2024/"><u>Mastering the Art of Disconnecting From Your Old LinkedIn Account for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11s-0x80072efd-error-a-step-by-step-guide/"><u>Resolving Windows 11'S 0X80072EFD Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/who-skipped-my-story-unfollowers-scan/"><u>Who Skipped My Story? Unfollowers Scan</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-approach-for-managing-cc-rights-and-usage/"><u>[New] 2024 Approved Best Approach for Managing CC Rights & Usage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinpointing-key-versions-of-microsofts-movie-maker/"><u>[New] Pinpointing Key Versions of Microsoft's Movie Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-novice-to-expert-learning-the-ins-and-outs-of-instagram-hashtags/"><u>[Updated] From Novice to Expert Learning the Ins and Outs of Instagram Hashtags</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[Updated] In 2024, Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ancestral-creations-public-domain-masterpieces/"><u>2024 Approved Ancestral Creations Public Domain Masterpieces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-rentals-to-netflix-transforming-your-dorm-room-into-an-ultimate-wireless-viewing-lounge/"><u>From Rentals to Netflix: Transforming Your Dorm Room Into an Ultimate Wireless Viewing Lounge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-2-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze 2 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-expression-with-these-6-best-nft-makers/"><u>Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/reaction-video-mastery-the-top-tools-and-software-for-2024/"><u>Reaction Video Mastery The Top Tools and Software for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211241247-9781644116760-the-beginners-guide-to-crystal-healing-2nd-ed/"><u>The Beginner's Guide to Crystal Healing (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-education-with-instructional-videos/"><u>Transforming Education with Instructional Videos</u></a></li>
 </ul></div>
 

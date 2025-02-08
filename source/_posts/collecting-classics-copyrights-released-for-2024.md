@@ -1,7 +1,7 @@
 ---
 title: "\"Collecting Classics  Copyrights Released for 2024\""
-date: 2024-07-26T21:12:42.274Z
-updated: 2024-07-27T21:12:42.274Z
+date: 2025-02-02T21:29:02.692Z
+updated: 2025-02-07T17:08:39.636Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,9 @@ In many countries, recipes, facts, and calendar dates do not qualify for copyrig
 In addition, some countries do not consider government documents as copyright items. For example, planet photos and videos from the National Aeronautics and Space Administration are [public domain art](http://www.nasa.gov/multimedia/imagegallery/index.html), meaning you can use them freely for commercial and personal creations.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What is the copyright policy of famous art in history?
 
 As mentioned above, you cannot rely on copyright websites to determine if your desired art is royalty-free, especially when the artist’s work is unpublished. However, the following tips can be useful in helping you avoid copyright violations. Kindly note that the tips below are for your general knowledge, and you should not rely on them as legal expert advice.
@@ -80,21 +81,23 @@ Yes. You can use royalty-free art for whatever purpose you see fit. For example,
 
 However, the reproduction of the 1951 version by Walt Disney is a copyright violation since it is a derivative of the original version. In addition, The Walt Disney Company owns the trademark for all the derivatives, including the movie, cartoon characters, and merchandise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: Best Official Public Domain Art websites recommendations
 
 Now that you know what constitutes being in the public domain, where can you find public domain creative assets? Below are recommendations of the best official public domain art websites. Kindly note that the list contains NGO and government sites, some of which may not be accessible in your area.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Public Domain Pictures
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![public domain pictures](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-1.jpg)
 
 Publicdomainpictures.net is a collection of thousands of photos and videos across all genres. In addition, you can easily identify your desired pictures using the categories tab. However, you need to purchase the Premium Download option if you want them in larger resolutions. Furthermore, some royalty-free art may include usage restrictions, which are clearly stated in the image description. For example, you cannot use photos with paid models for offensive campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Wikimedia Commons
 
@@ -103,8 +106,9 @@ Publicdomainpictures.net is a collection of thousands of photos and videos acros
 Wikimedia Commons is arguably the largest public domain image library available. It hosts over 86 million creative assets from global contributors. In addition, the interface is available in multiple languages, making it accessible to everyone. However, some consider it challenging to use, given the large database. However, the developers offer you recommendations through designated tabs like Valued Images and Featured Pictures. Although most of the content is free to use, you will find images that require you to acknowledge the contributor before using them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. The New York Public Library Digital Collections
 
 ![the new york public library digital collections](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-3.jpg)
@@ -115,10 +119,11 @@ Furthermore, the homepage contains different photo collections, which you can ac
 
 ### 4\. Flickr Commons
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![flickr commons](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Initially, Flickr only featured images from a selection of verified contributors. However, through their partnership with the Library of Congress in 2008, you can now access thousands of public domain historical photos from institutions like UC Berkeley and the Armenian Studies Program - Fresno State.
 
@@ -128,19 +133,17 @@ In addition, most of the photos on the Flickr Commons library are listed with **
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 1\. [Artvee.com](https://artvee.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
 Artvee.com is a public domain art search engine that specializes in classical art. The platform allows you to search millions of public domain images from some of the world’s top museums, including the Smithsonian and the Met.
 
 In addition, Artvee.com offers you keyword suggestions depending on user popularity. Alternatively, you can use the Artists tab to locate classical art by specific painters, including Claude Monet and Vincent Van Gogh. Furthermore, you do not need to register an account to use the service. You only need to enter the URL in your browser, narrow down the results using keywords and click download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [Museo](https://museo.app/)
 
@@ -159,9 +162,6 @@ The above institutions offer open and free API access to their collections, allo
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Is there a difference between royalty-free art and public domain art?
 
 Yes. Royalty-free art refers to work that has no recurring payments to the author. However, it may contain usage restrictions depending on the source website. For example, you may need to make a one-time payment to download the image.
@@ -205,6 +205,10 @@ In many countries, recipes, facts, and calendar dates do not qualify for copyrig
 
 In addition, some countries do not consider government documents as copyright items. For example, planet photos and videos from the National Aeronautics and Space Administration are [public domain art](http://www.nasa.gov/multimedia/imagegallery/index.html), meaning you can use them freely for commercial and personal creations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is the copyright policy of famous art in history?
 
 As mentioned above, you cannot rely on copyright websites to determine if your desired art is royalty-free, especially when the artist’s work is unpublished. However, the following tips can be useful in helping you avoid copyright violations. Kindly note that the tips below are for your general knowledge, and you should not rely on them as legal expert advice.
@@ -220,51 +224,30 @@ Yes. You can use royalty-free art for whatever purpose you see fit. For example,
 
 However, the reproduction of the 1951 version by Walt Disney is a copyright violation since it is a derivative of the original version. In addition, The Walt Disney Company owns the trademark for all the derivatives, including the movie, cartoon characters, and merchandise.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part2: Best Official Public Domain Art websites recommendations
 
 Now that you know what constitutes being in the public domain, where can you find public domain creative assets? Below are recommendations of the best official public domain art websites. Kindly note that the list contains NGO and government sites, some of which may not be accessible in your area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Public Domain Pictures
 
 ![public domain pictures](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-1.jpg)
 
 Publicdomainpictures.net is a collection of thousands of photos and videos across all genres. In addition, you can easily identify your desired pictures using the categories tab. However, you need to purchase the Premium Download option if you want them in larger resolutions. Furthermore, some royalty-free art may include usage restrictions, which are clearly stated in the image description. For example, you cannot use photos with paid models for offensive campaigns.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Wikimedia Commons
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wikimedia commons](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-2.jpg)
 
 Wikimedia Commons is arguably the largest public domain image library available. It hosts over 86 million creative assets from global contributors. In addition, the interface is available in multiple languages, making it accessible to everyone. However, some consider it challenging to use, given the large database. However, the developers offer you recommendations through designated tabs like Valued Images and Featured Pictures. Although most of the content is free to use, you will find images that require you to acknowledge the contributor before using them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. The New York Public Library Digital Collections
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![the new york public library digital collections](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-3.jpg)
 
 The NYPL website features a library of about a million royalty-free artworks, including manuscripts, historical maps, and rare photographs. In addition, it allows you to only search public domain items by checking the option on the search box.
 
 Furthermore, the homepage contains different photo collections, which you can access by clicking the category tabs. For example, the **recently digitized** bubble tab gives you access to the most recent photo uploads. However, not all images listed are free to use and may require you to link back to the website. As such, always read the **Rights Statement** at the bottom of the download page to verify the usage requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### 4\. Flickr Commons
 
 ![flickr commons](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-4.jpg)
@@ -273,18 +256,16 @@ Initially, Flickr only featured images from a selection of verified contributors
 
 In addition, most of the photos on the Flickr Commons library are listed with **no known copyright restrictions**. Therefore, you can download and use them without fear of any repercussions. Furthermore, the search engine includes multiple filters for more accurate results. For example, you can filter photos by color, orientation, and date. Alternatively, you can find public domain content by visiting the Public Domain group URL.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Best Public Domain Art Search Engine
 
 Although Google search is the most popular resource for royalty-free art, there are specific public domain art search engines to help you find exactly what you need. Here are a few of them to consider.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. [Artvee.com](https://artvee.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![artvee com](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-5.jpg)
 
 Artvee.com is a public domain art search engine that specializes in classical art. The platform allows you to search millions of public domain images from some of the world’s top museums, including the Smithsonian and the Met.
@@ -294,6 +275,10 @@ In addition, Artvee.com offers you keyword suggestions depending on user popular
 ### 2\. [Museo](https://museo.app/)
 
 ![museo](https://images.wondershare.com/filmora/article-images/2022/09/public-domain-art-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Another public domain art search engine to consider is Museo.app. It is an open-source web interface that allows you to find royalty-free art from different museums. Currently, you can access the collections from the following institutions:
 
@@ -306,14 +291,12 @@ Another public domain art search engine to consider is Museo.app. It is an open-
 
 The above institutions offer open and free API access to their collections, allowing you to download and use them royalty-free. Unfortunately, Museo does not offer an elaborate search engine like Artvee and uses simple keywords to get you results. However, it can work as a decent alternative if you do not want to filter through millions of art pieces.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Is there a difference between royalty-free art and public domain art?
 
 Yes. Royalty-free art refers to work that has no recurring payments to the author. However, it may contain usage restrictions depending on the source website. For example, you may need to make a one-time payment to download the image.
@@ -346,7 +329,19 @@ Conversely, public domain art is copyright free and does not require you to make
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-macs-best-choices-for-mkv-file-viewing/"><u>[New] 2024 Approved Mac's Best Choices for MKV File Viewing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-captivating-content-for-the-first-moments-in-audios/"><u>2024 Approved Crafting Captivating Content for the First Moments in Audios</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-whatsapps-depths-tricks-you-need-to-know/"><u>2024 Approved Navigating WhatsApp's Depths Tricks You Need to Know</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-least-expensive-skyvault-service-for-big-files/"><u>2024 Approved The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/9gag-the-ultimate-resource-for-memetic-innovation/"><u>9GAG The Ultimate Resource for Memetic Innovation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/activate-windows-xp-movie-creation-toolkit-for-2024/"><u>Activate Windows XP Movie Creation Toolkit for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-seasonal-discount-fest-unveiling-the-limited-time-offer-of-200-off-new-apple-m3-macbook-pro-zdnet-coverage/"><u>Amazon's Seasonal Discount Fest: Unveiling the Limited-Time Offer of $200 Off New Apple M3 MacBook Pro (ZDNet Coverage)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-steelseries-keyboard-drivers-and-firmware/"><u>Free Download: SteelSeries Keyboard Drivers & Firmware</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/front-runners-in-4k-gaming-graphics/"><u>Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-launch-oddworld-soulstorm-on-your-computer-common-glitches-resolved/"><u>How to Successfully Launch Oddworld: Soulstorm on Your Computer - Common Glitches Resolved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-stunning-websites-that-echo-the-vibe-of-lastfm/"><u>Top 5 Stunning Websites That Echo the Vibe of Last.fm</u></a></li>
+</ul></div>
 

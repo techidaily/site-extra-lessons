@@ -1,7 +1,7 @@
 ---
 title: "Innovative Question Collection for Lively Podcast Discussions"
-date: 2025-01-24T17:27:34.676Z
-updated: 2025-01-26T17:06:37.698Z
+date: 2025-02-02T20:34:26.401Z
+updated: 2025-02-08T04:55:52.866Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Icebreaker questions are used to begin an interview or meeting. These are person
 
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are some icebreaker questions that you can ask to start an interview.
 
 1. Where did you grow up and make the impact on you today?
@@ -52,6 +48,10 @@ Here are some icebreaker questions that you can ask to start an interview.
 8. Who has had the largest impact on your life?
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leading Question
 
@@ -77,10 +77,6 @@ Some leading questions that you can ask are discussed below.
 14. Can you give an example?
 15. What do you suggest to our audience who are facing the same problems?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Comparison Questions
 
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
@@ -88,7 +84,7 @@ In an interview, a comparison question is one where you ask a person what he pre
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can ask questions from the comparison questions given below.
@@ -109,6 +105,10 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -124,17 +124,9 @@ When we move on to this type of question, typically, it's time to end the show. 
 9. Where may listeners sign up for your course or purchase your products?
 10. How can listeners contact you online?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. What's a Good Podcast Interview Question?
 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Tips on How To Come Up and Ask Better Questions
 
@@ -147,23 +139,19 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What were your feelings when this happened?
 
@@ -186,6 +174,10 @@ So you see how this can continue to move forward by simply mirroring your guest.
 
 The best thing you can extract from someone in a podcast is their story. If you want to pull out a story from someone, phrase it like this, "Tell me about a time when..." After this question, your job is to sit back, listen, and not interrupt the guest.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Podcast Questions to Avoid Asking
 
 Avoiding asking wrong questions is as important as asking good questions. Some questions will negatively impact your podcast's quality, so avoid asking such questions. Here are some questions that you should not ask.
@@ -196,9 +188,17 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Take Your Content to the Next Level and Gets Shared
 
@@ -236,22 +236,18 @@ Consider the following when picking which of the above questions to use on your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-20plus-fresh-collages-elevate-your-environment/"><u>[Updated] 20+ Fresh Collages Elevate Your Environment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>[Updated] Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>[Updated] How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-excellence-java-gaming-delights/"><u>Discovering Excellence: Java Gaming Delights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/farm-tastic-gaming-best-trio-of-agricultural-games/"><u>Farm-Tastic Gaming Best Trio of Agricultural Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s17-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S17 for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-enhancement-strategies-using-premiere-pro/"><u>In 2024, Audio Enhancement Strategies Using Premiere Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-dynamic-range-wonders-top-10-sites-guide/"><u>In 2024, Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/solved-how-to-overcome-stutter-and-lag-in-naraka-bloodepoint-gameplay/"><u>Solved: How to Overcome Stutter and Lag in Naraka: Bloodepoint Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speech-recognition-a-game-changer-for-visual-presentations/"><u>Speech Recognition A Game Changer for Visual Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-activate-controlled-folder-access/"><u>Step-by-Step Guide to Activate Controlled Folder Access</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/taking-flight-in-video-editing-a-drone-perspective/"><u>Taking Flight in Video Editing A Drone Perspective</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essential-collection-of-high-speed-monitor-tools/"><u>The Essential Collection of High-Speed Monitor Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-undercover-upscalers-guide-to-clear-visuals/"><u>The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-animation-styles-pack/"><u>Ultimate Animation Styles Pack</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-peak-performance-with-corsair-vengeance-ddr5-5200-c38-a-4x48gb-memory-powerhouse-for-experts-and-enthusiasts/"><u>Unleash Peak Performance with Corsair Vengeance DDR5-5200 C38, a 4X48GB Memory Powerhouse for Experts and Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-tips-for-smooth-youtube-content-trimming-for-2024/"><u>[New] Essential Tips for Smooth YouTube Content Trimming for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-briefclip-artist-for-2024/"><u>[Updated] BriefClip Artist for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-high-fidelity-screen-capture-suite-review-march-2023-for-2024/"><u>[Updated] High-Fidelity Screen Capture Suite Review – March 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-sdr-to-hdr-enhancement-techniques/"><u>[Updated] Unveiling the Secrets of SDR-to-HDR Enhancement Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guia-definitiva-como-convertirse-en-un-maestro-del-giro-de-videos-los-mejores-10-profesionales-y-su-metodologia/"><u>Guía Definitiva: Cómo Convertirse en Un Maestro Del Giro De Videos – Los Mejores 10 Profesionales Y Su Metodología</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/impulsive-tech-shopping-alert-why-apples-latest-earpods-at-just-17-and-with-usb-c-charging-became-my-must-have-on-prime-day-the-zdnet-guide/"><u>Impulsive Tech Shopping Alert! Why Apple’s Latest EarPods at Just $17 & With USB-C Charging Became My Must-Have on Prime Day | The ZDNet Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-animated-text-tips-free-inclusion-techniques/"><u>In 2024, Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/merging-melodies-and-memories-online/"><u>Merging Melodies and Memories Online</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexpected-darkness-your-laptops-non-responsive-screen/"><u>Unexpected Darkness: Your Laptop's Non-Responsive Screen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/weaving-pictures-into-a-musical-tapestry/"><u>Weaving Pictures Into a Musical Tapestry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-like-a-pro-avoiding-common-snaps-mistakes/"><u>Zoom Like a Pro Avoiding Common Snaps Mistakes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-strategies-to-maximize-effective-skype-interactions/"><u>Zoom Strategies to Maximize Effective Skype Interactions</u></a></li>
 </ul></div>
 
