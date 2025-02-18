@@ -1,7 +1,7 @@
 ---
 title: "[New] Achieving Professional Colors with Central Luts"
-date: 2024-12-19T18:57:18.628Z
-updated: 2024-12-23T16:33:09.824Z
+date: 2025-02-11T00:25:01.604Z
+updated: 2025-02-18T00:17:24.541Z
 tags: 
   - screen-recording
   - ai video
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 Color Grading Central is a company created by Denver Riddle, who is currently involved in the production of films. LUTs and other video color grading plugins of this company are inspired by some of the best Hollywood movies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What is color grading central and LUTs (Lookup table)?
@@ -31,7 +31,7 @@ Color Grading Central is a company created by Denver Riddle, who is currently in
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LUTs or Look Up Tables are nothing more than a table of numbers that apply a color transformation to an image. However, what makes color gradation LUTs unique is their ability to apply predetermined sets of mathematical formulas to the existing colors of your video to change those colors to achieve the desired result. Now it's possible to accurately imitate all the subtle nuances and color shifts of your favorite movie!
@@ -43,7 +43,7 @@ The Color Grading Central LUTs effect is stylish and cinematic.
 ![color grading for movies](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Color grading is one way to enhance the look of your shots and serve your narrative vision. That's why many filmmakers, editors, and colorists working on film use Look Up Tables, or LUTs, to store color grades as templates to help speed up the process.
@@ -76,10 +76,6 @@ Cinematic LUTs are pre-saved settings that make color grading easy and efficient
 
 LUTs are shared in the .cube file format, which is supported by the most popular video editors, such as DaVinci Resolve, Premiere Pro CC, After Effects CC, and Sony Vegas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Ground Control Color: 13 Free LUTs](https://www.groundcontrolcolor.com/free-luts.html)
 
 Ground Control Color specializes in creating color LUTs for different cameras and recording formats. In addition to having an impressive line of products, they also give away a great selection of thirteen free LUTs for video editors.
@@ -87,10 +83,6 @@ Ground Control Color specializes in creating color LUTs for different cameras an
 From the "Free LUTs" page, users can download ten free conversion LUTs and three stylistic color LUTs.
 
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
 
@@ -103,7 +95,7 @@ In addition to giving away seven free color LUTs, they're also giving away an as
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
@@ -126,6 +118,10 @@ Now you can replicate the look with retro-looking reds, blues, and yellows with 
 
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
 
 Ok, so the LUTs included in this pack require a few extra steps to download. Lutify requires you to sign up for a 14-day trial of LUTs Previewer.
@@ -133,6 +129,10 @@ Ok, so the LUTs included in this pack require a few extra steps to download. Lut
 The good news is that you can register, download the LUT, and then cancel. Or hey, who knows, you might even like their software offering and stick with the program.
 
 ![lutify me](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. How to do color grading in Filmora?
 
@@ -146,10 +146,6 @@ Of course, if you're still dissatisfied with the result you may select **"Advanc
 
 ![preset](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 In summary, we've seen some different color grading LUTs that simplify the color grading process. However, [Filmora Pro](https://tools.techidaily.com/wondershare/filmora/download/) remains the best because no converter can beat its excellent color correction tool and convincing features of vignette, light, and flare, etc.
@@ -159,6 +155,10 @@ In summary, we've seen some different color grading LUTs that simplify the color
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -192,19 +192,21 @@ In summary, we've seen some different color grading LUTs that simplify the color
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-professional-quality-with-complimentary-and-subscription-luts/"><u>[New] Capture Professional Quality with Complimentary & Subscription LUTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-quest-for-perfection-topiary-angles-in-mobile-photography-for-2024/"><u>[New] The Quest for Perfection Topiary Angles in Mobile Photography for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-7-superior-mac-video-applications/"><u>[Updated] 7 Superior Mac Video Applications</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>2024 Approved Audience Advocacy Nurturing Connections in the Digital Age</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-15-unboxing-youtube-channels-2024/"><u>Best 15 Unboxing YouTube Channels 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comparative-review-top-cloud-services-prices/"><u>Comparative Review Top Cloud Services' Prices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-cutting-edge-tools-devices-for-apps/"><u>Elite Cutting-Edge Tools (Devices) for Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/financial-motives-in-consumer-video-evaluations/"><u>Financial Motives in Consumer Video Evaluations?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-guide-to-picking-top-quality-free-srt-translation-platforms/"><u>In 2024, A Guide to Picking Top-Quality, Free SRT Translation Platforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-nord-n30-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Nord N30 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-professional-sound-designers-method-eliminating-vocals-with-adobe-audition-step-by-step/"><u>In 2024, Professional Sound Designers Method Eliminating Vocals with Adobe Audition, Step by Step</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-reel-mastery-viewing-twitters-video-in-high-res/"><u>In 2024, Reel Mastery Viewing Twitter's Video in High Res</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lexical-divergence-in-us-and-uk/"><u>Lexical Divergence in US and UK</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unveil-the-untouched-best-of-insta-stories/"><u>Unveil the Untouched Best of Insta Stories</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quick-fixes-to-resume-paused-stream-on-facebook/"><u>[New] In 2024, Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-executing-the-last-goodbye-to-your-instagram-account-for-2024/"><u>[Updated] Executing the Last Goodbye to Your Instagram Account for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-highest-rated-10-non-game-screenshot-tools/"><u>[Updated] In 2024, Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-pathway-to-instagrams-elite-circle-expanding-your-audience-with-key-tips/"><u>[Updated] The Pathway to Instagram's Elite Circle Expanding Your Audience with Key Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-moments-in-time-creating-dynamic-photo-videos-with-pixiz/"><u>2024 Approved Capturing Moments in Time Creating Dynamic Photo Videos with Pixiz</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-how-to-add-the-date-to-photo/"><u>2024 Approved How to Add the Date to Photo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-ipads-work-potential-with-our-picks-for-ultimate-productivity-apps-expert-recommendations-by-zdnet/"><u>Boost Your iPad's Work Potential with Our Picks for Ultimate Productivity Apps | Expert Recommendations by ZDNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-clarity-our-top-ten-camera-lens-recommendations-of-2024/"><u>Capturing Clarity Our Top Ten Camera Lens Recommendations of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-techniques-for-efficient-fb-link-management/"><u>Essential Techniques for Efficient FB Link Management</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-stop-motion-creations-15-greatest-of-all-time/"><u>Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instagram-video-quirk-unusual-vertical-display/"><u>Instagram Video Quirk Unusual Vertical Display</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>New 2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimize-your-browser-experience-exploring-pip-features-in-microsoft-edge/"><u>Optimize Your Browser Experience Exploring PIP Features in Microsoft Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-oriented-approach-for-enterprise-chatbots/"><u>Privacy-Oriented Approach for Enterprise ChatBots</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-overcome-print-driver-host-error-for-32-bit-programs/"><u>Solution: Overcome 'Print Driver Host' Error for 32-Bit Programs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 3D LUT Expertise in a Quick Learning Journey"
-date: 2025-01-19T16:51:26.136Z
-updated: 2025-01-20T16:16:11.552Z
+date: 2025-02-16T18:15:55.427Z
+updated: 2025-02-18T00:18:13.064Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,6 @@ After a successful 3D LUT app download, you are good to work with it on your com
 
 03 [Does 3D LUT have a mobile app?](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is a 3D LUT Creator, Exactly?
 
 A 3D LUT Creator is a program that harbors unique colors meant for grading your video or images. It creates 3DLUTS imported to other programs such as Adobe Premiere Pro, Final Cut Pro, and others. Creators opt for this top-notch program for several reasons. The speed is pretty fast, it harbors unique tools, and it easily integrates with other programs such as Adobe Photoshop. More so, 3D LUT Creator gives you a polished end product that upscales your creativity level.
@@ -57,6 +53,10 @@ The 3D LUT Creator comes on both Windows and Mac OS devices for desktop versions
 ## The 3D LUT Creator's Features
 
 This app is rich in features, enabling you to handle several color mixes and grading easily. The features supported by the 3D LUT Creator include:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Color match and correction with the reference image
 
@@ -82,13 +82,13 @@ You can adjust the image in the 3D LUT Creator using the A/B Grid. You first nee
 
 ![features of 3d luts - adjust the image](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Find the custom LUT adjustment
 
 You can also find a custom LUT adjustment with this creator. To do so, go to the Color Adjustment tool and turn on the Custom LUT adjustment. Furthermore, this applies to both individual and group layers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Adjust the colors
 
@@ -147,7 +147,7 @@ After a successful 3D LUT app download, you are good to work with it on your com
 ![everything about 3d lut you should know](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### In this article
@@ -176,6 +176,10 @@ With a color match, you’ll be able to copy the color scheme from one image to 
 
 ![features of 3d luts](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Find the built-in LUT collection
 
 You can find a collection of LUTs up to 48 in number. These are both cinematic-look LUTs and technical LUTs for grayscale conversion. To achieve this, turn on the adjustment. You will then see a pop-up menu and an "Intensify" slider. Next, choose from the 48 collections of LUTs the color that suits you.
@@ -198,10 +202,6 @@ You can adjust the image in the 3D LUT Creator using the A/B Grid. You first nee
 
 You can also find a custom LUT adjustment with this creator. To do so, go to the Color Adjustment tool and turn on the Custom LUT adjustment. Furthermore, this applies to both individual and group layers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Adjust the colors
 
 For this feature, use the spider’s web in the A/B Grid and use the "color wheel." Several points on the web represent the colors in your image. To adjust color, click and drag a point in any direction of choice. You will have changed the original color within the image to another color.
@@ -223,10 +223,6 @@ Yes. 3D LUT has a mobile app version. You can use it to adjust your videos and p
 **Color correction:** your image color could be too bright or dull. This feature enables you to correct the color to a perfect tone. Besides, you get to choose from a wide range of colors, or better still, do a quick mix even as you correct the needed sections.
 
 You don’t intend to compose your video and miss an open platform to share your content. Use the export tab to instantly share your video or images once ed to perfection. You can use it for marketing or tutorials.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The 3D LUT desktop version
 
@@ -282,6 +278,10 @@ The 3D LUT Creator comes on both Windows and Mac OS devices for desktop versions
 
 This app is rich in features, enabling you to handle several color mixes and grading easily. The features supported by the 3D LUT Creator include:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Color match and correction with the reference image
 
 With a color match, you’ll be able to copy the color scheme from one image to another. The color correction is made from the grid-tied to the color plan with saturation and hue. You can then easily change the color scheme and work with any desired color range of your choice.
@@ -309,10 +309,6 @@ You can adjust the image in the 3D LUT Creator using the A/B Grid. You first nee
 ### 5\. Find the custom LUT adjustment
 
 You can also find a custom LUT adjustment with this creator. To do so, go to the Color Adjustment tool and turn on the Custom LUT adjustment. Furthermore, this applies to both individual and group layers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Adjust the colors
 
@@ -358,10 +354,6 @@ To download the app, visit the official website of 3D LUT Creator at:
 
 <http://3dlutcreator.com/>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Concluding Remarks
 
 **●** Working with **the 3D LUT Creator** is quite interesting. It gives a different approach to several common photo editors on the market. You get the 3D LUT mobile app version and the desktop version. It also brings you tons of tools to pull through any piece of colorwork on your images and videos. However, working with this program is complex and may suit only professional photographers and editors.
@@ -374,6 +366,10 @@ After a successful 3D LUT app download, you are good to work with it on your com
 
 ![everything about 3d lut you should know](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### In this article
 
 01 [What Is a 3D LUT Creator, Exactly?](#part1)
@@ -385,6 +381,10 @@ After a successful 3D LUT app download, you are good to work with it on your com
 ## What Is a 3D LUT Creator, Exactly?
 
 A 3D LUT Creator is a program that harbors unique colors meant for grading your video or images. It creates 3DLUTS imported to other programs such as Adobe Premiere Pro, Final Cut Pro, and others. Creators opt for this top-notch program for several reasons. The speed is pretty fast, it harbors unique tools, and it easily integrates with other programs such as Adobe Photoshop. More so, 3D LUT Creator gives you a polished end product that upscales your creativity level.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Cost of a 3D LUT Creator
 
@@ -400,9 +400,17 @@ With a color match, you’ll be able to copy the color scheme from one image to 
 
 ![features of 3d luts](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Find the built-in LUT collection
 
 You can find a collection of LUTs up to 48 in number. These are both cinematic-look LUTs and technical LUTs for grayscale conversion. To achieve this, turn on the adjustment. You will then see a pop-up menu and an "Intensify" slider. Next, choose from the 48 collections of LUTs the color that suits you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Control color settings
 
@@ -413,7 +421,7 @@ You can save the color settings in files with the extensions ".3dl," ".csv," and
 To correct your colors, first, the camera receives light and color. Then light passes through the lens and gets into the filter. Once the filter cuts off the infrared light, the rest of the light incident on the Bayer filter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Adjust the image
@@ -421,10 +429,6 @@ To correct your colors, first, the camera receives light and color. Then light p
 You can adjust the image in the 3D LUT Creator using the A/B Grid. You first need to ensure that your settings are well set as per your mission. These include contrast, temperature, pivot, saturation, and dynamic range. Use the "Compare" button to compare the changes with the original file. The "before" and the "after" image should give you a deeper insight into what your video is like after adjustment.
 
 ![features of 3d luts - adjust the image](https://images.wondershare.com/filmora/article-images/2022/05/everything-about-3d-lut-creator-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Find the custom LUT adjustment
 
@@ -439,10 +443,6 @@ For this feature, use the spider’s web in the A/B Grid and use the "color whee
 ### 7\. Generate a LUT File
 
 You can choose to save the adjustments as a LUT file. To create such a file, go to the "File" menu and select the "File" tab, then click on the "Export" option. Next, name your file and choose the LUT format that you want to use. The most popular LUT format is "cube". More so, it is quite compatible with several photo editors. Likewise, you can export your content to other platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does 3D LUT have a mobile app?
 
@@ -506,24 +506,20 @@ To download the app, visit the official website of 3D LUT Creator at:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-lensblend-elite-cohesive-image-composer-for-2024/"><u>[New] LensBlend Elite Cohesive Image Composer for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capture-joy-online-kapwing-meme-studio/"><u>[Updated] Capture Joy Online Kapwing Meme Studio</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>[Updated] Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ai-driven-interpolation-techniques-for-enhanced-frames-per-second-and-smooth-video-transitions/"><u>AI-Driven Interpolation Techniques for Enhanced Frames Per Second and Smooth Video Transitions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ai-driven-nomenclature-best-10-name-generators-online/"><u>AI-Driven Nomenclature Best 10 Name Generators Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-sound-choices-essential-downloads-guide/"><u>Best Sound Choices Essential Downloads Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/charting-the-course-to-cash-how-much-does-pewdopeep-make-for-2024/"><u>Charting the Course to Cash How Much Does PewDoPeep Make for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-tutorial-to-turn-gifs-to-stickers-discordwhatsapptelegram-for-2024/"><u>Complete Tutorial to Turn GIFs to Stickers [Discord/WhatsApp/Telegram] for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-solve-media-creator-tool-errors-winerror-0x8007043c/"><u>How to Solve Media Creator Tool Errors: WinError 0X8007043C</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-batch-file-transformations/"><u>In 2024, Best Batch File Transformations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>In 2024, Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-strategies-for-captivating-handc-fb-campaigns/"><u>Innovative Strategies for Captivating H&C FB Campaigns</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-210-graphics-driver-updates-compatible-with-windows-11/"><u>Latest NVIDIA GeForce 210 Graphics Driver Updates Compatible with Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-virtual-space-essential-guidelines-9-must-know/"><u>Mastering Virtual Space Essential Guidelines (9 Must Know)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mobile-split-screen-video-editors-the-best-for-ios-and-android/"><u>New 2024 Approved Mobile Split Screen Video Editors The Best for iOS and Android</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-12th-circle-of-conversation-personalizing-whatsapp-bios-by-signs/"><u>The 12Th Circle of Conversation - Personalizing WhatsApp Bios by Signs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-soldering-iron-and-station-reviews-2er-2024/"><u>Top-Rated Soldering Iron & Station Reviews 2Er 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-championed-by-artists-the-top-6-nft-maker-tools/"><u>[New] Championed by Artists The Top 6 NFT Maker Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-upgrade-your-channels-visual-appeal/"><u>[Updated] 2024 Approved Upgrade Your Channel's Visual Appeal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-14-design-techniques-for-text-animation/"><u>[Updated] Advanced 14 Design Techniques for Text Animation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-browse-the-web-for-unique-personalized-wrapped-presents-at-leading-e-stores/"><u>[Updated] Browse the Web for Unique, Personalized Wrapped Presents at Leading E-Stores</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophile-writers-premier-talk-shows-from-googloud-for-2024/"><u>Audiophile' Writers Premier Talk Shows From GooGloud for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolving-assassins-creed-odyssey-pc-malfunctions-swift-and-simple-solutions-available/"><u>Guide to Resolving 'Assassin's Creed Odyssey' PC Malfunctions – Swift and Simple Solutions Available!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-beyond-marketing-honest-review-of-recordcast/"><u>In 2024, Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-blurring-out-the-unwanted-in-your-photos/"><u>In 2024, Blurring Out the Unwanted in Your Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x9b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X9b</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-a-deep-dive-with-toms-hardware-experts/"><u>Navigating the World of Computing: A Deep Dive with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/shine-up-advanced-setups-to-make-your-clips-pop/"><u>Shine Up Advanced Setups to Make Your Clips Pop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sprint-secrets-olympic-edition-22/"><u>Sprint Secrets - Olympic Edition '22</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-magic-vs-2-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor Magic Vs 2 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vectors-unveiled-a-novices-path-through-types-and-apps/"><u>Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
 </ul></div>
 

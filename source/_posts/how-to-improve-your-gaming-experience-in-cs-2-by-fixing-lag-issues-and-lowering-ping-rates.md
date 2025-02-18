@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2025-02-07T13:11:41.652Z
-updated: 2025-02-07T23:39:11.615Z
+date: 2025-02-17T01:21:55.227Z
+updated: 2025-02-17T18:48:30.834Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -65,7 +65,7 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -75,6 +75,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -91,6 +95,10 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -146,22 +154,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -174,7 +174,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -206,19 +206,20 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-every-degree-top-9-techniques-for-vr-filmmaking/"><u>[New] Explore Every Degree Top 9 Techniques for VR Filmmaking</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/martphone-cinematography-mastery-designing-impactful-youtube-thumbnails-for-2024/"><u>[New] Smartphone Cinematography Mastery Designing Impactful YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-10-best-websites-for-copyright-free-gaming-music/"><u>[Updated] 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-evaluation-unveiling-the-strengths-and-weaknesses-of-iphone-13/"><u>Detailed Evaluation: Unveiling the Strengths and Weaknesses of iPhone 13</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-funny-faces-our-simple-meme-guide/"><u>Free Funny Faces - Our Simple Meme Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1723262396379-from-indiegogo-to-your-desk-meet-ayaneos-newly-released-amd-am01-classic-inspired-mini-computer/"><u>From Indiegogo to Your Desk: Meet Ayaneo's Newly Released AMD AM01 Classic Inspired Mini Computer!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>In 2024, Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a78-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A78 5G Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/srt-demystified-in-depth-analysis-and-tips-for-2024/"><u>SRT Demystified In-Depth Analysis and Tips for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-wireless-adapter-for-windows-11-and-10/"><u>Step-by-Step Guide: Updating Your Wireless Adapter for Windows 11 and 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-every-moment-top-ideas-for-enriching-life-through-podcasts/"><u>Transform Every Moment Top Ideas for Enriching Life Through Podcasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-audio-content-structuring-your-rss-feed/"><u>Transforming Audio Content Structuring Your RSS Feed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-razr-40-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Razr 40? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-artful-laps-backgrounds-the-10-superior-websites-to-download-from/"><u>[New] Artful Laps Backgrounds The 10 Superior Websites to Download From</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-camera-stabilizers-for-youtuber/"><u>[New] Best Camera Stabilizers for YouTuber</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cut-to-a-new-beginning-four-fade-techniques/"><u>[New] In 2024, Cut to a New Beginning Four Fade Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/10-best-free-image-hosting-sites-never-lost-your-photos-for-2024/"><u>10 Best Free Image Hosting Sites [Never Lost Your Photos] for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-a-complete-guide-to-youtubes-live-image-lore/"><u>2024 Approved A Complete Guide to YouTube's Live Image Lore</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch-for-2024/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-picks-and-reviews-a-look-into-toms-hardware-insights/"><u>Discover Top Tech Picks and Reviews: A Look Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-ultra-high-definition-video-transformation-using-the-no-cost-factory-tool/"><u>DIY Ultra High Definition Video Transformation Using the No-Cost Factory Tool!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964368275-get-your-logitech-keyboard-up-and-running-on-windows-11-download-driver-now/"><u>Get Your Logitech Keyboard Up and Running on Windows 11 – Download Driver Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-directors-toolkit-powerdirector-24/"><u>In 2024, Advanced Directors' Toolkit PowerDirector '24</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-spark-20-proplus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Spark 20 Pro+ Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-picart-background-cleanse-method/"><u>Step-by-Step PicArt Background Cleanse Method</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-apex-of-visual-fidelity-insightful-review-on-lg-4k-monitors/"><u>The Apex of Visual Fidelity Insightful Review on LG 4K Monitors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
 </ul></div>
 

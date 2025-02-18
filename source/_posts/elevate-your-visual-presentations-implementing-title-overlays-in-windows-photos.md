@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Visual Presentations  Implementing Title Overlays in Windows Photos\""
-date: 2025-02-01T10:44:44.653Z
-updated: 2025-02-07T22:44:06.125Z
+date: 2025-02-14T00:51:24.154Z
+updated: 2025-02-18T01:19:06.478Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Adding the titles/text to video is a great way to explain the people about a cer
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
@@ -46,22 +46,18 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -74,6 +70,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -84,11 +84,11 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 ## Conclusion
 
@@ -97,7 +97,7 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -115,21 +115,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-effortless-tiktok-integration-on-your-macbook-wonderland/"><u>[New] 2024 Approved Effortless TikTok Integration on Your MacBook Wonderland</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-pathway-to-exceptional-gopro-adventures/"><u>[New] A Beginner's Pathway to Exceptional GoPro Adventures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-boosting-speed-for-periscope-live-video/"><u>[New] Boosting Speed for Periscope Live Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-live-streaming-for-peak-engagement/"><u>[New] Mastering Live Streaming for Peak Engagement</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-free-clipart-use-in-projects/"><u>[Updated] Best Practices for Free Clipart Use in Projects</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-visionarys-guide-top-5-slow-motion-tech/"><u>[Updated] In 2024, Visionary's Guide Top 5 Slow-Motion Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-subtitle-tools-navigate-through-the-best-10-web-edits-for-2024/"><u>Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apex-pcs-the-summit-of-desktop-technology-for-2024/"><u>Apex PCs - The Summit of Desktop Technology for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-6-mobile-applications-for-eliminating-picture-shadows-a-review-by-movavi/"><u>Best 6 Mobile Applications for Eliminating Picture Shadows: A Review by Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-creating-captivating-hdr-portraits-in-10-steps/"><u>In 2024, Creating Captivating HDR Portraits in 10 Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-m6-pro-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco M6 Pro 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-investment-guidelines-for-effective-youtube-campaigns/"><u>In 2024, Investment Guidelines for Effective YouTube Campaigns</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 15 Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/master-your-home-wireless-a-thorough-evaluation-of-google-nest-wi-fi-performance/"><u>Master Your Home Wireless: A Thorough Evaluation of Google Nest Wi-Fi Performance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-5-good-book-trailer-examples/"><u>[New] 5 Good Book Trailer Examples</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-assortment-professional-webcam-supports/"><u>[New] In 2024, Best Assortment Professional Webcam Supports</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-low-cost-pc-unlock-with-ideal-obs-settings/"><u>[New] Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023/"><u>[Updated] Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-compelling-content-weaving-text-into-os-imagery/"><u>[Updated] Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-creating-captivating-inshot-edits-with-grace/"><u>[Updated] Creating Captivating Inshot Edits with Grace</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quickstart-to-flawless-nft-artistry-for-beginners/"><u>[Updated] Quickstart to Flawless NFT Artistry for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2023s-top-free-premiere-pro-masterpieces-for-2024/"><u>2023'S Top Free Premiere Pro Masterpieces for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/download-high-quality-movies-from-pornotube-in-mp4movavi-formats-with-ease/"><u>Download High-Quality Movies From Pornotube in MP4/MOV/AVI Formats with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-vip-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-comprehensive-list-of-premier-webinars/"><u>In 2024, Comprehensive List of Premier Webinars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-oscillation-engineer-kit/"><u>In 2024, Oscillation Engineer Kit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-ios-podcast-setup-boost-your-audio-quality-game/"><u>Professional iOS Podcast Setup Boost Your Audio Quality Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/removing-unneeded-podcast-advice-from-spotify/"><u>Removing Unneeded Podcast Advice From Spotify</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlimited-picture-pools-the-best-10-resources/"><u>Unlimited Picture Pools The Best 10 Resources</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-virtual-realms-of-meta-and-omni/"><u>Unveiling the Virtual Realms of Meta and Omni</u></a></li>
 </ul></div>
 

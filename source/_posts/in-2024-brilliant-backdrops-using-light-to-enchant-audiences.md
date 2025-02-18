@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2025-02-07T11:36:24.998Z
-updated: 2025-02-07T20:00:04.864Z
+date: 2025-02-15T01:05:44.982Z
+updated: 2025-02-18T01:49:13.474Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -48,10 +52,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -73,7 +73,7 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -85,7 +85,7 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -93,6 +93,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -105,11 +109,7 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -146,19 +146,16 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-shaping-secrets-the-fading-technique/"><u>[New] Audio Shaping Secrets The Fading Technique</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-tutorial-get-snapchat-running-on-macos/"><u>[New] Quick Tutorial Get Snapchat Running on macOS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-best-free-screen-recorder-tool-bandicam-or-camtasia-in-2024/"><u>[New] The Best Free Screen Recorder Tool Bandicam or Camtasia, In 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-balancing-main-and-supplemental-filmmaking-elements/"><u>[Updated] Balancing Main & Supplemental Filmmaking Elements</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-revolutionize-your-room-strategies-to-record-clear-sound/"><u>[Updated] In 2024, Revolutionize Your Room Strategies to Record Clear Sound</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-photoshops-power-shifting-hues-at-your-fingertips/"><u>[Updated] Photoshop's Power Shifting Hues at Your Fingertips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginners-blueprint-for-launching-a-vlog-series-on-product-critiques-for-2024/"><u>Beginner's Blueprint for Launching a Vlog Series on Product Critiques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-history-unveiled-understanding-off-facebook-data-for-2024/"><u>Hidden History Unveiled Understanding Off-Facebook Data for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>In 2024, IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-150-2023-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia 150 (2023) Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instantaneous-ease-in-podcast-broadcasts/"><u>Instantaneous Ease in Podcast Broadcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/steps-to-acquire-fcp-for-zero-dollars/"><u>Steps to Acquire FCP for Zero Dollars</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breaking-barriers-joining-games-via-xbox-zoom/"><u>[New] Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-full-screen-fb-video-settings/"><u>[Updated] Mastering Full-Screen FB Video Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-look-at-the-future-of-windows-10s-evolution/"><u>A Look at the Future of Windows 10'S Evolution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-gt-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme GT 5 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-perfection-iphone-x8plus-ultimate-lens-tools-for-2024/"><u>Capture Perfection IPhone X/8+ Ultimate Lens Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-s18-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo S18 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-12-best-tycoon-games-to-kill-time/"><u>Top 12 Best Tycoon Games to Kill Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
 </ul></div>
 

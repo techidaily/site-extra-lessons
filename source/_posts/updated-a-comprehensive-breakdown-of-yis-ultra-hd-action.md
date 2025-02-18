@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Comprehensive Breakdown of Yi's Ultra HD Action"
-date: 2025-01-13T17:24:39.096Z
-updated: 2025-01-20T17:26:57.988Z
+date: 2025-02-11T01:51:45.549Z
+updated: 2025-02-18T03:43:26.639Z
 tags: 
   - screen-recording
   - ai video
@@ -115,7 +115,7 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,7 +125,7 @@ Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolutio
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,19 +143,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enhancing-engagement-on-video-calls-using-snap-features/"><u>[New] In 2024, Enhancing Engagement on Video Calls Using Snap Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-bright-ideas-top-17-lighting-setups-for-youtubers/"><u>[Updated] 2024 Approved Bright Ideas Top 17 Lighting Setups for YouTubers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-look-into-magix-graphic-designer/"><u>[Updated] A Look Into MAGIX Graphic Designer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-streamline-your-videos-with-these-titans/"><u>[Updated] Streamline Your Videos with These Titans</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>2024 Approved Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-every-corner-of-youtube-a-detailed-comment-guide/"><u>Exploring Every Corner of YouTube A Detailed Comment Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-high-quality-gopro-videos/"><u>In 2024, Advanced Techniques for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-graphic-design-careers-successfully/"><u>Navigating Graphic Design Careers Successfully</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/online-gag-artist/"><u>Online Gag Artist</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-performance-issues-ultimate-guide/"><u>Resolving Minecraft Performance Issues: Ultimate Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-telegram-a-comprehensive-guide/"><u>Understanding Telegram: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-sky-high-picture-preservation-discover-ultimate-cloud-options/"><u>[New] Sky-High Picture Preservation Discover Ultimate Cloud Options</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-wave-weaver-toolkit/"><u>[Updated] 2024 Approved Wave Weaver Toolkit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-crossposting-youtube-links-to-ig-stories/"><u>[Updated] Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-14-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 14 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-screens-top-5-for-impeccable-color-accuracy/"><u>Cutting-Edge Screens TOP 5 for Impeccable Color Accuracy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/face-motion-blur-magic-a-step-by-step-picsart-approach/"><u>Face Motion Blur Magic A Step-by-Step Picsart Approach</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-countdown-to-love-top-10-timing-tools-for-your-big-day/"><u>In 2024, Countdown to Love Top 10 Timing Tools for Your Big Day</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-filmmakers-footnotes-unveiling-video-quality-terms/"><u>In 2024, Fresh Filmmaker's Footnotes Unveiling Video Quality Terms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-radiant-realities-setting-up-for-standout-videos/"><u>In 2024, Radiant Realities Setting Up for Standout Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-navigating-through-sound-excellence-and-user-frustrations-with-drops-grell-tws1x-iems/"><u>In-Depth Analysis: Navigating Through Sound Excellence and User Frustrations with Drop's Grell TWS1X IEMs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-audio-file-transformation-srt-to-xmlssattml/"><u>Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-compatible-drivers-found-on-system/"><u>No Compatible Drivers Found on System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shooting-hdr-iphones-pathway-to-enhanced-images/"><u>Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-hand-tracking-reference-guide/"><u>The Ultimate Hand-Tracking Reference Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-videos-with-the-right-dimension-proportions/"><u>Transform Your Videos with the Right Dimension Proportions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>Unveiling the Virtual Essence Metaphysical Metaverse Adages</u></a></li>
 </ul></div>
 

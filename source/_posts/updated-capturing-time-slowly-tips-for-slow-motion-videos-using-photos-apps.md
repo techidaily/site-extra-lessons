@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Time Slowly  Tips for Slow-Motion Videos Using Photos Apps\""
-date: 2025-02-02T11:24:17.944Z
-updated: 2025-02-08T09:41:39.562Z
+date: 2025-02-12T18:38:02.522Z
+updated: 2025-02-18T04:08:01.282Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ While the [Photos app in Windows 10](https://www.microsoft.com/en-us/p/microsoft
 * [**Part2: Customizing the Slow Motion Effect**](#part2)
 * [**Part3: How to Edit in Slow Motion Online**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1：How to Use Slow Motion in Windows 10
 
 There is no need to spend hundreds of dollars on a video program if you need to perform some basic editing and effects on your videos. For instance, you can add the slow motion effect using the Photos app that comes pre-installed on Windows 10 computers.
@@ -39,10 +43,6 @@ There is no need to spend hundreds of dollars on a video program if you need to 
 Navigate to the folder where your video file is located and right click on it. You will go to “open with” and then choose the Photos app. When it is open in the application, you can click on “Edit & Create” and then go to “Add slo-mo”.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
@@ -63,16 +63,12 @@ You can even create multiple versions of the file with the slow motion effect ap
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [EZGif](https://ezgif.com/video-speed)
 
@@ -86,6 +82,10 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
@@ -93,7 +93,11 @@ The program will let you adjust the video speed to your liking. Then you will ge
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -101,10 +105,6 @@ The program will let you adjust the video speed to your liking. Then you will ge
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -121,14 +121,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-digital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[New] In 2024, Digital Domination Rise From Thousands to a Million on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assemble-your-unique-google-cardboard-virtual-reality/"><u>Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>Converting Memories Into Videos The Power of Pixiz Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-how-to-enable-msi-afterburner-detection-for-your-graphics-card-in-windows-10-and-11/"><u>Fixes: How to Enable MSI Afterburner Detection for Your Graphics Card in Windows 10 & 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fundamentals-of-motion-design-and-practical-application/"><u>Fundamentals of Motion Design & Practical Application</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone XS Max?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-avi-media-player-ideal-for-all-devices/"><u>In 2024, Superior AVI Media Player - Ideal for All Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-sales-for-inexpensive-gopros/"><u>Navigating Sales for Inexpensive GoPros</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/sharing-content-video-posts-on-instagram-guide-for-2024/"><u>Sharing Content Video Posts on Instagram Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-practical-approach-to-hymnal-phone-tones/"><u>[New] A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-become-a-viral-sensation-with-these-9-proven-instagram-tricks/"><u>[New] Become a Viral Sensation with These 9 Proven Instagram Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-multi-screen-recording-setup/"><u>[Updated] 2024 Approved Multi-Screen Recording Setup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-5-mid-range-gaming-keyboards-costing-99plus/"><u>[Updated] In 2024, Top 5 Mid-Range Gaming Keyboards Costing $99+</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1-huge-4th-of-july-discount-save-on-all-items-at-urban-armor-gear/"><u>1. Huge 4Th of July Discount: Save on All Items at Urban Armor Gear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-creating-an-ideal-oculus-rift-environment/"><u>2024 Approved Creating an Ideal Oculus Rift Environment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-magic-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Magic 5 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-gentle-volume-alteration-using-fl-studio/"><u>Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-depth-of-photography-with-polarrs-advanced-editing-for-2024/"><u>Exploring the Depth of Photography with Polarr’s Advanced Editing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-your-new-favorite-book-discover-these-best-ai-enhanced-literary-recommenders/"><u>Find Your New Favorite Book - Discover These Best AI-Enhanced Literary Recommenders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-insightful-ways-of-gathering-photographic-elements/"><u>In 2024, Insightful Ways of Gathering Photographic Elements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-custom-luts-into-your-post-production-workflow/"><u>Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphone-x-lens-capabilities-a-guide/"><u>Mastering iPhone X Lens Capabilities A Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-integration-of-luts-for-enhanced-cinematography/"><u>Seamless Integration of LUTs for Enhanced Cinematography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shadow-flight-new-camera-frontier/"><u>Shadow Flight New Camera Frontier</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-full-breakdown-of-facetunes-updated-features/"><u>The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
 

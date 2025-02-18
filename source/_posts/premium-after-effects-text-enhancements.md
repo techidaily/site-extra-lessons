@@ -1,7 +1,7 @@
 ---
 title: "Premium After Effects Text Enhancements"
-date: 2025-02-06T16:07:17.179Z
-updated: 2025-02-08T09:49:53.495Z
+date: 2025-02-14T02:26:07.876Z
+updated: 2025-02-18T03:44:31.637Z
 tags: 
   - screen-recording
   - ai video
@@ -45,7 +45,11 @@ If you want to effectively use the After Effects expressions even if you are not
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextBox
@@ -65,11 +69,7 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -81,7 +81,7 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shadow Studio
@@ -89,10 +89,6 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -103,11 +99,11 @@ This is a bundle of more than 80 different templates to add text effects to any 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Artificial Intelligence Titles
@@ -117,6 +113,10 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -160,24 +160,18 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>[New] Accurate Ranking Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-sites-with-public-domain-game-soundtracks/"><u>[New] Best Sites with Public Domain Game Soundtracks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-boost-your-income-on-reddit-with-these-13-strategies/"><u>[New] Boost Your Income on Reddit with These 13 Strategies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-free-online-video-communication-tools-rated-best-for-2024/"><u>[Updated] Free Online Video Communication Tools Rated Best for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-stories-a-step-by-step-polling-guide/"><u>[Updated] Mastering Instagram Stories A Step-by-Step Polling Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices-for-2024/"><u>[Updated] Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-capitalization-clues-starting-your-podcast-path/"><u>2024 Approved Comprehensive Capitalization Clues Starting Your Podcast Path</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/audio-essentials-latest-speakers/"><u>Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-15-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 15 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dive-into-editing-excellence-a-comprehensive-guide-to-powerdirector-app-2024/"><u>Dive Into Editing Excellence A Comprehensive Guide to PowerDirector App 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-review-of-top-mp4-players/"><u>Exclusive Review of Top MP4 Players</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/frame-by-frame-helpdesk/"><u>Frame by Frame Helpdesk</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/header-tags-and-content-structure-break-content-into-sections-using-header-tags-from-h1-to-h6-the-main-title-should-include-your-primary-keyword-while-subhe72/"><u>Header Tags and Content Structure: Break Content Into Sections Using Header Tags From H1 to H6. The Main Title Should Include Your Primary Keyword, While Subheadings Can Incorporate Secondary Keywords or Long Tail Terms.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-ethernet-driver-downloads-optimized-for-windows-1178-systems/"><u>HP Ethernet Driver Downloads: Optimized for Windows 11/7/8 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-begin-with-no-cost-video-intro-tools/"><u>In 2024, Begin with No-Cost Video Intro Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/masterpiece-makers-top-10-android-collage-tools/"><u>Masterpiece Makers Top 10 Android Collage Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-for-utilizing-video-resources-in-learning/"><u>Strategies for Utilizing Video Resources in Learning</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones/"><u>Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-limits-reasons-to-avoid-using-chatgpt-for-sensitive-communication/"><u>Understanding the Limits: Reasons to Avoid Using ChatGPT for Sensitive Communication</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-itel-p40plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Itel P40+</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-music-video-watching-apps-for-android/"><u>Essential Music Video Watching Apps for Android</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-user-friendly-design-and-functionality-of-mods-latest-sidecar-e-bike/"><u>Explore the User-Friendly Design and Functionality of Mod’s Latest Sidecar E-Bike</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-missing-or-corrupt-shell32dll-files-on-your-pc/"><u>How to Repair Missing or Corrupt Shell32.dll Files on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckles-churner-visual-composer/"><u>In 2024, Chuckles Churner Visual Composer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-front-to-back-the-instagram-art-of-flipping-visuals-with-ease/"><u>In 2024, From Front to Back The Instagram Art of Flipping Visuals with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigate-through-easily-the-logitech-m510-mouse-drivers-update-process-with-our-step-by-step-guide/"><u>Navigate Through Easily the Logitech M510 Mouse Drivers Update Process with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-mastering-auditory-enhancements-in-animated-gifs-with-macos-software/"><u>New Mastering Auditory Enhancements in Animated GIFs with macOS Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-pieces-captivating-collages/"><u>Perfect Pieces, Captivating Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/punpixel-producer/"><u>PunPixel Producer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/spotlight-on-popular-tiktok-cover-art/"><u>Spotlight on Popular TikTok Cover Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-haul-videography-pre-and-post-editing-processes/"><u>The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
 </ul></div>
 

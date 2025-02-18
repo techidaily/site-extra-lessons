@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Streamlined Approach to Using Azure's Transcription Technology"
-date: 2025-02-04T12:36:46.005Z
-updated: 2025-02-07T17:03:32.566Z
+date: 2025-02-17T03:00:21.618Z
+updated: 2025-02-18T00:37:28.873Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ If you're not good with programming languages, use Speech CLI, a command tool th
 
 It is also worth noting that Azure Speech Studio supports keyword recognition or keyword spotting. You can generate keyword recognition models and specify any short phrase or word. Users can also personalize keywords with the correct punctuations. And best of all, there is no extra cost for customizing keywords.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Step by Step Guide to Transcribe Speech to Text with Microsoft Speech Studio
 
 Now let's learn how to use Microsoft Azure speech recognition services. Remember, the conversion may not be accurate if the audio has lots of domain-industry jargon or ambient noises. Therefore, use crisp-clear audio with an external mic or train the software to recognize specific words or keywords. Let's get started!
@@ -50,10 +54,6 @@ Step3The program will take a while to deploy an instance. Now tap Keys and endpo
 
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
 
 Step5Now enter the Azure regional identifier and subscription key on Windows Terminal or PowerShell. To configure the region and key, run these commands; “**spx config @key --set SUBSCRIPTION-KEY** and **spx config @region --set REGION.**”
@@ -64,19 +64,11 @@ Step6Now it's time to convert speech to text using Azure STT Service. To do that
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: What Are the Free Alternatives to the Microsoft Speech to Text Service?
 
 We should all agree that using Microsoft Azures Speech Service is not a walk in the park. You need some knowledge of programming and Windows Command Prompt. Even worse, you'll have to pay each time you want to convert speech to text after depleting the free credits.
 
 Fortunately, there's no shortage of free speech to text converters for beginners. So, in this part, we'll discuss some free Microsoft Azure STT alternatives for beginners.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -85,6 +77,10 @@ Let's start with the best offline speech-to-text converter for macOS and Windows
 When you want to make perfect videos, you can use Filmora's STT feature. Wondershare Filmora Speech to Text is quite different with other STT service providers. Other STT platforms/stages require you to use the application to convert speech-to-text, save, and export into other third-party software. However, Wondershare Filmora allows you to directly convert your speech-to-text on an ongoing production. For example, you can convert speech into subtitles during a video production on Wondershare Filmora.
 
 What's more, now Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription in Filmora.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Top Adavantages of Filmora STT
 
@@ -97,7 +93,7 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use Filmora To Make STT videos
@@ -108,23 +104,19 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Google Docs - Free
 
 ![micrsoft azure speech to text alternative google docs](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you're looking for free voice typing software, you're better off with Google Docs. Most of you may not be aware that Google Docs can accurately convert speech to text. This makes it a handy tool if you find speaking easier than writing. As expected, this voice transcription tool recognizes hundreds of languages, like English, French, Italian, Hindi, etc.
 
@@ -137,6 +129,10 @@ Step1Open a new document on Google Docs and then click Voice typing. The inbuilt
 Step2Next, click the language drop-down arrow on the microphone to choose the transcription language. You can dictate texts in English, Espanol, French, Italian, Afrikaans, Arabic, and more.
 
 Step3Click the Microphone icon to start dictating texts on Google Docs. After dictating enough texts, tap the red Microphone icon and edit your text. It's that simple!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.[Audtext](https://audext.com/) \- $60 one-time fee
 
@@ -168,6 +164,10 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,19 +177,18 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-constructing-an-inviting-subscribe-link-for-youtube-enthusiasts/"><u>[New] In 2024, Constructing an Inviting Subscribe Link for YouTube Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-copycat-chronicles-the-science-of-satire/"><u>[New] In 2024, Copycat Chronicles The Science of Satire</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-tips-securely-preserving-whatsapp-call-recordings/"><u>[Updated] 2024 Approved Pro Tips Securely Preserving WhatsApp Call Recordings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bridging-worlds-unveiling-the-best-31-platforms-for-cross-language-video-conversion/"><u>[Updated] Bridging Worlds Unveiling the Best 31 Platforms for Cross-Language Video Conversion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-editing-for-professional-photographers-time-stamping-tactics/"><u>2024 Approved Advanced Editing for Professional Photographers Time-Stamping Tactics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-conjure-humorous-content-for-online-community-giphy/"><u>2024 Approved Conjure Humorous Content for Online Community, Giphy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/diving-into-deep-an-in-depth-review-of-the-htc-vive/"><u>Diving Into Deep An In-Depth Review of the HTC Vive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-ai-responses-to-peak-performance-with-these-5-proven-techniques/"><u>Elevate AI Responses to Peak Performance with These 5 Proven Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/engagement-over-extremes-balancing-novelty-and-narrative-in-streams/"><u>Engagement Over Extremes Balancing Novelty and Narrative in Streams</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-mohu-blade-tv-antenna-innovative-features-and-impressive-interior-reception/"><u>Expert Analysis of the Mohu Blade TV Antenna: Innovative Features and Impressive Interior Reception</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-crystal-clear-photos-without-spending/"><u>In 2024, Capturing Crystal Clear Photos Without Spending</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/les-top-5-techniques-pour-ameliorer-la-qualite-dimages-en-2024/"><u>Les Top 5 Techniques Pour Améliorer La Qualité D’Images en 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/practice-empathy-put-yourself-in-the-speakers-shoes-and-try-to-understand-their-perspective-emotions-and-motivations/"><u>Practice Empathy Put Yourself in the Speaker's Shoes and Try to Understand Their Perspective, Emotions, and Motivations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-comprehensive-guide-to-hp-laptops-screen-recording-features/"><u>[New] A Comprehensive Guide to HP Laptop's Screen Recording Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-understanding-the-transformations-in-vegaspro-19/"><u>[New] In 2024, Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-inshots-ecosystem-a-detailed-editor-app-study-for-2024/"><u>[New] InShot’s Ecosystem A Detailed Editor App Study for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/professional-adobe-tips-resurrect-the-color-of-faded-iphone-hdr-in-video-editing/"><u>[Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-reverse-silent-tweets-audible-video-connection/"><u>[Updated] In 2024, Reverse Silent Tweets Audible Video Connection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-toolkit-for-editors-magix-video-pro-x-review/"><u>2024 Approved The Ultimate Toolkit for Editors Magix Video Pro X Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-processes-for-downloading-live-conversations/"><u>Easy Processes for Downloading Live Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/edge-elimination-explained-imovie-clipping-reasons/"><u>Edge Elimination Explained IMovie Clipping Reasons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g84-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G84 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>In 2024, Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-on-the-fly-picture-cropping/"><u>Mastering the Art of On-The-Fly Picture Cropping</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language/"><u>Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language</u></a></li>
 </ul></div>
 

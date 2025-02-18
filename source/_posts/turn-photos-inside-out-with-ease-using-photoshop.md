@@ -1,7 +1,7 @@
 ---
 title: "Turn Photos Inside Out with Ease Using Photoshop"
-date: 2025-01-16T16:32:50.267Z
-updated: 2025-01-20T17:20:09.707Z
+date: 2025-02-12T01:58:30.537Z
+updated: 2025-02-18T04:59:19.781Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -33,6 +37,10 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
@@ -47,7 +55,7 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -58,20 +66,20 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4Save the Image
@@ -79,14 +87,6 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -122,18 +122,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dive-deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras/"><u>[New] In 2024, Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-invisible-intensity-covert-volume-reduction-in-garageband/"><u>[New] Invisible Intensity Covert Volume Reduction in Garageband</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-tight-scenes-minecraft-edition-for-2024/"><u>[Updated] Navigating Tight Scenes Minecraft Edition for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-concealed-countenance-guide-fast-and-effective-methods/"><u>2024 Approved Concealed Countenance Guide Fast and Effective Methods</u></a></li>
-<li><a href="https://discover-best.techidaily.com/best-free-high-definition-video-players-for-modern-operating-systems-top-picks/"><u>Best Free High-Definition Video Players for Modern Operating Systems: Top Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>Clearer Visions Advanced Techniques for Zooming Photos & Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovering-the-magic-filmora-editors-top-10-highlights/"><u>Discovering the Magic Filmora Editor's Top 10 Highlights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-s18-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo S18 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/netizen-humorist-platform/"><u>Netizen Humorist Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/outperforming-apples-icon-how-lg-gram-pro-laptops-triumph-over-macbook-air-in-three-key-aspects-expert-review-at-zdnet/"><u>Outperforming Apple's Icon: How LG Gram Pro Laptops Triumph over MacBook Air in Three Key Aspects | Expert Review at ZDNET</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-installing-the-latest-lenovo-t420-drivers-on-your-pc/"><u>Quick Guide: Downloading and Installing the Latest Lenovo T420 Drivers on Your PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/solitary-speaker-issue-solution-steps/"><u>Solitary Speaker Issue Solution Steps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-finding-free-christian-ringtone-sources/"><u>[New] In 2024, Finding Free Christian Ringtone Sources</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ultimate-list-of-top-hashtag-tracker-tools-fb-twitter-insta/"><u>[New] In 2024, Ultimate List of Top Hashtag Tracker Tools (FB, Twitter, Insta)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-trick-for-effortless-video-playback-from-youtube-to-facebook-groups-for-2024/"><u>[New] Trick for Effortless Video Playback From Youtube to Facebook Groups for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-7-key-strategies-for-perfect-macro-video-shooting/"><u>[Updated] 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-photo-editing-how-to-clean-up-unwanted-space/"><u>[Updated] Advanced Photo Editing How to Clean Up Unwanted Space</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>[Updated] In 2024, Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-vrecorder-download-install-in-2024/"><u>[Updated] Mastering VRecorder Download, Install, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-follow-forward-guide-accumulating-1000-likesmonth-on-ig/"><u>[Updated] The Follow-Forward Guide Accumulating 1,000 Likes/Month on IG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-free-pass-to-premium-video-editing-tools/"><u>2024 Approved The Free Pass to Premium Video Editing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-critical-examination-of-vlcs-rivals/"><u>A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/big-sur-breakdown-understanding-the-latest-macos-update-for-2024/"><u>Big Sur Breakdown Understanding the Latest macOS Update for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-adventures-with-right-tools-and-tech/"><u>Capturing Adventures with Right Tools & Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-insights-into-the-updated-videoshow-app-for-24-for-2024/"><u>Complete Insights Into the Updated VideoShow App for '24 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-adobe-premiere-pro-cs6-mac-free-trial-2023-version/"><u>Download Adobe Premiere Pro CS6 Mac Free Trial (2023 Version)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidias-updated-rtx-3060-ti-drivers-for-windows-11-users/"><u>Download NVIDIA's Updated RTX 3060 Ti Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/push-boundaries-expert-advice-on-snapchat-zooms/"><u>Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ranked-costless-pixel-perfection-aid/"><u>Top-Ranked Costless Pixel Perfection Aid</u></a></li>
 </ul></div>
 

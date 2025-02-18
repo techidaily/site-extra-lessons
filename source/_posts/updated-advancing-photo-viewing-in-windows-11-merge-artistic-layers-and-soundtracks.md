@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advancing Photo Viewing in Windows 11  Merge Artistic Layers and Soundtracks\""
-date: 2025-02-04T06:25:36.098Z
-updated: 2025-02-08T00:13:39.190Z
+date: 2025-02-10T20:02:27.827Z
+updated: 2025-02-18T03:53:38.156Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -56,14 +52,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
 
@@ -78,17 +70,21 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -96,6 +92,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,15 +112,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>[Updated] 2024 Approved Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>2024 Approved Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/bebop-parrot-the-ultimate-feathered-performance-review/"><u>Bebop Parrot The Ultimate Feathered Performance Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-approach-perfecting-time-lapses-using-samsungs/"><u>Effortless Approach Perfecting Time-Lapses Using Samsungs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-effective-video-narration-techniques/"><u>In 2024, The Essentials of Effective Video Narration Techniques</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-music-management-win-media-and-cds/"><u>Pioneering Digital Music Management Win, Media and Cds</u></a></li>
-<li><a href="https://review-topics.techidaily.com/poco-data-recovery-recover-lost-data-from-poco-m6-pro-4g-by-fonelab-android-recover-data/"><u>Poco Data Recovery – recover lost data from Poco M6 Pro 4G</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-rated-voice-transformation-software-for-mobile/"><u>Top-Rated Voice Transformation Software for Mobile</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/driver-issue-windows-11-not-supporting-canon-mp620/"><u>[Driver Issue] Windows 11 Not Supporting Canon MP620</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-360-video-stitching-tips-how-to-stitch-gopro-clips-into-360-videos/"><u>[New] 360 Video Stitching Tips How to Stitch GoPro Clips Into 360 Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>[New] Amplify Visual Impact Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-the-best-vr-games-for-google-cardboard/"><u>[New] The Best VR Games for Google Cardboard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>[Updated] Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-studio-study-xvideo-studio-insights/"><u>2024 Approved Comprehensive Studio Study XVideo Studio Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artful-horizons-the-next-level-of-picture-inspiration-from-dall-e-iii/"><u>Artful Horizons: The Next Level of Picture Inspiration From DALL-E III</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/composing-an-alluring-cinematic-teaser-track/"><u>Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/detailed-breakdown-complete-test-of-gecata-tracker-for-2024/"><u>Detailed Breakdown Complete Test of Gecata Tracker for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/learning-the-pixiz-method-for-photo-based-video-crafting-for-2024/"><u>Learning the Pixiz Method for Photo-Based Video Crafting for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/revolutionizing-the-ap-process-enhancing-efficiency-through-ai-insights-from-abbyy/"><u>Revolutionizing the AP Process: Enhancing Efficiency Through AI - Insights From ABBYY</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-key-steps-to-composing-engaging-youtube-video-plans-for-2024/"><u>The Key Steps to Composing Engaging YouTube Video Plans for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-power-problems-how-to-unblock-a-stuck-charger-on-win7win10/"><u>Troubleshoot Power Problems: How to Unblock a Stuck Charger on Win7/Win10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-immersing-in-your-favorite-talk-shows/"><u>Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Immersing in Your Favorite Talk Shows</u></a></li>
 </ul></div>
 

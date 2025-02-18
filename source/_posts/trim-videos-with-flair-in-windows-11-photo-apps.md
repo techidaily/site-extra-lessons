@@ -1,7 +1,7 @@
 ---
 title: "Trim Videos with Flair in Windows 11 Photo Apps"
-date: 2025-02-07T01:57:14.074Z
-updated: 2025-02-07T18:29:57.646Z
+date: 2025-02-15T18:24:51.197Z
+updated: 2025-02-17T20:57:17.187Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,6 @@ The in-built editor in Windows 10 Photos can do that for you. Through this artic
 * [**Part1: How to trim video in Windows 10 Photos**](#part1)
 * [**Part2: How to trim video in Windows 10 with VLC**](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to trim video in Windows 10 Photos
 
 When you talk about video trimming apps on Windows 10 PC, Photos is the only built-in app capable of doing so. Whether you want to do away with the awkward starting of your video or want to club multiple video clips, get Photos on work for that. Basic level editing is possible with Photos, for additional video editing.
@@ -53,10 +49,14 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 ![trim videos in windows 10 Photos](https://images.wondershare.com/filmora/article-images/start-trim-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to trim video in Windows 10 with VLC
@@ -71,15 +71,15 @@ Here comes the step by step guide to trim video in VLC –
 
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
 2. Select the position from where you want to keep the video and hit the play and record button together.
 3. Now, tap the 'Record' button again where you want to stop the recording. This clip automatically gets saved as an MP4 media file. You can find it within the 'Libraries/Videos' folder if it's a Windows 7 PC.
 
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -88,13 +88,13 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,19 +112,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-approach-for-managing-cc-rights-and-usage/"><u>[New] 2024 Approved Best Approach for Managing CC Rights & Usage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pinpointing-key-versions-of-microsofts-movie-maker/"><u>[New] Pinpointing Key Versions of Microsoft's Movie Maker</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-novice-to-expert-learning-the-ins-and-outs-of-instagram-hashtags/"><u>[Updated] From Novice to Expert Learning the Ins and Outs of Instagram Hashtags</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[Updated] In 2024, Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-ancestral-creations-public-domain-masterpieces/"><u>2024 Approved Ancestral Creations Public Domain Masterpieces</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-rentals-to-netflix-transforming-your-dorm-room-into-an-ultimate-wireless-viewing-lounge/"><u>From Rentals to Netflix: Transforming Your Dorm Room Into an Ultimate Wireless Viewing Lounge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-embed-codegpt-within-your-visual-studio-code-setup/"><u>How to Embed CodeGPT Within Your Visual Studio Code Setup</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-2-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze 2 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-conquering-hdr-photography-with-ease/"><u>In 2024, Conquering HDR Photography with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-expression-with-these-6-best-nft-makers/"><u>Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/reaction-video-mastery-the-top-tools-and-software-for-2024/"><u>Reaction Video Mastery The Top Tools and Software for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211241247-9781644116760-the-beginners-guide-to-crystal-healing-2nd-ed/"><u>The Beginner's Guide to Crystal Healing (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-education-with-instructional-videos/"><u>Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp/"><u>[New] 2024 Approved From Facebook to the Friend's Inbox Sharing Videos Through WhatsApp</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ios-and-android-perfecting-your-chat-tone-with-whatsapp-ringtones/"><u>[New] 2024 Approved IOS & Android Perfecting Your Chat Tone with WhatsApp Ringtones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[New] Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>[New] Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-proven-methods-for-boosting-video-watchers/"><u>[New] Proven Methods for Boosting Video Watchers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[New] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/arcade-alpha-check-in-gamers-thoughts-for-2024/"><u>ARCADE ALPHA CHECK-IN Gamers' Thoughts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-video-and-sound-capture-apps-for-artistic-visionaries-for-2024/"><u>Best Video & Sound Capture Apps for Artistic Visionaries for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromatic-excellence-learning-to-leverage-colors-for-2024/"><u>Chromatic Excellence Learning to Leverage Colors for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-7-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 7 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-artisanfusion-8k-montage-magic-toolkit/"><u>In 2024, ArtisanFusion 8K Montage Magic Toolkit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/intensive-analysis-sonys-high-def-action-cam/"><u>Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-crashes-for-fallout-3-players-running-windows-11/"><u>Overcoming Game Crashes for Fallout 3 Players Running Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seconds-in-a-snapshot-20mb-videography/"><u>Seconds in a Snapshot 20MB Videography</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/troubleshooting-guide-steps-to-resolve-a-sudden-windows-program-failure-tips-from-yl-software-experts/"><u>Troubleshooting Guide: Steps to Resolve a Sudden Windows Program Failure - Tips From YL Software Experts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/vidvault-seamless-techniques-for-securing-tweeted-videos/"><u>VidVault Seamless Techniques for Securing Tweeted Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/webcam-recording-winners-18-top-rated-tools-unveiled/"><u>Webcam Recording Winners 18 Top-Rated Tools Unveiled</u></a></li>
 </ul></div>
 
