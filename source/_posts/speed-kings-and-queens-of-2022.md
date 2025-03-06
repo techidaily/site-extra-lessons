@@ -1,7 +1,7 @@
 ---
 title: "Speed Kings and Queens of 2022"
-date: 2025-02-12T16:42:08.094Z
-updated: 2025-02-17T16:26:00.967Z
+date: 2025-03-03T19:21:45.063Z
+updated: 2025-03-06T17:57:37.475Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -36,17 +32,9 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
@@ -59,10 +47,6 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -108,10 +92,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -135,22 +115,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovative-strategies-for-keeping-a-log-of-whatsapp-calls/"><u>[New] 2024 Approved Innovative Strategies for Keeping a Log of WhatsApp Calls</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-capture-joy-best-twitter-gif-saving-toolkit-2024-edition/"><u>[New] Capture Joy Best Twitter GIF Saving Toolkit - 2024 Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-peak-computing-powerhouses-the-best-on-the-market/"><u>[New] In 2024, Peak Computing Powerhouses - The Best On the Market</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-portable-balancing-system-for-video-capture/"><u>[Updated] 2024 Approved Portable Balancing System for Video Capture</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-superior-psd-filters-galore/"><u>[Updated] 2024 Approved Superior PSD Filters Galore</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-top-inspirational-movies-for-personal-power-boosts/"><u>2024 Approved 10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/de-jelling-drone-mobility-captures/"><u>De-Jelling Drone Mobility Captures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-capture-to-screen-advanced-editing-strategies-for-full-spherical-video-content-in-adobe-premiere-pro/"><u>From Capture to Screen Advanced Editing Strategies for Full Spherical Video Content in Adobe Premiere Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/front-seat-pleasures-not-so-sporty-top-ten-for-2024/"><u>Front Seat Pleasures Not So Sporty Top Ten for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-s17e-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo S17e</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/infusing-sound-into-your-photography/"><u>Infusing Sound Into Your Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mirthful-melodies-curated-list-of-funny-phone-sounds/"><u>Mirthful Melodies Curated List of Funny Phone Sounds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/must-have-gear-for-road-trip-documentaries/"><u>Must-Have Gear for Road Trip Documentaries</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-make-stunning-videos-in-minutes-wevideo-for-2024/"><u>New Make Stunning Videos in Minutes WeVideo for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/nurturing-discussions-strategies-to-connect-with-followers/"><u>Nurturing Discussions Strategies to Connect With Followers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-financial-framework-a-new-podcasters-guide/"><u>Ultimate Financial Framework A New Podcaster’s Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/understanding-the-distinctive-features-of-computer-viruses-vs-worms-a-comparative-analysis/"><u>Understanding the Distinctive Features of Computer Viruses Vs. Worms: A Comparative Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-game-changing-ways-for-designing-cover-art/"><u>[Updated] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-entertainment-vrs-utility/"><u>2024 Approved Beyond Entertainment VR's Utility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-captivate-with-crafted-cost-free-comic-templates/"><u>2024 Approved Captivate with Crafted, Cost-Free Comic Templates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/book-lovers-guide-how-does-the-newly-launched-kobo-nia-hold-up-against-amazon-kindle-rivals/"><u>Book Lover's Guide: How Does the Newly Launched Kobo Nia Hold up Against Amazon Kindle Rivals?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comment-resoudre-le-probleme-du-bureau-et-du-dossier-manquant-apres-un-redemarrage-sous-windows-10-guide-dassistance-avec-des-solutions-pratiques/"><u>Comment Résoudre Le Problème Du Bureau Et Du Dossier Manquant Après Un Redémarrage Sous Windows 10: Guide D'Assistance Avec Des Solutions Pratiques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-techniques-for-blurring-unwanted-edges/"><u>Efficient Techniques for Blurring Unwanted Edges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-drone-racing-game-and-discovering-elite-fpv-uavs/"><u>Elevating Your Drone Racing Game & Discovering Elite FPV UAVs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-why-it-hasnt-released-yet-insights-and-updates/"><u>Guilty Gear Strive: Why It Hasn't Released Yet – Insights & Updates</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-handle-a-computer-system-failure-tips-by-yl-computing/"><u>How to Handle a Computer System Failure - Tips by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-idea-incubator-interactive/"><u>Innovative Idea Incubator Interactive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/reflex-product-assembly-for-2024/"><u>Reflex Product Assembly for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-to-updating-issues-in-your-iphones-email-app/"><u>Step-by-Step Solution to Updating Issues in Your iPhone's Email App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zooming-into-success-video-converter-trio-techniques/"><u>Zooming Into Success Video Converter Trio Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Create Time Travel Teleportation Effects"
-date: 2025-02-16T00:55:13.316Z
-updated: 2025-02-17T20:10:02.229Z
+date: 2025-03-04T21:18:44.949Z
+updated: 2025-03-06T19:13:45.927Z
 tags: 
   - screen-recording
   - ai video
@@ -74,10 +74,6 @@ For the first round, the subject has to do acting for the daytime script. Let th
 
 In this article, we are doing a daytime performance in the first round. For this, the subject should go from right to left to step over for night time dimension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### #1 night-time lighting setup
 
 In the second round, you have to create a nighttime action indicating that you need a night light. You have to change the costume of a subject as well as you can change the set too.
@@ -178,10 +174,6 @@ For better alignment of the clips, trim the nighttime clip where marker one is p
 
 ![trim the nighttime clip at marker 1](https://images.wondershare.com/filmora/article-images/2023/04/trim-the-nighttime-clip-at-marker-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After alignment and trimming points, the timeline is finalized, then add the mask effects for a fascinating look.
 
 ##### Step8Apply a shape mask
@@ -254,10 +246,6 @@ To get the thrilling look, you have to apply the laser effect between the two cl
 * Reposition and adjust it according to the requirements if needed.
 * Extend the laser effect to the end of the scene.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Final Results
 
 Congratulations! You have all done with the time travel teleportation effects and get a bombing video. Check out the results below!
@@ -282,10 +270,6 @@ Create for you and add different effects and experiment with new features. You w
 
 To create shots, we have to do two processing rounds. In the first round, we will film a shot for daytime activity. While in the next round, we will shoot a video for nighttime activity. Get straight into the filming mode and create according to your script.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### #1 daylight lighting setup
 
 In this round, you have to create a daytime action, implying that you need daylight. As well as, you don't need professional filming skills because it is going to be so simple.
@@ -305,10 +289,6 @@ Professional videographers create these effects using high-end lighting. But you
 First, wrap the colorful divider around the LED light or any other light you're using to take video. The dividers will be melt or burn when the light source gets too hot; therefore, check the temperature of the light after short gaps.
 
 ![wrap the led light with a plastic binder](https://images.wondershare.com/filmora/article-images/2023/04/wrap-the-led-light-with-a-plastic-binder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Shoot the video now, and experiment with adding suspense, terror, and cheerful effects with various colors.
 
@@ -368,10 +348,6 @@ You can also create a marking by using anything in yours. We are using the midli
 
 ![cross line between two rounds](https://images.wondershare.com/filmora/article-images/2023/04/cross-line-between-two-rounds.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After shooting all the clips, it's time to edit them on Filmora. To do this, check out the step to step guide below.
 
 ## Part 3\. Edit Teleportation Effects in Filmora
@@ -414,19 +390,11 @@ After marking the daytime clip, drag and drop the clip of the second round (i.e.
 
 ![nighttime clip in the second video track](https://images.wondershare.com/filmora/article-images/2023/04/nighttime-clip-in-the-second-video-track.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5Mark the nightime clip
 
 Find the spot where the subject steps over in the nighttime clip, and select the clip. Then mark it as marker three. This marker is shown when the character changes the transition.
 
 ![marker 3 on the nighttime clip](https://images.wondershare.com/filmora/article-images/2023/04/marker-3-on-the-nighttime-clip.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After marking the points on the clips, then you have to align and adjust the clips!
 
@@ -455,10 +423,6 @@ Next, you have to apply the **"Shape Mask"** for smooth movements of the charact
 * Then download this effect and apply it to the nighttime clip.
 
 ![shape mask from the utility section](https://images.wondershare.com/filmora/article-images/2023/04/shape-mask-from-the-utility-section.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * After that, double-click on the nighttime clips, which will show the settings section of the clip.
 * Go to the Video Effects section and change the shape mask settings.
@@ -524,10 +488,6 @@ Congratulations! You have all done with the time travel teleportation effects an
 
 ![final results of time travel teleportation effects](https://images.wondershare.com/filmora/article-images/2023/04/final-results-of-time-travel-teleportation-effects.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want to change the effects, then you can easily switch from the stock of the Wondershare Filmora. It gives unlimited creative and fun effects to interact with more audiences daily.
 
 ## Conclusion
@@ -564,24 +524,17 @@ Create for you and add different effects and experiment with new features. You w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-9-superior-editing-platforms-for-every-drone-operators-level/"><u>[New] 9 Superior Editing Platforms for Every Drone Operator's Level</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-advanced-psd-color-grading/"><u>[New] Advanced PSD Color Grading</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-video-recording-gear-guide/"><u>[New] Best Video Recording Gear Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-hitching-a-ride-on-stream-success-obs-plus-zoom/"><u>[New] In 2024, Hitching a Ride on Stream Success OBS + Zoom</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enriched-video-presentation-implementing-lc-and-bb-on-social-platforms/"><u>[Updated] 2024 Approved Enriched Video Presentation Implementing LC and BB on Social Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-listeners-lens-sound-study/"><u>[Updated] 2024 Approved Listener's Lens Sound Study</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-combat-king-t5-vs-heavy-duty-sjcam-s6-showdown/"><u>[Updated] Combat King T5 Vs Heavy Duty SJCAM S6 Showdown</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-jumpstarting-video-communication-a-3-step-guide-for-snapchat-users-for-2024/"><u>[Updated] Jumpstarting Video Communication A 3-Step Guide for Snapchat Users for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-banishing-glue-grips-vids-on-a-clear-track-at-tiktok/"><u>2024 Approved Banishing Glue Grips Vids on a Clear Track at TikTok</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-fun-car-games-for-kids/"><u>2024 Approved Best Fun Car Games for Kids</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/diy-guide-identifying-and-fixing-your-pcs-motherboard-bios-problem-expert-tips-by-yl-computing/"><u>DIY Guide: Identifying & Fixing Your PC's Motherboard BIOS Problem - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guia-paso-a-paso-para-la-sincronizacion-de-archivos-en-tiempo-real-con-windows-11/"><u>Guía Paso a Paso Para La Sincronización De Archivos en Tiempo Real Con Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-compelling-cinematic-snippet/"><u>In 2024, Building a Compelling Cinematic Snippet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-on-implementing-googles-text-conversion-service/"><u>In 2024, Comprehensive Guide on Implementing Google's Text Conversion Service</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-reviewing-the-impression-of-high-dynamic-range-on-aurora-tv/"><u>In 2024, Reviewing the Impression of High Dynamic Range on Aurora TV</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stable-frames-photo-and-video-shake-control/"><u>Stable Frames Photo & Video Shake Control</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-best-lipos-a-drone-buyers-bible/"><u>Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/h-amidst-cold-selecting-perfect-winter-backdrops-for-2024/"><u>Warmth Amidst Cold Selecting Perfect Winter Backdrops for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>[Updated] Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-treasure-trove-of-e-commerce-the-hottest-sites-for-mystery-boxes/"><u>2024 Approved A Treasure Trove of E-Commerce The Hottest Sites for Mystery Boxes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blending-images-for-a-captivating-visual-journey/"><u>2024 Approved Blending Images for a Captivating Visual Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-action-the-complete-technique-for-adding-motion-blur-in-photos/"><u>2024 Approved Capture Action The Complete Technique for Adding Motion Blur in Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balancing-core-and-supporting-visual-elements-for-2024/"><u>Balancing Core & Supporting Visual Elements for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/13098203-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-13t-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-and-must-have-apps-for-streamlining-your-day-to-day-task-management-insights-from-zdnet/"><u>Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/expert-recommended-steadicams-for-professional-dslr-work-for-2024/"><u>Expert-Recommended Steadicams for Professional DSLR Work for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-x50i-frp-bypass-by-drfone-android/"><u>In 2024, About Honor X50i FRP Bypass</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-peculiar-plight-dissecting-goofy-chronicles/"><u>In 2024, The Peculiar Plight Dissecting 'Goofy Chronicles'</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android/"><u>New In 2024, Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android</u></a></li>
 </ul></div>
 

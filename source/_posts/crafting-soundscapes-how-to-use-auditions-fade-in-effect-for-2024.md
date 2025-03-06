@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Soundscapes  How to Use Audition's Fade In Effect for 2024\""
-date: 2025-02-12T16:53:39.401Z
-updated: 2025-02-17T17:44:24.024Z
+date: 2025-02-28T17:54:34.488Z
+updated: 2025-03-06T18:41:08.485Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ If you have audio that starts quite abruptly and you'd like to add a fade, Audit
 
 ![2 triangles square](https://images.wondershare.com/filmora/article-images/2022/08/2-triangles-square.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, if you point these out, you will spot them on every piece of audio you open and if you hover the mouse over that, the left one is called Fade In. The right one is Fade Out.
 * Now, if you pull the Heads-Up Display out of the way and click and then drag right on the icon, you will see a fade in there which is a little bit longer than you need.
 * If you go up to your Effects menu and go to your Amplitude and Compression section, you have got a Fade Envelope and a Gain Envelope.
@@ -69,10 +65,6 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -89,10 +81,6 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -112,10 +100,6 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -127,15 +111,7 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How do you fade in multitrack in Audition?
 
@@ -144,10 +120,6 @@ If you want to fade in and fade out two clips at the same time, then controlling
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
@@ -185,20 +157,17 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-streamlined-screencasting-experts-top-recommendations/"><u>[New] 2024 Approved Streamlined Screencasting Experts' Top Recommendations</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-soundtrack-strategy-amplifying-unboxing-content-for-2024/"><u>[New] The Soundtrack Strategy Amplifying Unboxing Content for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-commercial-sky-storage-provider/"><u>[New] Ultimate Commercial Sky-Storage Provider</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-leading-websites-your-source-for-legal-skype-ringtones/"><u>[Updated] In 2024, Leading Websites Your Source for Legal Skype Ringtones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/canva-expertise-10-sneak-peek-tips-for-photo-editors-for-2024/"><u>Canva Expertise 10 Sneak Peek Tips for Photo Editors for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-leading-10-macwindows-srt-enhancers/"><u>Exploring the Leading 10 Mac/Windows SRT Enhancers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-end-uavs-purchase-without-delay/"><u>High-End UAVs Purchase Without Delay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-captivating-content-for-the-first-moments-in-audios/"><u>In 2024, Crafting Captivating Content for the First Moments in Audios</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-conversational-slides-with-powerpoints-speech-features/"><u>In 2024, Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-playback-rate-of-presentation-videos/"><u>Optimizing Playback Rate of Presentation Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pocketsized-skies-budget-large-data-haven/"><u>PocketSized Skies - Budget Large Data Haven</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-gamers-blueprint-expert-tips-for-assembling-a-powerhouse-gaming-pc-on-zdnet/"><u>The Ultimate Gamer's Blueprint: Expert Tips for Assembling a Powerhouse Gaming PC on ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-affordable-gaming-mice-and-keyboards-99plus-for-2024/"><u>Top 5 Affordable Gaming Mice & Keyboards $99+ for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726225135695-vobasf-movavi/"><u>VOB/ASFファイルを手軽に無料でオンライン変換 - Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-integrate-snapchat-into-your-mac-seamlessly/"><u>[Updated] 2024 Approved Integrate Snapchat Into Your Mac Seamlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-craft-a-symphony-for-screens-mastering-music-editing-in-canva/"><u>[Updated] Craft a Symphony for Screens Mastering Music Editing in Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-memetic-flesh-eater-artist/"><u>2024 Approved Memetic Flesh Eater Artist</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversor-online-de-flac-para-mp3-gratuito-site-oficial-do-movavi/"><u>Conversor Online De FLAC Para MP3 Gratuito - Site Oficial Do Movavi</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-undo-file-deletion-on-windows-10-discover-5-effective-methods/"><u>How to Undo File Deletion on Windows 10 - Discover 5 Effective Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-x50i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor X50i to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>In 2024, Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>In 2024, Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings/"><u>SEO Secrets Unveiled A Comprehensive Guide to Boosting Podcast Rankings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speech-to-text-magic-for-ms-word-users/"><u>Speech-to-Text Magic for MS Word Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
 </ul></div>
 

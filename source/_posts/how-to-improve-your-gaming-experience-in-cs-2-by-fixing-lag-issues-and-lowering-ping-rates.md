@@ -1,7 +1,7 @@
 ---
 title: How to Improve Your Gaming Experience in CS 2 by Fixing Lag Issues and Lowering Ping Rates
-date: 2025-02-17T01:21:55.227Z
-updated: 2025-02-17T18:48:30.834Z
+date: 2025-03-03T18:13:50.171Z
+updated: 2025-03-06T22:01:26.520Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -64,10 +60,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -75,10 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -95,10 +83,6 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -153,10 +137,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -172,10 +152,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -206,20 +182,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-artful-laps-backgrounds-the-10-superior-websites-to-download-from/"><u>[New] Artful Laps Backgrounds The 10 Superior Websites to Download From</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-camera-stabilizers-for-youtuber/"><u>[New] Best Camera Stabilizers for YouTuber</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cut-to-a-new-beginning-four-fade-techniques/"><u>[New] In 2024, Cut to a New Beginning Four Fade Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/10-best-free-image-hosting-sites-never-lost-your-photos-for-2024/"><u>10 Best Free Image Hosting Sites [Never Lost Your Photos] for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-a-complete-guide-to-youtubes-live-image-lore/"><u>2024 Approved A Complete Guide to YouTube's Live Image Lore</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch-for-2024/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-picks-and-reviews-a-look-into-toms-hardware-insights/"><u>Discover Top Tech Picks and Reviews: A Look Into Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-ultra-high-definition-video-transformation-using-the-no-cost-factory-tool/"><u>DIY Ultra High Definition Video Transformation Using the No-Cost Factory Tool!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964368275-get-your-logitech-keyboard-up-and-running-on-windows-11-download-driver-now/"><u>Get Your Logitech Keyboard Up and Running on Windows 11 – Download Driver Now!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-directors-toolkit-powerdirector-24/"><u>In 2024, Advanced Directors' Toolkit PowerDirector '24</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-tecno-spark-20-proplus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Tecno Spark 20 Pro+ Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-picart-background-cleanse-method/"><u>Step-by-Step PicArt Background Cleanse Method</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-apex-of-visual-fidelity-insightful-review-on-lg-4k-monitors/"><u>The Apex of Visual Fidelity Insightful Review on LG 4K Monitors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-proplus-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro+ 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>[New] Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-your-story-leading-drawers-in-ipados/"><u>[New] Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/1717966198404-new-in-2024-differences-between-iphone-x-face-id-and-samsung-face-recognition/"><u>[New] In 2024, Differences Between iPhone X Face ID and Samsung Face Recognition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-profitability-recent-guidelines/"><u>[New] Unlocking YouTube Profitability Recent Guidelines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthrough-ideas-to-amplify-brand-impact-on-reddit/"><u>[Updated] Breakthrough Ideas to Amplify Brand Impact on Reddit</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-key-tactics-to-amplify-your-youtube-presence-and-engagement/"><u>10 Key Tactics to Amplify Your YouTube Presence and Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-insights-into-utilizing-the-full-potential-of-macs-preview-features/"><u>2024 Approved Complete Insights Into Utilizing the Full Potential of Mac's Preview Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/affordable-webm-streaming-alternatives-unveiled/"><u>Affordable WebM Streaming Alternatives Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-guide-for-hp-officejet-pro-asterisk-8610-driver-on-windows-os-7-vista-xp-8-and-10/"><u>Download & Update Guide for HP Officejet Pro Asterisk 8610 Driver on Windows OS (7, Vista, XP, 8, and 10)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/find-a-scale-that-measures-in-pounds/"><u>Find a Scale that Measures in Pounds</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-efficiently-diagnose-graphics-card-failures-the-ultimate-guide-by-yl-computing-experts/"><u>How to Efficiently Diagnose Graphics Card Failures: The Ultimate Guide by YL Computing Experts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-go-2023-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark Go (2023) to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-investors-handbook-for-monetized-youtubers/"><u>In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/penning-perfectly-captivating-podcast-descriptions/"><u>Penning Perfectly Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/preeminent-80s-effects-for-video-artistry/"><u>Preeminent 80S Effects for Video Artistry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sierras-seamless-document-and-desktop-storage-solutions/"><u>Sierra’s Seamless Document & Desktop Storage Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-a2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi A2 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing 3D Text  A Photoshop Technique\""
-date: 2025-02-12T04:19:33.733Z
-updated: 2025-02-17T16:27:17.181Z
+date: 2025-02-28T21:15:12.269Z
+updated: 2025-03-06T19:58:24.284Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ It's three times better than regular text. A 3D text looks more professional, mo
 
 Then, you'll learn about an alternative method that's actually much easier. It may not be as popular as Photoshop but you will be surprised by the professional results even a beginner can achieve with this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create a 3D Text Effect in Adobe Photoshop
 
 Photoshop is not the easiest image editing software to use. It can get really complex, really fast. But, with this, all you have to do is follow our steps. We'll try to make it as straightforward as possible.
@@ -34,10 +30,6 @@ Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document
 
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
@@ -45,10 +37,6 @@ Step2 Select the **Type** tool and choose a color of your liking. Then, click an
 Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen. Click on **Layers** **→ right-click on your Text layer → select "New 3D Extrusion from Selected Layer".** Then, just click **Yes** on the new window that pops up.
 
 ![three d layer](https://images.wondershare.com/filmora/article-images/layer-adobe-photoshop.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
@@ -63,10 +51,6 @@ Step6 Next, go to the 3D panel. Here, simply click on your Text layer. Then, fro
 Step7 The next thing you need to do is add a light source. To do this, go back to the **3D Panel →** click on the **Lightbulb** button at the bottom **→** select **"New Infinite Light"**. Then, you can drag the circle in the middle of the text to set the direction of the light source.
 
 ![add light source photoshop](https://images.wondershare.com/filmora/article-images/light-adobe-photoshop.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step8 You can now go to the Properties panel to adjust the 3D effects and light source effects even further. When you are done, simply click this highlighted button to render your creation.
 
@@ -110,19 +94,11 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -144,17 +120,9 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
@@ -190,24 +158,24 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-complete-reference-for-navigating-telegram-web-applications/"><u>[New] Complete Reference for Navigating Telegram Web Applications</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-configure-youtube-pip-on-iphone-quickly/"><u>[New] Configure YouTube PIP on iPhone Quickly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] In 2024, A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-analysis-ergonomic-furnitures-impact-on-efficiency/"><u>[Updated] A Comprehensive Analysis Ergonomic Furniture's Impact on Efficiency</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-free-slo-mo-camera-apps-for-iphone-and-android-phones/"><u>[Updated] Best Free Slo-Mo Camera Apps for iPhone and Android Phones</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[Updated] In 2024, Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-journey-into-the-metaverse-top-8-vr-headgear/"><u>[Updated] In 2024, Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-hands-free-motion-an-overview/"><u>[Updated] In 2024, Mastering Hands-Free Motion An Overview</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-cutting-edge-creatives-on-your-feed/"><u>2024 Approved The Cutting-Edge Creatives on Your Feed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/av1-for-the-uncharted-beginner-for-2024/"><u>AV1 for the Uncharted Beginner for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discovery-finding-soundtracks-that-elevate-unboxing-content/"><u>Discovery Finding Soundtracks that Elevate Unboxing Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-integrating-youtube-videos-into-your-instagram-story/"><u>In 2024, Integrating YouTube Videos Into Your Instagram Story</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/next-gen-players-guide-rift-vive-vs-ps-vr-games-for-2024/"><u>Next-Gen Players Guide Rift, Vive, vs PS VR Games for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u/"><u>Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pushing-boundaries-innovative-memes-with-kinemaster/"><u>Pushing Boundaries Innovative Memes with KineMaster</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-fastest-methods-to-uncover-hidden-reddit-articles/"><u>The Fastest Methods to Uncover Hidden Reddit Articles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>[New] 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gastronomy-gurus-the-elite-of-food-vlogs-for-2024/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-propel-participation-through-unique-custom-story-queries/"><u>[Updated] Propel Participation Through Unique, Custom Story Queries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-best-practices-for-skype-in-obs/"><u>[Updated] Unveiling the Best Practices for Skype in OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>2024 Approved Amplify Your Voice on Twitter Top Video Uploading Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>2024 Approved Blending Words with Pictures Adding Text to Images, Windows/Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comment-recuperer-un-historique-efface-sur-youtube/"><u>Comment Récupérer Un Historique Effacé Sur YouTube</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-seamlessly-reach-advanced-boot-features-in-windows-10/"><u>How to Seamlessly Reach Advanced Boot Features in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cinematic-writing-of-the-decade/"><u>In 2024, Cinematic Writing of the Decade</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>In 2024, Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-tips-for-capturing-gotomeeting-conversations/"><u>Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-how-to-for-extracting-youtube-srt-files/"><u>The Essential How-To for Extracting YouTube SRT Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-budget-laptops-for-july-2024-exclusive-offers-on-zdnet/"><u>Top-Rated Budget Laptops for July 2024 - Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/total-cost-transparency-embarking-on-a-podcast-adventure/"><u>Total Cost Transparency Embarking on a Podcast Adventure</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-setup-starter-kit-for-excursion-documentation/"><u>Video Setup Starter Kit for Excursion Documentation</u></a></li>
 </ul></div>
 

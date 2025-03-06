@@ -1,7 +1,7 @@
 ---
 title: "Decoding Automatic Clips in iMovie"
-date: 2025-02-16T00:41:19.087Z
-updated: 2025-02-17T19:46:00.133Z
+date: 2025-03-01T17:48:30.408Z
+updated: 2025-03-06T21:50:22.188Z
 tags: 
   - screen-recording
   - ai video
@@ -28,29 +28,17 @@ Suppose you choose to maintain the aspect ratio of your project. In that case, i
 
 I know that you always get irritated with this automatic crop feature. Well, you won't need to worry because, in this article, I will show you the best alternatives where you can edit your videos quickly, easily, and without an automatic crop feature. Keep reading as I offer you these below:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Video Editor #1:** [Wondershare Filmora](https://filmora.wondershare.net/filmora-video-editor.html?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQKOVFfUd5GCjVXhfA5LdcXeGhsNNecqqc%5FC%5FuiHuIn3%5F9jYNR%5FigFsaAmoGEALw%5FwcB) **– Overall Best**
 
 Are you seeking for a video editor that won't automatically crop your clips? Then, you are in the right place. Wondershare Filmora instantly imports your files without restricting any resolution. You can load and start editing your clips with any of your desired aspect ratios.
 
 Follow the steps below to begin making your video with Filmora:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #1: Begin by Going to Filmora and Selecting Your Desired Aspect Ratio.**
 
 Double-click Filmora's desktop icon once you're ready to start working on a new video. The welcome screen of the application will encourage you to create a new project or open an existing one. You can also choose the aspect ratio here to save time when editing.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step #2: Create a New Project**
 
@@ -68,19 +56,11 @@ You can find the Import button in the upper left corner of the film editor; clic
 
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #4: Arrange Your Clips**
 
 The documents you import into Filmora will be stored under the Media tab, which you can find beneath the Load button. Working with multiple files in a single project becomes significantly more difficult when searching for the films and photographs you want to add to the timeline. To eliminate clutter and annoyance, use the My Album tool to create folders and organize your files.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In the window's top right corner, click the Add a New Folder icon at the bottom of the "My Project" section. You can organize the footage numerically or in another method to increase your productivity and save time looking through files.
 
@@ -91,10 +71,6 @@ Because raw footage frequently has incorrect orbits that you don't need in your 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
 
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step #6: Insert Effects**
 
@@ -114,19 +90,11 @@ After choosing New Project on the software's welcome screen, wait for the editor
 
 Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Step #3: Import Your Files**
 
 You can find the Import button in the upper left corner of the film editor; click it and select Import Media Files. Next, go to the hard drive folder containing the item you want to modify. After choosing the video, audio, or photo files, you want to use in your project, click the Import option.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
@@ -186,10 +154,6 @@ Because raw footage frequently has incorrect orbits that you don't need in your 
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
 ### **Step #6: Insert Effects**
@@ -207,10 +171,6 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
 After choosing New Project on the software's welcome screen, wait for the editor to load. After gaining access to Fillmora's video editor, click the Register button to activate it.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
 
@@ -272,24 +232,21 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] 2024 Approved Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-profits-unleashed-strategies-for-creative-entrepreneurs/"><u>[New] 2024 Approved Vimeo Profits Unleashed Strategies for Creative Entrepreneurs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-ios-slideshow-software-from-x-to-ios13/"><u>[New] Best iOS Slideshow Software From X to IOS13</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-gentle-volume-declines-using-logic-pro/"><u>[New] Crafting Gentle Volume Declines Using Logic Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-viral-videos-on-youtube-a-strategic-plan/"><u>[New] In 2024, Crafting Viral Videos on YouTube A Strategic Plan</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[Updated] 2024 Approved Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>[Updated] 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-best-practices-for-configuring-and-measuring-fb-instream-ads/"><u>[Updated] Best Practices for Configuring and Measuring FB Instream Ads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-demystifying-the-instagram-selfie-process-for-2024/"><u>[Updated] Demystifying the Instagram Selfie Process for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/"><u>A Critical Look at Huawei P10 for Photography Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/amplify-iphone-imagery-with-lighting-hacks/"><u>Amplify iPhone Imagery with Lighting Hacks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cloudapp-studio-top-10-lightroom-alternatives/"><u>CloudApp Studio Top 10 Lightroom Alternatives</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-cinematographic-capabilities-essential-iphone-gear/"><u>In 2024, Boost Cinematographic Capabilities Essential iPhone Gear</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-wsl-the-4294967295-error-explained/"><u>Resolving WSL: The 4294967295 Error Explained</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/start-your-quest-for-quick-snapstreaming-today/"><u>Start Your Quest for Quick Snapstreaming Today</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-schedule-expert-techniques-using-free-timers/"><u>Streamline Your Schedule Expert Techniques Using Free Timers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unmasking-private-callers-expert-techniques-for-reconnecting-with-anonymous-telephone-contacts/"><u>Unmasking Private Callers: Expert Techniques for Reconnecting with Anonymous Telephone Contacts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>[New] 2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-content-premier-youtube-rank-tracker-apps/"><u>[New] 2024 Approved Elevate Your Content Premier YouTube Rank Tracker Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-in-class-music-video-platforms/"><u>[New] Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-direct-route-watching-popular-reactions-in-a-flash-on-youtube/"><u>[New] Direct Route Watching Popular Reactions in a Flash on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>[Updated] Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online-for-2024/"><u>Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-and-defeating-the-d3d11-compatible-gpu-predicament-in-w11w10/"><u>Decoding and Defeating the D3D11-Compatible GPU Predicament in W11/W10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267860260-easyjpg-fixer-professional-software-to-repair-corrupt-jpeg-images-fast/"><u>EasyJPG Fixer - Professional Software to Repair Corrupt JPEG Images Fast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-note-30-vip-racing-edition-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Note 30 VIP Racing Edition Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-4k-tvs-top-ten-selection/"><u>In 2024, Best 4K TVs Top Ten Selection</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>In 2024, Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-elemental-story-articulation/"><u>In 2024, Elemental Story Articulation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inshot-unpacked-editors-edition-detailed-review/"><u>InShot Unpacked Editor's Edition Detailed Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-vibrance-to-dull-desktop-windows-effects/"><u>Restoring Vibrance to Dull Desktop Windows Effects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-new-era-of-capturing-life-with-updated-lg-360-cameras/"><u>The New Era of Capturing Life with Updated LG 360 Cameras</u></a></li>
 </ul></div>
 

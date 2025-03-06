@@ -1,7 +1,7 @@
 ---
 title: "Video Setup Starter Kit for Excursion Documentation"
-date: 2024-07-26T20:59:50.700Z
-updated: 2024-07-27T20:59:50.700Z
+date: 2025-03-01T21:22:01.631Z
+updated: 2025-03-06T20:37:49.553Z
 tags: 
   - screen-recording
   - ai video
@@ -20,21 +20,12 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 From the very beginning, when I started travel vlogging, I mentioned in my previous article that I used the camera on my mobile phone as my primary equipment. I utilize it every time I make videos for my content. It reminded me how handy and convenient it is to use, as proof, that I can do different shots at different angles with minimal effort. In the course of time, I figured out that I need to upgrade and look for other types of tools or equipment. It is for this reason that my fondness for travel vlogging keeps growing and I want to produce a better-quality video. Another thing is that I feel the need to expand my market on YouTube, because nowadays, more people are interested in traveling and seeing new places (hence, COVID19). Considering that, I want to take the next step to make a higher-quality video and enhance my future content.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![travel video equipment](https://images.wondershare.com/filmora/article-images/2022/07/travel-video-equipment.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Travel Gear and Equipment: Are They Good Investments?
 
 Is it worth it? Is it really necessary to upgrade a travel video? Will my money does not go to waste? These are the few questions that I asked myself before buying new equipment. This is my simple answer, we don't need a high-priced camera or gears for us to do travel vlogging, I think a good story and your editing skills are enough and will get you by. But when the time comes that you are ready to climb the ladder and create an extraordinary sequence, with vivid colors, better sharpness, creamy bokeh effect, the macro shot, that panoramic shot or smooth time lapse, hyper lapse, or maybe you will use it in a low light situation or any kind of good angles. Get up from your seat now! Do your research and find the best equipment that will suit your taste. Consider buying something that will conform to your needs, is durable, convenient to use, and most importantly, cost that is within your budget. I didn't think about earning money when I started to buy my equipment; I am more on creating memories because they will last forever and I consider that as a souvenir from that time and place.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![travel gear review](https://images.wondershare.com/filmora/article-images/2022/07/travel-gear-review.jpg)
 
 ## My Equipments for Travel Vlogging
@@ -43,16 +34,10 @@ First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tr
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
 Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cinematic shots. It is specially made for beginners; it has a lot of cool features and at a reasonable price. What I love about this is the flip screen, and I found it very exceptional for vlogging. You can also use 4k resolution with this camera. For me, the only issue with this camera is the image stabilization but it's not that significant, because of the **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**. This app offers the stabilization option that provides a smoothness level and it will be better than the raw or original clip footage of your video. Lastly, it is compact, handy and I highly recommend this.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
 ### 2\. Lenses
@@ -65,18 +50,6 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Action Camera
 
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
@@ -87,9 +60,6 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 
 In any case, we needed a few accessories to support our equipment better. Simple things like an extra pair of batteries for your camera and action came. External SSD is a big help especially when you're running out of memory on your computer. Memory card with a lot of storage space, I consider this an important part of my accessory kit. Make those two, and always have a spare card with you because anything can happen. So be prepared.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
 
 ### 6\. Laptop, desktop, or phone for editing
@@ -108,9 +78,6 @@ In my own experience, every time I go out and visit different places, I always h
 
 click on new project
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 ##### Step2IMPORT FILES
@@ -123,11 +90,6 @@ from there you can choose and select which video you would like to import
 
 just drag and drop simple as that
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step4STABILIZING THE VIDEO
@@ -136,9 +98,6 @@ choose the TOOLS
 
 select video and you can choose Stabilization
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
@@ -159,18 +118,12 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 click on new project
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step3DRAG AND DROP
@@ -219,7 +172,21 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-lens-and-light-essential-camera-movements-every-novice-needs/"><u>[New] 2024 Approved Lens & Light Essential Camera Movements Every Novice Needs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-slomo-app-evaluation-future-prospects/"><u>[Updated] Comprehensive SloMo App Evaluation - Future Prospects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-engaging-youtube-end-credits/"><u>[Updated] In 2024, Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-live-streamed-gaming-sessions-for-2024/"><u>[Updated] Mastering Live-Streamed Gaming Sessions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-proven-strategies-for-successful-green-screen-videography-for-2024/"><u>[Updated] Proven Strategies for Successful Green Screen Videography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>2024 Approved '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beginning-profits-periscope-income-strategies-for-novices/"><u>2024 Approved Beginning Profits Periscope Income Strategies for Novices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-camera-studio-insights-extended-xvideoguide/"><u>2024 Approved Behind-the-Camera Studio Insights Extended XVideoGuide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-superior-recordings-a-guide-to-audacity/"><u>2024 Approved Crafting Superior Recordings A Guide to Audacity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format/"><u>FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-and-fast-top-10-video-speed-adjustment-apps-for-mobile-devices-for-2024/"><u>New Free and Fast Top 10 Video Speed Adjustment Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/step-by-step-guide-live-broadcast-of-recorded-videos-on-fb-for-2024/"><u>Step-by-Step Guide Live Broadcast of Recorded Videos on FB for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S18 | Dr.fone</u></a></li>
+</ul></div>
 

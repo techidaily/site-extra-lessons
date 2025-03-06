@@ -1,7 +1,7 @@
 ---
 title: "Insurgency: Overcoming Stability Issues in the New Sandstorm Update"
-date: 2025-02-14T18:00:48.887Z
-updated: 2025-02-17T23:52:02.047Z
+date: 2025-03-05T21:09:39.182Z
+updated: 2025-03-06T20:21:54.609Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  Recently, Insurgency: Sandstorm was made available on PlayStation 4 and Xbox One. However, quite a number of players complained that the game keeps crashing on their PC or consoles. If you happen to be one of them, don’t worry. Here are some fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all; simply work your way down until you find the one that works for you.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  If your game files are missing or corrupted, you’re likely to encounter the crashing issue when playing Insurgency: Sandstorm. To make sure the game is correctly installed on your PC, you can scan and repair your game files via Steam. Here’s how:
@@ -50,16 +42,8 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
 
@@ -76,10 +60,6 @@ If the game keeps crashing, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
 
@@ -92,10 +72,6 @@ If the game keeps crashing, move on to the next fix.
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -133,10 +109,6 @@ If the crashing issue remains, check out the next fix.
 
 If this fix doesn’t do the trick, continue to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Close background applications
 
  The applications running in the background can slow down your PC and cause interference with your games, which may lead to the crashing issue. If you’ve CCleaner or MSI Afterburner installed, make sure they’re disabled in the background. Here’s how to close background apps:
@@ -168,20 +140,12 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
@@ -210,24 +174,22 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-exceptional-advice-premium-ios-tone-makers/"><u>[New] 2024 Approved Exceptional Advice Premium iOS Tone Makers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-from-talk-to-text-utilizing-speech-recognition-in-microsoft-office/"><u>[New] 2024 Approved From Talk to Text Utilizing Speech Recognition in Microsoft Office</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-achieving-soft-sound-effects-in-audacity/"><u>[New] Achieving Soft Sound Effects in Audacity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[Updated] Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-command-line-magic-opening-srt-for-windows-macos/"><u>2024 Approved Command Line Magic Opening SRT for Windows, MacOS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone/"><u>2024 Approved From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-transform-videos-with-these-premium-free-sound-options/"><u>2024 Approved Transform Videos with These Premium, Free Sound Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a59-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A59 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/augmenting-realities-for-better-outcomes-for-2024/"><u>Augmenting Realities for Better Outcomes for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-the-moment-leading-recorder-analysis/"><u>Capturing the Moment Leading Recorder Analysis</u></a></li>
-<li><a href="https://driver-error.techidaily.com/comprehensive-troubleshooting-entering-safe-mode-and-uninstalling-gpu-drivers-on-windows-8/"><u>Comprehensive Troubleshooting: Entering Safe Mode and Uninstalling GPU Drivers on Windows 8</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-tomorrows-teachers-today-through-vr-for-2024/"><u>Crafting Tomorrow’s Teachers, Today Through VR for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-aesthetics-choosing-the-right-soundtracks-for-boxings/"><u>In 2024, Auditory Aesthetics Choosing the Right Soundtracks for Boxings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>In 2024, Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>In 2024, Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-x-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone X Safe and Legal</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>In 2024, The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones/"><u>Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-amplify-and-transform-changing-your-audible-image-on-ig/"><u>[New] 2024 Approved Amplify and Transform Changing Your Audible Image on IG</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-live-video-streaming-software/"><u>[New] Best Live Video Streaming Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>[New] Conquer the Clouds Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-directly-syncing-your-tiktok-videos-with-facebook/"><u>[New] In 2024, Directly Syncing Your TikTok Videos with Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/park-the-visionary-youtubes-top-video-themes/"><u>[New] Spark the Visionary YouTube's Top Video Themes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-charting-the-course-of-viral-stocks-and-stories/"><u>[Updated] Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-digest-exploring-google-podcast-apps-essence/"><u>[Updated] Complete Digest Exploring Google Podcast App's Essence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-cutting-edge-finding-the-top-5-titling-professionals-online/"><u>[Updated] The Cutting Edge Finding the Top 5 Titling Professionals Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-google-pixel-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Google Pixel 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-maximum-comfort-in-vr-landscape-for-2024/"><u>Achieving Maximum Comfort in VR Landscape for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-youtube-financial-goals-via-viewer-statistics/"><u>Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/breaking-out-of-your-iphones-persistent-data-recovery-loop-with-simple-fixes/"><u>Breaking Out of Your iPhone's Persistent 'Data Recovery' Loop with Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-systemtray-feature-number-lock-on-win-11-taskbar/"><u>Enhance SystemTray: Feature Number Lock on Win 11 Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/foundations-of-frame-and-frequency-in-visual-media/"><u>Foundations of Frame and Frequency in Visual Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-the-cloudscape-insights-into-gopro-karmas-operations/"><u>In 2024, Capturing the Cloudscape Insights Into GoPro Karma's Operations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-angular-video-transitions-on-android-devices/"><u>Navigate Angular Video Transitions on Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-conversion-of-hevc-files-to-high-quality-mp4-without-losing-image-clarity/"><u>Seamless Conversion of HEVC Files to High-Quality MP4 Without Losing Image Clarity</u></a></li>
 </ul></div>
 

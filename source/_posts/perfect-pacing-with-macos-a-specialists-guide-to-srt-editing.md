@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Pacing with macOS  A Specialist's Guide to SRT Editing\""
-date: 2025-02-12T17:42:19.164Z
-updated: 2025-02-17T19:27:17.705Z
+date: 2025-03-02T20:59:15.068Z
+updated: 2025-03-06T17:09:08.340Z
 tags: 
   - screen-recording
   - ai video
@@ -80,10 +80,6 @@ Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + C
 
 ![click the format tab](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
 
 ### Method 2: Open SRT files with VLC Media on Mac
@@ -196,14 +192,6 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
 While all of the solutions given in Part 2 allow you to access SRT files on Mac, the editing benefits are limited. Instead, you can opt for an efficient video editing software like Filmora if you are wondering **how to create SRT file on Mac** and then edit it. The software supports SRT files for viewing, formatting, editing, and more.
@@ -239,10 +227,6 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -295,10 +279,6 @@ Step2 Open a new file and type 1 in the editor timeline to indicate the caption 
 
 ![type in the editor timeline](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Add the starting and ending time codes with the following command. Press Enter again.
 
 \[hours:minutes:seconds,milliseconds ––> hours:minutes:seconds,milliseconds\]
@@ -312,10 +292,6 @@ Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + C
 ![click the format tab](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-2.jpg)
 
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Open SRT files with VLC Media on Mac
 
@@ -358,10 +334,6 @@ Step4 The video will begin playing. Go to the menu bar and click on the Subtitle
 ![choose the add subtitle file button](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-5.jpg)
 
 Step5 Choose the SRT file from your device and then load it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Use a Browser-based Online Tool like HappyScribe on Mac
 
@@ -431,14 +403,6 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
 While all of the solutions given in Part 2 allow you to access SRT files on Mac, the editing benefits are limited. Instead, you can opt for an efficient video editing software like Filmora if you are wondering **how to create SRT file on Mac** and then edit it. The software supports SRT files for viewing, formatting, editing, and more.
@@ -474,10 +438,6 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -515,21 +475,24 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-2024s-optimal-video-capture-equipment-list/"><u>[New] 2024’S Optimal Video Capture Equipment List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[New] Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-conquer-common-issues-essential-windows-10-fixes/"><u>[New] Conquer Common Issues Essential Windows 10 Fixes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagrams-most-appreciated-ae-layouts-for-2024/"><u>[New] Mastering Instagram's Most Appreciated AE Layouts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-notch-mac-visual-archiver/"><u>[New] Top-Notch Mac Visual Archiver</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-10-premier-alternative-activities-to-watching-sports/"><u>[Updated] 10 Premier Alternative Activities to Watching Sports</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-hashtags-for-six-figure-youtube-growth/"><u>[Updated] 2024 Approved Mastering Hashtags for Six-Figure YouTube Growth</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/"><u>[Updated] Discover the Best Tools & Tips to Accurately Tag Your Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailor-made-melodies-assembling-your-own-youtube-playlist/"><u>[Updated] Tailor-Made Melodies Assembling Your Own YouTube Playlist</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/analyzing-and-ranking-lowest-priced-cloud-services-for-2024/"><u>Analyzing & Ranking Lowest-Priced Cloud Services for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y28-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y28 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-these-non-periscope-video-platforms-for-iphones-and-androids/"><u>Explore These Non-Periscope Video Platforms for iPhones & Androids</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iconic-stock-photographs-meme-lives-and-histories/"><u>Iconic Stock Photographs Meme Lives and Histories</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-websites-to-enjoy-and-save-films-in-stunning-4k-resolution-the-complete-guide/"><u>Top Websites to Enjoy and Save Films in Stunning 4K Resolution: The Complete Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-spaces-the-art-of-metaphysical-marketing-for-2024/"><u>Transforming Spaces The Art of Metaphysical Marketing for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-phantom-3-vs-phantom-4-complete-comparison/"><u>[New] 2024 Approved Phantom 3 Vs. Phantom 4 Complete Comparison</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chic-crests-curating-the-best-websites-for-aesthetic-laptop-backgrounds/"><u>[New] Chic Crests Curating the Best Websites for Aesthetic Laptop Backgrounds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chill-challenge-highlighting-the-speed-and-skill-of-winter-olympics-x-c-skiers/"><u>[New] Chill Challenge Highlighting the Speed and Skill of Winter Olympics X-C Skiers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro-for-2024/"><u>[New] From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thorough-examination-of-dji-inspire-1/"><u>[New] Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beyond-the-screen-a-dive-into-vr-filmmaking/"><u>[Updated] Beyond the Screen A Dive Into VR Filmmaking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pinnacle-creations-summary-studio-25-detailed-assessment-2023-for-2024/"><u>[Updated] Pinnacle Creations Summary Studio 25 Detailed Assessment, 2023 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>[Updated] The Ultimate iPhone Photography Playbook Prime Angles Uncovered</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>2024 Approved Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-clarity-selecting-10-superior-lenses-for-2024/"><u>Capturing Clarity Selecting 10 Superior Lenses for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-remedies-to-prevent-your-computer-from-going-into-sleep-mode/"><u>Effortless Remedies to Prevent Your Computer From Going Into Sleep Mode</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-g22-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung ?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hybridmix-pro-for-dual-os/"><u>HybridMix Pro for Dual OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-morning-analysis-fresh-insights/"><u>In 2024, Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-radial-blur-photoshop-edition/"><u>Mastering Radial Blur Photoshop Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-speed-and-quality-picture-reader/"><u>Ultimate Speed & Quality Picture Reader</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unite-chords-and-visuals-on-powerpoint/"><u>Unite Chords and Visuals on PowerPoint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Decoding Complex Task  Efficient Background Cleansing in Affinity's Realm\""
-date: 2024-07-26T21:01:32.698Z
-updated: 2024-07-27T21:01:32.698Z
+date: 2025-03-05T20:46:14.732Z
+updated: 2025-03-06T19:04:31.116Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -38,23 +34,14 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -63,9 +50,6 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -107,9 +91,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -138,9 +119,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -197,7 +175,21 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-discover-the-power-of-dual-screen-viewing-a-complete-guide-for-netflix-users/"><u>[Updated] 2024 Approved Discover the Power of Dual-Screen Viewing - A Complete Guide for Netflix Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-critique-unmasking-the-bublcam-360-experience/"><u>2024 Approved Complete Critique Unmasking the Bublcam 360 Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hide-and-seek-photoshop-tips-for-background-blending/"><u>2024 Approved Hide & Seek Photoshop Tips for Background Blending</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-guide-turning-personal-images-into-custom-imessage-stickers/"><u>Easy Guide: Turning Personal Images Into Custom iMessage Stickers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-ways-to-reduce-starfields-excessive-cpu-utilization-in-2n4/"><u>Effective Ways to Reduce Starfield's Excessive CPU Utilization in 2N4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-analysis-powerdirector-app-2024/"><u>Full Analysis PowerDirector App - 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/how-to-convert-video-voice-to-text-online-for-free-in-2024/"><u>How To Convert Video Voice to Text Online for Free, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instant-social-media-artistry-facebook-collages/"><u>In 2024, Instant Social Media Artistry Facebook Collages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-giroptic-complete-immersion/"><u>In-Depth Giroptic Complete Immersion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-enhance-your-network-speed-with-the-newest-usb-30-gigabit-ethernet-driver-for-windows/"><u>Latest Update: Enhance Your Network Speed with the Newest USB 3.0 Gigabit Ethernet Driver for Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reach-peaks-lead-lines-strategies-to-elevate-telegram-marketing/"><u>Reach Peaks, Lead Lines Strategies to Elevate Telegram Marketing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shade-smarts-mastering-the-art-of-color-correction-with-speed/"><u>Shade Smarts Mastering the Art of Color Correction with Speed</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/streamline-your-gdpr-compliance-using-cookiebot-technology/"><u>Streamline Your GDPR Compliance Using Cookiebot Technology</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/update-your-location-a-step-by-step-guide-to-switching-regions-on-netflix/"><u>Update Your Location: A Step-by-Step Guide to Switching Regions on Netflix</u></a></li>
+</ul></div>
 

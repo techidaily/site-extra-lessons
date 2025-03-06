@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Visual Magic  The Power of LUTs in AR Environments\""
-date: 2025-02-12T02:43:46.653Z
-updated: 2025-02-17T19:00:39.998Z
+date: 2025-03-03T20:59:58.010Z
+updated: 2025-03-06T17:19:43.117Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -52,29 +48,17 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Free LUTs resource for Spark AR
 
@@ -99,10 +83,6 @@ Here are the key building principles.
 
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
@@ -115,10 +95,6 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
@@ -130,10 +106,6 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -169,22 +141,21 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>[New] 2024 Approved Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-arc-electrify-powerful-media-player-replacement/"><u>[New] Arc Electrify Powerful Media Player Replacement</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bargain-bin-chinese-vr-technology/"><u>[New] Bargain Bin Chinese VR Technology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-celestial-warriors-unite-release-date-for-2024/"><u>[New] Celestial Warriors Unite! Release Date for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-secure-insta-wealth-with-our-safest-and-most-effective-tips/"><u>[New] Secure Insta Wealth with Our Safest & Most Effective Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/explore-how-you-can-do-speech-to-text-in-powerpoint-for-2024/"><u>Explore How You Can Do Speech-To-Text in Powerpoint for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/for-aspiring-filmmakers-the-best-cameras-from-35mm-to-pands/"><u>For Aspiring Filmmakers, The Best Cameras From 35Mm to P&S</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-a78-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo A78 5G Phone Screen?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-blurring-the-line-between-still-and-motion-art/"><u>In 2024, Blurring the Line Between Still and Motion Art</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-combat-chronicles-in-the-ring-or-on-screen/"><u>In 2024, Combat Chronicles In the Ring or on Screen?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-record-screen-on-huawei-mate-10p10-using-a-built-in-recorder/"><u>In 2024, How to Record Screen On Huawei Mate 10/P10 Using a Built-In Recorder</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/modern-moods-best-rated-desktop-imagery/"><u>Modern Moods Best-Rated Desktop Imagery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30i-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30i</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revel-in-these-14-enthralling-text-based-movements/"><u>Revel in These 14 Enthralling Text-Based Movements</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-poco-m6-pro-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Poco M6 Pro 4G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobe-lightroom-essentials-review/"><u>[New] Adobe Lightroom Essentials Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-investigating-the-underreported-drawbacks-of-vr/"><u>[New] Investigating the Underreported Drawbacks of VR</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-a-list-viewing-channel-guide-for-films-for-2024/"><u>[New] Ultimate A-List Viewing Channel Guide for Films for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-accessories-for-immersive-gaming-worlds/"><u>[Updated] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transition-from-standard-to-intelligent-hdr-imaging/"><u>[Updated] Transition From Standard to Intelligent HDR Imaging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>2024 Approved The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-hot-30-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Hot 30 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-every-shot-with-smart-camera-accessories/"><u>Enhance Every Shot with Smart Camera Accessories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>Expert Tips Transforming Mundane Into Masterpieces with Canva</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-charting-your-path-strategies-that-lead-to-1m-audience/"><u>In 2024, Charting Your Path Strategies That Lead to 1M Audience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>Integrating Zoom and Skype The Ultimate Guide to Efficient Video Calls</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-combo-deals-cable-modems-with-routers/"><u>Leading Combo Deals: Cable Modems with Routers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>Sky-High Speeds Key Moments in the Short Tracks, Olympics</u></a></li>
 </ul></div>
 

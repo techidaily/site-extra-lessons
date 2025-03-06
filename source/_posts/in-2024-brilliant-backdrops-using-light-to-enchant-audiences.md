@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Brilliant Backdrops  Using Light to Enchant Audiences\""
-date: 2025-02-15T01:05:44.982Z
-updated: 2025-02-18T01:49:13.474Z
+date: 2025-03-01T20:59:48.638Z
+updated: 2025-03-06T20:04:13.359Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -72,10 +68,6 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -84,19 +76,11 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -107,10 +91,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,16 +126,17 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-breaking-barriers-joining-games-via-xbox-zoom/"><u>[New] Breaking Barriers Joining Games via Xbox Zoom</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-full-screen-fb-video-settings/"><u>[Updated] Mastering Full-Screen FB Video Settings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-look-at-the-future-of-windows-10s-evolution/"><u>A Look at the Future of Windows 10'S Evolution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-gt-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme GT 5 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capture-perfection-iphone-x8plus-ultimate-lens-tools-for-2024/"><u>Capture Perfection IPhone X/8+ Ultimate Lens Tools for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-s18-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo S18 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pioneering-eco-friendly-visual-effects-aids-for-2024/"><u>Pioneering Eco-Friendly Visual Effects Aids for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-12-best-tycoon-games-to-kill-time/"><u>Top 12 Best Tycoon Games to Kill Time</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-redefines-social-engagement-next-gen-features-for-instagram-and-messenger-chat/"><u>Facebook Redefines Social Engagement: Next-Gen Features for Instagram and Messenger Chat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fast-track-framework-for-crafting-facebook-collage/"><u>Fast-Track Framework for Crafting Facebook Collage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-choose-the-background-music-for-the-trailer/"><u>How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-enable-and-disable-picture-in-picture-in-safari-for-maciphoneipad/"><u>How to Enable and Disable Picture in Picture in Safari for Mac_iPhone_iPad</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-building-engagement-with-professional-fb-video-techniques/"><u>In 2024, Building Engagement with Professional FB Video Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-11r-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 11R Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-strategies-for-recruiting-superior-video-artists/"><u>Key Strategies for Recruiting Superior Video Artists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-hashtag-use-for-maximum-marketing-reach/"><u>Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectrum-of-autonomous-flight-machines/"><u>Spectrum of Autonomous Flight Machines</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/wie-wahlt-man-die-richtige-methode-fur-das-wiederherstellen-von-windows-server-backups-auf-einer-virtuellen-maschine-aus/"><u>Wie Wählt Man Die Richtige Methode Für Das Wiederherstellen Von Windows-Server-Backups Auf Einer Virtuellen Maschine Aus?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/yl-computings-strategies-for-minimizing-system-resource-usage-in-the-background/"><u>YL Computing's Strategies for Minimizing System Resource Usage in the Background</u></a></li>
 </ul></div>
 
